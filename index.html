@@ -4,9 +4,9 @@
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>AstroWizard — process your astrophotos, simply</title>
-<meta name="description" content="AstroWizard turns a stacked image from your Seestar, Dwarf, or any telescope into a finished astrophoto — nine guided steps, no jargon, free while in beta. Windows and Apple Silicon.">
+<meta name="description" content="AstroWizard turns a stacked image from your Seestar, Dwarf, or any telescope into a finished astrophoto — nine guided steps, no jargon, free while in beta. Windows, Mac (Apple Silicon), and Linux.">
 <meta property="og:title" content="AstroWizard — process your astrophotos, simply">
-<meta property="og:description" content="Nine guided steps from stacked image to finished astrophoto. Free beta for Windows and Apple Silicon Macs, by Lukomatico.">
+<meta property="og:description" content="Nine guided steps from stacked image to finished astrophoto. Free beta for Windows, Mac, and Linux, by Lukomatico.">
 <meta property="og:type" content="website">
 <meta property="og:url" content="https://astrowizard.lukomatico.com/">
 <link rel="icon" href="data:image/svg+xml,<svg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 100 100%22><text y=%22.9em%22 font-size=%2290%22>🪄</text></svg>">
@@ -113,8 +113,7 @@
   }
 
   /* Download cards */
-  .cards { display: grid; grid-template-columns: 1fr 1fr; gap: 22px; }
-  @media (max-width: 760px) { .cards { grid-template-columns: 1fr; } }
+  .cards { display: grid; grid-template-columns: repeat(auto-fit, minmax(290px, 1fr)); gap: 22px; }
   .card {
     background: var(--card); border: 1px solid var(--card-edge);
     border-radius: 14px; padding: 26px 26px 22px;
@@ -134,7 +133,7 @@
     display: grid; gap: 6px;
   }
   .setup .st { color: var(--gold); font-family: var(--mono); font-size: 11px; letter-spacing: .12em; text-transform: uppercase; }
-  .setup code {
+  .card code {
     font-family: var(--mono); font-size: 12px; color: var(--ink);
     background: #1c2340; padding: 2px 7px; border-radius: 5px;
     display: inline-block; overflow-wrap: anywhere;
@@ -275,7 +274,7 @@
   </div>
 
   <div class="wrap hero-copy">
-    <p class="eyebrow">Free beta &middot; Windows &amp; Apple&nbsp;Silicon</p>
+    <p class="eyebrow">Free beta &middot; Windows &middot; Mac &middot; Linux</p>
     <h1>Your telescope caught it.<br><span class="wand">AstroWizard</span> finishes it.</h1>
     <p class="lede">Turn a stacked image from your <strong>Seestar, Dwarf, or any telescope</strong> into a finished astrophoto — nine guided steps, one obvious button at a time. <strong>No manuals. No jargon. No 40-hour learning curve.</strong></p>
     <div class="dl-row">
@@ -286,6 +285,10 @@
       <a class="btn btn-mac" href="https://drive.google.com/file/d/1rPxwVYPgby84FEEd8XGymOU1nveN1acM/view?usp=drive_link" rel="noopener">
         <span class="big">Download for macOS</span>
         <span class="small">AstroWizard-Mac.zip &middot; Apple Silicon &middot; 50 MB</span>
+      </a>
+      <a class="btn btn-mac" href="https://drive.google.com/file/d/1l6qXGG6qvLwsWeTIhH3smUH_qA5SbrAU/view?usp=sharing" rel="noopener">
+        <span class="big">Download for Linux</span>
+        <span class="small">AstroWizard-linux-x86_64.tar.gz &middot; 91 MB</span>
       </a>
       <p class="buildline">current build <b>9 July 2026</b> &middot; you&#8217;ll always find the newest version on this page</p>
     </div>
@@ -348,6 +351,23 @@
           <p>Then open GraXpert once <em>on its own</em> and run each tool — it downloads its AI models on first use.</p>
         </div>
         <p class="why">Why right-click? Apple&#8217;s yearly developer fee is skipped during the beta — right-click &rarr; Open is macOS&#8217;s official way of saying &#8220;I trust this one.&#8221;</p>
+      </div>
+      <div class="card">
+        <h3>Linux <span class="tag">X86_64 &middot; NEW</span></h3>
+        <p class="get"><a class="btn btn-mac" href="https://drive.google.com/file/d/1l6qXGG6qvLwsWeTIhH3smUH_qA5SbrAU/view?usp=sharing" rel="noopener"><span class="big">Download for Linux</span></a></p>
+        <ol>
+          <li><b>Download</b> and extract: <code>tar -xzf AstroWizard-linux-x86_64.tar.gz</code> (or right-click &rarr; Extract Here).</li>
+          <li>Run <code>AstroWizard/AstroWizard</code>. Nothing to install.</li>
+          <li>Something odd? Launch it from a terminal and paste what it prints into a YouTube comment, with your distro. That&#8217;s the report that gets it fixed.</li>
+        </ol>
+        <div class="setup">
+          <p class="st">First-time setup &middot; 2 minutes</p>
+          <p>Open <b>⚙️ Settings &amp; Help</b> and point AstroWizard at your AI tools:</p>
+          <p>GraXpert: pick the <code>.AppImage</code> file itself (mark it executable first if needed).</p>
+          <p>RC-Astro: choose the <code>rc-astro</code> program from wherever its installer placed it. GPU acceleration on Linux currently needs NVIDIA; it runs on CPU otherwise.</p>
+          <p>Then open GraXpert once <em>on its own</em> and run each tool — it downloads its AI models on first use.</p>
+        </div>
+        <p class="why">The newest build of the family — it compiles clean and boots clean, and Linux astro folk are hereby deputised as its test pilots. Expect rough edges; report them proudly.</p>
       </div>
     </div>
   </section>
