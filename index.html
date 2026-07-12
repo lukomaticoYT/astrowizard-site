@@ -123,6 +123,10 @@
     margin: 0; font-family: var(--serif); font-weight: 400; font-size: 23px;
     display: flex; align-items: baseline; justify-content: space-between; gap: 10px;
   }
+  /* set by the OS-detection script: the visitor's own platform glows */
+  .card.is-yours { border-color: var(--violet); box-shadow: 0 0 0 1px var(--violet); }
+  .card.is-yours .tag { color: var(--gold); }
+  .card.is-yours .tag::after { content: " · FOR THIS COMPUTER"; }
   .card h3 .tag { font-family: var(--mono); font-size: 11px; color: var(--ink-soft); letter-spacing: .08em; }
   .card ol { margin: 0; padding-left: 22px; color: var(--ink-soft); font-size: 15px; display: grid; gap: 7px; }
   .card ol b { color: var(--ink); font-weight: 600; }
@@ -278,15 +282,15 @@
     <h1>Your telescope caught it.<br><span class="wand">AstroWizard</span> finishes it.</h1>
     <p class="lede">Turn a stacked image from your <strong>Seestar, Dwarf, or any telescope</strong> into a finished astrophoto — nine guided steps, one obvious button at a time. <strong>No manuals. No jargon. No 40-hour learning curve.</strong></p>
     <div class="dl-row">
-      <a class="btn btn-win" href="https://drive.google.com/file/d/1Y2Ey9nhLOvSeopmq1FgNWKV0WqAFMcn-/view?usp=drive_link" rel="noopener">
+      <a class="btn btn-win" data-os="windows" href="https://drive.google.com/file/d/1Y2Ey9nhLOvSeopmq1FgNWKV0WqAFMcn-/view?usp=drive_link" rel="noopener">
         <span class="big">Download for Windows</span>
         <span class="small">AstroWizard.exe &middot; 84 MB</span>
       </a>
-      <a class="btn btn-mac" href="https://drive.google.com/file/d/1rPxwVYPgby84FEEd8XGymOU1nveN1acM/view?usp=drive_link" rel="noopener">
+      <a class="btn btn-mac" data-os="mac" href="https://drive.google.com/file/d/1rPxwVYPgby84FEEd8XGymOU1nveN1acM/view?usp=drive_link" rel="noopener">
         <span class="big">Download for macOS</span>
         <span class="small">AstroWizard-mac.zip &middot; Apple Silicon &middot; 50 MB</span>
       </a>
-      <a class="btn btn-mac" href="https://drive.google.com/file/d/1l6qXGG6qvLwsWeTIhH3smUH_qA5SbrAU/view?usp=sharing" rel="noopener">
+      <a class="btn btn-mac" data-os="linux" href="https://drive.google.com/file/d/1l6qXGG6qvLwsWeTIhH3smUH_qA5SbrAU/view?usp=sharing" rel="noopener">
         <span class="big">Download for Linux</span>
         <span class="small">AstroWizard-Linux-x86_64.tar.gz &middot; 92 MB</span>
       </a>
@@ -318,7 +322,7 @@
     <h2 id="dl">Install in about a minute</h2>
     <p class="sub">AstroWizard is in open beta and isn&#8217;t code-signed yet, so your computer will act suspicious the first time. That&#8217;s normal for independent software — here&#8217;s exactly what to click. It only happens once.</p>
     <div class="cards">
-      <div class="card">
+      <div class="card" data-os="windows">
         <h3>Windows <span class="tag">WINDOWS 10 / 11</span></h3>
         <p class="get"><a class="btn btn-win" href="https://drive.google.com/file/d/1Y2Ey9nhLOvSeopmq1FgNWKV0WqAFMcn-/view?usp=drive_link" rel="noopener"><span class="big">Download for Windows</span></a></p>
         <ol>
@@ -335,7 +339,7 @@
         </div>
         <p class="why">Why the warning? Microsoft charges independent developers for a signing certificate; during the beta we skip it. The build on this page is always the official one.</p>
       </div>
-      <div class="card">
+      <div class="card" data-os="mac">
         <h3>macOS <span class="tag">APPLE SILICON &middot; ALL M-SERIES</span></h3>
         <p class="get"><a class="btn btn-mac" href="https://drive.google.com/file/d/1rPxwVYPgby84FEEd8XGymOU1nveN1acM/view?usp=drive_link" rel="noopener"><span class="big">Download for macOS</span></a></p>
         <ol>
@@ -352,7 +356,7 @@
         </div>
         <p class="why">Why right-click? Apple&#8217;s yearly developer fee is skipped during the beta — right-click &rarr; Open is macOS&#8217;s official way of saying &#8220;I trust this one.&#8221;</p>
       </div>
-      <div class="card">
+      <div class="card" data-os="linux">
         <h3>Linux <span class="tag">X86_64 &middot; NEW</span></h3>
         <p class="get"><a class="btn btn-mac" href="https://drive.google.com/file/d/1l6qXGG6qvLwsWeTIhH3smUH_qA5SbrAU/view?usp=sharing" rel="noopener"><span class="big">Download for Linux</span></a></p>
         <ol>
@@ -465,5 +469,26 @@
     </div>
   </div>
 </footer>
+
+<script>
+// Light up the visitor's own platform. Without JavaScript the page simply
+// keeps its default look (Windows filled), so nothing breaks.
+(function () {
+  var ua = navigator.userAgent;
+  var os = null;
+  if (/Windows/i.test(ua)) os = "windows";
+  else if (/Macintosh|Mac OS X/i.test(ua)) os = "mac";
+  else if (/Linux/i.test(ua) && !/Android/i.test(ua)) os = "linux";
+  if (!os) return;
+  document.querySelectorAll(".dl-row .btn").forEach(function (b) {
+    b.classList.remove("btn-win"); b.classList.add("btn-mac");
+  });
+  var mine = document.querySelector('.dl-row .btn[data-os="' + os + '"]');
+  if (mine) { mine.classList.remove("btn-mac"); mine.classList.add("btn-win"); }
+  document.querySelectorAll(".card[data-os]").forEach(function (c) {
+    c.classList.toggle("is-yours", c.getAttribute("data-os") === os);
+  });
+})();
+</script>
 </body>
 </html>
