@@ -128,6 +128,17 @@
   .card ol { margin: 0; padding-left: 22px; color: var(--ink-soft); font-size: 15px; display: grid; gap: 7px; }
   .card ol b { color: var(--ink); font-weight: 600; }
   .card .get { margin: 4px 0 2px; }
+  .setup {
+    border: 1px dashed #2b3560; border-radius: 8px;
+    padding: 12px 14px; font-size: 13.5px; color: var(--ink-soft);
+    display: grid; gap: 6px;
+  }
+  .setup .st { color: var(--gold); font-family: var(--mono); font-size: 11px; letter-spacing: .12em; text-transform: uppercase; }
+  .setup code {
+    font-family: var(--mono); font-size: 12px; color: var(--ink);
+    background: #1c2340; padding: 2px 7px; border-radius: 5px;
+    display: inline-block; overflow-wrap: anywhere;
+  }
   .card .why {
     margin-top: auto; font-size: 13.5px; color: var(--ink-soft);
     border-top: 1px dashed #253057; padding-top: 12px;
@@ -312,6 +323,13 @@
           <li>If a blue box says &#8220;Windows protected your PC&#8221;: click <b>More info</b>, then <b>Run anyway</b>.</li>
           <li>That&#8217;s it. Load an image and follow Step 1.</li>
         </ol>
+        <div class="setup">
+          <p class="st">First-time setup &middot; 2 minutes</p>
+          <p>Open <b>⚙️ Settings &amp; Help</b> and point AstroWizard at your AI tools — they usually live here:</p>
+          <p>GraXpert:<br><code>C:\Users\&lt;you&gt;\AppData\Local\Programs\GraXpert\GraXpert.exe</code></p>
+          <p>RC-Astro:<br><code>C:\Program Files\RC-Astro\CLI\rc-astro.exe</code></p>
+          <p>Then open GraXpert once <em>on its own</em> and run each tool — it downloads its AI models on first use.</p>
+        </div>
         <p class="why">Why the warning? Microsoft charges independent developers for a signing certificate; during the free beta we skip it. The build on this page is always the official one.</p>
       </div>
       <div class="card">
@@ -322,6 +340,13 @@
           <li>First time only: <b>right-click</b> (or Control-click) AstroWizard &rarr; <b>Open</b> &rarr; <b>Open</b>.</li>
           <li>After that, open it normally like any app.</li>
         </ol>
+        <div class="setup">
+          <p class="st">First-time setup &middot; 2 minutes</p>
+          <p>Open <b>⚙️ Settings &amp; Help</b> and point AstroWizard at your AI tools:</p>
+          <p>GraXpert: just pick <code>GraXpert.app</code> in your <b>Applications</b> folder — AstroWizard finds the engine inside automatically.</p>
+          <p>RC-Astro: choose the <code>rc-astro</code> program from wherever its installer placed it.</p>
+          <p>Then open GraXpert once <em>on its own</em> and run each tool — it downloads its AI models on first use.</p>
+        </div>
         <p class="why">Why right-click? Apple&#8217;s yearly developer fee is skipped during the beta — right-click &rarr; Open is macOS&#8217;s official way of saying &#8220;I trust this one.&#8221;</p>
       </div>
     </div>
