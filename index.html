@@ -1,0 +1,424 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>AstroWizard — process your astrophotos, simply</title>
+<meta name="description" content="AstroWizard turns a stacked image from your Seestar, Dwarf, or any telescope into a finished astrophoto — nine guided steps, no jargon, free while in beta. Windows and Apple Silicon.">
+<meta property="og:title" content="AstroWizard — process your astrophotos, simply">
+<meta property="og:description" content="Nine guided steps from stacked image to finished astrophoto. Free beta for Windows and Apple Silicon Macs, by Lukomatico.">
+<meta property="og:type" content="website">
+<meta property="og:url" content="https://astrowizard.lukomatico.com/">
+<link rel="icon" href="data:image/svg+xml,<svg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 100 100%22><text y=%22.9em%22 font-size=%2290%22>🪄</text></svg>">
+<style>
+  :root {
+    color-scheme: dark;
+    --sky: #0b0e1a;
+    --sky-high: #10152a;
+    --card: #141a2e;
+    --card-edge: #232c4a;
+    --ink: #e8eaf4;
+    --ink-soft: #9aa3c0;
+    --violet: #7b73f0;
+    --violet-deep: #5a52c8;
+    --gold: #f2c14e;
+    --serif: "Palatino Linotype", "Book Antiqua", Palatino, Georgia, serif;
+    --sans: system-ui, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+    --mono: ui-monospace, "Cascadia Mono", "SF Mono", Consolas, monospace;
+  }
+  * { box-sizing: border-box; }
+  html, body { margin: 0; padding: 0; }
+  body {
+    background:
+      radial-gradient(1100px 600px at 75% -10%, #1a2142 0%, transparent 60%),
+      radial-gradient(900px 500px at 10% 20%, #131b3a 0%, transparent 55%),
+      var(--sky);
+    color: var(--ink);
+    font-family: var(--sans);
+    font-size: 17px;
+    line-height: 1.6;
+  }
+  a { color: var(--violet); }
+  a:focus-visible, button:focus-visible, summary:focus-visible {
+    outline: 2px solid var(--gold); outline-offset: 3px; border-radius: 4px;
+  }
+  .wrap { max-width: 1040px; margin: 0 auto; padding: 0 24px; }
+
+  /* ---------- Hero: a star chart ---------- */
+  header { position: relative; overflow: hidden; }
+  .chart { position: relative; }
+  .chart svg { display: block; width: 100%; height: auto; }
+  .hero-copy { position: relative; padding: 12px 0 56px; max-width: 620px; }
+  .eyebrow {
+    font-family: var(--mono); font-size: 12px; letter-spacing: .18em;
+    text-transform: uppercase; color: var(--gold);
+  }
+  h1 {
+    font-family: var(--serif); font-weight: 400;
+    font-size: clamp(46px, 7.5vw, 76px); line-height: 1.02;
+    margin: 10px 0 18px; text-wrap: balance; letter-spacing: .01em;
+  }
+  h1 .wand { color: var(--violet); font-style: italic; }
+  .lede {
+    font-size: clamp(17px, 2vw, 20px); color: var(--ink-soft);
+    max-width: 56ch; margin: 0 0 30px;
+  }
+  .lede strong { color: var(--ink); font-weight: 600; }
+
+  .dl-row { display: flex; flex-wrap: wrap; gap: 14px; align-items: center; }
+  .btn {
+    display: inline-flex; flex-direction: column; gap: 2px;
+    padding: 13px 22px 11px; border-radius: 10px;
+    text-decoration: none; border: 1px solid transparent; line-height: 1.25;
+  }
+  .btn .big { font-weight: 650; font-size: 17px; }
+  .btn .small { font-family: var(--mono); font-size: 11.5px; opacity: .85; }
+  .btn-win { background: var(--violet); color: #fff; }
+  .btn-win:hover { background: var(--violet-deep); }
+  .btn-mac { background: transparent; color: var(--ink); border-color: var(--card-edge); }
+  .btn-mac:hover { border-color: var(--violet); }
+  .buildline {
+    width: 100%; font-family: var(--mono); font-size: 12.5px;
+    color: var(--ink-soft); margin-top: 6px;
+  }
+  .buildline b { color: var(--gold); font-weight: 500; }
+
+  /* ---------- Sections ---------- */
+  section { padding: 58px 0; }
+  section + section { border-top: 1px solid #1a2140; }
+  h2 {
+    font-family: var(--serif); font-weight: 400;
+    font-size: clamp(26px, 3.4vw, 34px); margin: 0 0 8px; text-wrap: balance;
+  }
+  .kicker {
+    font-family: var(--mono); font-size: 11.5px; letter-spacing: .16em;
+    text-transform: uppercase; color: var(--violet); margin-bottom: 10px;
+  }
+  .sub { color: var(--ink-soft); max-width: 62ch; margin: 0 0 30px; }
+
+  /* Steps strip */
+  .steps { display: flex; flex-wrap: wrap; gap: 10px; padding: 0; margin: 0; list-style: none; counter-reset: step; }
+  .steps li {
+    counter-increment: step;
+    background: var(--card); border: 1px solid var(--card-edge);
+    border-radius: 999px; padding: 7px 16px 7px 10px; font-size: 14.5px;
+    display: flex; align-items: center; gap: 9px; color: var(--ink);
+  }
+  .steps li::before {
+    content: counter(step);
+    font-family: var(--mono); font-size: 11px;
+    width: 22px; height: 22px; border-radius: 50%;
+    display: inline-flex; align-items: center; justify-content: center;
+    background: #1c2340; color: var(--gold);
+  }
+
+  /* Download cards */
+  .cards { display: grid; grid-template-columns: 1fr 1fr; gap: 22px; }
+  @media (max-width: 760px) { .cards { grid-template-columns: 1fr; } }
+  .card {
+    background: var(--card); border: 1px solid var(--card-edge);
+    border-radius: 14px; padding: 26px 26px 22px;
+    display: flex; flex-direction: column; gap: 14px;
+  }
+  .card h3 {
+    margin: 0; font-family: var(--serif); font-weight: 400; font-size: 23px;
+    display: flex; align-items: baseline; justify-content: space-between; gap: 10px;
+  }
+  .card h3 .tag { font-family: var(--mono); font-size: 11px; color: var(--ink-soft); letter-spacing: .08em; }
+  .card ol { margin: 0; padding-left: 22px; color: var(--ink-soft); font-size: 15px; display: grid; gap: 7px; }
+  .card ol b { color: var(--ink); font-weight: 600; }
+  .card .get { margin: 4px 0 2px; }
+  .card .why {
+    margin-top: auto; font-size: 13.5px; color: var(--ink-soft);
+    border-top: 1px dashed #253057; padding-top: 12px;
+  }
+
+  /* Engines */
+  .engines { display: grid; grid-template-columns: repeat(auto-fit, minmax(240px, 1fr)); gap: 18px; }
+  .engine {
+    border: 1px solid var(--card-edge); border-radius: 12px; padding: 18px 20px;
+    background: linear-gradient(180deg, var(--sky-high), transparent);
+    display: flex; flex-direction: column; gap: 6px;
+  }
+  .engine h4 { margin: 0; font-size: 16.5px; }
+  .engine p { margin: 0; font-size: 14px; color: var(--ink-soft); }
+  .engine .price { font-family: var(--mono); font-size: 11px; color: var(--gold); letter-spacing: .1em; }
+  .engine .link { margin-top: auto; padding-top: 8px; font-size: 14px; }
+
+  /* FAQ */
+  details {
+    border: 1px solid var(--card-edge); border-radius: 10px;
+    background: var(--card); margin-bottom: 10px;
+  }
+  summary {
+    cursor: pointer; padding: 14px 18px; font-weight: 600; font-size: 15.5px;
+    list-style: none; display: flex; justify-content: space-between; align-items: center; gap: 12px;
+  }
+  summary::-webkit-details-marker { display: none; }
+  summary::after { content: "+"; font-family: var(--mono); color: var(--violet); font-size: 18px; }
+  details[open] summary::after { content: "–"; }
+  details .a { padding: 0 18px 16px; color: var(--ink-soft); font-size: 15px; max-width: 70ch; }
+  details .a b { color: var(--ink); }
+
+  /* Observing log (changelog) */
+  .log { border-left: 1px solid #253057; padding-left: 26px; display: grid; gap: 22px; }
+  .log-entry { position: relative; }
+  .log-entry::before {
+    content: ""; position: absolute; left: -31px; top: 7px;
+    width: 9px; height: 9px; border-radius: 50%;
+    background: var(--gold); box-shadow: 0 0 8px 1px rgba(242,193,78,.55);
+  }
+  .log-date { font-family: var(--mono); font-size: 12px; color: var(--gold); letter-spacing: .1em; }
+  .log-entry h4 { margin: 3px 0 4px; font-size: 16.5px; }
+  .log-entry p { margin: 0; color: var(--ink-soft); font-size: 14.5px; max-width: 68ch; }
+
+  /* Footer */
+  footer { border-top: 1px solid #1a2140; padding: 44px 0 60px; color: var(--ink-soft); font-size: 14px; }
+  footer .cols { display: grid; grid-template-columns: 2fr 1fr; gap: 34px; }
+  @media (max-width: 700px) { footer .cols { grid-template-columns: 1fr; } }
+  footer h5 { margin: 0 0 8px; color: var(--ink); font-size: 14px; letter-spacing: .04em; }
+  footer ul { list-style: none; margin: 0; padding: 0; display: grid; gap: 5px; }
+  .fine { margin-top: 30px; font-size: 12.5px; color: #6d7594; max-width: 78ch; }
+
+  /* Stars & motion */
+  .tw { animation: twinkle 4.2s ease-in-out infinite; transform-origin: center; }
+  .tw.t2 { animation-duration: 5.6s; animation-delay: 1.2s; }
+  .tw.t3 { animation-duration: 6.8s; animation-delay: 2.4s; }
+  @keyframes twinkle { 0%,100% { opacity: 1; } 50% { opacity: .35; } }
+  .constellation-line {
+    stroke-dasharray: 600; stroke-dashoffset: 600;
+    animation: draw 2.4s ease-out .4s forwards;
+  }
+  @keyframes draw { to { stroke-dashoffset: 0; } }
+  @media (prefers-reduced-motion: reduce) {
+    .tw, .constellation-line { animation: none; stroke-dashoffset: 0; }
+  }
+</style>
+</head>
+<body>
+
+<header>
+  <div class="wrap chart">
+    <svg viewBox="0 0 1000 430" role="img" aria-label="A star chart in which the stars form a wizard's hat">
+      <defs>
+        <filter id="glow" x="-80%" y="-80%" width="260%" height="260%">
+          <feGaussianBlur stdDeviation="3.2" result="b"/>
+          <feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+        </filter>
+      </defs>
+
+      <!-- graticule -->
+      <ellipse cx="500" cy="640" rx="620" ry="420" fill="none" stroke="#232c4a" stroke-width="1" stroke-dasharray="3 7" opacity=".6"/>
+      <ellipse cx="500" cy="760" rx="760" ry="520" fill="none" stroke="#232c4a" stroke-width="1" stroke-dasharray="3 7" opacity=".4"/>
+      <text x="76" y="392" fill="#4d567c" font-size="11" font-family="ui-monospace, monospace">+60°</text>
+
+      <!-- field stars -->
+      <g fill="#aab4d8">
+        <circle class="tw"    cx="64"  cy="70"  r="1.4"/>
+        <circle class="tw t2" cx="142" cy="180" r="1.1"/>
+        <circle class="tw t3" cx="205" cy="55"  r="1.7"/>
+        <circle class="tw"    cx="300" cy="120" r="1.2"/>
+        <circle class="tw t2" cx="360" cy="38"  r="1.5"/>
+        <circle class="tw t3" cx="452" cy="150" r="1.1"/>
+        <circle class="tw"    cx="540" cy="60"  r="1.3"/>
+        <circle class="tw t2" cx="705" cy="45"  r="1.6"/>
+        <circle class="tw t3" cx="775" cy="150" r="1.2"/>
+        <circle class="tw"    cx="905" cy="88"  r="1.5"/>
+        <circle class="tw t2" cx="950" cy="210" r="1.1"/>
+        <circle class="tw t3" cx="855" cy="300" r="1.3"/>
+        <circle class="tw"    cx="120" cy="330" r="1.2"/>
+        <circle class="tw t2" cx="330" cy="395" r="1.1"/>
+        <circle class="tw t3" cx="620" cy="400" r="1.4"/>
+        <circle class="tw"    cx="965" cy="360" r="1.2"/>
+        <circle class="tw t2" cx="42"  cy="235" r="1.1"/>
+        <circle class="tw t3" cx="500" cy="260" r="1.0"/>
+        <circle cx="250" cy="240" r=".8" opacity=".7"/>
+        <circle cx="415" cy="330" r=".8" opacity=".7"/>
+        <circle cx="580" cy="185" r=".8" opacity=".7"/>
+        <circle cx="810" cy="235" r=".8" opacity=".7"/>
+        <circle cx="885" cy="170" r=".8" opacity=".7"/>
+        <circle cx="150" cy="120" r=".8" opacity=".7"/>
+      </g>
+
+      <!-- the Wizard's Hat -->
+      <g stroke="#7b73f0" stroke-width="1.3" fill="none" opacity=".9">
+        <path class="constellation-line" d="M 560 330 L 640 348 L 728 352 L 812 338 L 872 316"/>
+        <path class="constellation-line" d="M 640 348 L 686 240 L 742 96"/>
+        <path class="constellation-line" d="M 812 338 L 766 232 L 742 96"/>
+      </g>
+      <g fill="#e8eaf4">
+        <circle class="tw"    cx="560" cy="330" r="3.2"/>
+        <circle class="tw t2" cx="640" cy="348" r="3.8"/>
+        <circle class="tw t3" cx="728" cy="352" r="3.0"/>
+        <circle class="tw"    cx="812" cy="338" r="3.8"/>
+        <circle class="tw t2" cx="872" cy="316" r="3.0"/>
+        <circle class="tw t3" cx="686" cy="240" r="2.7"/>
+        <circle class="tw"    cx="766" cy="232" r="2.7"/>
+      </g>
+      <circle cx="742" cy="96" r="5" fill="#f2c14e" filter="url(#glow)"/>
+
+      <text x="742" y="66" text-anchor="middle" fill="#f2c14e" font-size="12" font-family="ui-monospace, monospace" letter-spacing="2">α WIZ</text>
+      <text x="716" y="392" fill="#8f98bd" font-size="15" font-style="italic"
+            font-family="Palatino Linotype, Book Antiqua, Palatino, Georgia, serif">the Wizard&#8217;s Hat &#8212; circumpolar, visible all year</text>
+    </svg>
+  </div>
+
+  <div class="wrap hero-copy">
+    <p class="eyebrow">Free beta &middot; Windows &amp; Apple&nbsp;Silicon</p>
+    <h1>Your telescope caught it.<br><span class="wand">AstroWizard</span> finishes it.</h1>
+    <p class="lede">Turn a stacked image from your <strong>Seestar, Dwarf, or any telescope</strong> into a finished astrophoto — nine guided steps, one obvious button at a time. <strong>No manuals. No jargon. No 40-hour learning curve.</strong></p>
+    <div class="dl-row">
+      <a class="btn btn-win" href="https://drive.google.com/file/d/1Y2Ey9nhLOvSeopmq1FgNWKV0WqAFMcn-/view?usp=drive_link" rel="noopener">
+        <span class="big">Download for Windows</span>
+        <span class="small">AstroWizard-Windows.exe &middot; 84 MB</span>
+      </a>
+      <a class="btn btn-mac" href="https://drive.google.com/file/d/1rPxwVYPgby84FEEd8XGymOU1nveN1acM/view?usp=drive_link" rel="noopener">
+        <span class="big">Download for macOS</span>
+        <span class="small">AstroWizard-Mac.zip &middot; Apple Silicon &middot; 50 MB</span>
+      </a>
+      <p class="buildline">current build <b>9 July 2026</b> &middot; you&#8217;ll always find the newest version on this page</p>
+    </div>
+  </div>
+</header>
+
+<main>
+  <section class="wrap" aria-labelledby="how">
+    <p class="kicker">The whole process</p>
+    <h2 id="how">Nine steps. In order. That&#8217;s the trick.</h2>
+    <p class="sub">Astro processing isn&#8217;t hard — it&#8217;s just usually presented in the wrong order, all at once, in software built for experts. AstroWizard walks you through the same professional workflow one step at a time, with a live preview and an Undo for everything.</p>
+    <ol class="steps">
+      <li>Load your image</li>
+      <li>Crop the edges</li>
+      <li>Remove the gradient</li>
+      <li>Balance the colour</li>
+      <li>Sharpen</li>
+      <li>Reduce noise</li>
+      <li>The Big Stretch</li>
+      <li>Make it beautiful</li>
+      <li>Export &amp; share</li>
+    </ol>
+  </section>
+
+  <section class="wrap" id="downloads" aria-labelledby="dl">
+    <p class="kicker">Downloads</p>
+    <h2 id="dl">Install in about a minute</h2>
+    <p class="sub">AstroWizard is in open beta and isn&#8217;t code-signed yet, so your computer will act suspicious the first time. That&#8217;s normal for independent software — here&#8217;s exactly what to click. It only happens once.</p>
+    <div class="cards">
+      <div class="card">
+        <h3>Windows <span class="tag">WINDOWS 10 / 11</span></h3>
+        <p class="get"><a class="btn btn-win" href="https://drive.google.com/file/d/1Y2Ey9nhLOvSeopmq1FgNWKV0WqAFMcn-/view?usp=drive_link" rel="noopener"><span class="big">Download for Windows</span></a></p>
+        <ol>
+          <li><b>Download</b> AstroWizard-Windows.exe — nothing to install, it just runs.</li>
+          <li>If a blue box says &#8220;Windows protected your PC&#8221;: click <b>More info</b>, then <b>Run anyway</b>.</li>
+          <li>That&#8217;s it. Load an image and follow Step 1.</li>
+        </ol>
+        <p class="why">Why the warning? Microsoft charges independent developers for a signing certificate; during the free beta we skip it. The build on this page is always the official one.</p>
+      </div>
+      <div class="card">
+        <h3>macOS <span class="tag">APPLE SILICON (M1–M4)</span></h3>
+        <p class="get"><a class="btn btn-mac" href="https://drive.google.com/file/d/1rPxwVYPgby84FEEd8XGymOU1nveN1acM/view?usp=drive_link" rel="noopener"><span class="big">Download for macOS</span></a></p>
+        <ol>
+          <li><b>Download</b> AstroWizard-Mac.zip and double-click to unzip.</li>
+          <li>First time only: <b>right-click</b> (or Control-click) AstroWizard &rarr; <b>Open</b> &rarr; <b>Open</b>.</li>
+          <li>After that, open it normally like any app.</li>
+        </ol>
+        <p class="why">Why right-click? Apple&#8217;s yearly developer fee is skipped during the beta — right-click &rarr; Open is macOS&#8217;s official way of saying &#8220;I trust this one.&#8221;</p>
+      </div>
+    </div>
+  </section>
+
+  <section class="wrap" aria-labelledby="engines">
+    <p class="kicker">The AI steps</p>
+    <h2 id="engines">Plays well with the professionals</h2>
+    <p class="sub">For the heavy AI lifting, AstroWizard drives the same engines the experts use — point it at them once in Settings and the buttons light up.</p>
+    <div class="engines">
+      <div class="engine">
+        <p class="price">FREE</p>
+        <h4>GraXpert</h4>
+        <p>Background gradient removal and AI denoising. Open GraXpert once after installing so it fetches its AI models — then AstroWizard takes it from there.</p>
+        <p class="link"><a href="https://graxpert.com/" rel="noopener">Get GraXpert &rarr;</a></p>
+      </div>
+      <div class="engine">
+        <p class="price">PAID &middot; TRIAL AVAILABLE</p>
+        <h4>RC-Astro — BlurX, NoiseX, StarX</h4>
+        <p>The gold standard for sharpening, noise reduction, and star removal. Buying through these links supports AstroWizard at no extra cost to you.</p>
+        <p class="link"><a href="https://www.rc-astro.com/software/stand-alone-bundle/?refId=f712c623b0bbe906" rel="noopener">Get the RC-Astro tools &rarr;</a></p>
+      </div>
+      <div class="engine">
+        <p class="price">BUILT IN</p>
+        <h4>Everything else</h4>
+        <p>Stretching, colour balance, curves, narrowband palettes, star colour fixes — all native, all included, no extra installs.</p>
+      </div>
+    </div>
+  </section>
+
+  <section class="wrap" aria-labelledby="faq">
+    <p class="kicker">Quick answers</p>
+    <h2 id="faq">Before you ask&hellip;</h2>
+    <p class="sub" style="margin-bottom:22px;">The five questions that cover 90% of the comment section.</p>
+    <details>
+      <summary>What files can I load?</summary>
+      <div class="a">Stacked <b>FITS or TIFF</b> from anything — Seestar, Dwarf, ASTAP, Siril, PixInsight, DeepSkyStacker. AstroWizard figures out the format quirks (bit depth, pixel range, bloated headers) automatically. Stack first, then bring the result here.</div>
+    </details>
+    <details>
+      <summary>I clicked a GraXpert button and nothing happened.</summary>
+      <div class="a">Open GraXpert itself once and run Background Extraction and Denoising one time each — it downloads its AI models on first use. After that, AstroWizard&#8217;s buttons work every time. (Recent builds will tell you this right in the console.)</div>
+    </details>
+    <details>
+      <summary>The RC-Astro steps are slow on my machine.</summary>
+      <div class="a">Update the CLI: open a terminal and run <b>rc-astro update --install</b>. A bug that made some images take minutes was fixed in July 2026 — both by RC-Astro and inside AstroWizard itself. Still slow? The in-app console will say why.</div>
+    </details>
+    <details>
+      <summary>Is it really free?</summary>
+      <div class="a">Really free while in beta. If it makes you smile, there&#8217;s a tip jar and a Patreon below — and buying RC-Astro tools through the links here or in the app supports development at no cost to you.</div>
+    </details>
+    <details>
+      <summary>My antivirus / Mac says it&#8217;s from an unidentified developer.</summary>
+      <div class="a">That&#8217;s the missing code-signing certificate, not a threat — see the install steps above. Only download AstroWizard from this page or the links in Lukomatico&#8217;s own videos.</div>
+    </details>
+  </section>
+
+  <section class="wrap" aria-labelledby="log">
+    <p class="kicker">Observing log</p>
+    <h2 id="log">Latest from the workshop</h2>
+    <p class="sub" style="margin-bottom:26px;">Small releases, shipped often. Re-download any time — newer is always better here.</p>
+    <div class="log">
+      <div class="log-entry">
+        <p class="log-date">2026 &middot; JULY 9</p>
+        <h4>The big fix-everything build</h4>
+        <p>PixInsight-stacked files no longer slow the AI tools to a crawl; ASTAP images no longer load pure white; colour pops are gentler with a new custom-strength dial; GraXpert problems now explain themselves in plain English.</p>
+      </div>
+      <div class="log-entry">
+        <p class="log-date">2026 &middot; JULY 8</p>
+        <h4>Apple Silicon, natively</h4>
+        <p>A true M-series Mac build — no Rosetta required. Plus honest stretch labels and better guidance on faint targets.</p>
+      </div>
+      <div class="log-entry">
+        <p class="log-date">2026 &middot; JULY 7</p>
+        <h4>Curves, with colour targeting</h4>
+        <p>A full curves editor that can aim at just the reds, blues, or any colour family — the most powerful tool in the app, for when you&#8217;re ready for it.</p>
+      </div>
+    </div>
+  </section>
+</main>
+
+<footer>
+  <div class="wrap cols">
+    <div>
+      <h5>AstroWizard</h5>
+      <p>Built by <a href="https://youtube.com/@lukomatico" rel="noopener">Lukomatico</a> — astrophotographer, YouTuber, and firm believer that processing shouldn&#8217;t require a second monitor full of documentation. Made with an engineering assist from Claude (Anthropic).</p>
+      <p class="fine">Stretch mathematics based on Bill Blanshan&#8217;s published PixelMath expressions (equations by Juan Conejero); narrowband balancing inspired by the NarrowbandNormalization process for PixInsight. Independent implementations, with thanks to their authors. Beta testing and guidance: Cuiv the Lazy Geek, David Huff, Sascha Wyss (View Into Space) — and everyone in the comments who sent a screenshot when something broke. You made it better.</p>
+    </div>
+    <div>
+      <h5>Find Lukomatico</h5>
+      <ul>
+        <li><a href="https://youtube.com/@lukomatico" rel="noopener">YouTube — @lukomatico</a></li>
+        <li><a href="https://patreon.com/lukomatico" rel="noopener">Patreon</a></li>
+        <li><a href="https://paypal.me/lukomatico" rel="noopener">Tip jar (PayPal)</a></li>
+        <li><a href="https://youtube.com/@lukomatico" rel="noopener">Report a bug — comments welcome!</a></li>
+      </ul>
+    </div>
+  </div>
+</footer>
+</body>
+</html>
