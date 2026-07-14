@@ -1,0 +1,116 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>AstroWizard — changelog</title>
+<meta name="description" content="Every AstroWizard release, in plain English.">
+<link rel="icon" href="data:image/svg+xml,<svg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 100 100%22><text y=%22.9em%22 font-size=%2290%22>🪄</text></svg>">
+<style>
+  :root {
+    color-scheme: dark;
+    --sky: #0b0e1a;
+    --card: #141a2e;
+    --card-edge: #232c4a;
+    --ink: #e8eaf4;
+    --ink-soft: #9aa3c0;
+    --violet: #7b73f0;
+    --gold: #f2c14e;
+    --serif: "Palatino Linotype", "Book Antiqua", Palatino, Georgia, serif;
+    --sans: system-ui, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+    --mono: ui-monospace, "Cascadia Mono", "SF Mono", Consolas, monospace;
+  }
+  * { box-sizing: border-box; }
+  body {
+    margin: 0;
+    background:
+      radial-gradient(900px 500px at 80% -10%, #1a2142 0%, transparent 60%),
+      var(--sky);
+    color: var(--ink);
+    font-family: var(--sans);
+    font-size: 16.5px;
+    line-height: 1.6;
+  }
+  a { color: var(--violet); }
+  a:focus-visible { outline: 2px solid var(--gold); outline-offset: 3px; border-radius: 4px; }
+  .wrap { max-width: 760px; margin: 0 auto; padding: 48px 24px 80px; }
+  .back { font-family: var(--mono); font-size: 13px; text-decoration: none; }
+  h1 {
+    font-family: var(--serif); font-weight: 400;
+    font-size: clamp(34px, 6vw, 48px); margin: 18px 0 6px; text-wrap: balance;
+  }
+  .sub { color: var(--ink-soft); margin: 0 0 42px; max-width: 58ch; }
+
+  .log { border-left: 1px solid #253057; padding-left: 26px; display: grid; gap: 34px; }
+  .entry { position: relative; }
+  .entry::before {
+    content: ""; position: absolute; left: -31px; top: 8px;
+    width: 9px; height: 9px; border-radius: 50%;
+    background: var(--gold); box-shadow: 0 0 8px 1px rgba(242,193,78,.55);
+  }
+  .date { font-family: var(--mono); font-size: 12.5px; color: var(--gold); letter-spacing: .1em; }
+  .entry h2 { font-family: var(--serif); font-weight: 400; font-size: 22px; margin: 4px 0 8px; }
+  .entry ul { margin: 0; padding-left: 20px; color: var(--ink-soft); font-size: 15px; display: grid; gap: 6px; }
+  .entry ul b { color: var(--ink); font-weight: 600; }
+  .prehistory {
+    margin-top: 44px; padding-top: 22px; border-top: 1px dashed #253057;
+    color: var(--ink-soft); font-size: 14.5px; max-width: 62ch;
+  }
+</style>
+</head>
+<body>
+<div class="wrap">
+  <a class="back" href="./">&larr; astrowizard.lukomatico.com</a>
+  <h1>The changelog</h1>
+  <p class="sub">Every release, in plain English. If you reported a bug and it's fixed, you'll find it here by name. Newest first — and remember, the app tells you when a newer build than yours exists.</p>
+
+  <div class="log">
+    <div class="entry">
+      <p class="date">14 JULY 2026</p>
+      <h2>The Apple Silicon fix</h2>
+      <ul>
+        <li><b>GraXpert no longer hangs on Apple Silicon Macs</b> (M1–M4). AstroWizard was accidentally passing its own internal library settings to GraXpert on launch; GraXpert loaded the wrong libraries and froze. Standalone GraXpert was never the problem — your setups were fine all along.</li>
+        <li><b>The window now fits smaller screens.</b> On 13&Prime; laptops the default window was wider than the display, hiding the Settings button off the right edge.</li>
+      </ul>
+    </div>
+
+    <div class="entry">
+      <p class="date">13 JULY 2026</p>
+      <h2>Zero-click setup</h2>
+      <ul>
+        <li><b>AstroWizard now finds GraXpert and the RC-Astro tools by itself</b> on standard installs — checked at every startup, so most people never need the Locate buttons at all.</li>
+        <li>Selected a <b>folder</b> instead of the program? It now works that out and finds the right file inside.</li>
+        <li>Clearer wording throughout setup: <b>rc-astro is one file that runs all three tools</b> — no need to hunt for three programs.</li>
+      </ul>
+    </div>
+
+    <div class="entry">
+      <p class="date">12 JULY 2026</p>
+      <h2>The app that updates itself (politely)</h2>
+      <ul>
+        <li><b>Update notice:</b> at startup AstroWizard checks this website for a newer build and shows a small banner if one exists. There's an off switch in Settings, and a promise printed next to it: nothing about you or your images is ever sent.</li>
+        <li>Your <b>build date now shows in Settings</b> — no more guessing which version you have.</li>
+        <li><b>ASTAP-stacked files no longer load as a pure white screen</b> (different stacking programs use different pixel ranges; AstroWizard now handles them all).</li>
+        <li><b>Masked Saturation and Make it Pop are gentler</b> per feedback, with a new Custom Strength dial for both (1.0&times; = the classic look).</li>
+        <li><b>GraXpert problems now explain themselves</b>: its own messages appear in the console, crashes are detected and reported instead of bouncing the progress bar forever, and first-time-setup advice is offered when its AI models are missing.</li>
+        <li><b>PixInsight-stacked files no longer slow the RC-Astro tools to a crawl</b> — huge file headers were choking them; AstroWizard now tidies these automatically (and the underlying bug was fixed by RC-Astro too, from our bug report).</li>
+      </ul>
+    </div>
+
+    <div class="entry">
+      <p class="date">9 JULY 2026</p>
+      <h2>The stretch overhaul</h2>
+      <ul>
+        <li><b>New stretch engine:</b> the linear preview adapts itself to your data, and the Gentle / Normal / Aggressive buttons were rebalanced to be meaningfully different (with honest labels).</li>
+        <li><b>Star-rich targets like the Pleiades now stretch properly</b> instead of vanishing into black.</li>
+        <li>The <b>green-cast toggle resets between images</b> so it can't quietly discolour your next photo.</li>
+        <li>Tool windows (Curves, Tune, Mask Reach) <b>resize with the window</b>.</li>
+        <li>First solid <b>Apple Silicon build</b> (native, no Rosetta) with the Settings window fixed.</li>
+      </ul>
+    </div>
+  </div>
+
+  <p class="prehistory">Before the website existed, the open beta ran through early July via YouTube community posts — highlights included the Curves editor with colour targeting, the narrowband Tune controls, star-removal workflows, and more fixes than anyone should admit to needing. History began properly when this page did.</p>
+</div>
+</body>
+</html>
