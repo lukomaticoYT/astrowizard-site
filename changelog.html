@@ -66,6 +66,20 @@
 
   <div class="log">
     <div class="entry">
+      <p class="date">15 JULY 2026</p>
+      <h2>The Mac fix, properly this time</h2>
+      <ul>
+        <li><b>The real cure for GraXpert hanging on Macs</b>: it turns out GraXpert was finishing its work and saving the result all along — its process just never exited afterwards, so the progress bar bounced forever over a completed job. AstroWizard now watches for the finished file, collects it, and tidies up the leftover process itself. (Thanks to Greg for the detective work — his spot of a double file extension cracked the case.)</li>
+        <li>Output files no longer end up named <b>.fits.fits</b>.</li>
+        <li><b>Right-click now removes Curves points on Macs</b> (Macs report right-clicks differently; Control-click works too).</li>
+        <li>The green-cast toggle is now <b>&#8220;Image looks all one colour?&#8221;</b> — it fixes red and blue casts just as well.</li>
+        <li><b>The preview no longer resizes</b> when processing starts and ends — the progress bar has a permanent home.</li>
+        <li>Multi-pass noise reduction now shows <b>&#8220;pass 1 of 2&#8221;</b> as it works.</li>
+        <li>The Mac app&#8217;s version number now shows the <b>build date</b> instead of an eternal 1.0.0.</li>
+      </ul>
+    </div>
+
+    <div class="entry">
       <p class="date">14 JULY 2026</p>
       <h2>The Apple Silicon fix</h2>
       <ul>
