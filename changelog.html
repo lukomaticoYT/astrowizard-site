@@ -66,6 +66,17 @@
 
   <div class="log">
     <div class="entry">
+      <p class="date">17 JULY 2026</p>
+      <h2>The night-shift build</h2>
+      <ul>
+        <li><b>Linux previews work now.</b> A library the image viewer needed wasn&#8217;t bundled, so Linux showed &#8220;No module named PIL._tkinter_finder&#8221; instead of your image. Fixed — with thanks to David Huff and johnsteed for the pinpoint reports.</li>
+        <li><b>The Linux file picker shows extensionless tools</b> — no more renaming GraXpert to <code>.sh</code> just to select it.</li>
+        <li><b>RC-Astro no longer fails on decorated filenames.</b> Files named like <i>&#8220;NGC 6992, 2025-08-23, (CV)&#8230;&#8221;</i> — which is most stacker exports — broke BlurXTerminator with a cryptic &#8220;cfitsio status 366&#8221;. AstroWizard now keeps its working filenames free of the characters that trigger it. Thanks Pawel!</li>
+        <li><b>Macs can finally pick GraXpert properly.</b> The old file dialog often refused to select .app bundles — one tester&#8217;s path ended up pointing at macOS&#8217;s own &#8220;Apps&#8221; launcher, which AstroWizard then dutifully ran instead of GraXpert (thanks Brian — your report solved it, and you were never the problem). The Mac picker is now a folder chooser that accepts GraXpert.app or its folder, and any path that doesn&#8217;t look like the right tool shows <b>orange</b> in Settings with an explanation.</li>
+      </ul>
+    </div>
+
+    <div class="entry">
       <p class="date">16 JULY 2026</p>
       <h2>The comment-section build</h2>
       <ul>
