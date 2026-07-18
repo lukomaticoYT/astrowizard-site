@@ -66,6 +66,18 @@
 
   <div class="log">
     <div class="entry">
+      <p class="date">18 JULY 2026 · REV K</p>
+      <h2>The all-night Mac stakeout</h2>
+      <ul>
+        <li><b>The real Mac bug, caught red-handed.</b> Last release we woke the app from its nap — a true fix, but not the whole story. This time, armed with his own MacBook and Apple's diagnostic tools at 3am, Luke caught the deeper culprit in the act: on modern macOS, the app's &#8220;refresh the screen&#8221; call could get trapped re-drawing the window forever, so it never noticed GraXpert had finished — <em>minutes</em> ago. The interface looked alive; the part that watches for results wasn't. Fixed for good. Field numbers from the stakeout: background extraction <b>3 seconds</b>, denoise <b>34 seconds</b> — steps that used to &#8220;hang&#8221; for 20+ minutes. <b>Mike Frazier's zoom-trick observation was the clue that cracked both chapters of this saga — poking the window was literally breaking the spell.</b></li>
+        <li><b>Denoising switched to GraXpert's 2.0.0 AI model on every platform</b> — dramatically faster (about 40&times; on Apple Silicon), with output quality we couldn't tell apart from the newer model in side-by-side tests. Same model everywhere, so tutorials match your results whatever you run.</li>
+        <li><b>The Big Stretch reaches deeper into very faint stacks</b> — data scaled into the bottom sliver of the numeric range (thanks to Lee Polikoff's file) used to come out as flat grey mud at any strength; the white-point logic now recognises real signal and opens it up. <b>Honest note: this is round one.</b> On the deepest data there's still more in the tank than a 1000-strength stretch pulls out — deeper reach is actively in the works.</li>
+        <li><b>One engine at a time, and the app says so</b> — starting a second AI tool or changing steps mid-run now gets a friendly &#8220;hang tight&#8221; instead of a silent gamble with your working image. The console also narrates honestly: when the result file starts landing on disk, how big it's grown, and exactly when it's collected.</li>
+        <li><b>Quieter and tougher</b> — the app no longer burns a full CPU core while waiting on an engine, never mistakes an old output file for a fresh one, and if its own plumbing ever fails, the full error prints right in the console ready to copy-paste to us.</li>
+      </ul>
+    </div>
+
+    <div class="entry">
       <p class="date">17 JULY 2026 · REV B</p>
       <h2>The one where the app was asleep</h2>
       <ul>
