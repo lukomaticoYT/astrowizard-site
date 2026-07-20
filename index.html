@@ -81,6 +81,23 @@
     width: 100%; font-family: var(--mono); font-size: 12.5px;
     color: var(--ink-soft); margin-top: 6px;
   }
+  .trust-band {
+    margin-top: 26px; max-width: 660px;
+    background: linear-gradient(180deg, rgba(242,193,78,.06), transparent 55%), var(--card);
+    border: 1px solid var(--card-edge); border-radius: 14px;
+    padding: 18px 22px 16px;
+  }
+  .trust-band .tb-head {
+    font-family: var(--serif); font-size: 20px; margin: 0 0 6px; color: var(--ink);
+  }
+  .trust-band p { margin: 0 0 12px; color: var(--ink-soft); font-size: 14.5px; line-height: 1.55; }
+  .trust-band .tb-row { display: flex; flex-wrap: wrap; gap: 10px; }
+  .trust-band .tb-btn {
+    font-family: var(--mono); font-size: 13px; text-decoration: none; color: var(--ink);
+    background: #1c2340; border: 1px solid var(--violet); padding: 7px 15px; border-radius: 999px;
+  }
+  .trust-band .tb-btn:hover { background: #262f52; }
+  .trust-band .tb-btn.gold { border-color: var(--gold); }
   .buildline b { color: var(--gold); font-weight: 500; }
 
   /* ---------- Sections ---------- */
@@ -295,6 +312,16 @@
         <span class="small">AstroWizard-Linux-x86_64.tar.gz &middot; 92 MB</span>
       </a>
       <p class="buildline">current build <b>18 July 2026 &middot; rev k</b> &middot; you&#8217;ll always find the newest version on this page</p>
+    </div>
+    <div class="trust-band">
+      <p class="tb-head">Really free. Really private.</p>
+      <p>The Wizard (Luke) believes the magic of astrophotography should be for everyone — and that privacy is a right to be enjoyed by all, too. AstroWizard is completely free to use: no ads, no tracking, no accounts, in the app or on this site. The only time the app ever touches the internet is a quick check of this page at startup for a newer build — and the off-switch is right there in Settings. Hosted, maintained and built with coin from the Wizard&#8217;s own coinpurse (my pocket), and it stays free for anyone who wants it.</p>
+      <p>The Wizard has been known to reach out and personally thank the kind folks who keep the coffers full, the hearth stoked and the potions brewing (I need the coffee). All silliness aside — if you like what&#8217;s happening here and want to support it, it&#8217;s hugely appreciated:</p>
+      <div class="tb-row">
+        <a class="tb-btn gold" href="https://paypal.me/lukomatico" rel="noopener">&#9749; Tip jar</a>
+        <a class="tb-btn" href="https://patreon.com/lukomatico" rel="noopener">&#11088; Patreon</a>
+        <a class="tb-btn" href="https://youtube.com/@lukomatico" rel="noopener">&#9654; Subscribe</a>
+      </div>
     </div>
   </div>
 </header>
