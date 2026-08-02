@@ -1,0 +1,149 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>AstroWizard — The Wizard's Fellowship</title>
+<meta name="description" content="The kind souls who keep AstroWizard free for everyone — credited for all time.">
+<link rel="icon" href="data:image/svg+xml,<svg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 100 100%22><text y=%22.9em%22 font-size=%2290%22>🪄</text></svg>">
+<style>
+  :root {
+    color-scheme: dark;
+    --sky: #0b0e1a;
+    --card: #141a2e;
+    --card-edge: #232c4a;
+    --ink: #e8eaf4;
+    --ink-soft: #9aa3c0;
+    --violet: #7b73f0;
+    --gold: #f2c14e;
+    --serif: "Palatino Linotype", "Book Antiqua", Palatino, Georgia, serif;
+    --sans: system-ui, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+    --mono: ui-monospace, "Cascadia Mono", "SF Mono", Consolas, monospace;
+  }
+  * { box-sizing: border-box; }
+  body {
+    margin: 0;
+    background:
+      radial-gradient(900px 500px at 80% -10%, #1a2142 0%, transparent 60%),
+      var(--sky);
+    color: var(--ink);
+    font-family: var(--sans);
+    font-size: 16.5px;
+    line-height: 1.6;
+  }
+  a { color: var(--violet); }
+  a:focus-visible { outline: 2px solid var(--gold); outline-offset: 3px; border-radius: 4px; }
+  .wrap { max-width: 860px; margin: 0 auto; padding: 48px 24px 80px; }
+  .back { font-family: var(--mono); font-size: 13px; text-decoration: none; }
+  h1 {
+    font-family: var(--serif); font-weight: 400;
+    font-size: clamp(34px, 6vw, 48px); margin: 18px 0 6px; text-wrap: balance;
+  }
+  .sub { color: var(--ink-soft); margin: 0 0 10px; max-width: 62ch; }
+  .fine { color: var(--ink-soft); font-size: 13.5px; margin: 0 0 34px; }
+  h2 {
+    font-family: var(--serif); font-weight: 400; font-size: 24px;
+    margin: 44px 0 6px; color: var(--gold);
+  }
+  h2 .star { font-size: 18px; }
+  .section-note { color: var(--ink-soft); font-size: 14px; margin: 0 0 16px; }
+  .names {
+    display: grid; grid-template-columns: repeat(auto-fill, minmax(180px, 1fr));
+    gap: 6px 18px; margin: 0; padding: 0; list-style: none;
+  }
+  .names li { padding: 3px 0; border-bottom: 1px dashed #1d2440; }
+  .legends li { color: var(--gold); font-family: var(--serif); font-size: 17.5px; }
+  .recent-band {
+    background: var(--card); border: 1px solid var(--card-edge);
+    border-radius: 12px; padding: 14px 18px; margin: 26px 0 0;
+    display: none;
+  }
+  .recent-band b { color: var(--gold); }
+  .tribute {
+    margin-top: 44px; padding-top: 22px; border-top: 1px dashed #253057;
+    color: var(--ink-soft); font-family: var(--serif); font-size: 17px;
+    font-style: italic; max-width: 62ch;
+  }
+  .join {
+    margin-top: 34px; background: var(--card); border: 1px solid var(--card-edge);
+    border-radius: 12px; padding: 20px 22px;
+  }
+  .join p { margin: 0 0 12px; }
+  .tb-row { display: flex; gap: 10px; flex-wrap: wrap; }
+  .tb-btn {
+    display: inline-block; padding: 8px 16px; border-radius: 999px;
+    border: 1px solid var(--card-edge); text-decoration: none; color: var(--ink);
+    font-size: 14.5px;
+  }
+  .tb-btn.gold { border-color: var(--gold); color: var(--gold); }
+  .loading { color: var(--ink-soft); font-style: italic; }
+</style>
+</head>
+<body>
+<div class="wrap">
+  <a class="back" href="./">&larr; astrowizard.lukomatico.com</a>
+  <h1>The Wizard&#8217;s Fellowship</h1>
+  <p class="sub">The kind souls who keep AstroWizard free for everyone — remembered here <b>for all time</b>. The wizard thanks each of you personally; this page makes it permanent.</p>
+  <p class="fine">Spot yourself and fancy a different name — or none at all? One message to Luke and it&#8217;s done, same day. Patreon and channel members are honoured in every video&#8217;s credits as always — any who&#8217;d like their name inscribed here too need only say so.</p>
+
+  <div class="recent-band" id="recent"></div>
+
+  <h2><span class="star">⭐</span> Legendary Supporters</h2>
+  <p class="section-note">Bestowed by the wizard. If you have to ask how, the answer is: he knows legends when he sees them.</p>
+  <ul class="names legends" id="legends"><li class="loading">Inscribing…</li></ul>
+
+  <h2>The Fellowship</h2>
+  <p class="section-note">In alphabetical order, one line each, all equal — as fellowships should be.</p>
+  <ul class="names" id="fellowship"><li class="loading">Inscribing…</li></ul>
+
+  <p class="tribute" id="tribute">…carried also by the Patreon guild, the channel members, and the anonymous wizards who keep the coinpurse jingling.</p>
+
+  <div class="join">
+    <p><b>Join the Wizard&#8217;s Fellowship</b> — any tip to the coinpurse earns your place on this page and inside the app itself, credited for all time.</p>
+    <div class="tb-row">
+      <a class="tb-btn gold" href="https://paypal.me/lukomatico" rel="noopener">&#9749; Tip jar</a>
+      <a class="tb-btn" href="https://patreon.com/lukomatico" rel="noopener">&#11088; Patreon</a>
+      <a class="tb-btn" href="https://youtube.com/@lukomatico" rel="noopener">&#9654; Subscribe</a>
+    </div>
+  </div>
+</div>
+<script>
+(function () {
+  fetch("supporters.txt", { cache: "no-store" })
+    .then(function (r) { if (!r.ok) throw new Error(r.status); return r.text(); })
+    .then(function (text) {
+      var section = null;
+      var data = { recent: [], legends: [], fellowship: [] };
+      text.split(/\r?\n/).forEach(function (line) {
+        line = line.trim();
+        if (!line || line.charAt(0) === "#") return;
+        var m = line.match(/^\[(\w+)\]$/);
+        if (m) { section = m[1]; return; }
+        if (section && data[section]) data[section].push(line);
+      });
+      function fill(id, names) {
+        var ul = document.getElementById(id);
+        ul.innerHTML = "";
+        names.forEach(function (n) {
+          var li = document.createElement("li");
+          li.textContent = n;
+          ul.appendChild(li);
+        });
+      }
+      fill("legends", data.legends);
+      fill("fellowship", data.fellowship);
+      if (data.recent.length) {
+        var band = document.getElementById("recent");
+        band.innerHTML = "<b>&#10024; Newly joined:</b> ";
+        band.appendChild(document.createTextNode(data.recent.slice(0, 10).join(" · ")));
+        band.style.display = "block";
+      }
+    })
+    .catch(function () {
+      document.getElementById("legends").innerHTML = "<li class='loading'>The scrolls are momentarily unreadable — refresh to try again.</li>";
+      document.getElementById("fellowship").innerHTML = "";
+    });
+})();
+</script>
+</body>
+</html>

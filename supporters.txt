@@ -1,0 +1,123 @@
+# The Wizard's Fellowship — AstroWizard's public honour roll.
+# To change or remove your name: message Luke — done the same day.
+# '#' lines are comments. Sections: [recent] [legends] [fellowship].
+[recent]
+[legends]
+Pete's Astrophotography
+Blake (ThisOne)
+Bill Blanshan
+Stefan Dahinden
+WanderingNights1
+Jason Astro
+l0nemonk100 (Kasei)
+Chris Digata
+Sourc3code
+Nick P
+Home Observatory
+Aggro bi
+Redarm
+Dcinzona
+Mike1959
+Jonathan Croskell
+Robert Martin
+Stu Parker
+Don Carter
+Miguel Iza
+Neikof
+Brian Davis
+Edward Bornman
+Gary Maker
+Kevin Boardman
+Ron Bernstein
+Nico Carver
+Mark Wilson
+CaptainArve
+OTS Symax
+Richard Cullip
+Barry Williams
+Gordon Black
+Klaus Barth
+McErono
+Andrew Shaw
+Charles Magnuson
+[fellowship]
+Albert A.
+Alexander M.
+Andrew L.
+Andrew N.
+Arne B.
+Bertrand D.
+Brad H.
+Carl B.
+Charles E.
+Charles P.
+Cheryl M.
+Chris D.
+Chris O.
+Christian T.
+Dale C.
+David B.
+David C.
+David K.
+David S.
+David T.
+Dawn P.
+Dean S.
+Francesco A.
+Francisco G.
+Gavin L.
+Hans L.
+Ian L.
+James A.
+James B.
+James K.
+James L.
+Jason J.
+Jeff C.
+Jeff P.
+Joachim R.
+John M.
+Joseph C.
+Joseph L.
+Joseph T.
+Jörg S.
+Kris H.
+Lawrence K.
+Leonard J.
+Loree R.
+Lorraine M.
+Luis M.
+Lyle A.
+Marc S.
+Marco R.
+Mark M.
+mark S.
+Martin Ba.
+Martin Br.
+Martin E.
+Michael D.
+Michael R.
+Michael T.
+Michael V.
+Michel A.
+Michel H.
+Nathan C.
+Neil W.
+Nino D.
+Norman L.
+Peter H.
+Richard B.
+Richard D.
+Richard R.
+Ronald C.
+Ronnie G.
+Sonja L.
+Steinhaus T.
+Stephen H.
+Stephen La.
+Stephen Ly.
+Steve W.
+Steven D.
+Steven G.
+Victor G.
+Walter R.
