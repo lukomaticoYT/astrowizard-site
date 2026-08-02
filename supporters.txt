@@ -2,6 +2,7 @@
 # To change or remove your name: message Luke — done the same day.
 # '#' lines are comments. Sections: [recent] [legends] [fellowship].
 [recent]
+Claude F.
 [legends]
 Pete's Astrophotography
 Blake (ThisOne)
@@ -55,6 +56,7 @@ Cheryl M.
 Chris D.
 Chris O.
 Christian T.
+Claude F.
 Dale C.
 David B.
 David C.
