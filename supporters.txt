@@ -2,6 +2,7 @@
 # To change or remove your name: message Luke — done the same day.
 # '#' lines are comments. Sections: [recent] [legends] [fellowship].
 [recent]
+Mark G.
 Mark Y.
 Claude F.
 [legends]
@@ -93,6 +94,7 @@ Luis M.
 Lyle A.
 Marc S.
 Marco R.
+Mark G.
 Mark M.
 mark S.
 Mark Y.
