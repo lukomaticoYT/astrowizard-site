@@ -2,6 +2,7 @@
 # To change or remove your name: message Luke — done the same day.
 # '#' lines are comments. Sections: [recent] [legends] [fellowship].
 [recent]
+Mark Y.
 Claude F.
 [legends]
 Pete's Astrophotography
@@ -94,6 +95,7 @@ Marc S.
 Marco R.
 Mark M.
 mark S.
+Mark Y.
 Martin Ba.
 Martin Br.
 Martin E.
