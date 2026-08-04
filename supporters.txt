@@ -2,6 +2,7 @@
 # To change or remove your name: message Luke - done the same day.
 # '#' lines are comments. Sections: [recent] [legends] [fellowship].
 [recent]
+Jesus B.
 James C.
 Bill M.
 Matthew G.
@@ -84,6 +85,7 @@ James L.
 Jason J.
 Jeff C.
 Jeff P.
+Jesus B.
 Joachim R.
 John M.
 Joseph C.
