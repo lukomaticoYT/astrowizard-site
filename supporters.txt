@@ -2,6 +2,7 @@
 # To change or remove your name: message Luke - done the same day.
 # '#' lines are comments. Sections: [recent] [legends] [fellowship].
 [recent]
+DeanH
 Jesus B.
 James C.
 Bill M.
@@ -72,6 +73,7 @@ David S.
 David T.
 Dawn P.
 Dean S.
+DeanH
 Francesco A.
 Francisco G.
 Gavin L.
