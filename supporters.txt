@@ -1,5 +1,5 @@
-# The Wizard's Fellowship — AstroWizard's public honour roll.
-# To change or remove your name: message Luke — done the same day.
+# The Wizard's Fellowship - AstroWizard's public honour roll.
+# To change or remove your name: message Luke - done the same day.
 # '#' lines are comments. Sections: [recent] [legends] [fellowship].
 [recent]
 Mark G.
