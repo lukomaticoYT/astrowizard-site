@@ -2,6 +2,7 @@
 # To change or remove your name: message Luke - done the same day.
 # '#' lines are comments. Sections: [recent] [legends] [fellowship].
 [recent]
+Bill M.
 Matthew G.
 Mark G.
 Mark Y.
@@ -51,6 +52,7 @@ Andrew L.
 Andrew N.
 Arne B.
 Bertrand D.
+Bill M.
 Brad H.
 Carl B.
 Charles E.
