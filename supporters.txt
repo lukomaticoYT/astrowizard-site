@@ -1,6 +1,7 @@
 # The Wizard's Fellowship - AstroWizard's public honour roll.
 # To change or remove your name: message Luke - done the same day.
-# '#' lines are comments. Sections: [recent] [legends] [fellowship].
+# '#' lines are comments. Sections: [recent] [legends] Martin B.
+[fellowship].
 [recent]
 Ed K.
 Claus S.
