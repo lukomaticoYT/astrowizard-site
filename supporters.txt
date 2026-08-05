@@ -1,8 +1,8 @@
 # The Wizard's Fellowship - AstroWizard's public honour roll.
 # To change or remove your name: message Luke - done the same day.
 # '#' lines are comments. Sections: [recent] [legends] Martin Ba.
-[fellowship].
 [recent]
+Roy F.
 Ed K.
 Claus S.
 Martin B.
@@ -12,7 +12,6 @@ DeanH
 Jesus B.
 James C.
 Bill M.
-Matthew G.
 [legends]
 Pete's Astrophotography
 Blake (ThisOne)
@@ -135,6 +134,7 @@ Richard D.
 Richard R.
 Ronald C.
 Ronnie G.
+Roy F.
 Sonja L.
 Steinhaus T.
 Stephen H.
