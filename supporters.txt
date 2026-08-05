@@ -2,6 +2,7 @@
 # To change or remove your name: message Luke - done the same day.
 # '#' lines are comments. Sections: [recent] [legends] [fellowship].
 [recent]
+Claus S.
 Martin B.
 Randall W.
 Pete C.
@@ -11,7 +12,6 @@ James C.
 Bill M.
 Matthew G.
 Mark G.
-Mark Y.
 [legends]
 Pete's Astrophotography
 Blake (ThisOne)
@@ -67,6 +67,7 @@ Chris D.
 Chris O.
 Christian T.
 Claude F.
+Claus S.
 Dale C.
 David B.
 David C.
