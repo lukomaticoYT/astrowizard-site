@@ -2,6 +2,7 @@
 # To change or remove your name: message Luke - done the same day.
 # '#' lines are comments. Sections: [recent] [legends] [fellowship].
 [recent]
+Pete C.
 DeanH
 Jesus B.
 James C.
@@ -121,6 +122,7 @@ Nathan C.
 Neil W.
 Nino D.
 Norman L.
+Pete C.
 Peter H.
 Richard B.
 Richard D.
