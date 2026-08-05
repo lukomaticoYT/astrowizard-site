@@ -2,6 +2,7 @@
 # To change or remove your name: message Luke - done the same day.
 # '#' lines are comments. Sections: [recent] [legends] [fellowship].
 [recent]
+Randall W.
 Pete C.
 DeanH
 Jesus B.
@@ -124,6 +125,7 @@ Nino D.
 Norman L.
 Pete C.
 Peter H.
+Randall W.
 Richard B.
 Richard D.
 Richard R.
