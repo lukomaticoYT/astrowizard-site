@@ -2,6 +2,7 @@
 # To change or remove your name: message Luke - done the same day.
 # '#' lines are comments. Sections: [recent] [legends] Martin Ba.
 [recent]
+Jody H.
 Patrizio C.
 Ken F.
 Roy F.
@@ -11,7 +12,6 @@ Martin B.
 Randall W.
 Pete C.
 DeanH
-Jesus B.
 [legends]
 Pete's Astrophotography
 Blake (ThisOne)
@@ -93,6 +93,7 @@ Jeff C.
 Jeff P.
 Jesus B.
 Joachim R.
+Jody H.
 John M.
 Joseph C.
 Joseph L.
