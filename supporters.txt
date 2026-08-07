@@ -2,16 +2,16 @@
 # To change or remove your name: message Luke - done the same day.
 # '#' lines are comments. Sections: [recent] [legends] [fellowship].
 [recent]
+Dr. D.
+Vicki C.
+Studio_AP
+Moore's Floors
+Subhadip C.
+Yannik W.
+Gary P.
+Douglas H.
+Stuart F.
 Richard S.
-Jody H.
-Patrizio C.
-Ken F.
-Roy F.
-Ed K.
-Claus S.
-Martin B.
-Randall W.
-Pete C.
 [legends]
 Pete's Astrophotography
 Blake (ThisOne)
@@ -78,9 +78,12 @@ David T.
 Dawn P.
 Dean S.
 DeanH
+Douglas H.
+Dr. D.
 Ed K.
 Francesco A.
 Francisco G.
+Gary P.
 Gavin L.
 Hans L.
 Ian L.
@@ -125,6 +128,7 @@ Michael T.
 Michael V.
 Michel A.
 Michel H.
+Moore's Floors
 Nathan C.
 Neil W.
 Nino D.
@@ -148,5 +152,10 @@ Stephen Ly.
 Steve W.
 Steven D.
 Steven G.
+Stuart F.
+Studio_AP
+Subhadip C.
+Vicki C.
 Victor G.
 Walter R.
+Yannik W.
