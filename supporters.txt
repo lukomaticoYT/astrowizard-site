@@ -2,6 +2,7 @@
 # To change or remove your name: message Luke - done the same day.
 # '#' lines are comments. Sections: [recent] [legends] [fellowship].
 [recent]
+Jason K.
 Dr. D.
 Vicki C.
 Studio_AP
@@ -11,7 +12,6 @@ Yannik W.
 Gary P.
 Douglas H.
 Stuart F.
-Richard S.
 [legends]
 Pete's Astrophotography
 Blake (ThisOne)
@@ -93,6 +93,7 @@ James C.
 James K.
 James L.
 Jason J.
+Jason K.
 Jeff C.
 Jeff P.
 Jesus B.
