@@ -2,6 +2,7 @@
 # To change or remove your name: message Luke - done the same day.
 # '#' lines are comments. Sections: [recent] [legends] [fellowship].
 [recent]
+Charles W.
 Noah B.
 Michael P.
 Brian A.
@@ -11,7 +12,6 @@ Michael L.
 Jason K.
 Dr. D.
 Vicki C.
-Studio_AP
 [legends]
 Pete's Astrophotography
 Blake (ThisOne)
@@ -65,6 +65,7 @@ Brian A.
 Carl B.
 Charles E.
 Charles P.
+Charles W.
 Cheryl M.
 Chris D.
 Chris O.
