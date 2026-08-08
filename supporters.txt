@@ -2,6 +2,7 @@
 # To change or remove your name: message Luke - done the same day.
 # '#' lines are comments. Sections: [recent] [legends] [fellowship].
 [recent]
+G. Stoppa
 Michael De.
 Robert B.
 David H.
@@ -11,7 +12,6 @@ Kalev P.
 Henri D.
 Brian P.
 Denis Y.
-Charles W.
 [legends]
 Pete's Astrophotography
 Blake (ThisOne)
@@ -90,6 +90,7 @@ Dr. D.
 Ed K.
 Francesco A.
 Francisco G.
+G. Stoppa
 Gary P.
 Gavin L.
 Hans L.
