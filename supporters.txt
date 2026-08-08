@@ -2,6 +2,7 @@
 # To change or remove your name: message Luke - done the same day.
 # '#' lines are comments. Sections: [recent] [legends] [fellowship].
 [recent]
+Hamid S.
 Carlos R.
 M. Sansom
 Jason P.
@@ -11,7 +12,6 @@ David D.
 Jason E.
 Keith G.
 Krzysztof K.
-Vivien R.
 [legends]
 Pete's Astrophotography
 Blake (ThisOne)
@@ -100,6 +100,7 @@ Gary P.
 Gary Z.
 Gavin L.
 Graeme B.
+Hamid S.
 Hans L.
 HansPS
 Henri D.
