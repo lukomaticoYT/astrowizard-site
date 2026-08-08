@@ -2,6 +2,7 @@
 # To change or remove your name: message Luke - done the same day.
 # '#' lines are comments. Sections: [recent] [legends] [fellowship].
 [recent]
+Richard's Astrophotography
 Adam H.
 Paul M.
 Gary@MUVEDesign
@@ -11,7 +12,6 @@ Carlos R.
 M. Sansom
 Jason P.
 RuKo
-Gary Z.
 [legends]
 Pete's Astrophotography
 Blake (ThisOne)
@@ -178,6 +178,7 @@ Richard B.
 Richard D.
 Richard R.
 Richard S.
+Richard's Astrophotography
 Robert B.
 Ronald C.
 Ronnie G.
