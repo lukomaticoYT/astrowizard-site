@@ -2,6 +2,7 @@
 # To change or remove your name: message Luke - done the same day.
 # '#' lines are comments. Sections: [recent] [legends] [fellowship].
 [recent]
+Krzysztof K.
 Vivien R.
 Adam D.
 HansPS
@@ -11,7 +12,6 @@ Aaron Q.
 Bruno L.
 Uladzimir A.
 Nico G.
-G. Stoppa
 [legends]
 Pete's Astrophotography
 Blake (ThisOne)
@@ -122,6 +122,7 @@ Jörg S.
 Kalev P.
 Ken F.
 Kris H.
+Krzysztof K.
 Lawrence K.
 Leonard J.
 Loree R.
