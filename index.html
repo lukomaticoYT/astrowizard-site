@@ -301,15 +301,15 @@
     <div class="dl-row">
       <a class="btn btn-win" data-os="windows" href="https://drive.google.com/uc?export=download&id=1Y2Ey9nhLOvSeopmq1FgNWKV0WqAFMcn-" rel="noopener">
         <span class="big">Download for Windows</span>
-        <span class="small">AstroWizard.exe &middot; 84 MB</span>
+        <span class="small">AstroWizard.exe &middot; 109 MB</span>
       </a>
       <a class="btn btn-mac" data-os="mac" href="https://drive.google.com/uc?export=download&id=1rPxwVYPgby84FEEd8XGymOU1nveN1acM" rel="noopener">
         <span class="big">Download for macOS</span>
-        <span class="small">AstroWizard-mac.zip &middot; Apple Silicon &middot; 50 MB</span>
+        <span class="small">AstroWizard-mac.zip &middot; Apple Silicon &middot; 66 MB</span>
       </a>
       <a class="btn btn-mac" data-os="linux" href="https://drive.google.com/uc?export=download&id=1l6qXGG6qvLwsWeTIhH3smUH_qA5SbrAU" rel="noopener">
         <span class="big">Download for Linux</span>
-        <span class="small">AstroWizard-Linux-x86_64.tar.gz &middot; 92 MB</span>
+        <span class="small">AstroWizard-Linux-x86_64.tar.gz &middot; 130 MB</span>
       </a>
       <p class="buildline">current build <b>7 August 2026</b> &middot; you&#8217;ll always find the newest version on this page</p>
     </div>
@@ -363,6 +363,7 @@
           <p>Open <b>⚙️ Settings &amp; Help</b> and point AstroWizard at your AI tools - they usually live here:</p>
           <p>GraXpert:<br><code>C:\Users\&lt;you&gt;\AppData\Local\Programs\GraXpert\GraXpert.exe</code></p>
           <p>RC-Astro:<br><code>C:\Program Files\RC-Astro\CLI\rc-astro.exe</code></p>
+          <p>StarNet2 (optional, free star removal): install from starnetastro.com - AstroWizard finds it automatically in the standard spot.</p>
           <p>Then open GraXpert once <em>on its own</em> and run each tool - it downloads its AI models on first use.</p>
         </div>
         <p class="why">Why the warning? Microsoft charges independent developers for a signing certificate; during the beta we skip it. The build on this page is always the official one.</p>
@@ -381,6 +382,7 @@
           <p>Open <b>⚙️ Settings &amp; Help</b> and point AstroWizard at your AI tools:</p>
           <p>GraXpert: just pick <code>GraXpert.app</code> in your <b>Applications</b> folder - AstroWizard finds the engine inside automatically.</p>
           <p>RC-Astro: pick the single <code>rc-astro</code> file in <code>/Applications/RC-Astro/CLI</code> - one program runs all three tools.</p>
+          <p>StarNet2 (optional, free star removal): install the command-line version from starnetastro.com and AstroWizard finds it automatically.</p>
           <p>Then open GraXpert once <em>on its own</em> and run each tool - it downloads its AI models on first use.</p>
         </div>
         <p class="why">Why right-click? Apple&#8217;s yearly developer fee is skipped during the beta - right-click &rarr; Open is macOS&#8217;s official way of saying &#8220;I trust this one.&#8221;</p>
@@ -398,6 +400,7 @@
           <p>Open <b>⚙️ Settings &amp; Help</b> and point AstroWizard at your AI tools:</p>
           <p>GraXpert: pick the <code>.AppImage</code> file itself (mark it executable first if needed).</p>
           <p>RC-Astro: choose the <code>rc-astro</code> program from wherever its installer placed it. GPU acceleration on Linux currently needs NVIDIA; it runs on CPU otherwise.</p>
+          <p>StarNet2 (optional, free star removal): install the command-line version from starnetastro.com; AstroWizard checks the usual spots automatically.</p>
           <p>Then open GraXpert once <em>on its own</em> and run each tool - it downloads its AI models on first use.</p>
         </div>
         <p class="why">The newest build of the family - it compiles clean and boots clean, and Linux astro folk are hereby deputised as its test pilots. Expect rough edges; report them proudly.</p>
@@ -412,9 +415,9 @@
     <div class="engines">
       <div class="engine">
         <p class="price">FREE</p>
-        <h4>GraXpert</h4>
-        <p>Background gradient removal and AI denoising. Open GraXpert once after installing so it fetches its AI models - then AstroWizard takes it from there.</p>
-        <p class="link"><a href="https://graxpert.com/" rel="noopener">Get GraXpert &rarr;</a></p>
+        <h4>GraXpert &amp; StarNet2</h4>
+        <p>GraXpert handles background gradient removal and AI denoising (open it once after installing so it fetches its models). StarNet2 - Mikita Misiura&#8217;s free neural net - handles star removal, so the whole star workflow now has a free path.</p>
+        <p class="link"><a href="https://graxpert.com/" rel="noopener">Get GraXpert &rarr;</a> &nbsp;&middot;&nbsp; <a href="https://www.starnetastro.com/" rel="noopener">Get StarNet2 &rarr;</a></p>
       </div>
       <div class="engine">
         <p class="price">PAID &middot; TRIAL AVAILABLE</p>
@@ -436,7 +439,7 @@
     <p class="sub" style="margin-bottom:22px;">The five questions that cover 90% of the comment section.</p>
     <details>
       <summary>What files can I load?</summary>
-      <div class="a">Stacked <b>FITS or TIFF</b> from anything - Seestar, Dwarf, ASTAP, Siril, PixInsight, DeepSkyStacker. AstroWizard figures out the format quirks (bit depth, pixel range, bloated headers) automatically. Stack first, then bring the result here.</div>
+      <div class="a">Stacked <b>FITS, TIFF or XISF</b> from anything - Seestar, Dwarf, ASTAP, Siril, PixInsight, DeepSkyStacker. Yes, PixInsight&#8217;s native XISF walks straight in. AstroWizard figures out the format quirks (bit depth, pixel range, bloated headers) automatically. Stack first, then bring the result here.</div>
     </details>
     <details>
       <summary>I clicked a GraXpert button and nothing happened.</summary>
