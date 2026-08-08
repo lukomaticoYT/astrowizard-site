@@ -2,6 +2,7 @@
 # To change or remove your name: message Luke - done the same day.
 # '#' lines are comments. Sections: [recent] [legends] [fellowship].
 [recent]
+P. Holl
 Aaron Q.
 Bruno L.
 Uladzimir A.
@@ -11,7 +12,6 @@ Michael De.
 Robert B.
 David H.
 Martin K.
-Chris J.
 [legends]
 Pete's Astrophotography
 Blake (ThisOne)
@@ -153,6 +153,7 @@ Nico G.
 Nino D.
 Noah B.
 Norman L.
+P. Holl
 Patrizio C.
 Pete C.
 Peter H.
