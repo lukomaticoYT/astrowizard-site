@@ -2,6 +2,7 @@
 # To change or remove your name: message Luke - done the same day.
 # '#' lines are comments. Sections: [recent] [legends] [fellowship].
 [recent]
+Vivien R.
 Adam D.
 HansPS
 Graeme B.
@@ -11,7 +12,6 @@ Bruno L.
 Uladzimir A.
 Nico G.
 G. Stoppa
-Michael De.
 [legends]
 Pete's Astrophotography
 Blake (ThisOne)
@@ -183,5 +183,6 @@ Subhadip C.
 Uladzimir A.
 Vicki C.
 Victor G.
+Vivien R.
 Walter R.
 Yannik W.
