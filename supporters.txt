@@ -2,6 +2,7 @@
 # To change or remove your name: message Luke - done the same day.
 # '#' lines are comments. Sections: [recent] [legends] [fellowship].
 [recent]
+Bruno L.
 Uladzimir A.
 Nico G.
 G. Stoppa
@@ -11,7 +12,6 @@ David H.
 Martin K.
 Chris J.
 Kalev P.
-Henri D.
 [legends]
 Pete's Astrophotography
 Blake (ThisOne)
@@ -63,6 +63,7 @@ Bertrand D.
 Bill M.
 Brad H.
 Brian A.
+Bruno L.
 Carl B.
 Charles E.
 Charles P.
