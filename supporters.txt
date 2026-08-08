@@ -2,6 +2,7 @@
 # To change or remove your name: message Luke - done the same day.
 # '#' lines are comments. Sections: [recent] [legends] [fellowship].
 [recent]
+Alan D.
 Michael L.
 Jason K.
 Dr. D.
@@ -11,7 +12,6 @@ Mo Moore
 Subhadip C.
 Yannik W.
 Gary P.
-Douglas H.
 [legends]
 Pete's Astrophotography
 Blake (ThisOne)
@@ -52,6 +52,7 @@ Andrew Shaw
 Charles Magnuson
 Martin Ba.
 [fellowship]
+Alan D.
 Albert A.
 Alexander M.
 Andrew L.
