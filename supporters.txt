@@ -2,6 +2,7 @@
 # To change or remove your name: message Luke - done the same day.
 # '#' lines are comments. Sections: [recent] [legends] [fellowship].
 [recent]
+Martin K.
 Chris J.
 Kalev P.
 Henri D.
@@ -11,7 +12,6 @@ Charles W.
 Noah B.
 Michael P.
 Brian A.
-Jessica M.
 [legends]
 Pete's Astrophotography
 Blake (ThisOne)
@@ -131,6 +131,7 @@ Martin B.
 Martin Ba.
 Martin Br.
 Martin E.
+Martin K.
 Matthew G.
 Michael D.
 Michael L.
