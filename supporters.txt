@@ -2,6 +2,7 @@
 # To change or remove your name: message Luke - done the same day.
 # '#' lines are comments. Sections: [recent] [legends] [fellowship].
 [recent]
+Brett H.
 Hamid S.
 Carlos R.
 M. Sansom
@@ -11,7 +12,6 @@ Gary Z.
 David D.
 Jason E.
 Keith G.
-Krzysztof K.
 [legends]
 Pete's Astrophotography
 Blake (ThisOne)
@@ -64,6 +64,7 @@ Arne B.
 Bertrand D.
 Bill M.
 Brad H.
+Brett H.
 Brian A.
 Bruno L.
 Carl B.
