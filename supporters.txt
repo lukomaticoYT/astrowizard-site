@@ -2,6 +2,7 @@
 # To change or remove your name: message Luke - done the same day.
 # '#' lines are comments. Sections: [recent] [legends] [fellowship].
 [recent]
+Geoffrey W.
 Petros M.
 Michael F.
 Paul S.
@@ -11,7 +12,6 @@ Gordon Z.
 John L.
 Stephen L.
 SJ. Grady
-Donald L.
 [legends]
 Pete's Astrophotography
 Blake (ThisOne)
@@ -106,6 +106,7 @@ Gary P.
 Gary Z.
 Gary@MUVEDesign
 Gavin L.
+Geoffrey W.
 Geoffrey W. C.
 Gordon Z.
 Graeme B.
