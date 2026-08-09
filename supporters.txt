@@ -2,6 +2,7 @@
 # To change or remove your name: message Luke - done the same day.
 # '#' lines are comments. Sections: [recent] [legends] [fellowship].
 [recent]
+Sound Man Martin
 Paul F.
 Steven A.
 Geoffrey V.
@@ -11,7 +12,6 @@ Brian W.
 Richard C.
 Rick G.
 Geoffrey W.
-Petros M.
 [legends]
 Pete's Astrophotography
 Blake (ThisOne)
@@ -207,6 +207,7 @@ RuKo
 Samuel D.
 SJ. Grady
 Sonja L.
+Sound Man Martin
 Steinhaus T.
 Stephen H.
 Stephen L.
