@@ -2,6 +2,7 @@
 # To change or remove your name: message Luke - done the same day.
 # '#' lines are comments. Sections: [recent] [legends] [fellowship].
 [recent]
+John R.
 Eric F.
 D. Huff
 Cuiv, the Lazy Geek
@@ -11,7 +12,6 @@ Paul M.
 Gary@MUVEDesign
 Brett H.
 Hamid S.
-Carlos R.
 [legends]
 Pete's Astrophotography
 Blake (ThisOne)
@@ -127,6 +127,7 @@ Jesus B.
 Joachim R.
 Jody H.
 John M.
+John R.
 Joseph C.
 Joseph L.
 Joseph T.
