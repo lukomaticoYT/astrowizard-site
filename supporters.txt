@@ -2,6 +2,7 @@
 # To change or remove your name: message Luke - done the same day.
 # '#' lines are comments. Sections: [recent] [legends] [fellowship].
 [recent]
+Eric F.
 D. Huff
 Cuiv, the Lazy Geek
 Richard's Astrophotography
@@ -11,7 +12,6 @@ Gary@MUVEDesign
 Brett H.
 Hamid S.
 Carlos R.
-M. Sansom
 [legends]
 Pete's Astrophotography
 Blake (ThisOne)
@@ -97,6 +97,7 @@ Denis Y.
 Douglas H.
 Dr. D.
 Ed K.
+Eric F.
 Francesco A.
 Francisco G.
 G. Stoppa
