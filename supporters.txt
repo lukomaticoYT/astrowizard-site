@@ -2,6 +2,7 @@
 # To change or remove your name: message Luke - done the same day.
 # '#' lines are comments. Sections: [recent] [legends] [fellowship].
 [recent]
+SJ. Grady
 Donald L.
 Geoffrey W. C.
 John R.
@@ -11,7 +12,6 @@ Cuiv, the Lazy Geek
 Richard's Astrophotography
 Adam H.
 Paul M.
-Gary@MUVEDesign
 [legends]
 Pete's Astrophotography
 Blake (ThisOne)
@@ -190,6 +190,7 @@ Ronald C.
 Ronnie G.
 Roy F.
 RuKo
+SJ. Grady
 Sonja L.
 Steinhaus T.
 Stephen H.
