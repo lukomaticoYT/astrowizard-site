@@ -2,6 +2,7 @@
 # To change or remove your name: message Luke - done the same day.
 # '#' lines are comments. Sections: [recent] [legends] [fellowship].
 [recent]
+Frank "Astronut" G.
 Sound Man Martin
 Paul F.
 Steven A.
@@ -11,7 +12,6 @@ Patrick N.
 Brian W.
 Richard C.
 Rick G.
-Geoffrey W.
 [legends]
 Pete's Astrophotography
 Blake (ThisOne)
@@ -102,6 +102,7 @@ Ed K.
 Eric F.
 Francesco A.
 Francisco G.
+Frank "Astronut" G.
 G. Stoppa
 Gary P.
 Gary Z.
