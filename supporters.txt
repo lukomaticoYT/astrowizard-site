@@ -2,6 +2,7 @@
 # To change or remove your name: message Luke - done the same day.
 # '#' lines are comments. Sections: [recent] [legends] [fellowship].
 [recent]
+Samuel D.
 Patrick N.
 Brian W.
 Richard C.
@@ -11,7 +12,6 @@ Petros M.
 Michael F.
 Paul S.
 Piotr I.
-Mike B.
 [legends]
 Pete's Astrophotography
 Blake (ThisOne)
@@ -202,6 +202,7 @@ Ronald C.
 Ronnie G.
 Roy F.
 RuKo
+Samuel D.
 SJ. Grady
 Sonja L.
 Steinhaus T.
