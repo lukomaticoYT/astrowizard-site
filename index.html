@@ -48,6 +48,16 @@
   header { position: relative; overflow: hidden; }
   .chart { position: relative; }
   .chart svg { display: block; width: 100%; height: auto; }
+  .topnav {
+    display: flex; justify-content: space-between; align-items: center; gap: 14px;
+    max-width: 1080px; margin: 0 auto; padding: 16px 24px 0; font-size: 14px;
+  }
+  .topnav a { text-decoration: none; }
+  .topnav .brand { font-family: var(--serif); font-size: 16.5px; color: var(--ink); }
+  .topnav .links { display: flex; gap: 18px; flex-wrap: wrap; }
+  .topnav .links a { color: var(--ink-soft); }
+  .topnav .links a:hover { color: var(--ink); }
+  .topnav .links a.lib { color: var(--gold); }
   .hero-copy { position: relative; padding: 12px 0 56px; max-width: 620px; }
   .eyebrow {
     font-family: var(--mono); font-size: 12px; letter-spacing: .18em;
@@ -227,6 +237,15 @@
 </style>
 </head>
 <body>
+
+<nav class="topnav" aria-label="Site">
+  <a class="brand" href="./">🧙 AstroWizard</a>
+  <div class="links">
+    <a class="lib" href="library.html">📚 The Wizard&#8217;s Library</a>
+    <a href="fellowship.html">⭐ The Fellowship</a>
+    <a href="changelog.html">Changelog</a>
+  </div>
+</nav>
 
 <header>
   <div class="wrap chart">
