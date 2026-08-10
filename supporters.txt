@@ -2,6 +2,7 @@
 # To change or remove your name: message Luke - done the same day.
 # '#' lines are comments. Sections: [recent] [legends] [fellowship].
 [recent]
+Peter S.
 Will J.
 Tobias W.
 Karen W.
@@ -11,7 +12,6 @@ Sound Man Martin
 Paul F.
 Steven A.
 Geoffrey V.
-Samuel D.
 [legends]
 Pete's Astrophotography
 Blake (ThisOne)
@@ -192,6 +192,7 @@ Paul M.
 Paul S.
 Pete C.
 Peter H.
+Peter S.
 Petros M.
 Piotr I.
 Randall W.
