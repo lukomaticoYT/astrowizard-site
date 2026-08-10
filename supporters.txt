@@ -2,6 +2,7 @@
 # To change or remove your name: message Luke - done the same day.
 # '#' lines are comments. Sections: [recent] [legends] [fellowship].
 [recent]
+Eddie L.
 Earl P.
 Xavier H.
 Guy R.
@@ -11,7 +12,6 @@ Will J.
 Tobias W.
 Karen W.
 Michael S.
-Frank "Astronut" G.
 [legends]
 Pete's Astrophotography
 Blake (ThisOne)
@@ -100,6 +100,7 @@ Douglas H.
 Dr. D.
 Earl P.
 Ed K.
+Eddie L.
 Eric F.
 Francesco A.
 Francisco G.
