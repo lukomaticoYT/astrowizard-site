@@ -2,6 +2,7 @@
 # To change or remove your name: message Luke - done the same day.
 # '#' lines are comments. Sections: [recent] [legends] [fellowship].
 [recent]
+StarSight Astrophotography
 Eddie L.
 Earl P.
 Xavier H.
@@ -11,7 +12,6 @@ Peter S.
 Will J.
 Tobias W.
 Karen W.
-Michael S.
 [legends]
 Pete's Astrophotography
 Blake (ThisOne)
@@ -216,6 +216,7 @@ Samuel D.
 SJ. Grady
 Sonja L.
 Sound Man Martin
+StarSight Astrophotography
 Steinhaus T.
 Stephen H.
 Stephen L.
