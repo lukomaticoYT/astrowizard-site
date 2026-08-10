@@ -2,6 +2,7 @@
 # To change or remove your name: message Luke - done the same day.
 # '#' lines are comments. Sections: [recent] [legends] [fellowship].
 [recent]
+C. O'Neill
 Paul B.
 Dale R.
 R. Bruce
@@ -11,7 +12,6 @@ Earl P.
 Xavier H.
 Guy R.
 M. Kotchie
-Peter S.
 [legends]
 Pete's Astrophotography
 Blake (ThisOne)
@@ -69,6 +69,7 @@ Brett H.
 Brian A.
 Brian W.
 Bruno L.
+C. O'Neill
 Carl B.
 Carlos R.
 Charles E.
