@@ -2,6 +2,7 @@
 # To change or remove your name: message Luke - done the same day.
 # '#' lines are comments. Sections: [recent] [legends] [fellowship].
 [recent]
+Dale R.
 R. Bruce
 StarSight Astrophotography
 Eddie L.
@@ -11,7 +12,6 @@ Guy R.
 M. Kotchie
 Peter S.
 Will J.
-Tobias W.
 [legends]
 Pete's Astrophotography
 Blake (ThisOne)
@@ -84,6 +84,7 @@ Claus S.
 Cuiv, the Lazy Geek
 D. Huff
 Dale C.
+Dale R.
 David B.
 David C.
 David D.
