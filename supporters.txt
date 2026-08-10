@@ -2,6 +2,7 @@
 # To change or remove your name: message Luke - done the same day.
 # '#' lines are comments. Sections: [recent] [legends] [fellowship].
 [recent]
+High Legh Community Observatory
 C. O'Neill
 Paul B.
 Dale R.
@@ -11,7 +12,6 @@ Eddie L.
 Earl P.
 Xavier H.
 Guy R.
-M. Kotchie
 [legends]
 Pete's Astrophotography
 Blake (ThisOne)
@@ -122,6 +122,7 @@ Hamid S.
 Hans L.
 HansPS
 Henri D.
+High Legh Community Observatory
 Ian L.
 James A.
 James B.
