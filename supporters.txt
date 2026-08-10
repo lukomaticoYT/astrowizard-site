@@ -2,6 +2,7 @@
 # To change or remove your name: message Luke - done the same day.
 # '#' lines are comments. Sections: [recent] [legends] [fellowship].
 [recent]
+Guy R.
 M. Kotchie
 Peter S.
 Will J.
@@ -11,7 +12,6 @@ Michael S.
 Frank "Astronut" G.
 Sound Man Martin
 Paul F.
-Steven A.
 [legends]
 Pete's Astrophotography
 Blake (ThisOne)
@@ -113,6 +113,7 @@ Geoffrey W.
 Geoffrey W. C.
 Gordon Z.
 Graeme B.
+Guy R.
 Hamid S.
 Hans L.
 HansPS
