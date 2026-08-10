@@ -4,7 +4,7 @@
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>AstroWizard - The Wizard's Library</title>
-<meta name="description" content="Free practice skies for every wizard - real telescope data, stacked and ready to process. Coming soon.">
+<meta name="description" content="Free practice skies for every wizard - real telescope data from Lukomatico's own rigs, stacked and ready to process. The doors are open.">
 <link rel="icon" href="data:image/svg+xml,<svg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 100 100%22><text y=%22.9em%22 font-size=%2290%22>📚</text></svg>">
 <style>
   :root {
@@ -61,6 +61,15 @@
   }
   .shelf h3 { margin: 0 0 6px; font-family: var(--serif); font-weight: 400; font-size: 18.5px; }
   .shelf p { margin: 0; color: var(--ink-soft); font-size: 14.5px; }
+  .shelf ul { list-style: none; margin: 12px 0 0; padding: 0; display: grid; gap: 8px; }
+  .shelf li { color: var(--ink); font-size: 13.5px; line-height: 1.45; }
+  .shelf li .meta { color: var(--ink-soft); font-size: 12.5px; display: block; }
+  .shelf-btn {
+    display: inline-block; margin-top: 14px; padding: 8px 14px;
+    border: 1px solid var(--violet); border-radius: 8px;
+    text-decoration: none; font-family: var(--mono); font-size: 12.5px;
+  }
+  .shelf-btn:hover { background: rgba(123, 115, 240, .12); }
   .why { margin-top: 40px; max-width: 66ch; color: var(--ink-soft); }
   .why b { color: var(--ink); }
   .kindness {
@@ -69,6 +78,15 @@
     font-style: italic; max-width: 62ch;
   }
   .kindness .gold { color: var(--gold); font-style: italic; }
+  .coinpurse { margin-top: 18px; }
+  .coinpurse p { color: var(--ink-soft); font-size: 14px; margin: 0 0 12px; max-width: 62ch; }
+  .coin-btns { display: flex; flex-wrap: wrap; gap: 10px; }
+  .coin-btns a {
+    display: inline-block; padding: 9px 16px; border-radius: 8px;
+    text-decoration: none; font-size: 13.5px; font-weight: 600;
+    border: 1px solid var(--card-edge); background: var(--card); color: var(--ink);
+  }
+  .coin-btns a:hover { border-color: var(--gold); }
 </style>
 </head>
 <body>
@@ -78,35 +96,71 @@
   <p class="sub">Free practice skies for every wizard - real data from the wizard&#8217;s own telescopes, stacked and ready to process. Cloudy night? No telescope yet? The Library will lend you the stars.</p>
 
   <div class="status">
-    <p class="st">Under construction</p>
-    <p>The shelves are being carved and the first data sets are being chosen from the wizard&#8217;s archive - years of imaging, from smart scopes to big rigs. Watch this page (and the videos) - the doors open soon.</p>
+    <p class="st">The doors are open &middot; twelve volumes on the shelves</p>
+    <p>Real stacked masters from the wizard&#8217;s own telescopes, free to borrow forever. Download one, open it in AstroWizard, and cast away. Sample images and step-by-step recipes join the shelves as the Library grows - the librarian is still writing the card catalogue.</p>
   </div>
 
-  <h2>What the shelves will hold</h2>
+  <h2>The shelves</h2>
   <div class="shelves">
     <div class="shelf">
       <h3>🌟 First Light</h3>
-      <p>Bright, friendly targets that reward every step - perfect for your very first process, or for following along with a tutorial on the exact same data.</p>
+      <p>Bright, friendly targets that reward every step - perfect for a very first process.</p>
+      <ul>
+        <li><b>M51, the Whirlpool Galaxy</b><span class="meta">8.1 hours &middot; Hyperstar &middot; 109 MB</span></li>
+        <li><b>M101, the Pinwheel Galaxy</b><span class="meta">6.4 hours &middot; Hyperstar &middot; 104 MB</span></li>
+        <li><b>M63, the Sunflower Galaxy</b><span class="meta">13.7 hours &middot; Hyperstar &middot; 160 MB</span></li>
+        <li><b>The Horsehead &amp; Flame</b><span class="meta">5.5 hours &middot; Hyperstar, unfiltered &middot; 311 MB</span></li>
+      </ul>
+      <a class="shelf-btn" href="https://drive.google.com/drive/folders/1PdAMIF4DTLjQOjy-YOii4pyQpUQzLvi0" rel="noopener">Browse this shelf &rarr;</a>
     </div>
     <div class="shelf">
       <h3>🌈 Dual-Band Skies</h3>
-      <p>OSC dual-band stacks from smart scopes and fast rigs - practise the Hubble mix and star magic on the kind of data most people actually have.</p>
+      <p>OSC dual-band stacks - practise the Hubble mix and star magic on the kind of data most people actually have.</p>
+      <ul>
+        <li><b>The Rosette Nebula</b><span class="meta">2.5 hours &middot; cropped &amp; light-pollution-treated before stacking &middot; 281 MB</span></li>
+        <li><b>The Bubble Nebula</b><span class="meta">Askar 120 &middot; dual-band filter &middot; 104 MB</span></li>
+        <li><b>vdB 142, the Elephant&#8217;s Trunk</b><span class="meta">2 hours &middot; dual-band &middot; 319 MB</span></li>
+      </ul>
+      <a class="shelf-btn" href="https://drive.google.com/drive/folders/121zV464uCPzqYmeKqJ8X8mLnGm4OqH_7" rel="noopener">Browse this shelf &rarr;</a>
     </div>
     <div class="shelf">
       <h3>🔭 The Mono Wing</h3>
-      <p>SHO narrowband channel sets for the mono-curious - combine, balance and palette real filter data without owning a filter wheel.</p>
+      <p>Real SHO filter sets, three files per target - combine, balance and palette mono narrowband without owning a filter wheel.</p>
+      <ul>
+        <li><b>M57, the Ring Nebula</b><span class="meta">~14 hours across Ha &middot; OIII &middot; SII &middot; 3 files, 38 MB each</span></li>
+        <li><b>The Bubble Nebula in SHO</b><span class="meta">Ha &middot; OIII &middot; SII &middot; 3 files, 48 MB each</span></li>
+        <li><b>M16, the Eagle (yes, the Pillars)</b><span class="meta">~14 hours &middot; EdgeHD 11 &middot; 3 files, 41 MB each</span></li>
+      </ul>
+      <a class="shelf-btn" href="https://drive.google.com/drive/folders/1FJT0r0fTUTEpdOeXWZ-gwcQm-OoSF2zD" rel="noopener">Browse this shelf &rarr;</a>
     </div>
     <div class="shelf">
       <h3>🐉 The Troublesome Tomes</h3>
-      <p>Famously difficult data - faint dust, stubborn gradients, wild stars. For when you want the practice fight before it happens to your own precious subs.</p>
+      <p>Famously difficult data - faint dust, stubborn gradients, wild stars. The practice fight, before it happens to your own precious subs.</p>
+      <ul>
+        <li><b>The Cocoon Nebula</b><span class="meta">RASA 11 broadband &middot; dust everywhere &middot; 308 MB</span></li>
+        <li><b>vdB 152, the Wolf&#8217;s Cave ghost</b><span class="meta">three nights of faint dust &middot; 309 MB</span></li>
+      </ul>
+      <a class="shelf-btn" href="https://drive.google.com/drive/folders/1lqBLKcNRRg7zDTN7DyNKGz6ViwqTL9SN" rel="noopener">Browse this shelf &rarr;</a>
     </div>
   </div>
+
+  <p class="why"><b>How to borrow:</b> each shelf opens in Google Drive - download the volume you fancy, load it into <a href="./">AstroWizard</a>, and follow the steps. Masters are big files (real data, real weight) - the size is on every ticket. On very busy days a volume can hit Drive&#8217;s daily download limit; if one won&#8217;t come down, try again tomorrow.</p>
 
   <p class="why"><b>Why a library?</b> Because the best part of this hobby - turning raw starlight into a picture you&#8217;re proud of - shouldn&#8217;t have to wait for clear skies, working gear, or a lottery win. Download a master, open it in <a href="./">AstroWizard</a> (or any tool you like), and learn by doing. Every set will be free, forever.</p>
 
   <p class="why"><b>The borrowing rules</b> (plain English, like everything here): the data is free to learn from, and whatever you make from it is <b>yours</b> - post it, print it, enter it in competitions, show it off, all with the wizard&#8217;s blessing. A little credit (&#8220;data: The Wizard&#8217;s Library&#8221;) is always lovely but never required. The one ask: please don&#8217;t re-host or sell the data sets themselves - send fellow wizards here instead, so the Library stays one place, kept current and free.</p>
 
-  <p class="kindness">Like everything the wizard builds, the Library will be <span class="gold">founded on, and maintained by, kindness.</span></p>
+  <p class="kindness">Like everything the wizard builds, the Library is <span class="gold">founded on, and maintained by, kindness.</span></p>
+
+  <div class="coinpurse">
+    <p>The shelves are free, forever. But if the Library lends you the stars on a cloudy night and you fancy keeping the hearth lit, the coinpurse is by the door - and kindness is honoured back: your name in The Wizard&#8217;s Fellowship, for all time.</p>
+    <div class="coin-btns">
+      <a href="https://paypal.me/lukomatico" rel="noopener">☕ Tip the coinpurse</a>
+      <a href="https://patreon.com/lukomatico" rel="noopener">🧡 Join on Patreon</a>
+      <a href="fellowship.html">⭐ The Wizard&#8217;s Fellowship</a>
+    </div>
+  </div>
+
   <p style="color:var(--ink-soft);font-size:12.5px;margin-top:26px;">&copy; 2026 Luke Newbould (Lukomatico)</p>
 </div>
 </body>
