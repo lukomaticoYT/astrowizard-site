@@ -330,7 +330,7 @@
         <span class="big">Download for Linux</span>
         <span class="small">AstroWizard-Linux-x86_64.tar.gz &middot; 130 MB</span>
       </a>
-      <p class="buildline">current build <b>10 August 2026</b> &middot; you&#8217;ll always find the newest version on this page &middot; main link busy? <a href="#downloads" style="color:inherit;">mirror links below</a></p>
+      <p class="buildline">current build <b>12 August 2026</b> &middot; you&#8217;ll always find the newest version on this page &middot; main link busy? <a href="#downloads" style="color:inherit;">mirror links below</a></p>
     </div>
     <div class="trust-band">
       <p class="tb-head">Really free. Really private.</p>
@@ -389,9 +389,10 @@
         <p class="why">Why the warning? Microsoft charges independent developers for a signing certificate; during the beta we skip it. The build on this page is always the official one.</p>
       </div>
       <div class="card" data-os="mac">
-        <h3>macOS <span class="tag">APPLE SILICON &middot; ALL M-SERIES</span></h3>
+        <h3>macOS <span class="tag">APPLE SILICON &amp; INTEL</span></h3>
         <p class="get"><a class="btn btn-mac" href="https://drive.google.com/uc?export=download&id=1rPxwVYPgby84FEEd8XGymOU1nveN1acM" rel="noopener"><span class="big">Download for macOS</span></a></p>
         <p style="font-size:13.5px;color:var(--ink-soft);margin:-4px 0 10px;">Main link busy? <a href="https://github.com/lukomaticoYT/astrowizard-releases/releases/latest/download/AstroWizard-mac.zip" rel="noopener">Use the mirror</a> - same file, byte for byte.</p>
+        <p style="font-size:13.5px;color:var(--ink-soft);margin:0 0 10px;"><b style="color:var(--ink);">Older Intel Mac (2020 or earlier)?</b> Yours is <a href="https://drive.google.com/uc?export=download&id=1gWZL3rh3q1Xs0mFhg_o-YKv_bfMFxYfv" rel="noopener">this build instead</a> (or its <a href="https://github.com/lukomaticoYT/astrowizard-releases/releases/latest/download/AstroWizard-mac-Intel.zip" rel="noopener">mirror</a>) - same app, same steps below.</p>
         <ol>
           <li><b>Download</b> AstroWizard-mac.zip and double-click to unzip.</li>
           <li>First time only: <b>right-click</b> (or Control-click) AstroWizard &rarr; <b>Open</b> &rarr; <b>Open</b>.</li>
@@ -461,7 +462,7 @@
     <p class="sub" style="margin-bottom:22px;">The five questions that cover 90% of the comment section.</p>
     <details>
       <summary>What kind of computer do I need?</summary>
-      <div class="a"><b>Windows 10 or 11</b>, a <b>Mac with Apple Silicon</b> (any M-series), or <b>Linux</b> (x86-64). Older systems like Windows 7/8 can&#8217;t run it, sorry - the modern engine room won&#8217;t fit. Hardware-wise AstroWizard is not hungry: a modest machine is fine, and while the AI steps appreciate a decent graphics card, they run happily (just slower) on an ordinary CPU.</div>
+      <div class="a"><b>Windows 10 or 11</b>, <b>any Mac</b> (Apple Silicon and Intel builds both provided), or <b>Linux</b> (x86-64). Older systems like Windows 7/8 can&#8217;t run it, sorry - the modern engine room won&#8217;t fit. Hardware-wise AstroWizard is not hungry: a modest machine is fine, and while the AI steps appreciate a decent graphics card, they run happily (just slower) on an ordinary CPU.</div>
     </details>
     <details>
       <summary>What files can I load?</summary>
@@ -495,6 +496,11 @@
     <p class="sub" style="margin-bottom:26px;">Small releases, shipped often. Re-download any time - newer is always better here.</p>
     <div class="log">
       <div class="log-entry">
+        <p class="log-date">2026 &middot; AUGUST 12</p>
+        <h4>Four Platforms</h4>
+        <p><b>Intel Macs join the family</b> - a native build for pre-Apple-Silicon Macs, field-tested on the wizard&#8217;s own old MacBook (find it on the macOS card below). Also aboard: GraXpert graphics crashes now <b>cure themselves</b> (one automatic CPU retry, remembered ever after), and the white-screen-after-denoise mystery is solved for good - engine results are range-checked like every loaded file. The Fellowship wall rides at 256 names.</p>
+      </div>
+      <div class="log-entry">
         <p class="log-date">2026 &middot; AUGUST 10</p>
         <h4>The Library Opens</h4>
         <p><b>The Wizard&#8217;s Library is open</b> - free practice skies from the wizard&#8217;s own telescopes, <a href="library.html">twelve volumes across four shelves</a>, plus a 📚 door right on Step 1 for anyone with a cloudy fortnight and nothing to load. Replace Stars gains a <b>Star Colour</b> slider (golds go golder, blues bluer - a supporter&#8217;s &#8220;turbo charge&#8221; ask, live-previewed). The console grew kinder and cleverer: StarNet2&#8217;s own error messages now appear when it stumbles, with first aid for the instant-fail cases, and GPU troubles get per-engine cures. Plus StarNet2 in the Settings setup list with its own free-download button, the engines&#8217; makers honoured in the Acknowledgements, and the fine print now says - kindly - whose stars these are.</p>
@@ -503,11 +509,6 @@
         <p class="log-date">2026 &middot; AUGUST 7</p>
         <h4>Stars for Everyone</h4>
         <p>The big one: <b>star removal is now free for everyone</b> - StarNet2 joins as a fully supported engine beside StarXTerminator, found automatically once installed. AstroWizard computes the star layers itself, so Replace Stars is mathematically exact with either engine and gains Exact and Soft (PixInsight-style) blends, both live-previewed. Plus: <b>XISF files load natively</b> (welcome, PixInsight stackers), Save Stars Only joins Save Starless, the palette mixes name their data type, and the Fellowship takes centre stage in a tidier two-row header.</p>
-      </div>
-      <div class="log-entry">
-        <p class="log-date">2026 &middot; AUGUST 5</p>
-        <h4>The Steady Eyepiece</h4>
-        <p>A one-night fix pack, straight from the wizard&#8217;s own processing bench: the preview no longer &#8220;goes crazy&#8221; after noise reduction (denoising changes noise, not brightness - so the view now holds its aim and simply gets cleaner), the &#8220;already applied&#8221; note tells the truth through Undo and Redo, and Final Polish greets you with a friendly stacking note instead of a scary warning.</p>
       </div>
     </div>
     <p style="margin-top:26px;"><a href="changelog.html">Full changelog - every release, in plain English &rarr;</a></p>
