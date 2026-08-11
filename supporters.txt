@@ -2,6 +2,7 @@
 # To change or remove your name: message Luke - done the same day.
 # '#' lines are comments. Sections: [recent] [legends] [fellowship].
 [recent]
+Mike S.
 Mike N.
 Kabir J.
 SaltyPogue
@@ -11,7 +12,6 @@ Alan L.
 Timo K.
 Alex P.
 Didier P.
-High Legh Community Observatory
 [legends]
 Pete's Astrophotography
 Blake (ThisOne)
@@ -52,6 +52,7 @@ Andrew Shaw
 Charles Magnuson
 Martin Ba.
 Brian P.
+Mike S.
 [fellowship]
 Aaron Q.
 Adam D.
