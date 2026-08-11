@@ -2,6 +2,7 @@
 # To change or remove your name: message Luke - done the same day.
 # '#' lines are comments. Sections: [recent] [legends] [fellowship].
 [recent]
+Alex P.
 Didier P.
 High Legh Community Observatory
 C. O'Neill
@@ -11,7 +12,6 @@ R. Bruce
 StarSight Astrophotography
 Eddie L.
 Earl P.
-Xavier H.
 [legends]
 Pete's Astrophotography
 Blake (ThisOne)
@@ -58,6 +58,7 @@ Adam D.
 Adam H.
 Alan D.
 Albert A.
+Alex P.
 Alexander M.
 Andrew L.
 Andrew N.
