@@ -2,6 +2,7 @@
 # To change or remove your name: message Luke - done the same day.
 # '#' lines are comments. Sections: [recent] [legends] [fellowship].
 [recent]
+Laurence C.
 Dennis V.
 Alan L.
 Timo K.
@@ -11,7 +12,6 @@ High Legh Community Observatory
 C. O'Neill
 Paul B.
 Dale R.
-R. Bruce
 [legends]
 Pete's Astrophotography
 Blake (ThisOne)
@@ -156,6 +156,7 @@ Keith G.
 Ken F.
 Kris H.
 Krzysztof K.
+Laurence C.
 Lawrence K.
 Leonard J.
 Loree R.
