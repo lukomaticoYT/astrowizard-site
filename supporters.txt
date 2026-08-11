@@ -2,7 +2,7 @@
 # To change or remove your name: message Luke - done the same day.
 # '#' lines are comments. Sections: [recent] [legends] [fellowship].
 [recent]
-Rick C.
+Rick Carver
 Mike S.
 Mike N.
 Kabir J.
@@ -219,7 +219,7 @@ Richard D.
 Richard R.
 Richard S.
 Richard's Astrophotography
-Rick C.
+Rick Carver
 Rick G.
 Robert B.
 Ronald C.
