@@ -2,6 +2,7 @@
 # To change or remove your name: message Luke - done the same day.
 # '#' lines are comments. Sections: [recent] [legends] [fellowship].
 [recent]
+Kabir J.
 SaltyPogue
 Laurence C.
 Dennis V.
@@ -11,7 +12,6 @@ Alex P.
 Didier P.
 High Legh Community Observatory
 C. O'Neill
-Paul B.
 [legends]
 Pete's Astrophotography
 Blake (ThisOne)
@@ -150,6 +150,7 @@ Joseph C.
 Joseph L.
 Joseph T.
 Jörg S.
+Kabir J.
 Kalev P.
 Karen W.
 Keith G.
