@@ -2,6 +2,7 @@
 # To change or remove your name: message Luke - done the same day.
 # '#' lines are comments. Sections: [recent] [legends] [fellowship].
 [recent]
+Alan L.
 Timo K.
 Alex P.
 Didier P.
@@ -11,7 +12,6 @@ Paul B.
 Dale R.
 R. Bruce
 StarSight Astrophotography
-Eddie L.
 [legends]
 Pete's Astrophotography
 Blake (ThisOne)
@@ -57,6 +57,7 @@ Aaron Q.
 Adam D.
 Adam H.
 Alan D.
+Alan L.
 Albert A.
 Alex P.
 Alexander M.
