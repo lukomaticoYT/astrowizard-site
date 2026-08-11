@@ -2,6 +2,7 @@
 # To change or remove your name: message Luke - done the same day.
 # '#' lines are comments. Sections: [recent] [legends] [fellowship].
 [recent]
+Chorge1972
 Rick Carver
 Mike S.
 Mike N.
@@ -11,7 +12,6 @@ Laurence C.
 Dennis V.
 Alan L.
 Timo K.
-Alex P.
 [legends]
 Pete's Astrophotography
 Blake (ThisOne)
@@ -79,6 +79,7 @@ Charles E.
 Charles P.
 Charles W.
 Cheryl M.
+Chorge1972
 Chris D.
 Chris J.
 Chris O.
