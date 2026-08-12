@@ -2,6 +2,7 @@
 # To change or remove your name: message Luke - done the same day.
 # '#' lines are comments. Sections: [recent] [legends] [fellowship].
 [recent]
+Shawn M.
 Philip A.
 Ian W.
 D. Beebe
@@ -11,7 +12,6 @@ Sau W.
 Arun A.
 Chorge1972
 Rick Carver
-Mike S.
 [legends]
 Pete's Astrophotography
 Blake (ThisOne)
@@ -236,6 +236,7 @@ RuKo
 SaltyPogue
 Samuel D.
 Sau W.
+Shawn M.
 SJ. Grady
 Sonja L.
 Sound Man Martin
