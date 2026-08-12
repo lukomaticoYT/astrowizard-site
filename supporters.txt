@@ -2,6 +2,7 @@
 # To change or remove your name: message Luke - done the same day.
 # '#' lines are comments. Sections: [recent] [legends] [fellowship].
 [recent]
+R. Boyd
 Peter J. K.
 Jeremy K.
 Mark T.
@@ -11,7 +12,6 @@ John W.
 Ian C.
 Robert W. O.
 Tobi K.
-Shawn M.
 [legends]
 Pete's Astrophotography
 Blake (ThisOne)
@@ -226,6 +226,7 @@ Peter S.
 Petros M.
 Philip A.
 Piotr I.
+R. Boyd
 R. Bruce
 Randall W.
 Richard B.
