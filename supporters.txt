@@ -2,6 +2,7 @@
 # To change or remove your name: message Luke - done the same day.
 # '#' lines are comments. Sections: [recent] [legends] [fellowship].
 [recent]
+Hanns B.
 John W.
 Ian C.
 Robert W. O.
@@ -11,7 +12,6 @@ Philip A.
 Ian W.
 D. Beebe
 Anthony A.
-John A.
 [legends]
 Pete's Astrophotography
 Blake (ThisOne)
@@ -129,6 +129,7 @@ Gordon Z.
 Graeme B.
 Guy R.
 Hamid S.
+Hanns B.
 Hans L.
 HansPS
 Henri D.
