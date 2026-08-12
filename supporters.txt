@@ -2,6 +2,7 @@
 # To change or remove your name: message Luke - done the same day.
 # '#' lines are comments. Sections: [recent] [legends] [fellowship].
 [recent]
+Tobi K.
 Shawn M.
 Philip A.
 Ian W.
@@ -11,7 +12,6 @@ John A.
 Sau W.
 Arun A.
 Chorge1972
-Rick Carver
 [legends]
 Pete's Astrophotography
 Blake (ThisOne)
@@ -255,6 +255,7 @@ Stuart F.
 Studio_AP
 Subhadip C.
 Timo K.
+Tobi K.
 Tobias W.
 Uladzimir A.
 Vicki C.
