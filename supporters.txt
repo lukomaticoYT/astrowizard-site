@@ -2,6 +2,7 @@
 # To change or remove your name: message Luke - done the same day.
 # '#' lines are comments. Sections: [recent] [legends] [fellowship].
 [recent]
+John C.
 Hanns B.
 John W.
 Ian C.
@@ -11,7 +12,6 @@ Shawn M.
 Philip A.
 Ian W.
 D. Beebe
-Anthony A.
 [legends]
 Pete's Astrophotography
 Blake (ThisOne)
@@ -153,6 +153,7 @@ Jesus B.
 Joachim R.
 Jody H.
 John A.
+John C.
 John L.
 John M.
 John R.
