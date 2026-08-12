@@ -2,6 +2,7 @@
 # To change or remove your name: message Luke - done the same day.
 # '#' lines are comments. Sections: [recent] [legends] [fellowship].
 [recent]
+Ian W.
 D. Beebe
 Anthony A.
 John A.
@@ -11,7 +12,6 @@ Chorge1972
 Rick Carver
 Mike S.
 Mike N.
-Kabir J.
 [legends]
 Pete's Astrophotography
 Blake (ThisOne)
@@ -133,6 +133,7 @@ HansPS
 Henri D.
 High Legh Community Observatory
 Ian L.
+Ian W.
 James A.
 James B.
 James C.
