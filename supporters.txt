@@ -2,6 +2,7 @@
 # To change or remove your name: message Luke - done the same day.
 # '#' lines are comments. Sections: [recent] [legends] [fellowship].
 [recent]
+Robert W. O.
 Tobi K.
 Shawn M.
 Philip A.
@@ -11,7 +12,6 @@ Anthony A.
 John A.
 Sau W.
 Arun A.
-Chorge1972
 [legends]
 Pete's Astrophotography
 Blake (ThisOne)
@@ -230,6 +230,7 @@ Richard's Astrophotography
 Rick Carver
 Rick G.
 Robert B.
+Robert W. O.
 Ronald C.
 Ronnie G.
 Roy F.
