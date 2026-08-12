@@ -2,6 +2,7 @@
 # To change or remove your name: message Luke - done the same day.
 # '#' lines are comments. Sections: [recent] [legends] [fellowship].
 [recent]
+Anthony A.
 John A.
 Sau W.
 Arun A.
@@ -11,7 +12,6 @@ Mike S.
 Mike N.
 Kabir J.
 SaltyPogue
-Laurence C.
 [legends]
 Pete's Astrophotography
 Blake (ThisOne)
@@ -64,6 +64,7 @@ Alex P.
 Alexander M.
 Andrew L.
 Andrew N.
+Anthony A.
 Arne B.
 Arun A.
 Bertrand D.
