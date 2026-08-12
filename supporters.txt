@@ -2,6 +2,7 @@
 # To change or remove your name: message Luke - done the same day.
 # '#' lines are comments. Sections: [recent] [legends] [fellowship].
 [recent]
+ChippyPickets
 R. Boyd
 Peter J. K.
 Jeremy K.
@@ -11,7 +12,6 @@ Hanns B.
 John W.
 Ian C.
 Robert W. O.
-Tobi K.
 [legends]
 Pete's Astrophotography
 Blake (ThisOne)
@@ -82,6 +82,7 @@ Charles E.
 Charles P.
 Charles W.
 Cheryl M.
+ChippyPickets
 Chorge1972
 Chris D.
 Chris J.
