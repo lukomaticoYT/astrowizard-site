@@ -2,6 +2,7 @@
 # To change or remove your name: message Luke - done the same day.
 # '#' lines are comments. Sections: [recent] [legends] [fellowship].
 [recent]
+IanMac
 ChippyPickets
 R. Boyd
 Peter J. K.
@@ -11,7 +12,6 @@ John C.
 Hanns B.
 John W.
 Ian C.
-Robert W. O.
 [legends]
 Pete's Astrophotography
 Blake (ThisOne)
@@ -138,6 +138,7 @@ High Legh Community Observatory
 Ian C.
 Ian L.
 Ian W.
+IanMac
 James A.
 James B.
 James C.
