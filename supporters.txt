@@ -2,6 +2,7 @@
 # To change or remove your name: message Luke - done the same day.
 # '#' lines are comments. Sections: [recent] [legends] [fellowship].
 [recent]
+Rick BG.
 Jacob G.
 Eric C.
 Rhees and Monique
@@ -11,7 +12,6 @@ R. Boyd
 Peter J. K.
 Jeremy K.
 Mark T.
-John C.
 [legends]
 Pete's Astrophotography
 Blake (ThisOne)
@@ -240,6 +240,7 @@ Richard D.
 Richard R.
 Richard S.
 Richard's Astrophotography
+Rick BG.
 Rick Carver
 Rick G.
 Robert B.
