@@ -2,6 +2,7 @@
 # To change or remove your name: message Luke - done the same day.
 # '#' lines are comments. Sections: [recent] [legends] [fellowship].
 [recent]
+Jacob G.
 Eric C.
 Rhees and Monique
 IanMac
@@ -11,7 +12,6 @@ Peter J. K.
 Jeremy K.
 Mark T.
 John C.
-Hanns B.
 [legends]
 Pete's Astrophotography
 Blake (ThisOne)
@@ -140,6 +140,7 @@ Ian C.
 Ian L.
 Ian W.
 IanMac
+Jacob G.
 James A.
 James B.
 James C.
