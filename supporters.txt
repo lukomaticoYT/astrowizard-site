@@ -2,6 +2,7 @@
 # To change or remove your name: message Luke - done the same day.
 # '#' lines are comments. Sections: [recent] [legends] [fellowship].
 [recent]
+Rhees and Monique
 IanMac
 ChippyPickets
 R. Boyd
@@ -11,7 +12,6 @@ Mark T.
 John C.
 Hanns B.
 John W.
-Ian C.
 [legends]
 Pete's Astrophotography
 Blake (ThisOne)
@@ -231,6 +231,7 @@ Piotr I.
 R. Boyd
 R. Bruce
 Randall W.
+Rhees and Monique
 Richard B.
 Richard C.
 Richard D.
