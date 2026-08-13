@@ -2,6 +2,7 @@
 # To change or remove your name: message Luke - done the same day.
 # '#' lines are comments. Sections: [recent] [legends] [fellowship].
 [recent]
+Eric C.
 Rhees and Monique
 IanMac
 ChippyPickets
@@ -11,7 +12,6 @@ Jeremy K.
 Mark T.
 John C.
 Hanns B.
-John W.
 [legends]
 Pete's Astrophotography
 Blake (ThisOne)
@@ -114,6 +114,7 @@ Dr. D.
 Earl P.
 Ed K.
 Eddie L.
+Eric C.
 Eric F.
 Francesco A.
 Francisco G.
