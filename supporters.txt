@@ -2,6 +2,7 @@
 # To change or remove your name: message Luke - done the same day.
 # '#' lines are comments. Sections: [recent] [legends] [fellowship].
 [recent]
+Sigurd M.
 Karl C.
 Gary K.
 Sebastian W.
@@ -11,7 +12,6 @@ Jacob G.
 Eric C.
 Rhees and Monique
 IanMac
-ChippyPickets
 [legends]
 Pete's Astrophotography
 Blake (ThisOne)
@@ -257,6 +257,7 @@ Samuel D.
 Sau W.
 Sebastian W.
 Shawn M.
+Sigurd M.
 SJ. Grady
 Sonja L.
 Sound Man Martin
