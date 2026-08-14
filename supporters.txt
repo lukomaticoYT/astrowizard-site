@@ -2,6 +2,7 @@
 # To change or remove your name: message Luke - done the same day.
 # '#' lines are comments. Sections: [recent] [legends] [fellowship].
 [recent]
+James W.
 Rick BG.
 Jacob G.
 Eric C.
@@ -11,7 +12,6 @@ ChippyPickets
 R. Boyd
 Peter J. K.
 Jeremy K.
-Mark T.
 [legends]
 Pete's Astrophotography
 Blake (ThisOne)
@@ -146,6 +146,7 @@ James B.
 James C.
 James K.
 James L.
+James W.
 Jason E.
 Jason J.
 Jason K.
