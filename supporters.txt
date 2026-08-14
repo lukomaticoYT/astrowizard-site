@@ -2,6 +2,7 @@
 # To change or remove your name: message Luke - done the same day.
 # '#' lines are comments. Sections: [recent] [legends] [fellowship].
 [recent]
+Tim V. R.
 William L.
 John H.
 Paul T.
@@ -11,7 +12,6 @@ Karl C.
 Gary K.
 Sebastian W.
 James W.
-Rick BG.
 [legends]
 Pete's Astrophotography
 Blake (ThisOne)
@@ -279,6 +279,7 @@ Steven G.
 Stuart F.
 Studio_AP
 Subhadip C.
+Tim V. R.
 Timo K.
 Tobi K.
 Tobias W.
