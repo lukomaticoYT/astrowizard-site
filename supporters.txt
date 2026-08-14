@@ -2,6 +2,7 @@
 # To change or remove your name: message Luke - done the same day.
 # '#' lines are comments. Sections: [recent] [legends] [fellowship].
 [recent]
+Paul T.
 Andrew H.
 Sigurd M.
 Karl C.
@@ -11,7 +12,6 @@ James W.
 Rick BG.
 Jacob G.
 Eric C.
-Rhees and Monique
 [legends]
 Pete's Astrophotography
 Blake (ThisOne)
@@ -228,6 +228,7 @@ Paul B.
 Paul F.
 Paul M.
 Paul S.
+Paul T.
 Pete C.
 Peter H.
 Peter J. K.
