@@ -2,6 +2,7 @@
 # To change or remove your name: message Luke - done the same day.
 # '#' lines are comments. Sections: [recent] [legends] [fellowship].
 [recent]
+Sebastian W.
 James W.
 Rick BG.
 Jacob G.
@@ -11,7 +12,6 @@ IanMac
 ChippyPickets
 R. Boyd
 Peter J. K.
-Jeremy K.
 [legends]
 Pete's Astrophotography
 Blake (ThisOne)
@@ -253,6 +253,7 @@ RuKo
 SaltyPogue
 Samuel D.
 Sau W.
+Sebastian W.
 Shawn M.
 SJ. Grady
 Sonja L.
