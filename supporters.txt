@@ -2,6 +2,7 @@
 # To change or remove your name: message Luke - done the same day.
 # '#' lines are comments. Sections: [recent] [legends] [fellowship].
 [recent]
+Gary K.
 Sebastian W.
 James W.
 Rick BG.
@@ -11,7 +12,6 @@ Rhees and Monique
 IanMac
 ChippyPickets
 R. Boyd
-Peter J. K.
 [legends]
 Pete's Astrophotography
 Blake (ThisOne)
@@ -120,6 +120,7 @@ Francesco A.
 Francisco G.
 Frank "Astronut" G.
 G. Stoppa
+Gary K.
 Gary P.
 Gary Z.
 Gary@MUVEDesign
