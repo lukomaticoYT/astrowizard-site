@@ -2,6 +2,7 @@
 # To change or remove your name: message Luke - done the same day.
 # '#' lines are comments. Sections: [recent] [legends] [fellowship].
 [recent]
+Chance Y.
 Jerome M.
 Lord C.
 D. Le Poidevin
@@ -11,7 +12,6 @@ William L.
 John H.
 Paul T.
 Andrew H.
-Sigurd M.
 [legends]
 Pete's Astrophotography
 Blake (ThisOne)
@@ -82,6 +82,7 @@ Bruno L.
 C. O'Neill
 Carl B.
 Carlos R.
+Chance Y.
 Charles E.
 Charles P.
 Charles W.
