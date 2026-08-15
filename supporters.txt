@@ -2,6 +2,7 @@
 # To change or remove your name: message Luke - done the same day.
 # '#' lines are comments. Sections: [recent] [legends] [fellowship].
 [recent]
+William H.
 James T.
 Juan C. S. A.
 David F. L.
@@ -11,7 +12,6 @@ Juan D. P. A.
 Geir H.
 Florian S.
 NikonJax
-Derek F.
 [legends]
 Pete's Astrophotography
 Blake (ThisOne)
@@ -58,6 +58,7 @@ Sigurd M.
 Andrew H.
 Steven G.
 Shawn M.
+William H.
 [fellowship]
 Aaron Q.
 Adam D.
