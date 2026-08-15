@@ -2,6 +2,7 @@
 # To change or remove your name: message Luke - done the same day.
 # '#' lines are comments. Sections: [recent] [legends] [fellowship].
 [recent]
+Reference Audio Plus
 Rick C.
 Steve Z.
 Selvakumar M.
@@ -11,7 +12,6 @@ John F.
 Chance Y.
 Jerome M.
 Lord C.
-D. Le Poidevin
 [legends]
 Pete's Astrophotography
 Blake (ThisOne)
@@ -249,6 +249,7 @@ Piotr I.
 R. Boyd
 R. Bruce
 Randall W.
+Reference Audio Plus
 Rhees and Monique
 Richard B.
 Richard C.
