@@ -2,6 +2,7 @@
 # To change or remove your name: message Luke - done the same day.
 # '#' lines are comments. Sections: [recent] [legends] [fellowship].
 [recent]
+Jerome M.
 Lord C.
 D. Le Poidevin
 Philip T.
@@ -11,7 +12,6 @@ John H.
 Paul T.
 Andrew H.
 Sigurd M.
-Karl C.
 [legends]
 Pete's Astrophotography
 Blake (ThisOne)
@@ -160,6 +160,7 @@ Jason P.
 Jeff C.
 Jeff P.
 Jeremy K.
+Jerome M.
 Jessica M.
 Jesus B.
 Joachim R.
