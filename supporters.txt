@@ -2,6 +2,7 @@
 # To change or remove your name: message Luke - done the same day.
 # '#' lines are comments. Sections: [recent] [legends] [fellowship].
 [recent]
+Geir H.
 Florian S.
 NikonJax
 Derek F.
@@ -11,7 +12,6 @@ Steve Z.
 Selvakumar M.
 Marcelo A.
 Troy M.
-John F.
 [legends]
 Pete's Astrophotography
 Blake (ThisOne)
@@ -133,6 +133,7 @@ Gary P.
 Gary Z.
 Gary@MUVEDesign
 Gavin L.
+Geir H.
 Geoffrey V.
 Geoffrey W.
 Geoffrey W. C.
