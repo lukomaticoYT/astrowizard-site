@@ -2,6 +2,7 @@
 # To change or remove your name: message Luke - done the same day.
 # '#' lines are comments. Sections: [recent] [legends] [fellowship].
 [recent]
+D. Le Poidevin
 Philip T.
 Tim V. R.
 William L.
@@ -11,7 +12,6 @@ Andrew H.
 Sigurd M.
 Karl C.
 Gary K.
-Sebastian W.
 [legends]
 Pete's Astrophotography
 Blake (ThisOne)
@@ -96,6 +96,7 @@ Claus S.
 Cuiv, the Lazy Geek
 D. Beebe
 D. Huff
+D. Le Poidevin
 Dale C.
 Dale R.
 David B.
