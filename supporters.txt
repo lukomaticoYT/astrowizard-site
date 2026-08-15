@@ -2,6 +2,7 @@
 # To change or remove your name: message Luke - done the same day.
 # '#' lines are comments. Sections: [recent] [legends] [fellowship].
 [recent]
+Marcos J. Pinto - Lux Antiqua
 PoppaMitch
 Pat
 Astr0mink/NomadicAstronomy
@@ -11,7 +12,6 @@ James T.
 Juan C. S. A.
 David F. L.
 Gregor M.
-Osvaldo L.
 [legends]
 Pete's Astrophotography
 Blake (ThisOne)
@@ -210,6 +210,7 @@ M. Sansom
 Marc S.
 Marcelo A.
 Marco R.
+Marcos J. Pinto - Lux Antiqua
 Mark G.
 Mark M.
 Mark S.
