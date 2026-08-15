@@ -2,6 +2,7 @@
 # To change or remove your name: message Luke - done the same day.
 # '#' lines are comments. Sections: [recent] [legends] [fellowship].
 [recent]
+Timothy M.
 William H.
 James T.
 Juan C. S. A.
@@ -11,7 +12,6 @@ Osvaldo L.
 Juan D. P. A.
 Geir H.
 Florian S.
-NikonJax
 [legends]
 Pete's Astrophotography
 Blake (ThisOne)
@@ -304,6 +304,7 @@ Studio_AP
 Subhadip C.
 Tim V. R.
 Timo K.
+Timothy M.
 Tobi K.
 Tobias W.
 Troy M.
