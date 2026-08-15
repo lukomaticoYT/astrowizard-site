@@ -2,6 +2,7 @@
 # To change or remove your name: message Luke - done the same day.
 # '#' lines are comments. Sections: [recent] [legends] [fellowship].
 [recent]
+Marcelo A.
 Troy M.
 John F.
 Chance Y.
@@ -11,7 +12,6 @@ D. Le Poidevin
 Philip T.
 Tim V. R.
 William L.
-John H.
 [legends]
 Pete's Astrophotography
 Blake (ThisOne)
@@ -197,6 +197,7 @@ Lyle A.
 M. Kotchie
 M. Sansom
 Marc S.
+Marcelo A.
 Marco R.
 Mark G.
 Mark M.
