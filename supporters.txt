@@ -2,6 +2,7 @@
 # To change or remove your name: message Luke - done the same day.
 # '#' lines are comments. Sections: [recent] [legends] [fellowship].
 [recent]
+Juan C. S. A.
 David F. L.
 Gregor M.
 Osvaldo L.
@@ -11,7 +12,6 @@ Florian S.
 NikonJax
 Derek F.
 Reference Audio Plus
-Rick C.
 [legends]
 Pete's Astrophotography
 Blake (ThisOne)
@@ -182,6 +182,7 @@ John W.
 Joseph C.
 Joseph L.
 Joseph T.
+Juan C. S. A.
 Juan D. P. A.
 Jörg S.
 Kabir J.
