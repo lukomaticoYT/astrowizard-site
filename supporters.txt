@@ -2,6 +2,7 @@
 # To change or remove your name: message Luke - done the same day.
 # '#' lines are comments. Sections: [recent] [legends] [fellowship].
 [recent]
+John F.
 Chance Y.
 Jerome M.
 Lord C.
@@ -11,7 +12,6 @@ Tim V. R.
 William L.
 John H.
 Paul T.
-Andrew H.
 [legends]
 Pete's Astrophotography
 Blake (ThisOne)
@@ -168,6 +168,7 @@ Joachim R.
 Jody H.
 John A.
 John C.
+John F.
 John H.
 John L.
 John M.
