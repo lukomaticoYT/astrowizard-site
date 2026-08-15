@@ -2,6 +2,7 @@
 # To change or remove your name: message Luke - done the same day.
 # '#' lines are comments. Sections: [recent] [legends] [fellowship].
 [recent]
+Philip T.
 Tim V. R.
 William L.
 John H.
@@ -11,7 +12,6 @@ Sigurd M.
 Karl C.
 Gary K.
 Sebastian W.
-James W.
 [legends]
 Pete's Astrophotography
 Blake (ThisOne)
@@ -237,6 +237,7 @@ Peter J. K.
 Peter S.
 Petros M.
 Philip A.
+Philip T.
 Piotr I.
 R. Boyd
 R. Bruce
