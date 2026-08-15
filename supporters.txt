@@ -2,6 +2,7 @@
 # To change or remove your name: message Luke - done the same day.
 # '#' lines are comments. Sections: [recent] [legends] [fellowship].
 [recent]
+PoppaMitch
 Pat
 Astr0mink/NomadicAstronomy
 Timothy M.
@@ -11,7 +12,6 @@ Juan C. S. A.
 David F. L.
 Gregor M.
 Osvaldo L.
-Juan D. P. A.
 [legends]
 Pete's Astrophotography
 Blake (ThisOne)
@@ -259,6 +259,7 @@ Petros M.
 Philip A.
 Philip T.
 Piotr I.
+PoppaMitch
 R. Boyd
 R. Bruce
 Randall W.
