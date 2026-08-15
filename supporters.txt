@@ -2,6 +2,7 @@
 # To change or remove your name: message Luke - done the same day.
 # '#' lines are comments. Sections: [recent] [legends] [fellowship].
 [recent]
+Astr0mink/NomadicAstronomy
 Timothy M.
 William H.
 James T.
@@ -11,7 +12,6 @@ Gregor M.
 Osvaldo L.
 Juan D. P. A.
 Geir H.
-Florian S.
 [legends]
 Pete's Astrophotography
 Blake (ThisOne)
@@ -73,6 +73,7 @@ Andrew N.
 Anthony A.
 Arne B.
 Arun A.
+Astr0mink/NomadicAstronomy
 Bertrand D.
 Bill M.
 Brad H.
