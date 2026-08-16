@@ -2,6 +2,7 @@
 # To change or remove your name: message Luke - done the same day.
 # '#' lines are comments. Sections: [recent] [legends] [fellowship].
 [recent]
+J. Lord
 Zoltan D.
 Javier G. O.
 Paulo B. G.
@@ -11,7 +12,6 @@ Dion G.
 Brian R.
 Frank F.
 Apex
-Lena G. L.
 [legends]
 Pete's Astrophotography
 Blake (ThisOne)
@@ -160,6 +160,7 @@ Ian C.
 Ian L.
 Ian W.
 IanMac
+J. Lord
 Jacob G.
 James A.
 James B.
