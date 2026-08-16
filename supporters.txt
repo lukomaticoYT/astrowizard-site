@@ -2,6 +2,7 @@
 # To change or remove your name: message Luke - done the same day.
 # '#' lines are comments. Sections: [recent] [legends] [fellowship].
 [recent]
+Frank F.
 Apex
 Lena G. L.
 Marcos J. Pinto - Lux Antiqua
@@ -11,7 +12,6 @@ Astr0mink/NomadicAstronomy
 Timothy M.
 William H.
 James T.
-Juan C. S. A.
 [legends]
 Pete's Astrophotography
 Blake (ThisOne)
@@ -132,6 +132,7 @@ Florian S.
 Francesco A.
 Francisco G.
 Frank "Astronut" G.
+Frank F.
 G. Stoppa
 Gary K.
 Gary P.
