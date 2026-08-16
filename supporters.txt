@@ -2,6 +2,7 @@
 # To change or remove your name: message Luke - done the same day.
 # '#' lines are comments. Sections: [recent] [legends] [fellowship].
 [recent]
+Andreas B.
 Chris G.
 J. Lord
 Zoltan D.
@@ -11,7 +12,6 @@ Rob D.
 Cyril C.
 Dion G.
 Brian R.
-Frank F.
 [legends]
 Pete's Astrophotography
 Blake (ThisOne)
@@ -69,6 +69,7 @@ Alan L.
 Albert A.
 Alex P.
 Alexander M.
+Andreas B.
 Andrew L.
 Andrew N.
 Anthony A.
