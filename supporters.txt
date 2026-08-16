@@ -2,6 +2,7 @@
 # To change or remove your name: message Luke - done the same day.
 # '#' lines are comments. Sections: [recent] [legends] [fellowship].
 [recent]
+Lena G. L.
 Marcos J. Pinto - Lux Antiqua
 PoppaMitch
 Pat
@@ -11,7 +12,6 @@ William H.
 James T.
 Juan C. S. A.
 David F. L.
-Gregor M.
 [legends]
 Pete's Astrophotography
 Blake (ThisOne)
@@ -199,6 +199,7 @@ Kris H.
 Krzysztof K.
 Laurence C.
 Lawrence K.
+Lena G. L.
 Leonard J.
 Lord C.
 Loree R.
