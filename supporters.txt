@@ -2,6 +2,7 @@
 # To change or remove your name: message Luke - done the same day.
 # '#' lines are comments. Sections: [recent] [legends] [fellowship].
 [recent]
+Paulo B. G.
 Rob D.
 Cyril C.
 Dion G.
@@ -11,7 +12,6 @@ Apex
 Lena G. L.
 Marcos J. Pinto - Lux Antiqua
 PoppaMitch
-Pat
 [legends]
 Pete's Astrophotography
 Blake (ThisOne)
@@ -258,6 +258,7 @@ Paul F.
 Paul M.
 Paul S.
 Paul T.
+Paulo B. G.
 Pete C.
 Peter H.
 Peter J. K.
