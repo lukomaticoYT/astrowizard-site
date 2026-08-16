@@ -2,6 +2,7 @@
 # To change or remove your name: message Luke - done the same day.
 # '#' lines are comments. Sections: [recent] [legends] [fellowship].
 [recent]
+Brian R.
 Frank F.
 Apex
 Lena G. L.
@@ -11,7 +12,6 @@ Pat
 Astr0mink/NomadicAstronomy
 Timothy M.
 William H.
-James T.
 [legends]
 Pete's Astrophotography
 Blake (ThisOne)
@@ -81,6 +81,7 @@ Bill M.
 Brad H.
 Brett H.
 Brian A.
+Brian R.
 Brian W.
 Bruno L.
 C. O'Neill
