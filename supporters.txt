@@ -2,6 +2,7 @@
 # To change or remove your name: message Luke - done the same day.
 # '#' lines are comments. Sections: [recent] [legends] [fellowship].
 [recent]
+Apex
 Lena G. L.
 Marcos J. Pinto - Lux Antiqua
 PoppaMitch
@@ -11,7 +12,6 @@ Timothy M.
 William H.
 James T.
 Juan C. S. A.
-David F. L.
 [legends]
 Pete's Astrophotography
 Blake (ThisOne)
@@ -72,6 +72,7 @@ Alexander M.
 Andrew L.
 Andrew N.
 Anthony A.
+Apex
 Arne B.
 Arun A.
 Astr0mink/NomadicAstronomy
