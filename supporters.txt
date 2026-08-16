@@ -2,6 +2,7 @@
 # To change or remove your name: message Luke - done the same day.
 # '#' lines are comments. Sections: [recent] [legends] [fellowship].
 [recent]
+Cyril C.
 Dion G.
 Brian R.
 Frank F.
@@ -11,7 +12,6 @@ Marcos J. Pinto - Lux Antiqua
 PoppaMitch
 Pat
 Astr0mink/NomadicAstronomy
-Timothy M.
 [legends]
 Pete's Astrophotography
 Blake (ThisOne)
@@ -101,6 +101,7 @@ Christian T.
 Claude F.
 Claus S.
 Cuiv, the Lazy Geek
+Cyril C.
 D. Beebe
 D. Huff
 D. Le Poidevin
