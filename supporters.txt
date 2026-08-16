@@ -2,6 +2,7 @@
 # To change or remove your name: message Luke - done the same day.
 # '#' lines are comments. Sections: [recent] [legends] [fellowship].
 [recent]
+Zoltan D.
 Javier G. O.
 Paulo B. G.
 Rob D.
@@ -11,7 +12,6 @@ Brian R.
 Frank F.
 Apex
 Lena G. L.
-Marcos J. Pinto - Lux Antiqua
 [legends]
 Pete's Astrophotography
 Blake (ThisOne)
@@ -330,3 +330,4 @@ Will J.
 William L.
 Xavier H.
 Yannik W.
+Zoltan D.
