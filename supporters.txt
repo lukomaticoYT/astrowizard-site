@@ -2,6 +2,7 @@
 # To change or remove your name: message Luke - done the same day.
 # '#' lines are comments. Sections: [recent] [legends] [fellowship].
 [recent]
+Chris G.
 J. Lord
 Zoltan D.
 Javier G. O.
@@ -11,7 +12,6 @@ Cyril C.
 Dion G.
 Brian R.
 Frank F.
-Apex
 [legends]
 Pete's Astrophotography
 Blake (ThisOne)
@@ -95,6 +95,7 @@ Cheryl M.
 ChippyPickets
 Chorge1972
 Chris D.
+Chris G.
 Chris J.
 Chris O.
 Christian T.
