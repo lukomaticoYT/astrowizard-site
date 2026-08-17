@@ -2,6 +2,7 @@
 # To change or remove your name: message Luke - done the same day.
 # '#' lines are comments. Sections: [recent] [legends] [fellowship].
 [recent]
+Neil C.
 Pascal E.
 Manuel P. F.
 Andreas B.
@@ -11,7 +12,6 @@ Zoltan D.
 Javier G. O.
 Paulo B. G.
 Rob D.
-Cyril C.
 [legends]
 Pete's Astrophotography
 Blake (ThisOne)
@@ -248,6 +248,7 @@ Mike B.
 Mike N.
 Mo Moore
 Nathan C.
+Neil C.
 Neil W.
 Nico G.
 NikonJax
