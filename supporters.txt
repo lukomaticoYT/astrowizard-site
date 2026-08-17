@@ -2,6 +2,7 @@
 # To change or remove your name: message Luke - done the same day.
 # '#' lines are comments. Sections: [recent] [legends] [fellowship].
 [recent]
+J. Ohlman
 R. M. Graham
 James Y.
 J. Morrell
@@ -11,7 +12,6 @@ John K.
 Stephan L.
 Neil C.
 Pascal E.
-Manuel P. F.
 [legends]
 Pete's Astrophotography
 Blake (ThisOne)
@@ -60,6 +60,7 @@ Steven G.
 Shawn M.
 William H.
 Pat
+J. Ohlman
 [fellowship]
 Aaron Q.
 Adam D.
