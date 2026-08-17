@@ -2,6 +2,7 @@
 # To change or remove your name: message Luke - done the same day.
 # '#' lines are comments. Sections: [recent] [legends] [fellowship].
 [recent]
+J. Morrell
 Mark B.
 Stephen D.
 John K.
@@ -11,7 +12,6 @@ Pascal E.
 Manuel P. F.
 Andreas B.
 Chris G.
-J. Lord
 [legends]
 Pete's Astrophotography
 Blake (ThisOne)
@@ -163,6 +163,7 @@ Ian L.
 Ian W.
 IanMac
 J. Lord
+J. Morrell
 Jacob G.
 James A.
 James B.
