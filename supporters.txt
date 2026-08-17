@@ -2,6 +2,7 @@
 # To change or remove your name: message Luke - done the same day.
 # '#' lines are comments. Sections: [recent] [legends] [fellowship].
 [recent]
+John K.
 Stephan L.
 Neil C.
 Pascal E.
@@ -11,7 +12,6 @@ Chris G.
 J. Lord
 Zoltan D.
 Javier G. O.
-Paulo B. G.
 [legends]
 Pete's Astrophotography
 Blake (ThisOne)
@@ -188,6 +188,7 @@ John A.
 John C.
 John F.
 John H.
+John K.
 John L.
 John M.
 John R.
