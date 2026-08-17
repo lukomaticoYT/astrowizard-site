@@ -2,6 +2,7 @@
 # To change or remove your name: message Luke - done the same day.
 # '#' lines are comments. Sections: [recent] [legends] [fellowship].
 [recent]
+Stephen D.
 John K.
 Stephan L.
 Neil C.
@@ -11,7 +12,6 @@ Andreas B.
 Chris G.
 J. Lord
 Zoltan D.
-Javier G. O.
 [legends]
 Pete's Astrophotography
 Blake (ThisOne)
@@ -311,6 +311,7 @@ Sound Man Martin
 StarSight Astrophotography
 Steinhaus T.
 Stephan L.
+Stephen D.
 Stephen H.
 Stephen L.
 Stephen La.
