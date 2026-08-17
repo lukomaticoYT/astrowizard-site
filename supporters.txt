@@ -2,6 +2,7 @@
 # To change or remove your name: message Luke - done the same day.
 # '#' lines are comments. Sections: [recent] [legends] [fellowship].
 [recent]
+Mark B.
 Stephen D.
 John K.
 Stephan L.
@@ -11,7 +12,6 @@ Manuel P. F.
 Andreas B.
 Chris G.
 J. Lord
-Zoltan D.
 [legends]
 Pete's Astrophotography
 Blake (ThisOne)
@@ -223,6 +223,7 @@ Marc S.
 Marcelo A.
 Marco R.
 Marcos J. Pinto - Lux Antiqua
+Mark B.
 Mark G.
 Mark M.
 Mark S.
