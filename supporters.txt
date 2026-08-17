@@ -2,6 +2,7 @@
 # To change or remove your name: message Luke - done the same day.
 # '#' lines are comments. Sections: [recent] [legends] [fellowship].
 [recent]
+R. M. Graham
 James Y.
 J. Morrell
 Mark B.
@@ -11,7 +12,6 @@ Stephan L.
 Neil C.
 Pascal E.
 Manuel P. F.
-Andreas B.
 [legends]
 Pete's Astrophotography
 Blake (ThisOne)
@@ -281,6 +281,7 @@ Piotr I.
 PoppaMitch
 R. Boyd
 R. Bruce
+R. M. Graham
 Randall W.
 Reference Audio Plus
 Rhees and Monique
