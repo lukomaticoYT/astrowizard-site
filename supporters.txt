@@ -2,6 +2,7 @@
 # To change or remove your name: message Luke - done the same day.
 # '#' lines are comments. Sections: [recent] [legends] [fellowship].
 [recent]
+David M. O.
 Andrew W.
 Guy T.
 Juan T.
@@ -11,7 +12,6 @@ Jack G.
 John S.
 William C.
 Mohamed Z.
-TCPIP Nut
 [legends]
 Pete's Astrophotography
 Blake (ThisOne)
@@ -120,6 +120,7 @@ David D.
 David F. L.
 David H.
 David K.
+David M. O.
 David S.
 David T.
 Dawn P.
