@@ -2,6 +2,7 @@
 # To change or remove your name: message Luke - done the same day.
 # '#' lines are comments. Sections: [recent] [legends] [fellowship].
 [recent]
+ShreddyBear
 David E.
 Stefano D.
 Larry A.
@@ -11,7 +12,6 @@ Neal
 Steven Z.
 J. Arter
 Harald B.
-Brian L.
 [legends]
 Pete's Astrophotography
 Blake (ThisOne)
@@ -327,6 +327,7 @@ Sandhal F.
 Sau W.
 Sebastian W.
 Selvakumar M.
+ShreddyBear
 SJ. Grady
 Sonja L.
 Sound Man Martin
