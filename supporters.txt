@@ -2,6 +2,7 @@
 # To change or remove your name: message Luke - done the same day.
 # '#' lines are comments. Sections: [recent] [legends] [fellowship].
 [recent]
+Jack G.
 John S.
 William C.
 Mohamed Z.
@@ -11,7 +12,6 @@ Sandhal F.
 Joaquin B.
 Henriette C.
 J. Ohlman
-R. M. Graham
 [legends]
 Pete's Astrophotography
 Blake (ThisOne)
@@ -169,6 +169,7 @@ Ian W.
 IanMac
 J. Lord
 J. Morrell
+Jack G.
 Jacob G.
 James A.
 James B.
