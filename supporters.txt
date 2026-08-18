@@ -2,6 +2,7 @@
 # To change or remove your name: message Luke - done the same day.
 # '#' lines are comments. Sections: [recent] [legends] [fellowship].
 [recent]
+Brian L.
 David M. O.
 Andrew W.
 Guy T.
@@ -11,7 +12,6 @@ Doug P.
 Jack G.
 John S.
 William C.
-Mohamed Z.
 [legends]
 Pete's Astrophotography
 Blake (ThisOne)
@@ -87,6 +87,7 @@ Bill M.
 Brad H.
 Brett H.
 Brian A.
+Brian L.
 Brian R.
 Brian W.
 Bruno L.
