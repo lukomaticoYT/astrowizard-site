@@ -2,6 +2,7 @@
 # To change or remove your name: message Luke - done the same day.
 # '#' lines are comments. Sections: [recent] [legends] [fellowship].
 [recent]
+David E.
 Stefano D.
 Larry A.
 Victor M. B. L.
@@ -11,7 +12,6 @@ Steven Z.
 J. Arter
 Harald B.
 Brian L.
-David M. O.
 [legends]
 Pete's Astrophotography
 Blake (ThisOne)
@@ -117,6 +117,7 @@ Dale R.
 David B.
 David C.
 David D.
+David E.
 David F. L.
 David H.
 David K.
