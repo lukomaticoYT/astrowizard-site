@@ -2,6 +2,7 @@
 # To change or remove your name: message Luke - done the same day.
 # '#' lines are comments. Sections: [recent] [legends] [fellowship].
 [recent]
+Troy S.
 Neal
 Steven Z.
 J. Arter
@@ -11,7 +12,6 @@ David M. O.
 Andrew W.
 Guy T.
 Juan T.
-Mark H.
 [legends]
 Pete's Astrophotography
 Blake (ThisOne)
@@ -350,6 +350,7 @@ Timothy M.
 Tobi K.
 Tobias W.
 Troy M.
+Troy S.
 Uladzimir A.
 Vicki C.
 Victor G.
