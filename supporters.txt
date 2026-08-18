@@ -2,6 +2,7 @@
 # To change or remove your name: message Luke - done the same day.
 # '#' lines are comments. Sections: [recent] [legends] [fellowship].
 [recent]
+Harald B.
 Brian L.
 David M. O.
 Andrew W.
@@ -11,7 +12,6 @@ Mark H.
 Doug P.
 Jack G.
 John S.
-William C.
 [legends]
 Pete's Astrophotography
 Blake (ThisOne)
@@ -165,6 +165,7 @@ Hamid S.
 Hanns B.
 Hans L.
 HansPS
+Harald B.
 Henri D.
 Henriette C.
 High Legh Community Observatory
