@@ -2,6 +2,7 @@
 # To change or remove your name: message Luke - done the same day.
 # '#' lines are comments. Sections: [recent] [legends] [fellowship].
 [recent]
+Larry A.
 Victor M. B. L.
 Troy S.
 Neal
@@ -11,7 +12,6 @@ Harald B.
 Brian L.
 David M. O.
 Andrew W.
-Guy T.
 [legends]
 Pete's Astrophotography
 Blake (ThisOne)
@@ -225,6 +225,7 @@ Keith G.
 Ken F.
 Kris H.
 Krzysztof K.
+Larry A.
 Laurence C.
 Lawrence K.
 Lena G. L.
