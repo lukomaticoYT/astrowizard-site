@@ -2,6 +2,7 @@
 # To change or remove your name: message Luke - done the same day.
 # '#' lines are comments. Sections: [recent] [legends] [fellowship].
 [recent]
+RURIOSTE
 Astroexeter
 Albert T.
 Timothy H.
@@ -11,7 +12,6 @@ ShreddyBear
 David E.
 Stefano D.
 Larry A.
-Victor M. B. L.
 [legends]
 Pete's Astrophotography
 Blake (ThisOne)
@@ -325,6 +325,7 @@ Ronald C.
 Ronnie G.
 Roy F.
 RuKo
+RURIOSTE
 S. Green
 SaltyPogue
 Samuel D.
