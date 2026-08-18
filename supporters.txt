@@ -2,6 +2,7 @@
 # To change or remove your name: message Luke - done the same day.
 # '#' lines are comments. Sections: [recent] [legends] [fellowship].
 [recent]
+Mohamed Z.
 TCPIP Nut
 Batłomiej B.
 Sandhal F.
@@ -11,7 +12,6 @@ J. Ohlman
 R. M. Graham
 James Y.
 J. Morrell
-Mark B.
 [legends]
 Pete's Astrophotography
 Blake (ThisOne)
@@ -255,6 +255,7 @@ Michel H.
 Mike B.
 Mike N.
 Mo Moore
+Mohamed Z.
 Nathan C.
 Neil C.
 Neil W.
