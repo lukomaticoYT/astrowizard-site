@@ -2,6 +2,7 @@
 # To change or remove your name: message Luke - done the same day.
 # '#' lines are comments. Sections: [recent] [legends] [fellowship].
 [recent]
+Stefano D.
 Larry A.
 Victor M. B. L.
 Troy S.
@@ -11,7 +12,6 @@ J. Arter
 Harald B.
 Brian L.
 David M. O.
-Andrew W.
 [legends]
 Pete's Astrophotography
 Blake (ThisOne)
@@ -330,6 +330,7 @@ SJ. Grady
 Sonja L.
 Sound Man Martin
 StarSight Astrophotography
+Stefano D.
 Steinhaus T.
 Stephan L.
 Stephen D.
