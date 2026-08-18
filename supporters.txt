@@ -2,6 +2,7 @@
 # To change or remove your name: message Luke - done the same day.
 # '#' lines are comments. Sections: [recent] [legends] [fellowship].
 [recent]
+Mark H.
 Doug P.
 Jack G.
 John S.
@@ -11,7 +12,6 @@ TCPIP Nut
 Batłomiej B.
 Sandhal F.
 Joaquin B.
-Henriette C.
 [legends]
 Pete's Astrophotography
 Blake (ThisOne)
@@ -236,6 +236,7 @@ Marco R.
 Marcos J. Pinto - Lux Antiqua
 Mark B.
 Mark G.
+Mark H.
 Mark M.
 Mark S.
 Mark T.
