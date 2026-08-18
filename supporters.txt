@@ -2,6 +2,7 @@
 # To change or remove your name: message Luke - done the same day.
 # '#' lines are comments. Sections: [recent] [legends] [fellowship].
 [recent]
+Doug P.
 Jack G.
 John S.
 William C.
@@ -11,7 +12,6 @@ Batłomiej B.
 Sandhal F.
 Joaquin B.
 Henriette C.
-J. Ohlman
 [legends]
 Pete's Astrophotography
 Blake (ThisOne)
@@ -130,6 +130,7 @@ Derek F.
 Didier P.
 Dion G.
 Donald L.
+Doug P.
 Douglas H.
 Dr. D.
 Earl P.
