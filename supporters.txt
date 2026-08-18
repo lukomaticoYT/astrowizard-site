@@ -2,6 +2,7 @@
 # To change or remove your name: message Luke - done the same day.
 # '#' lines are comments. Sections: [recent] [legends] [fellowship].
 [recent]
+Steven Z.
 J. Arter
 Harald B.
 Brian L.
@@ -11,7 +12,6 @@ Guy T.
 Juan T.
 Mark H.
 Doug P.
-Jack G.
 [legends]
 Pete's Astrophotography
 Blake (ThisOne)
@@ -338,6 +338,7 @@ Steve W.
 Steve Z.
 Steven A.
 Steven D.
+Steven Z.
 Stuart F.
 Studio_AP
 Subhadip C.
