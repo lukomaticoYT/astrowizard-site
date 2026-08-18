@@ -2,6 +2,7 @@
 # To change or remove your name: message Luke - done the same day.
 # '#' lines are comments. Sections: [recent] [legends] [fellowship].
 [recent]
+John S.
 William C.
 Mohamed Z.
 TCPIP Nut
@@ -11,7 +12,6 @@ Joaquin B.
 Henriette C.
 J. Ohlman
 R. M. Graham
-James Y.
 [legends]
 Pete's Astrophotography
 Blake (ThisOne)
@@ -200,6 +200,7 @@ John K.
 John L.
 John M.
 John R.
+John S.
 John W.
 Joseph C.
 Joseph L.
