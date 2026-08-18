@@ -2,6 +2,7 @@
 # To change or remove your name: message Luke - done the same day.
 # '#' lines are comments. Sections: [recent] [legends] [fellowship].
 [recent]
+Albert T.
 Timothy H.
 Neil B.
 Karsten J.
@@ -11,7 +12,6 @@ Stefano D.
 Larry A.
 Victor M. B. L.
 Troy S.
-Neal
 [legends]
 Pete's Astrophotography
 Blake (ThisOne)
@@ -71,6 +71,7 @@ Adam H.
 Alan D.
 Alan L.
 Albert A.
+Albert T.
 Alex P.
 Alexander M.
 Andreas B.
