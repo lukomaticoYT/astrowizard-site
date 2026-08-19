@@ -2,6 +2,7 @@
 # To change or remove your name: message Luke - done the same day.
 # '#' lines are comments. Sections: [recent] [legends] [fellowship].
 [recent]
+Gerald G.
 J. Whitworth
 AAPOD2
 Jürgen S.
@@ -11,7 +12,6 @@ Albert T.
 Timothy H.
 Neil B.
 Karsten J.
-ShreddyBear
 [legends]
 Pete's Astrophotography
 Blake (ThisOne)
@@ -160,6 +160,7 @@ Geir H.
 Geoffrey V.
 Geoffrey W.
 Geoffrey W. C.
+Gerald G.
 Glenn C.
 Gordon Z.
 Graeme B.
