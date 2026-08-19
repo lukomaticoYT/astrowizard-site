@@ -2,6 +2,7 @@
 # To change or remove your name: message Luke - done the same day.
 # '#' lines are comments. Sections: [recent] [legends] [fellowship].
 [recent]
+M. Schuster
 Erik V. H. Fotografie
 Dave S.
 Bob P.
@@ -11,7 +12,6 @@ Peter K.
 Zoe C.
 Marcin P.
 J. Fathers
-Frederic E.
 [legends]
 Pete's Astrophotography
 Blake (ThisOne)
@@ -256,6 +256,7 @@ Luis M.
 Lyle A.
 M. Kotchie
 M. Sansom
+M. Schuster
 Manuel P. F.
 Marc S.
 Marcelo A.
