@@ -2,6 +2,7 @@
 # To change or remove your name: message Luke - done the same day.
 # '#' lines are comments. Sections: [recent] [legends] [fellowship].
 [recent]
+Charles B.
 Stephen R.
 Peter K.
 Zoe C.
@@ -11,7 +12,6 @@ Frederic E.
 John G.
 Rondle M.
 Alexandre D.
-Craig H.
 [legends]
 Pete's Astrophotography
 Blake (ThisOne)
@@ -99,6 +99,7 @@ C. O'Neill
 Carl B.
 Carlos R.
 Chance Y.
+Charles B.
 Charles E.
 Charles P.
 Charles W.
