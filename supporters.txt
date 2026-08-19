@@ -2,6 +2,7 @@
 # To change or remove your name: message Luke - done the same day.
 # '#' lines are comments. Sections: [recent] [legends] [fellowship].
 [recent]
+Jürgen S.
 RURIOSTE
 Astroexeter
 Albert T.
@@ -11,7 +12,6 @@ Karsten J.
 ShreddyBear
 David E.
 Stefano D.
-Larry A.
 [legends]
 Pete's Astrophotography
 Blake (ThisOne)
@@ -221,6 +221,7 @@ Juan C. S. A.
 Juan D. P. A.
 Juan T.
 Jörg S.
+Jürgen S.
 Kabir J.
 Kalev P.
 Karen W.
