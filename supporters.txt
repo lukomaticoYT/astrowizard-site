@@ -2,6 +2,7 @@
 # To change or remove your name: message Luke - done the same day.
 # '#' lines are comments. Sections: [recent] [legends] [fellowship].
 [recent]
+AAPOD2
 Jürgen S.
 RURIOSTE
 Astroexeter
@@ -11,7 +12,6 @@ Neil B.
 Karsten J.
 ShreddyBear
 David E.
-Stefano D.
 [legends]
 Pete's Astrophotography
 Blake (ThisOne)
@@ -65,6 +65,7 @@ Mohamed Z.
 William C.
 ShreddyBear
 [fellowship]
+AAPOD2
 Aaron Q.
 Adam D.
 Adam H.
