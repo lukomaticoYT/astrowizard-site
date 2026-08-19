@@ -2,6 +2,7 @@
 # To change or remove your name: message Luke - done the same day.
 # '#' lines are comments. Sections: [recent] [legends] [fellowship].
 [recent]
+Craig H.
 Elliott W.
 Gerald G.
 J. Whitworth
@@ -11,7 +12,6 @@ RURIOSTE
 Astroexeter
 Albert T.
 Timothy H.
-Neil B.
 [legends]
 Pete's Astrophotography
 Blake (ThisOne)
@@ -111,6 +111,7 @@ Chris O.
 Christian T.
 Claude F.
 Claus S.
+Craig H.
 Cuiv, the Lazy Geek
 Cyril C.
 D. Beebe
