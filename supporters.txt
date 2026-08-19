@@ -2,6 +2,7 @@
 # To change or remove your name: message Luke - done the same day.
 # '#' lines are comments. Sections: [recent] [legends] [fellowship].
 [recent]
+Frederic E.
 John G.
 Rondle M.
 Alexandre D.
@@ -11,7 +12,6 @@ Gerald G.
 J. Whitworth
 AAPOD2
 Jürgen S.
-RURIOSTE
 [legends]
 Pete's Astrophotography
 Blake (ThisOne)
@@ -153,6 +153,7 @@ Francesco A.
 Francisco G.
 Frank "Astronut" G.
 Frank F.
+Frederic E.
 G. Stoppa
 Gary K.
 Gary P.
