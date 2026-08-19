@@ -2,6 +2,7 @@
 # To change or remove your name: message Luke - done the same day.
 # '#' lines are comments. Sections: [recent] [legends] [fellowship].
 [recent]
+Bob P.
 Charles B.
 Stephen R.
 Peter K.
@@ -11,7 +12,6 @@ J. Fathers
 Frederic E.
 John G.
 Rondle M.
-Alexandre D.
 [legends]
 Pete's Astrophotography
 Blake (ThisOne)
@@ -88,6 +88,7 @@ Astroexeter
 Batłomiej B.
 Bertrand D.
 Bill M.
+Bob P.
 Brad H.
 Brett H.
 Brian A.
