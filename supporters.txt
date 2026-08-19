@@ -2,6 +2,7 @@
 # To change or remove your name: message Luke - done the same day.
 # '#' lines are comments. Sections: [recent] [legends] [fellowship].
 [recent]
+J. Fathers
 Frederic E.
 John G.
 Rondle M.
@@ -11,7 +12,6 @@ Elliott W.
 Gerald G.
 J. Whitworth
 AAPOD2
-Jürgen S.
 [legends]
 Pete's Astrophotography
 Blake (ThisOne)
@@ -184,6 +184,7 @@ Ian L.
 Ian W.
 IanMac
 J. Arter
+J. Fathers
 J. Lord
 J. Morrell
 J. Whitworth
