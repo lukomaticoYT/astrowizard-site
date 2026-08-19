@@ -2,6 +2,7 @@
 # To change or remove your name: message Luke - done the same day.
 # '#' lines are comments. Sections: [recent] [legends] [fellowship].
 [recent]
+Zoe C.
 Marcin P.
 J. Fathers
 Frederic E.
@@ -11,7 +12,6 @@ Alexandre D.
 Craig H.
 Elliott W.
 Gerald G.
-J. Whitworth
 [legends]
 Pete's Astrophotography
 Blake (ThisOne)
@@ -384,4 +384,5 @@ Will J.
 William L.
 Xavier H.
 Yannik W.
+Zoe C.
 Zoltan D.
