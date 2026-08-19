@@ -2,6 +2,7 @@
 # To change or remove your name: message Luke - done the same day.
 # '#' lines are comments. Sections: [recent] [legends] [fellowship].
 [recent]
+J. Whitworth
 AAPOD2
 Jürgen S.
 RURIOSTE
@@ -11,7 +12,6 @@ Timothy H.
 Neil B.
 Karsten J.
 ShreddyBear
-David E.
 [legends]
 Pete's Astrophotography
 Blake (ThisOne)
@@ -181,6 +181,7 @@ IanMac
 J. Arter
 J. Lord
 J. Morrell
+J. Whitworth
 Jack G.
 Jacob G.
 James A.
