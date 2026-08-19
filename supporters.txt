@@ -2,6 +2,7 @@
 # To change or remove your name: message Luke - done the same day.
 # '#' lines are comments. Sections: [recent] [legends] [fellowship].
 [recent]
+Erik V. H. Fotografie
 Dave S.
 Bob P.
 Charles B.
@@ -11,7 +12,6 @@ Zoe C.
 Marcin P.
 J. Fathers
 Frederic E.
-John G.
 [legends]
 Pete's Astrophotography
 Blake (ThisOne)
@@ -151,6 +151,7 @@ Eddie L.
 Elliott W.
 Eric C.
 Eric F.
+Erik V. H. Fotografie
 Florian S.
 Francesco A.
 Francisco G.
