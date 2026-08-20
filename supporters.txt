@@ -2,6 +2,7 @@
 # To change or remove your name: message Luke - done the same day.
 # '#' lines are comments. Sections: [recent] [legends] [fellowship].
 [recent]
+Radek S.
 John D.
 Cynthia Y.
 Joe D.
@@ -11,7 +12,6 @@ S. Tinsley
 Joe M.
 Robert E.
 M. Schuster
-Erik V. H. Fotografie
 [legends]
 Pete's Astrophotography
 Blake (ThisOne)
@@ -328,6 +328,7 @@ PoppaMitch
 R. Boyd
 R. Bruce
 R. M. Graham
+Radek S.
 Ralph S.
 Randall W.
 Reference Audio Plus
