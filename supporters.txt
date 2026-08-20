@@ -2,6 +2,7 @@
 # To change or remove your name: message Luke - done the same day.
 # '#' lines are comments. Sections: [recent] [legends] [fellowship].
 [recent]
+John D.
 Cynthia Y.
 Joe D.
 B. McCoy
@@ -11,7 +12,6 @@ Joe M.
 Robert E.
 M. Schuster
 Erik V. H. Fotografie
-Dave S.
 [legends]
 Pete's Astrophotography
 Blake (ThisOne)
@@ -65,6 +65,7 @@ Mohamed Z.
 William C.
 ShreddyBear
 Zoe C.
+John D.
 [fellowship]
 AAPOD2
 Aaron Q.
