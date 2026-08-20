@@ -2,6 +2,7 @@
 # To change or remove your name: message Luke - done the same day.
 # '#' lines are comments. Sections: [recent] [legends] [fellowship].
 [recent]
+Ralph S.
 S. Tinsley
 Joe M.
 Robert E.
@@ -11,7 +12,6 @@ Dave S.
 Bob P.
 Charles B.
 Stephen R.
-Peter K.
 [legends]
 Pete's Astrophotography
 Blake (ThisOne)
@@ -324,6 +324,7 @@ PoppaMitch
 R. Boyd
 R. Bruce
 R. M. Graham
+Ralph S.
 Randall W.
 Reference Audio Plus
 Rhees and Monique
