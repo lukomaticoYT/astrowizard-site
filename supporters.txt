@@ -2,6 +2,7 @@
 # To change or remove your name: message Luke - done the same day.
 # '#' lines are comments. Sections: [recent] [legends] [fellowship].
 [recent]
+S. Tinsley
 Joe M.
 Robert E.
 M. Schuster
@@ -11,7 +12,6 @@ Bob P.
 Charles B.
 Stephen R.
 Peter K.
-Zoe C.
 [legends]
 Pete's Astrophotography
 Blake (ThisOne)
@@ -348,6 +348,7 @@ Roy F.
 RuKo
 RURIOSTE
 S. Green
+S. Tinsley
 SaltyPogue
 Samuel D.
 Sandhal F.
