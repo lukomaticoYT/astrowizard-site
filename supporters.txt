@@ -2,6 +2,7 @@
 # To change or remove your name: message Luke - done the same day.
 # '#' lines are comments. Sections: [recent] [legends] [fellowship].
 [recent]
+Cynthia Y.
 Joe D.
 B. McCoy
 Ralph S.
@@ -11,7 +12,6 @@ Robert E.
 M. Schuster
 Erik V. H. Fotografie
 Dave S.
-Bob P.
 [legends]
 Pete's Astrophotography
 Blake (ThisOne)
@@ -118,6 +118,7 @@ Claude F.
 Claus S.
 Craig H.
 Cuiv, the Lazy Geek
+Cynthia Y.
 Cyril C.
 D. Beebe
 D. Huff
