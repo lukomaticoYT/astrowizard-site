@@ -2,6 +2,7 @@
 # To change or remove your name: message Luke - done the same day.
 # '#' lines are comments. Sections: [recent] [legends] [fellowship].
 [recent]
+B. McCoy
 Ralph S.
 S. Tinsley
 Joe M.
@@ -11,7 +12,6 @@ Erik V. H. Fotografie
 Dave S.
 Bob P.
 Charles B.
-Stephen R.
 [legends]
 Pete's Astrophotography
 Blake (ThisOne)
@@ -86,6 +86,7 @@ Arne B.
 Arun A.
 Astr0mink/NomadicAstronomy
 Astroexeter
+B. McCoy
 Batłomiej B.
 Bertrand D.
 Bill M.
