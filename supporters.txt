@@ -2,6 +2,7 @@
 # To change or remove your name: message Luke - done the same day.
 # '#' lines are comments. Sections: [recent] [legends] [fellowship].
 [recent]
+Matthew W.
 Graham P.
 Joseph S.
 Gabriel P.
@@ -11,7 +12,6 @@ Cynthia Y.
 Joe D.
 B. McCoy
 Ralph S.
-S. Tinsley
 [legends]
 Pete's Astrophotography
 Blake (ThisOne)
@@ -285,6 +285,7 @@ Martin Br.
 Martin E.
 Martin K.
 Matthew G.
+Matthew W.
 Michael D.
 Michael De.
 Michael F.
