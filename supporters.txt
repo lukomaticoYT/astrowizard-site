@@ -2,6 +2,7 @@
 # To change or remove your name: message Luke - done the same day.
 # '#' lines are comments. Sections: [recent] [legends] [fellowship].
 [recent]
+The Astrollarium
 Bruce S.
 Carl
 Robert R.
@@ -11,7 +12,6 @@ Graham P.
 Joseph S.
 Gabriel P.
 Radek S.
-John D.
 [legends]
 Pete's Astrophotography
 Blake (ThisOne)
@@ -391,6 +391,7 @@ Stuart F.
 Studio_AP
 Subhadip C.
 TCPIP Nut
+The Astrollarium
 Tim V. R.
 Timo K.
 Timothy H.
