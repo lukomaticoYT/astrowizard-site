@@ -2,6 +2,7 @@
 # To change or remove your name: message Luke - done the same day.
 # '#' lines are comments. Sections: [recent] [legends] [fellowship].
 [recent]
+Graham P.
 Joseph S.
 Gabriel P.
 Radek S.
@@ -11,7 +12,6 @@ Joe D.
 B. McCoy
 Ralph S.
 S. Tinsley
-Joe M.
 [legends]
 Pete's Astrophotography
 Blake (ThisOne)
@@ -178,6 +178,7 @@ Gerald G.
 Glenn C.
 Gordon Z.
 Graeme B.
+Graham P.
 Gregor M.
 Guy R.
 Guy T.
