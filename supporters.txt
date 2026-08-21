@@ -2,6 +2,7 @@
 # To change or remove your name: message Luke - done the same day.
 # '#' lines are comments. Sections: [recent] [legends] [fellowship].
 [recent]
+Stephen P.
 The Astrollarium
 Bruce S.
 Carl
@@ -11,7 +12,6 @@ Matthew W.
 Graham P.
 Joseph S.
 Gabriel P.
-Radek S.
 [legends]
 Pete's Astrophotography
 Blake (ThisOne)
@@ -381,6 +381,7 @@ Stephen H.
 Stephen L.
 Stephen La.
 Stephen Ly.
+Stephen P.
 Stephen R.
 Steve W.
 Steve Z.
