@@ -2,6 +2,7 @@
 # To change or remove your name: message Luke - done the same day.
 # '#' lines are comments. Sections: [recent] [legends] [fellowship].
 [recent]
+Carl
 Robert R.
 Eugenio G.
 Matthew W.
@@ -11,7 +12,6 @@ Gabriel P.
 Radek S.
 John D.
 Cynthia Y.
-Joe D.
 [legends]
 Pete's Astrophotography
 Blake (ThisOne)
@@ -102,6 +102,7 @@ Brian R.
 Brian W.
 Bruno L.
 C. O'Neill
+Carl
 Carl B.
 Carlos R.
 Chance Y.
