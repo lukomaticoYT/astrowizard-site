@@ -2,6 +2,7 @@
 # To change or remove your name: message Luke - done the same day.
 # '#' lines are comments. Sections: [recent] [legends] [fellowship].
 [recent]
+Joseph S.
 Gabriel P.
 Radek S.
 John D.
@@ -11,7 +12,6 @@ B. McCoy
 Ralph S.
 S. Tinsley
 Joe M.
-Robert E.
 [legends]
 Pete's Astrophotography
 Blake (ThisOne)
@@ -237,6 +237,7 @@ John S.
 John W.
 Joseph C.
 Joseph L.
+Joseph S.
 Joseph T.
 Juan C. S. A.
 Juan D. P. A.
