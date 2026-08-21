@@ -2,6 +2,7 @@
 # To change or remove your name: message Luke - done the same day.
 # '#' lines are comments. Sections: [recent] [legends] [fellowship].
 [recent]
+MarkyZnO
 Cordula G.
 Stephen P.
 The Astrollarium
@@ -11,7 +12,6 @@ Robert R.
 Eugenio G.
 Matthew W.
 Graham P.
-Joseph S.
 [legends]
 Pete's Astrophotography
 Blake (ThisOne)
@@ -284,6 +284,7 @@ Mark M.
 Mark S.
 Mark T.
 Mark Y.
+MarkyZnO
 Martin B.
 Martin Br.
 Martin E.
