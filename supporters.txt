@@ -66,6 +66,7 @@ William C.
 ShreddyBear
 Zoe C.
 John D.
+Michael R.
 [fellowship]
 AAPOD2
 Aaron Q.
@@ -286,7 +287,6 @@ Michael De.
 Michael F.
 Michael L.
 Michael P.
-Michael R.
 Michael S.
 Michael T.
 Michael V.
