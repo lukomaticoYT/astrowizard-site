@@ -2,6 +2,7 @@
 # To change or remove your name: message Luke - done the same day.
 # '#' lines are comments. Sections: [recent] [legends] [fellowship].
 [recent]
+Christian Dr. Zülch
 MarkyZnO
 Cordula G.
 Stephen P.
@@ -11,7 +12,6 @@ Carl
 Robert R.
 Eugenio G.
 Matthew W.
-Graham P.
 [legends]
 Pete's Astrophotography
 Blake (ThisOne)
@@ -117,6 +117,7 @@ Chris D.
 Chris G.
 Chris J.
 Chris O.
+Christian Dr. Zülch
 Christian T.
 Claude F.
 Claus S.
