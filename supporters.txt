@@ -2,6 +2,7 @@
 # To change or remove your name: message Luke - done the same day.
 # '#' lines are comments. Sections: [recent] [legends] [fellowship].
 [recent]
+Andrew S.
 D. O'Neill
 Tommy P.
 Bradford E.
@@ -11,7 +12,6 @@ Michael K.
 Thomas C.
 Paul L.
 Klaus W.
-Dennis D.
 [legends]
 Pete's Astrophotography
 Blake (ThisOne)
@@ -90,6 +90,7 @@ Alexandre D.
 Andreas B.
 Andrew L.
 Andrew N.
+Andrew S.
 Andrew W.
 Anthony A.
 Arne B.
