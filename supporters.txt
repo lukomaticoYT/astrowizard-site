@@ -2,6 +2,7 @@
 # To change or remove your name: message Luke - done the same day.
 # '#' lines are comments. Sections: [recent] [legends] [fellowship].
 [recent]
+Nicholas S.
 Álvaro H. V.
 Stéphane F.
 Gary L.
@@ -11,7 +12,6 @@ Stefan P.
 Christian Dr. Zülch
 MarkyZnO
 Cordula G.
-Stephen P.
 [legends]
 Pete's Astrophotography
 Blake (ThisOne)
@@ -311,6 +311,7 @@ Neal
 Neil B.
 Neil C.
 Neil W.
+Nicholas S.
 Nico G.
 NikonJax
 Nino D.
