@@ -2,6 +2,7 @@
 # To change or remove your name: message Luke - done the same day.
 # '#' lines are comments. Sections: [recent] [legends] [fellowship].
 [recent]
+Thomas C.
 Paul L.
 Klaus W.
 Dennis D.
@@ -11,7 +12,6 @@ Jenson K.
 Dave N.
 Frank S.
 C. Hudson
-Luca S.
 [legends]
 Pete's Astrophotography
 Blake (ThisOne)
@@ -431,6 +431,7 @@ Stéphane F.
 Subhadip C.
 TCPIP Nut
 The Astrollarium
+Thomas C.
 Tim V. R.
 Timo K.
 Timothy H.
