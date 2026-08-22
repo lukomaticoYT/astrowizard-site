@@ -2,6 +2,7 @@
 # To change or remove your name: message Luke - done the same day.
 # '#' lines are comments. Sections: [recent] [legends] [fellowship].
 [recent]
+Klaus W.
 Dennis D.
 Jonny Pulli
 Ernst K.
@@ -11,7 +12,6 @@ Frank S.
 C. Hudson
 Luca S.
 Les W.
-Hans H.
 [legends]
 Pete's Astrophotography
 Blake (ThisOne)
@@ -276,6 +276,7 @@ Karl C.
 Karsten J.
 Ken F.
 Kevin S.
+Klaus W.
 Kris H.
 Krzysztof K.
 Larry A.
