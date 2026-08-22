@@ -2,6 +2,7 @@
 # To change or remove your name: message Luke - done the same day.
 # '#' lines are comments. Sections: [recent] [legends] [fellowship].
 [recent]
+D. Kenney
 PaganoPhoto
 Marj E.
 Nicholas S.
@@ -11,7 +12,6 @@ Gary L.
 Oscar P.
 Stuart G.
 Stefan P.
-Christian Dr. Zülch
 [legends]
 Pete's Astrophotography
 Blake (ThisOne)
@@ -132,6 +132,7 @@ Cynthia Y.
 Cyril C.
 D. Beebe
 D. Huff
+D. Kenney
 D. Le Poidevin
 Dale C.
 Dale R.
