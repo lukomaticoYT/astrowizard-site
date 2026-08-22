@@ -2,6 +2,7 @@
 # To change or remove your name: message Luke - done the same day.
 # '#' lines are comments. Sections: [recent] [legends] [fellowship].
 [recent]
+Darren W.
 Michael B.
 Jason C.
 Joe V.
@@ -11,7 +12,6 @@ Poco Loco
 Nathan B.
 Jogi164
 Thomas S.
-Christophe P.
 [legends]
 Pete's Astrophotography
 Blake (ThisOne)
@@ -153,6 +153,7 @@ D. Le Poidevin
 D. O'Neill
 Dale C.
 Dale R.
+Darren W.
 Dave N.
 Dave S.
 David B.
