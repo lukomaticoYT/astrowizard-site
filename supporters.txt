@@ -3,7 +3,7 @@
 # '#' lines are comments. Sections: [recent] [legends] [fellowship].
 [recent]
 Louis R.
-Andrew S.
+AndyS
 D. O'Neill
 Tommy P.
 Bradford E.
@@ -90,8 +90,8 @@ Alexandre D.
 Andreas B.
 Andrew L.
 Andrew N.
-Andrew S.
 Andrew W.
+AndyS
 Anthony A.
 Arne B.
 Arun A.
