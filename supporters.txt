@@ -2,6 +2,7 @@
 # To change or remove your name: message Luke - done the same day.
 # '#' lines are comments. Sections: [recent] [legends] [fellowship].
 [recent]
+G. Platt
 Sean M.
 Poco Loco
 Nathan B.
@@ -11,7 +12,6 @@ Christophe P.
 Donn Miller
 Pieter Van Niekerk
 Louis R.
-AndyS
 [legends]
 Pete's Astrophotography
 Blake (ThisOne)
@@ -195,6 +195,7 @@ Frank "Astronut" G.
 Frank F.
 Frank S.
 Frederic E.
+G. Platt
 G. Stoppa
 Gabriel P.
 Gary K.
