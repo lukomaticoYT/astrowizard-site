@@ -2,6 +2,7 @@
 # To change or remove your name: message Luke - done the same day.
 # '#' lines are comments. Sections: [recent] [legends] [fellowship].
 [recent]
+Carlos D.
 D. Kenney
 PaganoPhoto
 Marj E.
@@ -11,7 +12,6 @@ Stéphane F.
 Gary L.
 Oscar P.
 Stuart G.
-Stefan P.
 [legends]
 Pete's Astrophotography
 Blake (ThisOne)
@@ -109,6 +109,7 @@ Bruno L.
 C. O'Neill
 Carl
 Carl B.
+Carlos D.
 Carlos R.
 Chance Y.
 Charles B.
