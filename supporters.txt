@@ -2,6 +2,7 @@
 # To change or remove your name: message Luke - done the same day.
 # '#' lines are comments. Sections: [recent] [legends] [fellowship].
 [recent]
+Herve C.
 Tony C.
 Adriano G.
 B. Clark Williams
@@ -11,7 +12,6 @@ Maurizio T.
 Morgan H.
 Edd L.
 Mark L.
-Ivan H.
 [legends]
 Pete's Astrophotography
 Blake (ThisOne)
@@ -203,6 +203,7 @@ Hans L.
 HansPS
 Henri D.
 Henriette C.
+Herve C.
 High Legh Community Observatory
 Ian C.
 Ian L.
