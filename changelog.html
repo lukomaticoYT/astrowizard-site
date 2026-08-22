@@ -66,6 +66,17 @@
 
   <div class="log">
     <div class="entry">
+      <p class="date">23 AUGUST 2026</p>
+      <h2>StackingWizard Beta 2: big nights</h2>
+      <ul>
+        <li><b>Big nights, fixed at the root</b> - the first beta kept every aligned frame in memory, so a 500-frame Seestar night could eat 40 GB and crawl into swap on Windows and Mac alike. Aligned frames now stream through a disk cache that is freed afterwards, memory stays flat whatever the frame count, and the final vote is a new sort-once algorithm running on every core. measured on the workshop PC: 187 Seestar frames in 2 minutes 31 seconds end to end, where the first beta needed over 8 minutes for the final vote on 60 frames alone. Thank you Dean, Marco, Paul, Volker, Alex, and the Dwarf 3 M31 reporter - your receipts drew the map.</li>
+        <li><b>Never silent again</b> - grading, aligning and the final vote each show a measured time left. The "half a minute or so" line was a lie at 521 frames and is gone. A Stop button stands while stacking.</li>
+        <li><b>Stricter alignment</b> - six stars must agree before a frame is placed (four-star fits stacked extra galaxy cores on a Dwarf 3 M31 night); a frame gets a second, harder look before it is given up; frames a Dwarf itself marked "failed_" never lead the stack.</li>
+        <li><b>Small things you asked for</b> - the copy-the-receipts button sits in the card where no window width can hide it; previews fit the panel (portrait Seestar frames showed as a zoomed crop); saved names carry the frame count; "stacked", not "master", in the header; combining leaves out a stack that shares under half the field instead of shrinking your result to a strip; grading folds frames that arrive at a different bit-scale (the S30 Pro "300% sky" frames) before any verdict.</li>
+        <li><b>Known, and next</b> - the Looking Glass list struggles past about 500 frames (grading itself is fine; a lighter list is next), then the uncropped/union canvas and a calibration library. Defender still frowns at unsigned betas: the false-positive report for this build is filed and signing is in progress.</li>
+      </ul>
+    </div>
+    <div class="entry">
       <p class="date">22 AUGUST 2026</p>
       <h2>StackingWizard: the public beta opens</h2>
       <ul>
