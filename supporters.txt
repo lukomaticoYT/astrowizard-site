@@ -2,6 +2,7 @@
 # To change or remove your name: message Luke - done the same day.
 # '#' lines are comments. Sections: [recent] [legends] [fellowship].
 [recent]
+Dennis D.
 Jonny Pulli
 Ernst K.
 Jenson K.
@@ -11,7 +12,6 @@ C. Hudson
 Luca S.
 Les W.
 Hans H.
-Herve C.
 [legends]
 Pete's Astrophotography
 Blake (ThisOne)
@@ -157,6 +157,7 @@ Dawn P.
 Dean S.
 DeanH
 Denis Y.
+Dennis D.
 Dennis V.
 Derek F.
 Didier P.
