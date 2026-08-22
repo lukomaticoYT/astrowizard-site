@@ -2,6 +2,7 @@
 # To change or remove your name: message Luke - done the same day.
 # '#' lines are comments. Sections: [recent] [legends] [fellowship].
 [recent]
+Pieter Van Niekerk
 Louis R.
 AndyS
 D. O'Neill
@@ -11,7 +12,6 @@ Thomas B.
 David V.
 Michael K.
 Thomas C.
-Paul L.
 [legends]
 Pete's Astrophotography
 Blake (ThisOne)
@@ -73,6 +73,7 @@ Keith G.
 Oscar P.
 Gary L.
 David V.
+Pieter Van Niekerk
 [fellowship]
 AAPOD2
 Aaron Q.
