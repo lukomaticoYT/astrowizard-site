@@ -2,6 +2,7 @@
 # To change or remove your name: message Luke - done the same day.
 # '#' lines are comments. Sections: [recent] [legends] [fellowship].
 [recent]
+Peter D.
 Kevin S.
 Maurizio T.
 Morgan H.
@@ -11,7 +12,6 @@ Ivan H.
 Alex T.
 Stephan E.
 R. Barter
-Carlos D.
 [legends]
 Pete's Astrophotography
 Blake (ThisOne)
@@ -340,6 +340,7 @@ Paul S.
 Paul T.
 Paulo B. G.
 Pete C.
+Peter D.
 Peter H.
 Peter J. K.
 Peter K.
