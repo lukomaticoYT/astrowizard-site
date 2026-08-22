@@ -2,6 +2,7 @@
 # To change or remove your name: message Luke - done the same day.
 # '#' lines are comments. Sections: [recent] [legends] [fellowship].
 [recent]
+Stephan E.
 R. Barter
 Carlos D.
 D. Kenney
@@ -11,7 +12,6 @@ Nicholas S.
 Álvaro H. V.
 Stéphane F.
 Gary L.
-Oscar P.
 [legends]
 Pete's Astrophotography
 Blake (ThisOne)
@@ -387,6 +387,7 @@ StarSight Astrophotography
 Stefan P.
 Stefano D.
 Steinhaus T.
+Stephan E.
 Stephan L.
 Stephen D.
 Stephen H.
