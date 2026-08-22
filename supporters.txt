@@ -2,6 +2,7 @@
 # To change or remove your name: message Luke - done the same day.
 # '#' lines are comments. Sections: [recent] [legends] [fellowship].
 [recent]
+Álvaro H. V.
 Stéphane F.
 Gary L.
 Oscar P.
@@ -11,7 +12,6 @@ Christian Dr. Zülch
 MarkyZnO
 Cordula G.
 Stephen P.
-The Astrollarium
 [legends]
 Pete's Astrophotography
 Blake (ThisOne)
@@ -420,3 +420,4 @@ William L.
 Xavier H.
 Yannik W.
 Zoltan D.
+Álvaro H. V.
