@@ -2,6 +2,7 @@
 # To change or remove your name: message Luke - done the same day.
 # '#' lines are comments. Sections: [recent] [legends] [fellowship].
 [recent]
+Stéphane F.
 Gary L.
 Oscar P.
 Stuart G.
@@ -11,7 +12,6 @@ MarkyZnO
 Cordula G.
 Stephen P.
 The Astrollarium
-Bruce S.
 [legends]
 Pete's Astrophotography
 Blake (ThisOne)
@@ -397,6 +397,7 @@ Steven Z.
 Stuart F.
 Stuart G.
 Studio_AP
+Stéphane F.
 Subhadip C.
 TCPIP Nut
 The Astrollarium
