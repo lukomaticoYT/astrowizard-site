@@ -2,6 +2,7 @@
 # To change or remove your name: message Luke - done the same day.
 # '#' lines are comments. Sections: [recent] [legends] [fellowship].
 [recent]
+Les W.
 Hans H.
 Herve C.
 Tony C.
@@ -11,7 +12,6 @@ Peter D.
 Kevin S.
 Maurizio T.
 Morgan H.
-Edd L.
 [legends]
 Pete's Astrophotography
 Blake (ThisOne)
@@ -276,6 +276,7 @@ Laurence C.
 Lawrence K.
 Lena G. L.
 Leonard J.
+Les W.
 Lord C.
 Loree R.
 Lorraine M.
