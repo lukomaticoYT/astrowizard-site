@@ -2,6 +2,7 @@
 # To change or remove your name: message Luke - done the same day.
 # '#' lines are comments. Sections: [recent] [legends] [fellowship].
 [recent]
+Edd L.
 Mark L.
 Ivan H.
 Alex T.
@@ -11,7 +12,6 @@ Carlos D.
 D. Kenney
 PaganoPhoto
 Marj E.
-Nicholas S.
 [legends]
 Pete's Astrophotography
 Blake (ThisOne)
@@ -163,6 +163,7 @@ Douglas H.
 Dr. D.
 Earl P.
 Ed K.
+Edd L.
 Eddie L.
 Elliott W.
 Eric C.
