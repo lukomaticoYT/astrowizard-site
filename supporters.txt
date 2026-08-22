@@ -2,6 +2,7 @@
 # To change or remove your name: message Luke - done the same day.
 # '#' lines are comments. Sections: [recent] [legends] [fellowship].
 [recent]
+Jogi164
 Thomas S.
 Christophe P.
 Donn Miller
@@ -11,7 +12,6 @@ AndyS
 D. O'Neill
 Tommy P.
 Bradford E.
-Thomas B.
 [legends]
 Pete's Astrophotography
 Blake (ThisOne)
@@ -78,6 +78,7 @@ Donn Miller
 Christophe P.
 Thomas S.
 Jeff C.
+Jogi164
 [fellowship]
 AAPOD2
 Aaron Q.
