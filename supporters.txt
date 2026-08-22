@@ -2,6 +2,7 @@
 # To change or remove your name: message Luke - done the same day.
 # '#' lines are comments. Sections: [recent] [legends] [fellowship].
 [recent]
+B. Clark Williams
 Peter D.
 Kevin S.
 Maurizio T.
@@ -11,7 +12,6 @@ Mark L.
 Ivan H.
 Alex T.
 Stephan E.
-R. Barter
 [legends]
 Pete's Astrophotography
 Blake (ThisOne)
@@ -94,6 +94,7 @@ Arne B.
 Arun A.
 Astr0mink/NomadicAstronomy
 Astroexeter
+B. Clark Williams
 B. McCoy
 Batłomiej B.
 Bertrand D.
