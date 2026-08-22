@@ -2,6 +2,7 @@
 # To change or remove your name: message Luke - done the same day.
 # '#' lines are comments. Sections: [recent] [legends] [fellowship].
 [recent]
+Poco Loco
 Nathan B.
 Jogi164
 Thomas S.
@@ -11,7 +12,6 @@ Pieter Van Niekerk
 Louis R.
 AndyS
 D. O'Neill
-Tommy P.
 [legends]
 Pete's Astrophotography
 Blake (ThisOne)
@@ -80,6 +80,7 @@ Thomas S.
 Jeff C.
 Jogi164
 Nathan B.
+Poco Loco
 [fellowship]
 AAPOD2
 Aaron Q.
