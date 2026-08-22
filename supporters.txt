@@ -2,6 +2,7 @@
 # To change or remove your name: message Luke - done the same day.
 # '#' lines are comments. Sections: [recent] [legends] [fellowship].
 [recent]
+Michael B.
 Jason C.
 Joe V.
 G. Platt
@@ -11,7 +12,6 @@ Nathan B.
 Jogi164
 Thomas S.
 Christophe P.
-Donn Miller
 [legends]
 Pete's Astrophotography
 Blake (ThisOne)
@@ -332,6 +332,7 @@ Martin K.
 Matthew G.
 Matthew W.
 Maurizio T.
+Michael B.
 Michael D.
 Michael De.
 Michael F.
