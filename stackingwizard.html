@@ -1,0 +1,191 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>StackingWizard - stack your subs, simply (public beta)</title>
+<meta name="description" content="StackingWizard turns a night of telescope frames into a finished stack, simply: drop the folder in, the wizard sorts, grades, aligns, stacks and hands the result to AstroWizard. Free, in public beta.">
+<meta property="og:title" content="StackingWizard - stack your subs, simply (public beta)">
+<meta property="og:description" content="Drop the night's folder in. The wizard sorts, grades, stacks, and hands the finished stack to AstroWizard. Free, public beta, by Lukomatico.">
+<meta property="og:type" content="website">
+<meta property="og:url" content="https://astrowizard.lukomatico.com/stackingwizard.html">
+<link rel="icon" href="data:image/svg+xml,<svg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 100 100%22><text y=%22.9em%22 font-size=%2290%22>🥞</text></svg>">
+<style>
+  :root {
+    color-scheme: dark;
+    --sky: #0b0e1a;
+    --card: #141a2e;
+    --card-edge: #232c4a;
+    --ink: #e8eaf4;
+    --ink-soft: #9aa3c0;
+    --violet: #7b73f0;
+    --violet-deep: #5a52c8;
+    --gold: #f2c14e;
+    --serif: "Palatino Linotype", "Book Antiqua", Palatino, Georgia, serif;
+    --sans: system-ui, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+    --mono: ui-monospace, "Cascadia Mono", "SF Mono", Consolas, monospace;
+  }
+  * { box-sizing: border-box; }
+  body {
+    margin: 0;
+    background:
+      radial-gradient(900px 500px at 80% -10%, #1a2142 0%, transparent 60%),
+      var(--sky);
+    color: var(--ink);
+    font-family: var(--sans);
+    font-size: 16.5px;
+    line-height: 1.6;
+  }
+  a { color: var(--violet); }
+  a:focus-visible { outline: 2px solid var(--gold); outline-offset: 3px; border-radius: 4px; }
+  .wrap { max-width: 860px; margin: 0 auto; padding: 48px 24px 80px; }
+  .back { font-family: var(--mono); font-size: 13px; text-decoration: none; }
+  .eyebrow {
+    font-family: var(--mono); font-size: 12px; letter-spacing: .18em;
+    text-transform: uppercase; color: var(--gold); margin-top: 22px;
+  }
+  h1 {
+    font-family: var(--serif); font-weight: 400;
+    font-size: clamp(34px, 6vw, 50px); margin: 6px 0 6px; text-wrap: balance;
+  }
+  h1 .beta {
+    font-family: var(--mono); font-size: 13px; letter-spacing: .14em; vertical-align: middle;
+    background: var(--gold); color: #1a1a1a; border-radius: 999px; padding: 3px 10px; margin-left: 10px;
+  }
+  .sub { color: var(--ink-soft); margin: 0 0 30px; max-width: 62ch; font-size: 18px; }
+  .sub strong { color: var(--ink); }
+  .status {
+    background: linear-gradient(180deg, rgba(242,193,78,.07), transparent 60%), var(--card);
+    border: 1px solid var(--gold); border-radius: 12px;
+    padding: 18px 22px; margin: 0 0 36px;
+  }
+  .status .st {
+    font-family: var(--mono); font-size: 11px; letter-spacing: .14em;
+    text-transform: uppercase; color: var(--gold); margin: 0 0 6px;
+  }
+  .status p { margin: 0; color: var(--ink-soft); }
+  h2 {
+    font-family: var(--serif); font-weight: 400; font-size: 25px;
+    margin: 44px 0 14px; color: var(--gold);
+  }
+  .steps { display: grid; grid-template-columns: repeat(auto-fit, minmax(190px, 1fr)); gap: 14px; padding: 0; margin: 0; list-style: none; counter-reset: step; }
+  .steps li {
+    counter-increment: step;
+    background: var(--card); border: 1px solid var(--card-edge); border-radius: 12px;
+    padding: 16px 18px;
+  }
+  .steps li::before {
+    content: counter(step); display: inline-flex; align-items: center; justify-content: center;
+    width: 24px; height: 24px; border-radius: 50%; background: #1c2340; color: var(--gold);
+    font-family: var(--mono); font-size: 12px; margin-bottom: 8px;
+  }
+  .steps b { display: block; font-family: var(--serif); font-size: 19px; font-weight: 400; margin-bottom: 4px; }
+  .steps p { margin: 0; color: var(--ink-soft); font-size: 14.5px; }
+  .card {
+    background: var(--card); border: 1px solid var(--card-edge);
+    border-radius: 14px; padding: 24px 26px 20px; margin-top: 14px;
+  }
+  .card h3 { margin: 0 0 10px; font-family: var(--serif); font-weight: 400; font-size: 23px;
+             display: flex; align-items: baseline; justify-content: space-between; gap: 10px; }
+  .card h3 .tag { font-family: var(--mono); font-size: 11px; color: var(--ink-soft); letter-spacing: .08em; }
+  .btn {
+    display: inline-flex; flex-direction: column; gap: 2px;
+    padding: 13px 22px 11px; border-radius: 10px;
+    text-decoration: none; border: 1px solid transparent; line-height: 1.25;
+  }
+  .btn .big { font-weight: 650; font-size: 17px; }
+  .btn .small { font-family: var(--mono); font-size: 11.5px; opacity: .85; }
+  .btn-win { background: var(--violet); color: #fff; }
+  .btn-win:hover { background: var(--violet-deep); }
+  .btn-soon { background: transparent; color: var(--ink-soft); border-color: var(--card-edge); cursor: default; }
+  .card ol { margin: 12px 0 0; padding-left: 22px; color: var(--ink-soft); font-size: 15px; display: grid; gap: 7px; }
+  .card ol b { color: var(--ink); font-weight: 600; }
+  .why { font-size: 13.5px; color: var(--ink-soft); margin: 12px 0 0; }
+  .mirror { font-size: 13.5px; color: var(--ink-soft); margin: -4px 0 10px; }
+  .notes { display: grid; grid-template-columns: repeat(auto-fit, minmax(250px, 1fr)); gap: 14px; }
+  .note { background: var(--card); border: 1px solid var(--card-edge); border-radius: 12px; padding: 16px 18px; }
+  .note h4 { margin: 0 0 8px; font-family: var(--mono); font-size: 11.5px; letter-spacing: .14em; text-transform: uppercase; color: var(--gold); }
+  .note p, .note li { color: var(--ink-soft); font-size: 14.5px; margin: 0; }
+  .note ul { margin: 0; padding-left: 18px; display: grid; gap: 4px; }
+  .foot { border-top: 1px solid var(--card-edge); margin-top: 44px; padding-top: 22px; color: var(--ink-soft); font-size: 14.5px; }
+  .foot p { margin: 6px 0; }
+</style>
+</head>
+<body>
+<div class="wrap">
+  <a class="back" href="./">&larr; astrowizard.lukomatico.com</a>
+  <p class="eyebrow">The wizard&#8217;s younger sibling</p>
+  <h1>StackingWizard <span class="beta">PUBLIC BETA</span></h1>
+  <p class="sub"><strong>Drop the night&#8217;s folder in. Get a finished stack out.</strong> The wizard reads your headers, sorts the frames into their piles, grades every sub, aligns and stacks the keepers, and hands the finished stack to AstroWizard with one gold button. No settings to learn - the wizard picks, you look.</p>
+
+  <div class="status">
+    <p class="st">Public beta &middot; free for everyone &middot; rough edges guaranteed</p>
+    <p>This is a beta: the stacking is real and tested, the edges are still being sanded. It stacks FITS from colour cameras and smart telescopes (Seestar, Dwarf, ASIAIR and friends), uses your darks, flats and bias when you have them, and can combine finished stacks of the same target from several sessions (same scope and camera) into one deeper stack. Mono cameras with filter sets arrive in the next beta build. Report anything odd - every report makes the wizard wiser.</p>
+  </div>
+
+  <h2>Four steps. In order. That&#8217;s the trick.</h2>
+  <ul class="steps">
+    <li><b>The Pile</b><p>Point it at the night&#8217;s folder. Lights, darks, flats and bias sort themselves by header; already-stacked images are recognised too.</p></li>
+    <li><b>The Looking Glass</b><p>Every sub graded - sky glow, noise, star size, trails - with a magnifier to see for yourself. Pick how picky the wizard should be.</p></li>
+    <li><b>The Stack</b><p>Watch the night build: each frame arrives, matched stars flash their constellations, the stack deepens live, receipts for everything.</p></li>
+    <li><b>The Handoff</b><p>Your finished stack, saved and sent to AstroWizard with one gold button - and, if you stacked the same target on other nights with the same rig, combined with those stacks first.</p></li>
+  </ul>
+
+  <h2>Download the beta</h2>
+  <div class="card">
+    <h3>Windows <span class="tag">WINDOWS 10 / 11 &middot; BETA</span></h3>
+    <p><a class="btn btn-win" href="https://github.com/lukomaticoYT/astrowizard-releases/releases/download/stackingwizard-beta-2026-08-22/StackingWizard.exe" rel="noopener"><span class="big">Download StackingWizard for Windows</span><span class="small">beta build 2026-08-22</span></a></p>
+    <p class="mirror">Every beta build, with its checksum, lives on <a href="https://github.com/lukomaticoYT/astrowizard-releases/releases/tag/stackingwizard-beta-2026-08-22" rel="noopener">the release page</a>.</p>
+    <ol>
+      <li><b>Download</b> StackingWizard.exe - nothing to install, it just runs.</li>
+      <li>If a blue box says &#8220;Windows protected your PC&#8221;: click <b>More info</b>, then <b>Run anyway</b>.</li>
+      <li>Choose the night&#8217;s folder and follow the pips. The master autosaves beside your lights.</li>
+    </ol>
+    <p class="why">Why the warning? The same reason as AstroWizard&#8217;s: code signing is being set up and the beta ships ahead of it. The build on this page is always the official one.</p>
+  </div>
+  <div class="card">
+    <h3>macOS <span class="tag">APPLE SILICON &middot; BETA</span></h3>
+    <p><a class="btn btn-win" href="https://github.com/lukomaticoYT/astrowizard-releases/releases/download/stackingwizard-beta-2026-08-22/StackingWizard-mac.zip" rel="noopener"><span class="big">Download StackingWizard for macOS</span><span class="small">Apple Silicon (M1 and later) &middot; beta build 2026-08-22</span></a></p>
+    <p class="mirror">Every beta build, with its checksum, lives on <a href="https://github.com/lukomaticoYT/astrowizard-releases/releases/tag/stackingwizard-beta-2026-08-22" rel="noopener">the release page</a>.</p>
+    <ol>
+      <li><b>Download</b> StackingWizard-mac.zip and double-click to unzip.</li>
+      <li>First time only: <b>right-click</b> (or Control-click) StackingWizard &rarr; <b>Open</b> &rarr; <b>Open</b>.</li>
+      <li><b>On newer Macs (macOS Sequoia)</b> that trick is gone: double-click it once (it gets blocked - that&#8217;s expected), then open <b>System Settings &rarr; Privacy &amp; Security</b>, scroll down to <i>&#8220;StackingWizard was blocked&#8230;&#8221;</i> and click <b>Open Anyway</b>.</li>
+      <li>After that, open it normally like any app.</li>
+    </ol>
+    <p class="why">Why right-click? The same reason as AstroWizard&#8217;s: Apple signing is being set up and the beta ships ahead of it. Intel Macs and Linux follow shortly - the ovens are warming.</p>
+  </div>
+
+  <h2>Beta notes - read me once</h2>
+  <div class="notes">
+    <div class="note">
+      <h4>Stacks tonight</h4>
+      <ul>
+        <li>FITS lights from colour (OSC) cameras and smart telescopes</li>
+        <li>Darks, flats and bias - brewed into masters and matched honestly</li>
+        <li>Several sessions of one target from the same rig, already stacked (by any stacking program, or your smart telescope), combined into one deeper stack</li>
+        <li>Meridian flips, field rotation, nights that drift - registration copes</li>
+      </ul>
+    </div>
+    <div class="note">
+      <h4>Not yet</h4>
+      <ul>
+        <li>Mono cameras with filter sets - the next beta build</li>
+        <li>Camera RAW files (CR2, NEF, ARW) - convert to FITS first</li>
+        <li>Comets, planets and the moon - StackingWizard is for deep-sky targets only: nebulae, galaxies, clusters</li>
+        <li>Mixing stacks from different telescopes (an S30 with an S50, say) - same rig only</li>
+      </ul>
+    </div>
+    <div class="note">
+      <h4>Found something odd?</h4>
+      <p>On The Stack page press <b>copy the receipts</b> - it copies the wizard&#8217;s own log with your build and platform - and email it to <a href="mailto:wizard@lukomatico.com">wizard@lukomatico.com</a>. A screenshot helps too. Every report is read.</p>
+    </div>
+  </div>
+
+  <div class="foot">
+    <p>StackingWizard is a sibling of <a href="./">AstroWizard</a> - stack here, process there, one gold button between them. Both are free for everyone, founded on and maintained by kindness: the <a href="fellowship.html">Fellowship</a> keeps the lights on.</p>
+    <p>Questions and reports: <a href="mailto:wizard@lukomatico.com">wizard@lukomatico.com</a> &middot; the workshop log lives on the <a href="changelog.html">changelog</a>.</p>
+  </div>
+</div>
+</body>
+</html>
