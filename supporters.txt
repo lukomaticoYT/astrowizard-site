@@ -2,6 +2,7 @@
 # To change or remove your name: message Luke - done the same day.
 # '#' lines are comments. Sections: [recent] [legends] [fellowship].
 [recent]
+C. Hudson
 Luca S.
 Les W.
 Hans H.
@@ -11,7 +12,6 @@ Adriano G.
 B. Clark Williams
 Peter D.
 Kevin S.
-Maurizio T.
 [legends]
 Pete's Astrophotography
 Blake (ThisOne)
@@ -109,6 +109,7 @@ Brian R.
 Brian W.
 Bruce S.
 Bruno L.
+C. Hudson
 C. O'Neill
 Carl
 Carl B.
