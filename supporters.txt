@@ -2,6 +2,7 @@
 # To change or remove your name: message Luke - done the same day.
 # '#' lines are comments. Sections: [recent] [legends] [fellowship].
 [recent]
+Bradford E.
 Thomas B.
 David V.
 Michael K.
@@ -11,7 +12,6 @@ Klaus W.
 Dennis D.
 Jonny Pulli
 Ernst K.
-Jenson K.
 [legends]
 Pete's Astrophotography
 Blake (ThisOne)
@@ -103,6 +103,7 @@ Bertrand D.
 Bill M.
 Bob P.
 Brad H.
+Bradford E.
 Brett H.
 Brian A.
 Brian L.
