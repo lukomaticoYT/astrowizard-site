@@ -2,6 +2,7 @@
 # To change or remove your name: message Luke - done the same day.
 # '#' lines are comments. Sections: [recent] [legends] [fellowship].
 [recent]
+R. Barter
 Carlos D.
 D. Kenney
 PaganoPhoto
@@ -11,7 +12,6 @@ Nicholas S.
 Stéphane F.
 Gary L.
 Oscar P.
-Stuart G.
 [legends]
 Pete's Astrophotography
 Blake (ThisOne)
@@ -342,6 +342,7 @@ Philip A.
 Philip T.
 Piotr I.
 PoppaMitch
+R. Barter
 R. Boyd
 R. Bruce
 R. M. Graham
