@@ -2,6 +2,7 @@
 # To change or remove your name: message Luke - done the same day.
 # '#' lines are comments. Sections: [recent] [legends] [fellowship].
 [recent]
+Ivan H.
 Alex T.
 Stephan E.
 R. Barter
@@ -11,7 +12,6 @@ PaganoPhoto
 Marj E.
 Nicholas S.
 Álvaro H. V.
-Stéphane F.
 [legends]
 Pete's Astrophotography
 Blake (ThisOne)
@@ -205,6 +205,7 @@ Ian C.
 Ian L.
 Ian W.
 IanMac
+Ivan H.
 J. Arter
 J. Fathers
 J. Lord
