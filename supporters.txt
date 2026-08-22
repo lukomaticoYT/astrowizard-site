@@ -2,6 +2,7 @@
 # To change or remove your name: message Luke - done the same day.
 # '#' lines are comments. Sections: [recent] [legends] [fellowship].
 [recent]
+Gary L.
 Oscar P.
 Stuart G.
 Stefan P.
@@ -11,7 +12,6 @@ Cordula G.
 Stephen P.
 The Astrollarium
 Bruce S.
-Carl
 [legends]
 Pete's Astrophotography
 Blake (ThisOne)
@@ -71,6 +71,7 @@ Cheryl M.
 Harald B.
 Keith G.
 Oscar P.
+Gary L.
 [fellowship]
 AAPOD2
 Aaron Q.
