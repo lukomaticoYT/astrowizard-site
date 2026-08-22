@@ -2,6 +2,7 @@
 # To change or remove your name: message Luke - done the same day.
 # '#' lines are comments. Sections: [recent] [legends] [fellowship].
 [recent]
+Tony C.
 Adriano G.
 B. Clark Williams
 Peter D.
@@ -11,7 +12,6 @@ Morgan H.
 Edd L.
 Mark L.
 Ivan H.
-Alex T.
 [legends]
 Pete's Astrophotography
 Blake (ThisOne)
@@ -424,6 +424,7 @@ Timothy H.
 Timothy M.
 Tobi K.
 Tobias W.
+Tony C.
 Troy M.
 Troy S.
 Uladzimir A.
