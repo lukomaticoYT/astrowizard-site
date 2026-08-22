@@ -2,6 +2,7 @@
 # To change or remove your name: message Luke - done the same day.
 # '#' lines are comments. Sections: [recent] [legends] [fellowship].
 [recent]
+Stefan P.
 Christian Dr. Zülch
 MarkyZnO
 Cordula G.
@@ -11,7 +12,6 @@ Bruce S.
 Carl
 Robert R.
 Eugenio G.
-Matthew W.
 [legends]
 Pete's Astrophotography
 Blake (ThisOne)
@@ -376,6 +376,7 @@ SJ. Grady
 Sonja L.
 Sound Man Martin
 StarSight Astrophotography
+Stefan P.
 Stefano D.
 Steinhaus T.
 Stephan L.
