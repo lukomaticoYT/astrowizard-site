@@ -2,6 +2,7 @@
 # To change or remove your name: message Luke - done the same day.
 # '#' lines are comments. Sections: [recent] [legends] [fellowship].
 [recent]
+PaganoPhoto
 Marj E.
 Nicholas S.
 Álvaro H. V.
@@ -11,7 +12,6 @@ Oscar P.
 Stuart G.
 Stefan P.
 Christian Dr. Zülch
-MarkyZnO
 [legends]
 Pete's Astrophotography
 Blake (ThisOne)
@@ -320,6 +320,7 @@ Noah B.
 Norman L.
 Osvaldo L.
 P. Holl
+PaganoPhoto
 Pascal E.
 Patrick N.
 Patrizio C.
