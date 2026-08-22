@@ -2,6 +2,7 @@
 # To change or remove your name: message Luke - done the same day.
 # '#' lines are comments. Sections: [recent] [legends] [fellowship].
 [recent]
+Joe V.
 G. Platt
 Sean M.
 Poco Loco
@@ -11,7 +12,6 @@ Thomas S.
 Christophe P.
 Donn Miller
 Pieter Van Niekerk
-Louis R.
 [legends]
 Pete's Astrophotography
 Blake (ThisOne)
@@ -260,6 +260,7 @@ Joaquin B.
 Jody H.
 Joe D.
 Joe M.
+Joe V.
 John A.
 John C.
 John F.
