@@ -2,6 +2,7 @@
 # To change or remove your name: message Luke - done the same day.
 # '#' lines are comments. Sections: [recent] [legends] [fellowship].
 [recent]
+Morgan H.
 Edd L.
 Mark L.
 Ivan H.
@@ -11,7 +12,6 @@ R. Barter
 Carlos D.
 D. Kenney
 PaganoPhoto
-Marj E.
 [legends]
 Pete's Astrophotography
 Blake (ThisOne)
@@ -313,6 +313,7 @@ Michel A.
 Michel H.
 Mike B.
 Mike N.
+Morgan H.
 Nathan C.
 Neal
 Neil B.
