@@ -2,6 +2,7 @@
 # To change or remove your name: message Luke - done the same day.
 # '#' lines are comments. Sections: [recent] [legends] [fellowship].
 [recent]
+Adriano G.
 B. Clark Williams
 Peter D.
 Kevin S.
@@ -11,7 +12,6 @@ Edd L.
 Mark L.
 Ivan H.
 Alex T.
-Stephan E.
 [legends]
 Pete's Astrophotography
 Blake (ThisOne)
@@ -77,6 +77,7 @@ AAPOD2
 Aaron Q.
 Adam D.
 Adam H.
+Adriano G.
 Alan D.
 Alan L.
 Albert A.
