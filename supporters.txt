@@ -2,6 +2,7 @@
 # To change or remove your name: message Luke - done the same day.
 # '#' lines are comments. Sections: [recent] [legends] [fellowship].
 [recent]
+S. Gilpin
 Wolfgang B.
 A. MacLean
 Krisztian N.
@@ -11,7 +12,6 @@ Tony H.
 Scott U.
 Calvin P.
 R. Blake
-The College Gateway
 [legends]
 Pete's Astrophotography
 Blake (ThisOne)
@@ -422,6 +422,7 @@ Ronnie G.
 Roy F.
 RuKo
 RURIOSTE
+S. Gilpin
 S. Green
 S. Tinsley
 SaltyPogue
