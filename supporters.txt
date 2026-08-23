@@ -2,6 +2,7 @@
 # To change or remove your name: message Luke - done the same day.
 # '#' lines are comments. Sections: [recent] [legends] [fellowship].
 [recent]
+Theo K.
 R. Davidson
 CityAstronomer
 S. Gilpin
@@ -11,7 +12,6 @@ Krisztian N.
 Detlef P.
 Stuart M.
 Tony H.
-Scott U.
 [legends]
 Pete's Astrophotography
 Blake (ThisOne)
@@ -464,6 +464,7 @@ Stéphane F.
 Subhadip C.
 TCPIP Nut
 The Astrollarium
+Theo K.
 Thomas B.
 Thomas C.
 Tim V. R.
