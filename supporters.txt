@@ -2,6 +2,7 @@
 # To change or remove your name: message Luke - done the same day.
 # '#' lines are comments. Sections: [recent] [legends] [fellowship].
 [recent]
+Krisztian N.
 Detlef P.
 Stuart M.
 Tony H.
@@ -11,7 +12,6 @@ R. Blake
 The College Gateway
 N. Poirier
 M.Frazier
-Jim O.
 [legends]
 Pete's Astrophotography
 Blake (ThisOne)
@@ -297,6 +297,7 @@ Ken F.
 Kevin S.
 Klaus W.
 Kris H.
+Krisztian N.
 Krzysztof K.
 Larry A.
 Laurence C.
