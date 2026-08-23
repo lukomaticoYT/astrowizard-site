@@ -2,6 +2,7 @@
 # To change or remove your name: message Luke - done the same day.
 # '#' lines are comments. Sections: [recent] [legends] [fellowship].
 [recent]
+Eric L.
 Dylan K.
 Brian G.
 Manuel A. F. C.
@@ -11,7 +12,6 @@ Mondland.de
 Scott S.
 Terry V.
 Ajeeth C.
-Cornz38
 [legends]
 Pete's Astrophotography
 Blake (ThisOne)
@@ -198,6 +198,7 @@ Edd L.
 Eddie L.
 Eric C.
 Eric F.
+Eric L.
 Erik V. H. Fotografie
 Ernst K.
 Eugenio G.
