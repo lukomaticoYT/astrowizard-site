@@ -2,6 +2,7 @@
 # To change or remove your name: message Luke - done the same day.
 # '#' lines are comments. Sections: [recent] [legends] [fellowship].
 [recent]
+Scott S.
 Terry V.
 Ajeeth C.
 Cornz38
@@ -11,7 +12,6 @@ R. Davidson
 CityAstronomer
 S. Gilpin
 Wolfgang B.
-A. MacLean
 [legends]
 Pete's Astrophotography
 Blake (ThisOne)
@@ -433,6 +433,7 @@ S. Tinsley
 SaltyPogue
 Samuel D.
 Sau W.
+Scott S.
 Scott U.
 Sean M.
 Sebastian W.
