@@ -2,6 +2,7 @@
 # To change or remove your name: message Luke - done the same day.
 # '#' lines are comments. Sections: [recent] [legends] [fellowship].
 [recent]
+Mondland.de
 Scott S.
 Terry V.
 Ajeeth C.
@@ -11,7 +12,6 @@ Theo K.
 R. Davidson
 CityAstronomer
 S. Gilpin
-Wolfgang B.
 [legends]
 Pete's Astrophotography
 Blake (ThisOne)
@@ -359,6 +359,7 @@ Michel A.
 Michel H.
 Mike B.
 Mike N.
+Mondland.de
 Morgan H.
 N. Poirier
 Nathan C.
