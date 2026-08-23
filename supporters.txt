@@ -2,6 +2,7 @@
 # To change or remove your name: message Luke - done the same day.
 # '#' lines are comments. Sections: [recent] [legends] [fellowship].
 [recent]
+Wolfgang B.
 A. MacLean
 Krisztian N.
 Detlef P.
@@ -11,7 +12,6 @@ Scott U.
 Calvin P.
 R. Blake
 The College Gateway
-N. Poirier
 [legends]
 Pete's Astrophotography
 Blake (ThisOne)
@@ -482,6 +482,7 @@ Vivien R.
 Walter R.
 Will J.
 William L.
+Wolfgang B.
 Xavier H.
 Yannik W.
 Zoltan D.
