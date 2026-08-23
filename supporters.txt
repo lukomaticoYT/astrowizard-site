@@ -2,6 +2,7 @@
 # To change or remove your name: message Luke - done the same day.
 # '#' lines are comments. Sections: [recent] [legends] [fellowship].
 [recent]
+D. Senay
 Stonefly Nets
 Mark Le Pla
 Eric L.
@@ -11,7 +12,6 @@ Manuel A. F. C.
 Vaughan S.
 Dakota Starry Nights
 Mondland.de
-Scott S.
 [legends]
 Pete's Astrophotography
 Blake (ThisOne)
@@ -163,6 +163,7 @@ D. Huff
 D. Kenney
 D. Le Poidevin
 D. O'Neill
+D. Senay
 Dakota Starry Nights
 Dale C.
 Dale R.
