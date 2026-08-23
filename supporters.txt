@@ -2,6 +2,7 @@
 # To change or remove your name: message Luke - done the same day.
 # '#' lines are comments. Sections: [recent] [legends] [fellowship].
 [recent]
+N. Poirier
 M.Frazier
 Jim O.
 StarHawke
@@ -11,7 +12,6 @@ Jason C.
 Joe V.
 G. Platt
 Sean M.
-Poco Loco
 [legends]
 Pete's Astrophotography
 Blake (ThisOne)
@@ -350,6 +350,7 @@ Michel H.
 Mike B.
 Mike N.
 Morgan H.
+N. Poirier
 Nathan C.
 Neal
 Neil B.
