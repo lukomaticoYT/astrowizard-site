@@ -2,6 +2,7 @@
 # To change or remove your name: message Luke - done the same day.
 # '#' lines are comments. Sections: [recent] [legends] [fellowship].
 [recent]
+Manuel A. F. C.
 Vaughan S.
 Dakota Starry Nights
 Mondland.de
@@ -11,7 +12,6 @@ Ajeeth C.
 Cornz38
 Ivan T.
 Theo K.
-R. Davidson
 [legends]
 Pete's Astrophotography
 Blake (ThisOne)
@@ -323,6 +323,7 @@ M. Kotchie
 M. Sansom
 M. Schuster
 M.Frazier
+Manuel A. F. C.
 Manuel P. F.
 Marc S.
 Marcelo A.
