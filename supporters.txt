@@ -2,6 +2,7 @@
 # To change or remove your name: message Luke - done the same day.
 # '#' lines are comments. Sections: [recent] [legends] [fellowship].
 [recent]
+Detlef P.
 Stuart M.
 Tony H.
 Scott U.
@@ -11,7 +12,6 @@ The College Gateway
 N. Poirier
 M.Frazier
 Jim O.
-StarHawke
 [legends]
 Pete's Astrophotography
 Blake (ThisOne)
@@ -176,6 +176,7 @@ Denis Y.
 Dennis D.
 Dennis V.
 Derek F.
+Detlef P.
 Didier P.
 Dion G.
 Donald L.
