@@ -2,6 +2,7 @@
 # To change or remove your name: message Luke - done the same day.
 # '#' lines are comments. Sections: [recent] [legends] [fellowship].
 [recent]
+CityAstronomer
 S. Gilpin
 Wolfgang B.
 A. MacLean
@@ -11,7 +12,6 @@ Stuart M.
 Tony H.
 Scott U.
 Calvin P.
-R. Blake
 [legends]
 Pete's Astrophotography
 Blake (ThisOne)
@@ -143,6 +143,7 @@ Chris J.
 Chris O.
 Christian Dr. Zülch
 Christian T.
+CityAstronomer
 Claude F.
 Claus S.
 Compadre Chuma
