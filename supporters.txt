@@ -2,6 +2,7 @@
 # To change or remove your name: message Luke - done the same day.
 # '#' lines are comments. Sections: [recent] [legends] [fellowship].
 [recent]
+Calvin P.
 R. Blake
 The College Gateway
 N. Poirier
@@ -11,7 +12,6 @@ StarHawke
 Darren W.
 Michael B.
 Jason C.
-Joe V.
 [legends]
 Pete's Astrophotography
 Blake (ThisOne)
@@ -122,6 +122,7 @@ Bruce S.
 Bruno L.
 C. Hudson
 C. O'Neill
+Calvin P.
 Carl
 Carl B.
 Carlos D.
