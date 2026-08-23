@@ -2,6 +2,7 @@
 # To change or remove your name: message Luke - done the same day.
 # '#' lines are comments. Sections: [recent] [legends] [fellowship].
 [recent]
+Jim O.
 StarHawke
 Darren W.
 Michael B.
@@ -11,7 +12,6 @@ G. Platt
 Sean M.
 Poco Loco
 Nathan B.
-Jogi164
 [legends]
 Pete's Astrophotography
 Blake (ThisOne)
@@ -257,6 +257,7 @@ Jeremy K.
 Jerome M.
 Jessica M.
 Jesus B.
+Jim O.
 Joachim R.
 Joaquin B.
 Jody H.
