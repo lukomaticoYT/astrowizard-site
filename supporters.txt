@@ -2,6 +2,7 @@
 # To change or remove your name: message Luke - done the same day.
 # '#' lines are comments. Sections: [recent] [legends] [fellowship].
 [recent]
+R. Blake
 The College Gateway
 N. Poirier
 M.Frazier
@@ -11,7 +12,6 @@ Darren W.
 Michael B.
 Jason C.
 Joe V.
-G. Platt
 [legends]
 Pete's Astrophotography
 Blake (ThisOne)
@@ -386,6 +386,7 @@ Philip T.
 Piotr I.
 PoppaMitch
 R. Barter
+R. Blake
 R. Boyd
 R. Bruce
 R. M. Graham
