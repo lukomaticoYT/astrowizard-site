@@ -2,6 +2,7 @@
 # To change or remove your name: message Luke - done the same day.
 # '#' lines are comments. Sections: [recent] [legends] [fellowship].
 [recent]
+M.Frazier
 Jim O.
 StarHawke
 Darren W.
@@ -11,7 +12,6 @@ Joe V.
 G. Platt
 Sean M.
 Poco Loco
-Nathan B.
 [legends]
 Pete's Astrophotography
 Blake (ThisOne)
@@ -311,6 +311,7 @@ Lyle A.
 M. Kotchie
 M. Sansom
 M. Schuster
+M.Frazier
 Manuel P. F.
 Marc S.
 Marcelo A.
