@@ -2,6 +2,7 @@
 # To change or remove your name: message Luke - done the same day.
 # '#' lines are comments. Sections: [recent] [legends] [fellowship].
 [recent]
+Dakota Starry Nights
 Mondland.de
 Scott S.
 Terry V.
@@ -11,7 +12,6 @@ Ivan T.
 Theo K.
 R. Davidson
 CityAstronomer
-S. Gilpin
 [legends]
 Pete's Astrophotography
 Blake (ThisOne)
@@ -160,6 +160,7 @@ D. Huff
 D. Kenney
 D. Le Poidevin
 D. O'Neill
+Dakota Starry Nights
 Dale C.
 Dale R.
 Darren W.
