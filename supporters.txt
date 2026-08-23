@@ -2,6 +2,7 @@
 # To change or remove your name: message Luke - done the same day.
 # '#' lines are comments. Sections: [recent] [legends] [fellowship].
 [recent]
+A. MacLean
 Krisztian N.
 Detlef P.
 Stuart M.
@@ -11,7 +12,6 @@ Calvin P.
 R. Blake
 The College Gateway
 N. Poirier
-M.Frazier
 [legends]
 Pete's Astrophotography
 Blake (ThisOne)
@@ -83,6 +83,7 @@ Nathan B.
 Poco Loco
 The College Gateway
 [fellowship]
+A. MacLean
 AAPOD2
 Aaron Q.
 Adam D.
