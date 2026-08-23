@@ -2,6 +2,7 @@
 # To change or remove your name: message Luke - done the same day.
 # '#' lines are comments. Sections: [recent] [legends] [fellowship].
 [recent]
+Dylan K.
 Brian G.
 Manuel A. F. C.
 Vaughan S.
@@ -11,7 +12,6 @@ Scott S.
 Terry V.
 Ajeeth C.
 Cornz38
-Ivan T.
 [legends]
 Pete's Astrophotography
 Blake (ThisOne)
@@ -191,6 +191,7 @@ Donald L.
 Doug P.
 Douglas H.
 Dr. D.
+Dylan K.
 Earl P.
 Ed K.
 Edd L.
