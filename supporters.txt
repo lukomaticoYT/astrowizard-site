@@ -2,6 +2,7 @@
 # To change or remove your name: message Luke - done the same day.
 # '#' lines are comments. Sections: [recent] [legends] [fellowship].
 [recent]
+Stuart M.
 Tony H.
 Scott U.
 Calvin P.
@@ -11,7 +12,6 @@ N. Poirier
 M.Frazier
 Jim O.
 StarHawke
-Darren W.
 [legends]
 Pete's Astrophotography
 Blake (ThisOne)
@@ -452,6 +452,7 @@ Steven D.
 Steven Z.
 Stuart F.
 Stuart G.
+Stuart M.
 Studio_AP
 Stéphane F.
 Subhadip C.
