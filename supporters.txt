@@ -2,6 +2,7 @@
 # To change or remove your name: message Luke - done the same day.
 # '#' lines are comments. Sections: [recent] [legends] [fellowship].
 [recent]
+Ajeeth C.
 Cornz38
 Ivan T.
 Theo K.
@@ -11,7 +12,6 @@ S. Gilpin
 Wolfgang B.
 A. MacLean
 Krisztian N.
-Detlef P.
 [legends]
 Pete's Astrophotography
 Blake (ThisOne)
@@ -90,6 +90,7 @@ Aaron Q.
 Adam D.
 Adam H.
 Adriano G.
+Ajeeth C.
 Alan D.
 Alan L.
 Albert A.
