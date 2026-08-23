@@ -2,6 +2,7 @@
 # To change or remove your name: message Luke - done the same day.
 # '#' lines are comments. Sections: [recent] [legends] [fellowship].
 [recent]
+Terry V.
 Ajeeth C.
 Cornz38
 Ivan T.
@@ -11,7 +12,6 @@ CityAstronomer
 S. Gilpin
 Wolfgang B.
 A. MacLean
-Krisztian N.
 [legends]
 Pete's Astrophotography
 Blake (ThisOne)
@@ -466,6 +466,7 @@ Studio_AP
 Stéphane F.
 Subhadip C.
 TCPIP Nut
+Terry V.
 The Astrollarium
 Theo K.
 Thomas B.
