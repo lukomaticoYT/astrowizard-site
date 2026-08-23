@@ -2,6 +2,7 @@
 # To change or remove your name: message Luke - done the same day.
 # '#' lines are comments. Sections: [recent] [legends] [fellowship].
 [recent]
+StarHawke
 Darren W.
 Michael B.
 Jason C.
@@ -11,7 +12,6 @@ Sean M.
 Poco Loco
 Nathan B.
 Jogi164
-Thomas S.
 [legends]
 Pete's Astrophotography
 Blake (ThisOne)
@@ -425,6 +425,7 @@ Selvakumar M.
 SJ. Grady
 Sonja L.
 Sound Man Martin
+StarHawke
 StarSight Astrophotography
 Stefan P.
 Stefano D.
