@@ -2,6 +2,7 @@
 # To change or remove your name: message Luke - done the same day.
 # '#' lines are comments. Sections: [recent] [legends] [fellowship].
 [recent]
+Mark Le Pla
 Eric L.
 Dylan K.
 Brian G.
@@ -11,7 +12,6 @@ Dakota Starry Nights
 Mondland.de
 Scott S.
 Terry V.
-Ajeeth C.
 [legends]
 Pete's Astrophotography
 Blake (ThisOne)
@@ -83,6 +83,7 @@ Nathan B.
 Poco Loco
 The College Gateway
 R. Davidson
+Mark Le Pla
 [fellowship]
 A. MacLean
 AAPOD2
