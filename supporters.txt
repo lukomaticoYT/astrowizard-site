@@ -2,6 +2,7 @@
 # To change or remove your name: message Luke - done the same day.
 # '#' lines are comments. Sections: [recent] [legends] [fellowship].
 [recent]
+Tony H.
 Scott U.
 Calvin P.
 R. Blake
@@ -11,7 +12,6 @@ M.Frazier
 Jim O.
 StarHawke
 Darren W.
-Michael B.
 [legends]
 Pete's Astrophotography
 Blake (ThisOne)
@@ -466,6 +466,7 @@ Tobi K.
 Tobias W.
 Tommy P.
 Tony C.
+Tony H.
 TonyMan
 Troy M.
 Troy S.
