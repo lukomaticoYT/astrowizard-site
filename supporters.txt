@@ -2,6 +2,7 @@
 # To change or remove your name: message Luke - done the same day.
 # '#' lines are comments. Sections: [recent] [legends] [fellowship].
 [recent]
+S. Ryrie
 Charles L.
 Grainge J.
 Gil E.
@@ -11,7 +12,6 @@ Rob L.
 D. Senay
 Stonefly Nets
 Mark Le Pla
-Eric L.
 [legends]
 Pete's Astrophotography
 Blake (ThisOne)
@@ -444,6 +444,7 @@ RuKo
 RURIOSTE
 S. Gilpin
 S. Green
+S. Ryrie
 S. Tinsley
 SaltyPogue
 Samuel D.
