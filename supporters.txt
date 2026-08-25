@@ -2,6 +2,7 @@
 # To change or remove your name: message Luke - done the same day.
 # '#' lines are comments. Sections: [recent] [legends] [fellowship].
 [recent]
+Jerzy N.
 Alec
 Rob L.
 D. Senay
@@ -11,7 +12,6 @@ Eric L.
 Dylan K.
 Brian G.
 Manuel A. F. C.
-Vaughan S.
 [legends]
 Pete's Astrophotography
 Blake (ThisOne)
@@ -273,6 +273,7 @@ Jeff P.
 Jenson K.
 Jeremy K.
 Jerome M.
+Jerzy N.
 Jessica M.
 Jesus B.
 Jim O.
