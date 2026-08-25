@@ -2,6 +2,7 @@
 # To change or remove your name: message Luke - done the same day.
 # '#' lines are comments. Sections: [recent] [legends] [fellowship].
 [recent]
+Cindy Y.
 Robert L.
 Glen H.
 Hearnz
@@ -11,7 +12,6 @@ Pascal B. H.
 Tomato
 Ross O.
 Jeff K.
-Derek B.
 [legends]
 Pete's Astrophotography
 Blake (ThisOne)
@@ -151,6 +151,7 @@ Chris J.
 Chris O.
 Christian Dr. Zülch
 Christian T.
+Cindy Y.
 CityAstronomer
 Claude F.
 Claus S.
