@@ -2,6 +2,7 @@
 # To change or remove your name: message Luke - done the same day.
 # '#' lines are comments. Sections: [recent] [legends] [fellowship].
 [recent]
+Jean Marie N.
 Stephen T.
 Richard L.
 GuybrushT
@@ -11,7 +12,6 @@ Bob G.
 Cindy Y.
 Robert L.
 Glen H.
-Hearnz
 [legends]
 Pete's Astrophotography
 Blake (ThisOne)
@@ -87,6 +87,7 @@ Mark Le Pla
 Stonefly Nets
 Rob L.
 Alec
+Jean Marie N.
 [fellowship]
 A. MacLean
 AAPOD2
