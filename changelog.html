@@ -66,6 +66,20 @@
 
   <div class="log">
     <div class="entry">
+      <p class="date">25 AUGUST 2026</p>
+      <h2>StackingWizard Beta 2.1: what the testers found</h2>
+      <ul>
+        <li><b>Hot pixels can no longer pose as stars</b> - a sensor&#8217;s dead pixels sit in the same place on every frame, so on soft or defocused data the wizard could match them perfectly, compute an alignment that moved nothing, and stack the whole night unshifted while cheerfully reporting a fine result. A real star lights its neighbours; a dead pixel does not, and now only the former counts. An impossibly perfect alignment is reported as a warning rather than a triumph.</li>
+        <li><b>Blank frames stop winning</b> - our idea of &#8220;best&#8221; was really &#8220;least noisy&#8221;, so a frame with nothing in it beat every real one, became the reference, and left nothing able to match it. One tester&#8217;s observatory dome was shut for some frames and his night collapsed to five of forty-four. A finished stack that wandered into a lights folder did the same thing. Neither can lead now.</li>
+        <li><b>Network drives work again</b> - the working files created in Beta 2 arrived on a NAS with their permissions locked down and shut the wizard out of its own cache. They now live on a local disk, made the ordinary way. The space needed is shown on The Stack page <em>before</em> you begin, and the quiet drop to half precision when disk was tight is gone entirely - if there is no room, the wizard says how much it needs and where.</li>
+        <li><b>Your stacks know where they were pointing</b> - saved files now carry coordinates, date, focal length, pixel size, camera, filter and a proper frame count and integration time. They plate solve, and other programs can tell a colour stack is colour. And a colour camera whose filter pattern we cannot read is stacked as mono <em>out loud</em> instead of silently.</li>
+        <li><b>One wandering frame no longer crops your picture in half</b> - the crop asked that every single frame cover a pixel; it now asks nine in ten, for single nights and for combining.</li>
+        <li><b>The column headings stay put</b> while the list scrolls, which seven of you asked for - and it turns out those columns have been sortable all along, which nobody could discover while the headings slid away.</li>
+        <li><b>The wizard explains itself</b> - when a brightening sky sets frames aside it says so, and when one frame was exposed quite differently from the rest of the night it names it. Previews stop shrinking as the stack builds, the running tally is back beside the time remaining, and there is no more <code>name.fits.fits</code>.</li>
+        <li><b>A known-issues list</b> now sits on the <a href="stackingwizard.html">StackingWizard page</a>, so you can see what is confirmed and still being worked on. This is a beta and things breaking is rather the point - thank you to Aaron, Phil, Helen, Sigurd, Marcos, Charlie, Karl, Mitja, Frédéric, Mike, Craig, Alex, Daz, Joaquin, Volker, Mario, Elliott, Mitja, Bill, Tom and everyone else who took the trouble to write it down.</li>
+      </ul>
+    </div>
+    <div class="entry">
       <p class="date">24 AUGUST 2026</p>
       <h2>StackingWizard on Mac: signed, and welcome</h2>
       <ul>
