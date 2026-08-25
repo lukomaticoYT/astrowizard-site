@@ -2,6 +2,7 @@
 # To change or remove your name: message Luke - done the same day.
 # '#' lines are comments. Sections: [recent] [legends] [fellowship].
 [recent]
+Tomato
 Ross O.
 Jeff K.
 Derek B.
@@ -11,7 +12,6 @@ Grainge J.
 Gil E.
 Jerzy N.
 Alec
-Rob L.
 [legends]
 Pete's Astrophotography
 Blake (ThisOne)
@@ -496,6 +496,7 @@ Timo K.
 Timothy H.
 Tobi K.
 Tobias W.
+Tomato
 Tommy P.
 Tony C.
 Tony H.
