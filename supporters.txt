@@ -2,6 +2,7 @@
 # To change or remove your name: message Luke - done the same day.
 # '#' lines are comments. Sections: [recent] [legends] [fellowship].
 [recent]
+Ross O.
 Jeff K.
 Derek B.
 S. Ryrie
@@ -11,7 +12,6 @@ Gil E.
 Jerzy N.
 Alec
 Rob L.
-D. Senay
 [legends]
 Pete's Astrophotography
 Blake (ThisOne)
@@ -441,6 +441,7 @@ Robert W. O.
 Ronald C.
 Rondle M.
 Ronnie G.
+Ross O.
 Roy F.
 RuKo
 RURIOSTE
