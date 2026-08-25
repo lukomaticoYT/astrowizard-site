@@ -2,6 +2,7 @@
 # To change or remove your name: message Luke - done the same day.
 # '#' lines are comments. Sections: [recent] [legends] [fellowship].
 [recent]
+Glen H.
 Hearnz
 Steffen S.
 Stephen B.
@@ -11,7 +12,6 @@ Ross O.
 Jeff K.
 Derek B.
 S. Ryrie
-Charles L.
 [legends]
 Pete's Astrophotography
 Blake (ThisOne)
@@ -229,6 +229,7 @@ Geoffrey V.
 Geoffrey W.
 Gerald G.
 Gil E.
+Glen H.
 Glenn C.
 Gordon Z.
 Graeme B.
