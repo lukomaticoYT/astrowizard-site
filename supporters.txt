@@ -2,6 +2,7 @@
 # To change or remove your name: message Luke - done the same day.
 # '#' lines are comments. Sections: [recent] [legends] [fellowship].
 [recent]
+Roger K. Jr
 Jean Marie N.
 Stephen T.
 Richard L.
@@ -11,7 +12,6 @@ Max C.
 Bob G.
 Cindy Y.
 Robert L.
-Glen H.
 [legends]
 Pete's Astrophotography
 Blake (ThisOne)
@@ -449,6 +449,7 @@ Robert E.
 Robert L.
 Robert R.
 Robert W. O.
+Roger K. Jr
 Ronald C.
 Rondle M.
 Ronnie G.
