@@ -2,6 +2,7 @@
 # To change or remove your name: message Luke - done the same day.
 # '#' lines are comments. Sections: [recent] [legends] [fellowship].
 [recent]
+Murlin G.
 Roger K. Jr
 Jean Marie N.
 Stephen T.
@@ -11,7 +12,6 @@ RickJ
 Max C.
 Bob G.
 Cindy Y.
-Robert L.
 [legends]
 Pete's Astrophotography
 Blake (ThisOne)
@@ -384,6 +384,7 @@ Mike B.
 Mike N.
 Mondland.de
 Morgan H.
+Murlin G.
 N. Poirier
 Nathan C.
 Neal
