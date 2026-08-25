@@ -2,6 +2,7 @@
 # To change or remove your name: message Luke - done the same day.
 # '#' lines are comments. Sections: [recent] [legends] [fellowship].
 [recent]
+Charles L.
 Grainge J.
 Gil E.
 Jerzy N.
@@ -11,7 +12,6 @@ D. Senay
 Stonefly Nets
 Mark Le Pla
 Eric L.
-Dylan K.
 [legends]
 Pete's Astrophotography
 Blake (ThisOne)
@@ -140,6 +140,7 @@ Carsenium
 Chance Y.
 Charles B.
 Charles E.
+Charles L.
 Charles P.
 Charles W.
 ChippyPickets
