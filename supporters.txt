@@ -2,6 +2,7 @@
 # To change or remove your name: message Luke - done the same day.
 # '#' lines are comments. Sections: [recent] [legends] [fellowship].
 [recent]
+Richard L.
 GuybrushT
 RickJ
 Max C.
@@ -11,7 +12,6 @@ Robert L.
 Glen H.
 Hearnz
 Steffen S.
-Stephen B.
 [legends]
 Pete's Astrophotography
 Blake (ThisOne)
@@ -433,6 +433,7 @@ Rhees and Monique
 Richard B.
 Richard C.
 Richard D.
+Richard L.
 Richard R.
 Richard S.
 Richard's Astrophotography
