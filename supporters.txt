@@ -2,6 +2,7 @@
 # To change or remove your name: message Luke - done the same day.
 # '#' lines are comments. Sections: [recent] [legends] [fellowship].
 [recent]
+Bob G.
 Cindy Y.
 Robert L.
 Glen H.
@@ -11,7 +12,6 @@ Stephen B.
 Pascal B. H.
 Tomato
 Ross O.
-Jeff K.
 [legends]
 Pete's Astrophotography
 Blake (ThisOne)
@@ -118,6 +118,7 @@ B. McCoy
 Batłomiej B.
 Bertrand D.
 Bill M.
+Bob G.
 Bob P.
 Brad H.
 Bradford E.
