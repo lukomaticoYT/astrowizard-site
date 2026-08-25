@@ -2,6 +2,7 @@
 # To change or remove your name: message Luke - done the same day.
 # '#' lines are comments. Sections: [recent] [legends] [fellowship].
 [recent]
+Grainge J.
 Gil E.
 Jerzy N.
 Alec
@@ -11,7 +12,6 @@ Stonefly Nets
 Mark Le Pla
 Eric L.
 Dylan K.
-Brian G.
 [legends]
 Pete's Astrophotography
 Blake (ThisOne)
@@ -231,6 +231,7 @@ Glenn C.
 Gordon Z.
 Graeme B.
 Graham P.
+Grainge J.
 Gregor M.
 Guy R.
 Guy T.
