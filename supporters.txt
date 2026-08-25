@@ -2,6 +2,7 @@
 # To change or remove your name: message Luke - done the same day.
 # '#' lines are comments. Sections: [recent] [legends] [fellowship].
 [recent]
+Pascal B. H.
 Tomato
 Ross O.
 Jeff K.
@@ -11,7 +12,6 @@ Charles L.
 Grainge J.
 Gil E.
 Jerzy N.
-Alec
 [legends]
 Pete's Astrophotography
 Blake (ThisOne)
@@ -392,6 +392,7 @@ Norman L.
 Osvaldo L.
 P. Holl
 PaganoPhoto
+Pascal B. H.
 Pascal E.
 Patrick N.
 Patrizio C.
