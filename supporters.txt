@@ -2,6 +2,7 @@
 # To change or remove your name: message Luke - done the same day.
 # '#' lines are comments. Sections: [recent] [legends] [fellowship].
 [recent]
+Paweł Ł.
 Pim V.
 Nick H.
 Paul K.
@@ -11,7 +12,6 @@ Amy M.
 Laurel P.
 MarkC
 CB Johnson
-Josiah J.
 [legends]
 Pete's Astrophotography
 Blake (ThisOne)
@@ -424,6 +424,7 @@ Paul M.
 Paul S.
 Paul T.
 Paulo B. G.
+Paweł Ł.
 Pete C.
 Peter D.
 Peter H.
