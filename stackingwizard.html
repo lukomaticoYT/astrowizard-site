@@ -134,8 +134,8 @@
   <h2>Download the beta</h2>
   <div class="card">
     <h3>Windows <span class="tag">WINDOWS 10 / 11 &middot; BETA</span></h3>
-    <p><a class="btn btn-win" href="https://github.com/lukomaticoYT/astrowizard-releases/releases/download/stackingwizard-beta-2026-08-25/StackingWizard.exe" rel="noopener"><span class="big">Download StackingWizard for Windows</span><span class="small">beta build 2026-08-25</span></a></p>
-    <p class="mirror">Every beta build, with its checksum, lives on <a href="https://github.com/lukomaticoYT/astrowizard-releases/releases/tag/stackingwizard-beta-2026-08-25" rel="noopener">the release page</a>.</p>
+    <p><a class="btn btn-win" href="https://github.com/lukomaticoYT/astrowizard-releases/releases/download/stackingwizard-beta-2026-08-26/StackingWizard.exe" rel="noopener"><span class="big">Download StackingWizard for Windows</span><span class="small">beta build 2026-08-26</span></a></p>
+    <p class="mirror">Every beta build, with its checksum, lives on <a href="https://github.com/lukomaticoYT/astrowizard-releases/releases/tag/stackingwizard-beta-2026-08-26" rel="noopener">the release page</a>.</p>
     <ol>
       <li><b>Download</b> StackingWizard.exe - nothing to install, it just runs.</li>
       <li>If a blue box says &#8220;Windows protected your PC&#8221;: click <b>More info</b>, then <b>Run anyway</b>.</li>
@@ -145,8 +145,8 @@
   </div>
   <div class="card">
     <h3>macOS <span class="tag">APPLE SILICON &middot; BETA</span></h3>
-    <p><a class="btn btn-win" href="https://github.com/lukomaticoYT/astrowizard-releases/releases/download/stackingwizard-beta-2026-08-25/StackingWizard-mac.zip" rel="noopener"><span class="big">Download StackingWizard for macOS</span><span class="small">Apple Silicon (M1 and later) &middot; beta build 2026-08-25</span></a></p>
-    <p class="mirror">Every beta build, with its checksum, lives on <a href="https://github.com/lukomaticoYT/astrowizard-releases/releases/tag/stackingwizard-beta-2026-08-25" rel="noopener">the release page</a>.</p>
+    <p><a class="btn btn-win" href="https://github.com/lukomaticoYT/astrowizard-releases/releases/download/stackingwizard-beta-2026-08-26/StackingWizard-mac.zip" rel="noopener"><span class="big">Download StackingWizard for macOS</span><span class="small">Apple Silicon (M1 and later) &middot; beta build 2026-08-26</span></a></p>
+    <p class="mirror">Every beta build, with its checksum, lives on <a href="https://github.com/lukomaticoYT/astrowizard-releases/releases/tag/stackingwizard-beta-2026-08-26" rel="noopener">the release page</a>.</p>
     <ol>
       <li><b>Download</b> StackingWizard-mac.zip and double-click to unzip.</li>
       <li><b>Open it.</b> That is the whole thing - your Mac lets it straight in.</li>
@@ -157,6 +157,17 @@
 
   <h2>Beta notes - read me once</h2>
   <div class="notes">
+    <div class="note">
+      <h4>Beta 2.2 - 26 August</h4>
+      <ul>
+        <li>Every frame stacks exactly once - copies left behind by other programs (Siril and friends) are spotted by their timestamps and set aside, out loud</li>
+        <li>The auto-crop is gone - your full picture ships, honest edges and all, and a meridian flip can no longer shrink a night to a sliver. Crop to taste in AstroWizard</li>
+        <li>The Pile stops guessing - the four count tiles are now buttons, so you can point each pile at its own folder; frames with no identification are named as unidentified rather than assumed</li>
+        <li>The automatic safety copy asks before outliving its purpose - once your real save succeeds, Remove or Keep, remembered</li>
+        <li>The finished view keeps the same sky brightness as the live view at any depth, and zooming no longer changes the stretch</li>
+        <li>Shift-click ticks a whole run of frames, the mood switch warns before undoing hand-made picks, and the Mac handoff should now work with AstroWizard already open - tell us if yours still stalls</li>
+      </ul>
+    </div>
     <div class="note">
       <h4>Beta 2.1 - 25 August</h4>
       <ul>
@@ -221,10 +232,10 @@
       </ul>
     </div>
     <div class="note">
-      <h4>Combining, and the edges</h4>
+      <h4>The edges, and mosaics</h4>
       <ul>
-        <li>Combining stacks still crops to the field they share. Sessions shot months apart, or a sky that has rotated a long way, can lose a lot of frame.</li>
-        <li>Mosaic mode from a Seestar or Dwarf is not supported - the spiral gets cropped to one panel&#8217;s worth.</li>
+        <li>Stacks now ship untrimmed, so a ragged or noisier fringe where frames drifted is normal - it is your data being honest, not a fault. Crop it to taste in AstroWizard.</li>
+        <li>Frames beyond the first frame&#8217;s field are still lost, so mosaic mode from a Seestar or Dwarf is not supported yet.</li>
         <li>A canvas that keeps every frame&#8217;s footprint is the next big piece of work, and mosaics follow from it.</li>
       </ul>
     </div>

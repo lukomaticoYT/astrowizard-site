@@ -66,6 +66,21 @@
 
   <div class="log">
     <div class="entry">
+      <p class="date">26 AUGUST 2026</p>
+      <h2>StackingWizard Beta 2.2: the honesty build</h2>
+      <p style="max-width:72ch;">First, a correction. Beta 2.1&#8217;s notes said hot pixels could no longer pose as stars. That was true for mono cameras and wrong for colour ones, where processing spreads a hot pixel into exactly the shape our filter trusts - one tester proved it within a day. The wizard now at least confesses when an alignment is impossibly perfect instead of celebrating it, and the real cure is being built for Beta 3. We will keep correcting ourselves out loud like this - it is a beta, and things breaking is rather the point.</p>
+      <ul>
+        <li><b>Every frame stacks exactly once</b> - one tester&#8217;s folder had been through another program first, so a second copy of every sub sat in a sub-folder, and the wizard stacked the lot: 48 &#8220;frames&#8221; that were 24 exposures twice each, a result overstated by 41 percent, and double the time and disk to pay for it. Two frames from one camera can never share a timestamp, so now they cannot share a seat - and the manifest says how many copies were set aside.</li>
+        <li><b>The auto-crop is gone</b> - it existed to hide scruffy edges, and we patched it twice, but a meridian flip taught us there are nights no percentage can referee: it cropped a 5496-pixel sensor to a 434-pixel strip and handed that to AstroWizard without a word. Rather than destroy pictures quietly, the wizard now ships your full canvas, honest edges and all, and names a meridian flip when it sees one. Cropping is an editing decision, and it belongs in AstroWizard, where you can see what you are choosing.</li>
+        <li><b>The Pile stops guessing</b> - what the header says now outranks what the filename says, which outranks what the folder is called, so a file named dark can never be swallowed by a folder named lights. The old &#8220;longer than five seconds is probably a light&#8221; rule is deleted: frames with no identification are counted as unidentified and said so. And the four count tiles are now buttons - point any pile at its own folder and your word is law. Thank you Frank L. for the idea.</li>
+        <li><b>The safety copy asks before outliving its purpose</b> - every finished stack autosaves so nothing is lost to a crash or a forgotten click. But once your real save succeeds, that copy has done its job - four runs left one tester 380 MB of identical twins sitting among his subs. The wizard now asks, once: Remove or Keep, and remembers your answer.</li>
+        <li><b>The finished view stops dimming at the finish line</b> - the completed stack now renders with the same sky brightness as the live view you watched it build at, however deep the night, and zooming in no longer changes the stretch. Extra depth shows as smoothness, never darkness.</li>
+        <li><b>Smaller honesties</b> - the receipt&#8217;s &#8220;2.5% rejected&#8221; was pixels clipped by the voting, not frames thrown away, and now says so. Lights on a network drive get named as the slow part before you wait an hour to find out. The Handoff grew its own copy-the-receipts button. Shift-click ticks a whole run of frames at once, and the mood switch warns before re-grading over hand-made picks.</li>
+        <li><b>For Mac users</b> - handing off to an AstroWizard that is already open should no longer stall. We cannot test this on hardware we do not own, so this one is an attempt, not a promise - if yours still loses its way, tell us.</li>
+      </ul>
+      <p style="max-width:72ch;">Thank you to Mike N., whose saved log held two bugs he had not even reported, and to Frank L., Volker H., RickJ, Mike A., Sigurd M. and Dawid G. - this build is made of your emails. Keep them coming: wizard@lukomatico.com</p>
+    </div>
+    <div class="entry">
       <p class="date">25 AUGUST 2026</p>
       <h2>StackingWizard Beta 2.1: what the testers found</h2>
       <ul>
