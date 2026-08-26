@@ -2,6 +2,7 @@
 # To change or remove your name: message Luke - done the same day.
 # '#' lines are comments. Sections: [recent] [legends] [fellowship].
 [recent]
+A. H. Westphal
 Paweł Ł.
 Pim V.
 Nick H.
@@ -11,7 +12,6 @@ Manuel M.
 Amy M.
 Laurel P.
 MarkC
-CB Johnson
 [legends]
 Pete's Astrophotography
 Blake (ThisOne)
@@ -92,6 +92,7 @@ Cindy Y.
 Chris A.
 Frank L.
 [fellowship]
+A. H. Westphal
 A. MacLean
 AAPOD2
 Aaron Q.
