@@ -2,6 +2,7 @@
 # To change or remove your name: message Luke - done the same day.
 # '#' lines are comments. Sections: [recent] [legends] [fellowship].
 [recent]
+Paul K.
 Konflozius
 Manuel M.
 Amy M.
@@ -11,7 +12,6 @@ CB Johnson
 Josiah J.
 Matthew K.
 Aikya S.
-R. Bianchi
 [legends]
 Pete's Astrophotography
 Blake (ThisOne)
@@ -417,6 +417,7 @@ Patrick N.
 Patrizio C.
 Paul B.
 Paul F.
+Paul K.
 Paul L.
 Paul M.
 Paul S.
