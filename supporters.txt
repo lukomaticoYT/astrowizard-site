@@ -2,6 +2,7 @@
 # To change or remove your name: message Luke - done the same day.
 # '#' lines are comments. Sections: [recent] [legends] [fellowship].
 [recent]
+Konflozius
 Manuel M.
 Amy M.
 Laurel P.
@@ -11,7 +12,6 @@ Josiah J.
 Matthew K.
 Aikya S.
 R. Bianchi
-Frank L.
 [legends]
 Pete's Astrophotography
 Blake (ThisOne)
@@ -328,6 +328,7 @@ Karsten J.
 Ken F.
 Kevin S.
 Klaus W.
+Konflozius
 Kris H.
 Krisztian N.
 Krzysztof K.
