@@ -2,6 +2,7 @@
 # To change or remove your name: message Luke - done the same day.
 # '#' lines are comments. Sections: [recent] [legends] [fellowship].
 [recent]
+Michael C.
 Doug B.
 Andy R.
 Edwin M.
@@ -11,7 +12,6 @@ Pim V.
 Nick H.
 Paul K.
 Konflozius
-Manuel M.
 [legends]
 Pete's Astrophotography
 Blake (ThisOne)
@@ -384,6 +384,7 @@ Matthew W.
 Maurizio T.
 Max C.
 Michael B.
+Michael C.
 Michael D.
 Michael De.
 Michael F.
