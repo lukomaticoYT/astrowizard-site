@@ -2,6 +2,7 @@
 # To change or remove your name: message Luke - done the same day.
 # '#' lines are comments. Sections: [recent] [legends] [fellowship].
 [recent]
+M. Sullivan
 Murlin G.
 Roger K. Jr
 Jean Marie N.
@@ -11,7 +12,6 @@ GuybrushT
 RickJ
 Max C.
 Bob G.
-Cindy Y.
 [legends]
 Pete's Astrophotography
 Blake (ThisOne)
@@ -341,6 +341,7 @@ Lyle A.
 M. Kotchie
 M. Sansom
 M. Schuster
+M. Sullivan
 M.Frazier
 Manuel A. F. C.
 Manuel P. F.
