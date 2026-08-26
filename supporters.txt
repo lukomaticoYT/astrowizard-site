@@ -2,6 +2,7 @@
 # To change or remove your name: message Luke - done the same day.
 # '#' lines are comments. Sections: [recent] [legends] [fellowship].
 [recent]
+Andy R.
 Edwin M.
 A. H. Westphal
 Paweł Ł.
@@ -11,7 +12,6 @@ Paul K.
 Konflozius
 Manuel M.
 Amy M.
-Laurel P.
 [legends]
 Pete's Astrophotography
 Blake (ThisOne)
@@ -114,6 +114,7 @@ Andreas B.
 Andrew L.
 Andrew N.
 Andrew W.
+Andy R.
 AndyS
 Arne B.
 Arun A.
