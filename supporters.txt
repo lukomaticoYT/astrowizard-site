@@ -2,6 +2,7 @@
 # To change or remove your name: message Luke - done the same day.
 # '#' lines are comments. Sections: [recent] [legends] [fellowship].
 [recent]
+Josiah J.
 Matthew K.
 Aikya S.
 R. Bianchi
@@ -11,7 +12,6 @@ M. Sullivan
 Murlin G.
 Roger K. Jr
 Jean Marie N.
-Stephen T.
 [legends]
 Pete's Astrophotography
 Blake (ThisOne)
@@ -312,6 +312,7 @@ Joseph C.
 Joseph L.
 Joseph S.
 Joseph T.
+Josiah J.
 Juan C. S. A.
 Juan D. P. A.
 Juan T.
