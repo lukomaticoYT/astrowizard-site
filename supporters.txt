@@ -2,6 +2,7 @@
 # To change or remove your name: message Luke - done the same day.
 # '#' lines are comments. Sections: [recent] [legends] [fellowship].
 [recent]
+Manuel M.
 Amy M.
 Laurel P.
 MarkC
@@ -11,7 +12,6 @@ Matthew K.
 Aikya S.
 R. Bianchi
 Frank L.
-Chris A.
 [legends]
 Pete's Astrophotography
 Blake (ThisOne)
@@ -351,6 +351,7 @@ M. Schuster
 M. Sullivan
 M.Frazier
 Manuel A. F. C.
+Manuel M.
 Manuel P. F.
 Marc S.
 Marcelo A.
