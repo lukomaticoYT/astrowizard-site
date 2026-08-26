@@ -2,6 +2,7 @@
 # To change or remove your name: message Luke - done the same day.
 # '#' lines are comments. Sections: [recent] [legends] [fellowship].
 [recent]
+Amy M.
 Laurel P.
 MarkC
 CB Johnson
@@ -11,7 +12,6 @@ Aikya S.
 R. Bianchi
 Frank L.
 Chris A.
-M. Sullivan
 [legends]
 Pete's Astrophotography
 Blake (ThisOne)
@@ -108,6 +108,7 @@ Alex P.
 Alex T.
 Alexander M.
 Alexandre D.
+Amy M.
 Andreas B.
 Andrew L.
 Andrew N.
