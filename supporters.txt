@@ -2,6 +2,7 @@
 # To change or remove your name: message Luke - done the same day.
 # '#' lines are comments. Sections: [recent] [legends] [fellowship].
 [recent]
+Doug B.
 Andy R.
 Edwin M.
 A. H. Westphal
@@ -11,7 +12,6 @@ Nick H.
 Paul K.
 Konflozius
 Manuel M.
-Amy M.
 [legends]
 Pete's Astrophotography
 Blake (ThisOne)
@@ -204,6 +204,7 @@ Detlef P.
 Didier P.
 Dion G.
 Donald L.
+Doug B.
 Doug P.
 Douglas H.
 Dr Hector Duran
