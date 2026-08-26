@@ -2,6 +2,7 @@
 # To change or remove your name: message Luke - done the same day.
 # '#' lines are comments. Sections: [recent] [legends] [fellowship].
 [recent]
+Roland B.
 Heinz G.
 Wendy B.
 Michael C.
@@ -11,7 +12,6 @@ Edwin M.
 A. H. Westphal
 Paweł Ł.
 Pim V.
-Nick H.
 [legends]
 Pete's Astrophotography
 Blake (ThisOne)
@@ -91,6 +91,7 @@ Jean Marie N.
 Cindy Y.
 Chris A.
 Frank L.
+Roland B.
 [fellowship]
 A. H. Westphal
 A. MacLean
