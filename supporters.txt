@@ -2,6 +2,7 @@
 # To change or remove your name: message Luke - done the same day.
 # '#' lines are comments. Sections: [recent] [legends] [fellowship].
 [recent]
+MarkC
 CB Johnson
 Josiah J.
 Matthew K.
@@ -11,7 +12,6 @@ Frank L.
 Chris A.
 M. Sullivan
 Murlin G.
-Roger K. Jr
 [legends]
 Pete's Astrophotography
 Blake (ThisOne)
@@ -364,6 +364,7 @@ Mark M.
 Mark S.
 Mark T.
 Mark Y.
+MarkC
 MarkyZnO
 Martin B.
 Martin Br.
