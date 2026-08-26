@@ -2,6 +2,7 @@
 # To change or remove your name: message Luke - done the same day.
 # '#' lines are comments. Sections: [recent] [legends] [fellowship].
 [recent]
+R. Bianchi
 Frank L.
 Chris A.
 M. Sullivan
@@ -11,7 +12,6 @@ Jean Marie N.
 Stephen T.
 Richard L.
 GuybrushT
-RickJ
 [legends]
 Pete's Astrophotography
 Blake (ThisOne)
@@ -425,6 +425,7 @@ Philip T.
 Piotr I.
 PoppaMitch
 R. Barter
+R. Bianchi
 R. Blake
 R. Boyd
 R. Bruce
