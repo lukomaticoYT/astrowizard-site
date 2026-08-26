@@ -2,6 +2,7 @@
 # To change or remove your name: message Luke - done the same day.
 # '#' lines are comments. Sections: [recent] [legends] [fellowship].
 [recent]
+Matthew K.
 Aikya S.
 R. Bianchi
 Frank L.
@@ -11,7 +12,6 @@ Murlin G.
 Roger K. Jr
 Jean Marie N.
 Stephen T.
-Richard L.
 [legends]
 Pete's Astrophotography
 Blake (ThisOne)
@@ -368,6 +368,7 @@ Martin Br.
 Martin E.
 Martin K.
 Matthew G.
+Matthew K.
 Matthew W.
 Maurizio T.
 Max C.
