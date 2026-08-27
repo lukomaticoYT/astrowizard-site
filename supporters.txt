@@ -2,6 +2,7 @@
 # To change or remove your name: message Luke - done the same day.
 # '#' lines are comments. Sections: [recent] [legends] [fellowship].
 [recent]
+Gerald B.
 Nb Knight
 Roland B.
 Heinz G.
@@ -11,7 +12,6 @@ Doug B.
 Andy R.
 Edwin M.
 A. H. Westphal
-Paweł Ł.
 [legends]
 Pete's Astrophotography
 Blake (ThisOne)
@@ -239,6 +239,7 @@ Gavin L.
 Geir H.
 Geoffrey V.
 Geoffrey W.
+Gerald B.
 Gerald G.
 Gil E.
 Glen H.
