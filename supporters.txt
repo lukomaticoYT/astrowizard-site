@@ -2,6 +2,7 @@
 # To change or remove your name: message Luke - done the same day.
 # '#' lines are comments. Sections: [recent] [legends] [fellowship].
 [recent]
+Malcolm T.
 Kevin N.
 Walter H.
 Carlos A.
@@ -11,7 +12,6 @@ Robert M.
 M. Bonser
 Antoine W.
 R. Barrett
-Georg N. N.
 [legends]
 Pete's Astrophotography
 Blake (ThisOne)
@@ -376,6 +376,7 @@ M. Sansom
 M. Schuster
 M. Sullivan
 M.Frazier
+Malcolm T.
 Manuel A. F. C.
 Manuel M.
 Manuel P. F.
