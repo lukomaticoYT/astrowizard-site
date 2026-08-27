@@ -2,6 +2,7 @@
 # To change or remove your name: message Luke - done the same day.
 # '#' lines are comments. Sections: [recent] [legends] [fellowship].
 [recent]
+Chris M.
 Loukas M.
 Malcolm T.
 Kevin N.
@@ -11,7 +12,6 @@ Lyndon K.
 Adrian G.
 Robert M.
 M. Bonser
-Antoine W.
 [legends]
 Pete's Astrophotography
 Blake (ThisOne)
@@ -165,6 +165,7 @@ Chorge1972
 Chris D.
 Chris G.
 Chris J.
+Chris M.
 Chris O.
 Christian Dr. Zülch
 Christian T.
