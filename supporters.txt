@@ -2,6 +2,7 @@
 # To change or remove your name: message Luke - done the same day.
 # '#' lines are comments. Sections: [recent] [legends] [fellowship].
 [recent]
+Keith T.
 Walter V.
 Dan D.
 Perry n Becky
@@ -11,7 +12,6 @@ Kallador
 Derek E.
 JR
 Andrew C.
-Ricardo G. M.
 [legends]
 Pete's Astrophotography
 Blake (ThisOne)
@@ -341,6 +341,7 @@ Kallador
 Karen W.
 Karl C.
 Karsten J.
+Keith T.
 Ken F.
 Kevin S.
 Klaus W.
