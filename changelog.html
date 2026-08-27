@@ -66,6 +66,20 @@
 
   <div class="log">
     <div class="entry">
+      <p class="date">27 AUGUST 2026</p>
+      <h2>StackingWizard Beta 2.3: the list that cannot die</h2>
+      <ul>
+        <li><b>The frame list is rebuilt from the ground up.</b> The old list drew one widget per frame and simply gave up past a few hundred - rows went invisible, suspects vanished off the bottom, and four of you reported it four different ways. The new list draws only what is on screen, so two thousand frames scroll like twenty. Long filenames trim in the middle (the ends are what tell frames apart) and hovering shows the full name.</li>
+        <li><b>A UI Scale dial</b>, top left, 90 to 140 percent, remembered between launches - for 1440p screens, 4K screens, and eyes of every age. The previews now render at your screen&#8217;s true resolution at any scale, and the layout holds still while a stack builds.</li>
+        <li><b>Headers that arrive broken get repaired on reading.</b> Some cameras write illegal header cards - one tester&#8217;s QHY put its colour pattern down without the quote marks the FITS standard requires, and every build until now refused the whole night. His own frame proved the cure and now lives in the wizard&#8217;s test bench. And when a frame truly cannot be read, it is marked <b>unreadable</b> in red and set aside - never again graded 70 by a table of made-up numbers.</li>
+        <li><b>The Dwarf family is spoken here.</b> Dwarf 3 and Dwarf Mini never label their frames, so their nights landed as &#8220;unidentified&#8221;. The wizard now recognises them by their own naming, reads their nested dark libraries, survives their two cameras sharing one calibration folder, and takes exposure times from filenames that state them.</li>
+        <li><b>The manifest says what it found, before you stack it</b> - mixed targets, mixed filters, mosaic panels, duplicate copies, and where an exposure time came from. One test folder held two targets in three filters plus a finished stack and a rejected frame; every one now lands where it belongs, and the mix is declared up front.</li>
+        <li><b>The finished stack looks like the night you watched.</b> The live view and the final result now share one display ruler from first frame to last - same brightness, same colours, same smoothness, at every zoom and every scale. What you watched build is what you get.</li>
+        <li><b>The hot-pixel warning wakes earlier</b> - a night where only some frames lock onto sensor defects (stacked unmoved, showing as doubled stars) now gets named at three frames, where the old warning waited for most of the night to be lost.</li>
+      </ul>
+      <p style="max-width:72ch;">Thank you Kevin C., Des F., Charlie M., Russ McN., Denis H., Morgan H. and Richard D. - and the test folders full of deliberate traps that found two more bugs before any of you could. Keep them coming: wizard@lukomatico.com</p>
+    </div>
+    <div class="entry">
       <p class="date">26 AUGUST 2026</p>
       <h2>AstroWizard: The Seeing Build</h2>
       <ul>
