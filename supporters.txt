@@ -2,6 +2,7 @@
 # To change or remove your name: message Luke - done the same day.
 # '#' lines are comments. Sections: [recent] [legends] [fellowship].
 [recent]
+Loukas M.
 Malcolm T.
 Kevin N.
 Walter H.
@@ -11,7 +12,6 @@ Adrian G.
 Robert M.
 M. Bonser
 Antoine W.
-R. Barrett
 [legends]
 Pete's Astrophotography
 Blake (ThisOne)
@@ -366,6 +366,7 @@ Lord C.
 Loree R.
 Lorraine M.
 Louis R.
+Loukas M.
 Luca S.
 Luis M.
 Lyle A.
