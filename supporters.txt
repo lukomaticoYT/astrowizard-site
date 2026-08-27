@@ -2,6 +2,7 @@
 # To change or remove your name: message Luke - done the same day.
 # '#' lines are comments. Sections: [recent] [legends] [fellowship].
 [recent]
+Perry n Becky
 Cor I.
 Adrian N.
 Kallador
@@ -11,7 +12,6 @@ Andrew C.
 Ricardo G. M.
 Roy G.
 Hendrik B.
-Gerald B.
 [legends]
 Pete's Astrophotography
 Blake (ThisOne)
@@ -442,6 +442,7 @@ Paul S.
 Paul T.
 Paulo B. G.
 Paweł Ł.
+Perry n Becky
 Pete C.
 Peter D.
 Peter H.
