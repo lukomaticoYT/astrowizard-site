@@ -2,6 +2,7 @@
 # To change or remove your name: message Luke - done the same day.
 # '#' lines are comments. Sections: [recent] [legends] [fellowship].
 [recent]
+Antoine W.
 R. Barrett
 Georg N. N.
 Sabine S.
@@ -11,7 +12,6 @@ Keith T.
 Walter V.
 Dan D.
 Perry n Becky
-Cor I.
 [legends]
 Pete's Astrophotography
 Blake (ThisOne)
@@ -120,6 +120,7 @@ Andrew N.
 Andrew W.
 Andy R.
 AndyS
+Antoine W.
 Arne B.
 Arun A.
 Astr0mink/NomadicAstronomy
