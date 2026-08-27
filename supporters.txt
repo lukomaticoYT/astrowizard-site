@@ -2,6 +2,7 @@
 # To change or remove your name: message Luke - done the same day.
 # '#' lines are comments. Sections: [recent] [legends] [fellowship].
 [recent]
+Robert M.
 M. Bonser
 Antoine W.
 R. Barrett
@@ -11,7 +12,6 @@ Mark P.
 Jean-Marie B.
 Keith T.
 Walter V.
-Dan D.
 [legends]
 Pete's Astrophotography
 Blake (ThisOne)
@@ -491,6 +491,7 @@ Rob D.
 Robert B.
 Robert E.
 Robert L.
+Robert M.
 Robert R.
 Robert W. O.
 Roger K. Jr
