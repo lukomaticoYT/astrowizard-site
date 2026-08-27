@@ -2,6 +2,7 @@
 # To change or remove your name: message Luke - done the same day.
 # '#' lines are comments. Sections: [recent] [legends] [fellowship].
 [recent]
+Sabine S.
 Mark P.
 Jean-Marie B.
 Keith T.
@@ -11,7 +12,6 @@ Perry n Becky
 Cor I.
 Adrian N.
 Kallador
-Derek E.
 [legends]
 Pete's Astrophotography
 Blake (ThisOne)
@@ -501,6 +501,7 @@ S. Gilpin
 S. Green
 S. Ryrie
 S. Tinsley
+Sabine S.
 SaltyPogue
 Samuel D.
 Sau W.
