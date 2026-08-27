@@ -2,6 +2,7 @@
 # To change or remove your name: message Luke - done the same day.
 # '#' lines are comments. Sections: [recent] [legends] [fellowship].
 [recent]
+Ricardo G. M.
 Roy G.
 Hendrik B.
 Gerald B.
@@ -11,7 +12,6 @@ Heinz G.
 Wendy B.
 Michael C.
 Doug B.
-Andy R.
 [legends]
 Pete's Astrophotography
 Blake (ThisOne)
@@ -459,6 +459,7 @@ Ralph S.
 Randall W.
 Reference Audio Plus
 Rhees and Monique
+Ricardo G. M.
 Richard B.
 Richard C.
 Richard D.
