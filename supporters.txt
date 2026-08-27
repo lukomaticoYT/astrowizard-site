@@ -2,6 +2,7 @@
 # To change or remove your name: message Luke - done the same day.
 # '#' lines are comments. Sections: [recent] [legends] [fellowship].
 [recent]
+Carlos A.
 Lyndon K.
 Adrian G.
 Robert M.
@@ -11,7 +12,6 @@ R. Barrett
 Georg N. N.
 Sabine S.
 Mark P.
-Jean-Marie B.
 [legends]
 Pete's Astrophotography
 Blake (ThisOne)
@@ -149,6 +149,7 @@ C. O'Neill
 Calvin P.
 Carl
 Carl B.
+Carlos A.
 Carlos D.
 Carlos R.
 Carsenium
