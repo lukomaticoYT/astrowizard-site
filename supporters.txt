@@ -2,6 +2,7 @@
 # To change or remove your name: message Luke - done the same day.
 # '#' lines are comments. Sections: [recent] [legends] [fellowship].
 [recent]
+Jean-Marie B.
 Keith T.
 Walter V.
 Dan D.
@@ -11,7 +12,6 @@ Adrian N.
 Kallador
 Derek E.
 JR
-Andrew C.
 [legends]
 Pete's Astrophotography
 Blake (ThisOne)
@@ -297,6 +297,7 @@ Jason J.
 Jason K.
 Jason P.
 Javier G. O.
+Jean-Marie B.
 Jeff K.
 Jeff P.
 Jenson K.
