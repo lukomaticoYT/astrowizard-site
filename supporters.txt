@@ -2,6 +2,7 @@
 # To change or remove your name: message Luke - done the same day.
 # '#' lines are comments. Sections: [recent] [legends] [fellowship].
 [recent]
+Kallador
 Derek E.
 JR
 Andrew C.
@@ -11,7 +12,6 @@ Hendrik B.
 Gerald B.
 Nb Knight
 Roland B.
-Heinz G.
 [legends]
 Pete's Astrophotography
 Blake (ThisOne)
@@ -334,6 +334,7 @@ Jörg S.
 Jürgen S.
 Kabir J.
 Kalev P.
+Kallador
 Karen W.
 Karl C.
 Karsten J.
