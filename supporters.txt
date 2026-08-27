@@ -2,6 +2,7 @@
 # To change or remove your name: message Luke - done the same day.
 # '#' lines are comments. Sections: [recent] [legends] [fellowship].
 [recent]
+Derek E.
 JR
 Andrew C.
 Ricardo G. M.
@@ -11,7 +12,6 @@ Gerald B.
 Nb Knight
 Roland B.
 Heinz G.
-Wendy B.
 [legends]
 Pete's Astrophotography
 Blake (ThisOne)
@@ -202,6 +202,7 @@ Denis Y.
 Dennis D.
 Dennis V.
 Derek B.
+Derek E.
 Derek F.
 Detlef P.
 Didier P.
