@@ -2,6 +2,7 @@
 # To change or remove your name: message Luke - done the same day.
 # '#' lines are comments. Sections: [recent] [legends] [fellowship].
 [recent]
+M. Bonser
 Antoine W.
 R. Barrett
 Georg N. N.
@@ -11,7 +12,6 @@ Jean-Marie B.
 Keith T.
 Walter V.
 Dan D.
-Perry n Becky
 [legends]
 Pete's Astrophotography
 Blake (ThisOne)
@@ -366,6 +366,7 @@ Louis R.
 Luca S.
 Luis M.
 Lyle A.
+M. Bonser
 M. Kotchie
 M. Sansom
 M. Schuster
