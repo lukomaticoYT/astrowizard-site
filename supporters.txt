@@ -2,6 +2,7 @@
 # To change or remove your name: message Luke - done the same day.
 # '#' lines are comments. Sections: [recent] [legends] [fellowship].
 [recent]
+Cor I.
 Adrian N.
 Kallador
 Derek E.
@@ -11,7 +12,6 @@ Ricardo G. M.
 Roy G.
 Hendrik B.
 Gerald B.
-Nb Knight
 [legends]
 Pete's Astrophotography
 Blake (ThisOne)
@@ -169,6 +169,7 @@ CityAstronomer
 Claude F.
 Claus S.
 Compadre Chuma
+Cor I.
 Cordula G.
 Cornz38
 Craig H.
