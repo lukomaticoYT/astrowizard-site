@@ -2,6 +2,7 @@
 # To change or remove your name: message Luke - done the same day.
 # '#' lines are comments. Sections: [recent] [legends] [fellowship].
 [recent]
+R. Barrett
 Georg N. N.
 Sabine S.
 Mark P.
@@ -11,7 +12,6 @@ Walter V.
 Dan D.
 Perry n Becky
 Cor I.
-Adrian N.
 [legends]
 Pete's Astrophotography
 Blake (ThisOne)
@@ -460,6 +460,7 @@ Philip T.
 Pim V.
 Piotr I.
 PoppaMitch
+R. Barrett
 R. Barter
 R. Bianchi
 R. Blake
