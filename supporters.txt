@@ -2,6 +2,7 @@
 # To change or remove your name: message Luke - done the same day.
 # '#' lines are comments. Sections: [recent] [legends] [fellowship].
 [recent]
+Kevin N.
 Walter H.
 Carlos A.
 Lyndon K.
@@ -11,7 +12,6 @@ M. Bonser
 Antoine W.
 R. Barrett
 Georg N. N.
-Sabine S.
 [legends]
 Pete's Astrophotography
 Blake (ThisOne)
@@ -348,6 +348,7 @@ Karl C.
 Karsten J.
 Keith T.
 Ken F.
+Kevin N.
 Kevin S.
 Klaus W.
 Konflozius
