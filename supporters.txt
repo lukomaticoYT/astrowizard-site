@@ -2,6 +2,7 @@
 # To change or remove your name: message Luke - done the same day.
 # '#' lines are comments. Sections: [recent] [legends] [fellowship].
 [recent]
+Christopher K.
 T. Blevins
 Lasse M. (@KPMVAB)
 J. Kirk
@@ -11,7 +12,6 @@ Hurriyet P.
 David N.
 Matt A.
 Lee H.
-Simon S.
 [legends]
 Pete's Astrophotography
 Blake (ThisOne)
@@ -96,6 +96,7 @@ Roy G.
 Elvis
 Lasse M. (@KPMVAB)
 Paul K.
+Christopher K.
 [fellowship]
 A. H. Westphal
 A. MacLean
