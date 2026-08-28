@@ -2,6 +2,7 @@
 # To change or remove your name: message Luke - done the same day.
 # '#' lines are comments. Sections: [recent] [legends] [fellowship].
 [recent]
+Lee H.
 Simon S.
 David J. P.
 D. Shafer
@@ -11,7 +12,6 @@ Malcolm T.
 Kevin N.
 Walter H.
 Carlos A.
-Lyndon K.
 [legends]
 Pete's Astrophotography
 Blake (ThisOne)
@@ -362,6 +362,7 @@ Larry A.
 Laurel P.
 Laurence C.
 Lawrence K.
+Lee H.
 Lena G. L.
 Leonard J.
 Les W.
