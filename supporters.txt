@@ -2,6 +2,7 @@
 # To change or remove your name: message Luke - done the same day.
 # '#' lines are comments. Sections: [recent] [legends] [fellowship].
 [recent]
+David N.
 Matt A.
 Lee H.
 Simon S.
@@ -11,7 +12,6 @@ Chris M.
 Loukas M.
 Malcolm T.
 Kevin N.
-Walter H.
 [legends]
 Pete's Astrophotography
 Blake (ThisOne)
@@ -202,6 +202,7 @@ David H.
 David J. P.
 David K.
 David M. O.
+David N.
 David S.
 David T.
 Dawn P.
