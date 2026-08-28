@@ -2,6 +2,7 @@
 # To change or remove your name: message Luke - done the same day.
 # '#' lines are comments. Sections: [recent] [legends] [fellowship].
 [recent]
+J. Kirk
 Hartmut C.
 Mac Bowden
 Hurriyet P.
@@ -11,7 +12,6 @@ Lee H.
 Simon S.
 David J. P.
 D. Shafer
-Chris M.
 [legends]
 Pete's Astrophotography
 Blake (ThisOne)
@@ -289,6 +289,7 @@ Ivan H.
 Ivan T.
 J. Arter
 J. Fathers
+J. Kirk
 J. Lord
 J. Morrell
 J. Whitworth
