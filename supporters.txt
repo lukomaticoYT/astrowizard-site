@@ -2,6 +2,7 @@
 # To change or remove your name: message Luke - done the same day.
 # '#' lines are comments. Sections: [recent] [legends] [fellowship].
 [recent]
+Jurgen D.
 Christopher K.
 T. Blevins
 Lasse M. (@KPMVAB)
@@ -11,7 +12,6 @@ Mac Bowden
 Hurriyet P.
 David N.
 Matt A.
-Lee H.
 [legends]
 Pete's Astrophotography
 Blake (ThisOne)
@@ -349,6 +349,7 @@ JR
 Juan C. S. A.
 Juan D. P. A.
 Juan T.
+Jurgen D.
 Jörg S.
 Jürgen S.
 Kabir J.
