@@ -2,6 +2,7 @@
 # To change or remove your name: message Luke - done the same day.
 # '#' lines are comments. Sections: [recent] [legends] [fellowship].
 [recent]
+F. Linde
 Jurgen D.
 Christopher K.
 T. Blevins
@@ -11,7 +12,6 @@ Hartmut C.
 Mac Bowden
 Hurriyet P.
 David N.
-Matt A.
 [legends]
 Pete's Astrophotography
 Blake (ThisOne)
@@ -90,7 +90,7 @@ Alec
 Jean Marie N.
 Cindy Y.
 Chris A.
-Frank L.
+Red Over Blue Astronomy
 Roland B.
 Roy G.
 Elvis
@@ -238,6 +238,7 @@ Eric L.
 Erik V. H. Fotografie
 Ernst K.
 Eugenio G.
+F. Linde
 Florian S.
 Francesco A.
 Francisco G.
