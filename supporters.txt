@@ -2,6 +2,7 @@
 # To change or remove your name: message Luke - done the same day.
 # '#' lines are comments. Sections: [recent] [legends] [fellowship].
 [recent]
+Hartmut C.
 Mac Bowden
 Hurriyet P.
 David N.
@@ -11,7 +12,6 @@ Simon S.
 David J. P.
 D. Shafer
 Chris M.
-Loukas M.
 [legends]
 Pete's Astrophotography
 Blake (ThisOne)
@@ -272,6 +272,7 @@ Hanns B.
 Hans H.
 Hans L.
 HansPS
+Hartmut C.
 Hearnz
 Heinz G.
 Hendrik B.
