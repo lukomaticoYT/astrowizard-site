@@ -2,6 +2,7 @@
 # To change or remove your name: message Luke - done the same day.
 # '#' lines are comments. Sections: [recent] [legends] [fellowship].
 [recent]
+Hurriyet P.
 David N.
 Matt A.
 Lee H.
@@ -11,7 +12,6 @@ D. Shafer
 Chris M.
 Loukas M.
 Malcolm T.
-Kevin N.
 [legends]
 Pete's Astrophotography
 Blake (ThisOne)
@@ -279,6 +279,7 @@ Henri D.
 Henriette C.
 Herve C.
 High Legh Community Observatory
+Hurriyet P.
 Ian C.
 Ian L.
 Ian W.
