@@ -2,6 +2,7 @@
 # To change or remove your name: message Luke - done the same day.
 # '#' lines are comments. Sections: [recent] [legends] [fellowship].
 [recent]
+Mac Bowden
 Hurriyet P.
 David N.
 Matt A.
@@ -11,7 +12,6 @@ David J. P.
 D. Shafer
 Chris M.
 Loukas M.
-Malcolm T.
 [legends]
 Pete's Astrophotography
 Blake (ThisOne)
@@ -384,6 +384,7 @@ M. Sansom
 M. Schuster
 M. Sullivan
 M.Frazier
+Mac Bowden
 Malcolm T.
 Manuel A. F. C.
 Manuel M.
