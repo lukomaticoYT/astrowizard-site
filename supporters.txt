@@ -2,6 +2,7 @@
 # To change or remove your name: message Luke - done the same day.
 # '#' lines are comments. Sections: [recent] [legends] [fellowship].
 [recent]
+R. Reeves
 Vincent L.
 Andrew A.
 Kevin C.
@@ -11,7 +12,6 @@ Didier V. H.
 Miroslaw A. M.
 M. Swierzewski
 P. Dixon
-Devon Jones
 [legends]
 Pete's Astrophotography
 Blake (ThisOne)
@@ -505,6 +505,7 @@ R. Blake
 R. Boyd
 R. Bruce
 R. M. Graham
+R. Reeves
 Radek S.
 Ralph S.
 Randall S. D.
