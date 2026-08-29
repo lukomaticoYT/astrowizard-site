@@ -2,6 +2,7 @@
 # To change or remove your name: message Luke - done the same day.
 # '#' lines are comments. Sections: [recent] [legends] [fellowship].
 [recent]
+Andrew A.
 Kevin C.
 Jeff
 Amit V.
@@ -11,7 +12,6 @@ M. Swierzewski
 P. Dixon
 Devon Jones
 W K
-Marko K.
 [legends]
 Pete's Astrophotography
 Blake (ThisOne)
@@ -123,6 +123,7 @@ Alexandre D.
 Amit V.
 Amy M.
 Andreas B.
+Andrew A.
 Andrew C.
 Andrew L.
 Andrew N.
