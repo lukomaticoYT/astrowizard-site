@@ -2,6 +2,7 @@
 # To change or remove your name: message Luke - done the same day.
 # '#' lines are comments. Sections: [recent] [legends] [fellowship].
 [recent]
+Sandrine G.
 R. Reeves
 Vincent L.
 Andrew A.
@@ -11,7 +12,6 @@ Amit V.
 Didier V. H.
 Miroslaw A. M.
 M. Swierzewski
-P. Dixon
 [legends]
 Pete's Astrophotography
 Blake (ThisOne)
@@ -547,6 +547,7 @@ S. Tinsley
 Sabine S.
 SaltyPogue
 Samuel D.
+Sandrine G.
 Sau W.
 Scott S.
 Scott U.
