@@ -2,6 +2,7 @@
 # To change or remove your name: message Luke - done the same day.
 # '#' lines are comments. Sections: [recent] [legends] [fellowship].
 [recent]
+Hansi. W.
 Sandrine G.
 R. Reeves
 Vincent L.
@@ -11,7 +12,6 @@ Jeff
 Amit V.
 Didier V. H.
 Miroslaw A. M.
-M. Swierzewski
 [legends]
 Pete's Astrophotography
 Blake (ThisOne)
@@ -283,6 +283,7 @@ Hamid S.
 Hanns B.
 Hans H.
 Hans L.
+Hansi. W.
 HansPS
 Hartmut C.
 Hearnz
