@@ -2,6 +2,7 @@
 # To change or remove your name: message Luke - done the same day.
 # '#' lines are comments. Sections: [recent] [legends] [fellowship].
 [recent]
+Miroslaw A. M.
 M. Swierzewski
 P. Dixon
 Devon Jones
@@ -11,7 +12,6 @@ Randall S. D.
 Massive Explosion
 Stephen M.
 Paul O.
-Johanna K.
 [legends]
 Pete's Astrophotography
 Blake (ThisOne)
@@ -445,6 +445,7 @@ Michel A.
 Michel H.
 Mike B.
 Mike N.
+Miroslaw A. M.
 Mondland.de
 Morgan H.
 Murlin G.
