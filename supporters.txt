@@ -2,6 +2,7 @@
 # To change or remove your name: message Luke - done the same day.
 # '#' lines are comments. Sections: [recent] [legends] [fellowship].
 [recent]
+Paul O.
 Johanna K.
 Christoper K.
 Eric W.
@@ -11,7 +12,6 @@ F. Linde
 Jurgen D.
 Christopher K.
 T. Blevins
-Lasse M. (@KPMVAB)
 [legends]
 Pete's Astrophotography
 Blake (ThisOne)
@@ -470,6 +470,7 @@ Paul B.
 Paul F.
 Paul L.
 Paul M.
+Paul O.
 Paul S.
 Paul T.
 Paulo B. G.
