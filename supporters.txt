@@ -2,6 +2,7 @@
 # To change or remove your name: message Luke - done the same day.
 # '#' lines are comments. Sections: [recent] [legends] [fellowship].
 [recent]
+Paul R.
 Hansi. W.
 Sandrine G.
 R. Reeves
@@ -11,7 +12,6 @@ Kevin C.
 Jeff
 Amit V.
 Didier V. H.
-Miroslaw A. M.
 [legends]
 Pete's Astrophotography
 Blake (ThisOne)
@@ -482,6 +482,7 @@ Paul F.
 Paul L.
 Paul M.
 Paul O.
+Paul R.
 Paul S.
 Paul T.
 Paulo B. G.
