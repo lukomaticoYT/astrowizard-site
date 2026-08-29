@@ -2,6 +2,7 @@
 # To change or remove your name: message Luke - done the same day.
 # '#' lines are comments. Sections: [recent] [legends] [fellowship].
 [recent]
+Christian A.
 Peter A.
 Paul R.
 Hansi. W.
@@ -11,7 +12,6 @@ Vincent L.
 Andrew A.
 Kevin C.
 Jeff
-Amit V.
 [legends]
 Pete's Astrophotography
 Blake (ThisOne)
@@ -100,6 +100,7 @@ Chris K.
 Eric Wilkes
 B. McCoy
 Johanna K.
+Christian A.
 [fellowship]
 A. H. Westphal
 A. MacLean
