@@ -2,6 +2,7 @@
 # To change or remove your name: message Luke - done the same day.
 # '#' lines are comments. Sections: [recent] [legends] [fellowship].
 [recent]
+M. Swierzewski
 P. Dixon
 Devon Jones
 W K
@@ -11,7 +12,6 @@ Massive Explosion
 Stephen M.
 Paul O.
 Johanna K.
-Chris K.
 [legends]
 Pete's Astrophotography
 Blake (ThisOne)
@@ -395,6 +395,7 @@ M. Kotchie
 M. Sansom
 M. Schuster
 M. Sullivan
+M. Swierzewski
 M.Frazier
 Mac Bowden
 Malcolm T.
