@@ -2,6 +2,7 @@
 # To change or remove your name: message Luke - done the same day.
 # '#' lines are comments. Sections: [recent] [legends] [fellowship].
 [recent]
+Andy W.
 Kelly B.
 Peter R.
 Jürgen B.
@@ -11,7 +12,6 @@ Christian A.
 Peter A.
 Paul R.
 Hansi. W.
-Sandrine G.
 [legends]
 Pete's Astrophotography
 Blake (ThisOne)
@@ -130,6 +130,7 @@ Andrew L.
 Andrew N.
 Andrew W.
 Andy R.
+Andy W.
 AndyS
 Antoine W.
 Arne B.
