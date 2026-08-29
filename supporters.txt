@@ -2,6 +2,7 @@
 # To change or remove your name: message Luke - done the same day.
 # '#' lines are comments. Sections: [recent] [legends] [fellowship].
 [recent]
+Jürgen B.
 Manfred S.
 Dave M.
 Christian A.
@@ -11,7 +12,6 @@ Hansi. W.
 Sandrine G.
 R. Reeves
 Vincent L.
-Andrew A.
 [legends]
 Pete's Astrophotography
 Blake (ThisOne)
@@ -364,6 +364,7 @@ Juan D. P. A.
 Juan T.
 Jurgen D.
 Jörg S.
+Jürgen B.
 Jürgen S.
 Kabir J.
 Kalev P.
