@@ -2,6 +2,7 @@
 # To change or remove your name: message Luke - done the same day.
 # '#' lines are comments. Sections: [recent] [legends] [fellowship].
 [recent]
+Manfred S.
 Dave M.
 Christian A.
 Peter A.
@@ -11,7 +12,6 @@ Sandrine G.
 R. Reeves
 Vincent L.
 Andrew A.
-Kevin C.
 [legends]
 Pete's Astrophotography
 Blake (ThisOne)
@@ -407,6 +407,7 @@ M. Swierzewski
 M.Frazier
 Mac Bowden
 Malcolm T.
+Manfred S.
 Manuel A. F. C.
 Manuel M.
 Manuel P. F.
