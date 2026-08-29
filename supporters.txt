@@ -2,6 +2,7 @@
 # To change or remove your name: message Luke - done the same day.
 # '#' lines are comments. Sections: [recent] [legends] [fellowship].
 [recent]
+Massive Explosion
 Stephen M.
 Paul O.
 Johanna K.
@@ -11,7 +12,6 @@ Daniel M.
 Bevon S.
 F. Linde
 Jurgen D.
-Christopher K.
 [legends]
 Pete's Astrophotography
 Blake (ThisOne)
@@ -422,6 +422,7 @@ Martin B.
 Martin Br.
 Martin E.
 Martin K.
+Massive Explosion
 Matt A.
 Matthew G.
 Matthew K.
