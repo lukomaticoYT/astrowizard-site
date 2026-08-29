@@ -2,6 +2,7 @@
 # To change or remove your name: message Luke - done the same day.
 # '#' lines are comments. Sections: [recent] [legends] [fellowship].
 [recent]
+Marko K.
 Randall S. D.
 Massive Explosion
 Stephen M.
@@ -11,7 +12,6 @@ Christoper K.
 Eric W.
 Daniel M.
 Bevon S.
-F. Linde
 [legends]
 Pete's Astrophotography
 Blake (ThisOne)
@@ -417,6 +417,7 @@ Mark S.
 Mark T.
 Mark Y.
 MarkC
+Marko K.
 MarkyZnO
 Martin B.
 Martin Br.
