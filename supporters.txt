@@ -2,6 +2,7 @@
 # To change or remove your name: message Luke - done the same day.
 # '#' lines are comments. Sections: [recent] [legends] [fellowship].
 [recent]
+Johanna K.
 Christoper K.
 Eric W.
 Daniel M.
@@ -11,7 +12,6 @@ Jurgen D.
 Christopher K.
 T. Blevins
 Lasse M. (@KPMVAB)
-J. Kirk
 [legends]
 Pete's Astrophotography
 Blake (ThisOne)
@@ -100,6 +100,7 @@ Christopher K.
 Eric W.
 Christoper K.
 B. McCoy
+Johanna K.
 [fellowship]
 A. H. Westphal
 A. MacLean
