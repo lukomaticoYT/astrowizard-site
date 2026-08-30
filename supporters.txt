@@ -2,6 +2,7 @@
 # To change or remove your name: message Luke - done the same day.
 # '#' lines are comments. Sections: [recent] [legends] [fellowship].
 [recent]
+Sk3lnonch
 JLRC
 John Herman
 Steven H.
@@ -11,7 +12,6 @@ Kelly B.
 Peter R.
 Jürgen B.
 Manfred S.
-Dave M.
 [legends]
 Pete's Astrophotography
 Blake (ThisOne)
@@ -569,6 +569,7 @@ Sebastian W.
 Selvakumar M.
 Simon S.
 SJ. Grady
+Sk3lnonch
 Sonja L.
 Sound Man Martin
 StarHawke
