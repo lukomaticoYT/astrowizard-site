@@ -561,5 +561,60 @@
   });
 })();
 </script>
+
+<script>
+/* The false-positive pre-arm (Luke's ruling, 30 Aug): shown once per browser
+   on a Windows exe download click. Without JavaScript the plain link works
+   untouched. localStorage failures (private windows) fail open. */
+(function () {
+  var KEY = "wiz_fp_note_seen";
+  function seen() { try { return localStorage.getItem(KEY) === "1"; } catch (e) { return false; } }
+  function mark() { try { localStorage.setItem(KEY, "1"); } catch (e) {} }
+  function show(href, appName) {
+    var wrap = document.createElement("div");
+    wrap.setAttribute("style",
+      "position:fixed;inset:0;z-index:9999;background:rgba(5,8,20,.82);" +
+      "display:flex;align-items:center;justify-content:center;padding:20px;");
+    var card = document.createElement("div");
+    card.setAttribute("style",
+      "max-width:470px;background:#131a33;border:1px solid #2a3055;border-radius:14px;" +
+      "padding:26px 28px;color:#e9eaf4;font-family:inherit;box-shadow:0 18px 50px rgba(0,0,0,.5);");
+    card.innerHTML =
+      '<h3 style="margin:0 0 10px;color:#f2c14e;font-size:19px;">A quick note before you download</h3>' +
+      '<p style="margin:0 0 10px;line-height:1.55;font-size:14.5px;">Windows may flag this file as a virus or trojan. ' +
+      'It is a known false positive - it affects new releases of free unsigned software, and ' + appName +
+      ' gets a fresh round of it with every update. The app is safe, and thousands are running this exact build. ' +
+      'The current false positive has been reported to Microsoft and should clear within days.</p>' +
+      '<p style="margin:0 0 10px;line-height:1.55;font-size:14.5px;">If Windows complains, choose <b>More info</b> then <b>Run anyway</b>. ' +
+      'Only ever download from this page - that way you always get the genuine file.</p>' +
+      '<p style="margin:0 0 16px;line-height:1.55;font-size:13px;color:#a2a9c8;">Proper code signing is in the works, which ends these warnings for good.</p>';
+    var go = document.createElement("a");
+    go.href = href;
+    go.textContent = "Continue download";
+    go.setAttribute("style",
+      "display:inline-block;background:#f2c14e;color:#1a1a1a;font-weight:700;" +
+      "padding:11px 22px;border-radius:10px;text-decoration:none;font-size:15px;");
+    go.addEventListener("click", function () { mark(); wrap.remove(); });
+    var no = document.createElement("button");
+    no.textContent = "Not now";
+    no.setAttribute("style",
+      "margin-left:12px;background:transparent;border:1px solid #2a3055;color:#a2a9c8;" +
+      "padding:11px 18px;border-radius:10px;cursor:pointer;font-size:14px;");
+    no.addEventListener("click", function () { wrap.remove(); });
+    card.appendChild(go); card.appendChild(no);
+    wrap.appendChild(card);
+    wrap.addEventListener("click", function (ev) { if (ev.target === wrap) wrap.remove(); });
+    document.body.appendChild(wrap);
+  }
+  document.addEventListener("click", function (ev) {
+    if (seen()) return;
+    var t = ev.target;
+    var a = t && t.closest ? t.closest('a[href$=".exe"]') : null;
+    if (!a) return;
+    ev.preventDefault();
+    show(a.href, "AstroWizard");
+  }, true);
+})();
+</script>
 </body>
 </html>
