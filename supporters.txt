@@ -2,6 +2,7 @@
 # To change or remove your name: message Luke - done the same day.
 # '#' lines are comments. Sections: [recent] [legends] [fellowship].
 [recent]
+John Herman
 Steven H.
 LoneSampler
 Andy W.
@@ -11,7 +12,6 @@ Jürgen B.
 Manfred S.
 Dave M.
 Christian A.
-Peter A.
 [legends]
 Pete's Astrophotography
 Blake (ThisOne)
@@ -347,6 +347,7 @@ John C.
 John F.
 John G.
 John H.
+John Herman
 John K.
 John L.
 John M.
