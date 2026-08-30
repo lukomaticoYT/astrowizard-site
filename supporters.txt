@@ -2,6 +2,7 @@
 # To change or remove your name: message Luke - done the same day.
 # '#' lines are comments. Sections: [recent] [legends] [fellowship].
 [recent]
+Steven H.
 LoneSampler
 Andy W.
 Kelly B.
@@ -11,7 +12,6 @@ Manfred S.
 Dave M.
 Christian A.
 Peter A.
-Paul R.
 [legends]
 Pete's Astrophotography
 Blake (ThisOne)
@@ -591,6 +591,7 @@ Steve W.
 Steve Z.
 Steven A.
 Steven D.
+Steven H.
 Steven Z.
 Stuart F.
 Stuart G.
