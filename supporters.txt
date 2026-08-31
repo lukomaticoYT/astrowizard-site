@@ -2,6 +2,7 @@
 # To change or remove your name: message Luke - done the same day.
 # '#' lines are comments. Sections: [recent] [legends] [fellowship].
 [recent]
+Andrew F.
 Peter Y.
 Jack D.
 Baz S.
@@ -11,7 +12,6 @@ Rob Greaves
 Richard Dace
 Thorsten K.
 Pierre B.
-Ingo B.
 [legends]
 Pete's Astrophotography
 Blake (ThisOne)
@@ -129,6 +129,7 @@ Amy M.
 Andreas B.
 Andrew A.
 Andrew C.
+Andrew F.
 Andrew L.
 Andrew N.
 Andrew W.
