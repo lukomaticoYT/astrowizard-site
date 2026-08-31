@@ -2,6 +2,7 @@
 # To change or remove your name: message Luke - done the same day.
 # '#' lines are comments. Sections: [recent] [legends] [fellowship].
 [recent]
+Julie G.
 Don C.
 Louis-Simon Menard
 John Mozdziers
@@ -11,7 +12,6 @@ Don H.
 J R Van Mierlo
 Geoffrey L.
 Oni Technology
-M. Kraft
 [legends]
 Pete's Astrophotography
 Blake (ThisOne)
@@ -382,6 +382,7 @@ JR
 Juan C. S. A.
 Juan D. P. A.
 Juan T.
+Julie G.
 Jurgen D.
 Jörg S.
 Jürgen B.
