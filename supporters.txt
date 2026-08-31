@@ -2,6 +2,7 @@
 # To change or remove your name: message Luke - done the same day.
 # '#' lines are comments. Sections: [recent] [legends] [fellowship].
 [recent]
+John De Marco
 Eric G.
 StevieSteve
 Ludovico F.
@@ -11,7 +12,6 @@ Michael Freundlieb
 SynQuaNon
 Andrew F.
 Peter Y.
-Jack D.
 [legends]
 Pete's Astrophotography
 Blake (ThisOne)
@@ -373,6 +373,7 @@ Joe M.
 Joe V.
 John A.
 John C.
+John De Marco
 John F.
 John G.
 John H.
