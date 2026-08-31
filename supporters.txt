@@ -2,6 +2,7 @@
 # To change or remove your name: message Luke - done the same day.
 # '#' lines are comments. Sections: [recent] [legends] [fellowship].
 [recent]
+Don C.
 Louis-Simon Menard
 John Mozdziers
 DHP Radio
@@ -11,7 +12,6 @@ J R Van Mierlo
 Geoffrey L.
 Oni Technology
 M. Kraft
-Carl L.
 [legends]
 Pete's Astrophotography
 Blake (ThisOne)
@@ -241,6 +241,7 @@ DHP Radio
 Didier P.
 Didier V. H.
 Dion G.
+Don C.
 Don H.
 Donald L.
 Doug B.
