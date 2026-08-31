@@ -2,6 +2,7 @@
 # To change or remove your name: message Luke - done the same day.
 # '#' lines are comments. Sections: [recent] [legends] [fellowship].
 [recent]
+StevieSteve
 Ludovico F.
 Martin H.
 Monte R.
@@ -11,7 +12,6 @@ Andrew F.
 Peter Y.
 Jack D.
 Baz S.
-Franz G.
 [legends]
 Pete's Astrophotography
 Blake (ThisOne)
@@ -109,6 +109,7 @@ Michael Freundlieb
 Monte R.
 Martin H.
 RuKo
+StevieSteve
 [fellowship]
 A. H. Westphal
 A. MacLean
