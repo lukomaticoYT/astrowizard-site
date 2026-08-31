@@ -2,6 +2,7 @@
 # To change or remove your name: message Luke - done the same day.
 # '#' lines are comments. Sections: [recent] [legends] [fellowship].
 [recent]
+Joseph V.
 Regina Z.
 Ken K.
 Thanasis M.
@@ -11,7 +12,6 @@ CGL
 Nathan H.
 Christopher H.
 AstroAndy
-Tim J.
 [legends]
 Pete's Astrophotography
 Blake (ThisOne)
@@ -365,6 +365,7 @@ Joseph C.
 Joseph L.
 Joseph S.
 Joseph T.
+Joseph V.
 Josiah J.
 JR
 Juan C. S. A.
