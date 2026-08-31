@@ -2,6 +2,7 @@
 # To change or remove your name: message Luke - done the same day.
 # '#' lines are comments. Sections: [recent] [legends] [fellowship].
 [recent]
+Eric G.
 StevieSteve
 Ludovico F.
 Martin H.
@@ -11,7 +12,6 @@ SynQuaNon
 Andrew F.
 Peter Y.
 Jack D.
-Baz S.
 [legends]
 Pete's Astrophotography
 Blake (ThisOne)
@@ -263,6 +263,7 @@ Eddie L.
 Edwin M.
 Eric C.
 Eric F.
+Eric G.
 Eric L.
 Erik V. H. Fotografie
 Ernst K.
