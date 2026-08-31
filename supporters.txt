@@ -2,6 +2,7 @@
 # To change or remove your name: message Luke - done the same day.
 # '#' lines are comments. Sections: [recent] [legends] [fellowship].
 [recent]
+Geoffrey L.
 Oni Technology
 M. Kraft
 Carl L.
@@ -11,7 +12,6 @@ R. Bowes
 Joseph V.
 Regina Z.
 Ken K.
-Thanasis M.
 [legends]
 Pete's Astrophotography
 Blake (ThisOne)
@@ -273,6 +273,7 @@ Gary@MUVEDesign
 Gavin L.
 Geffo
 Geir H.
+Geoffrey L.
 Geoffrey V.
 Geoffrey W.
 Georg N. N.
