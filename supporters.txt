@@ -2,6 +2,7 @@
 # To change or remove your name: message Luke - done the same day.
 # '#' lines are comments. Sections: [recent] [legends] [fellowship].
 [recent]
+Rob Greaves
 Richard Dace
 Thorsten K.
 Pierre B.
@@ -11,7 +12,6 @@ Julie G.
 Don C.
 Louis-Simon Menard
 John Mozdziers
-DHP Radio
 [legends]
 Pete's Astrophotography
 Blake (ThisOne)
@@ -567,6 +567,7 @@ Rick Carver
 Rick G.
 RickJ
 Rob D.
+Rob Greaves
 Robert B.
 Robert E.
 Robert L.
