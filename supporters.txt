@@ -2,6 +2,7 @@
 # To change or remove your name: message Luke - done the same day.
 # '#' lines are comments. Sections: [recent] [legends] [fellowship].
 [recent]
+Baz S.
 Franz G.
 F W Milsom
 Rob Greaves
@@ -11,7 +12,6 @@ Pierre B.
 Ingo B.
 Geoff J.
 Julie G.
-Don C.
 [legends]
 Pete's Astrophotography
 Blake (ThisOne)
@@ -144,6 +144,7 @@ Astroexeter
 AstroSaandy
 B. Clark Williams
 Batłomiej B.
+Baz S.
 Bertrand D.
 Bevon S.
 Bill Childs
