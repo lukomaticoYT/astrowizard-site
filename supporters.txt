@@ -2,6 +2,7 @@
 # To change or remove your name: message Luke - done the same day.
 # '#' lines are comments. Sections: [recent] [legends] [fellowship].
 [recent]
+Dan H.
 J R Van Mierlo
 Geoffrey L.
 Oni Technology
@@ -11,7 +12,6 @@ Jonbanjovie
 Bill Childs
 R. Bowes
 Joseph V.
-Regina Z.
 [legends]
 Pete's Astrophotography
 Blake (ThisOne)
@@ -207,6 +207,7 @@ Dakota Starry Nights
 Dale C.
 Dale R.
 Dan D.
+Dan H.
 Daniel M.
 Darren W.
 Dave M.
