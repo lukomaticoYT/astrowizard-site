@@ -2,6 +2,7 @@
 # To change or remove your name: message Luke - done the same day.
 # '#' lines are comments. Sections: [recent] [legends] [fellowship].
 [recent]
+M. Kraft
 Carl L.
 Jonbanjovie
 Bill Childs
@@ -11,7 +12,6 @@ Regina Z.
 Ken K.
 Thanasis M.
 Janne K.
-Brian Bailey
 [legends]
 Pete's Astrophotography
 Blake (ThisOne)
@@ -416,6 +416,7 @@ Lyle A.
 Lyndon K.
 M. Bonser
 M. Kotchie
+M. Kraft
 M. Sansom
 M. Schuster
 M. Sullivan
