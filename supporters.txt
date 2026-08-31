@@ -2,6 +2,7 @@
 # To change or remove your name: message Luke - done the same day.
 # '#' lines are comments. Sections: [recent] [legends] [fellowship].
 [recent]
+CGL
 Nathan H.
 Christopher H.
 AstroAndy
@@ -11,7 +12,6 @@ JLRC
 John Herman
 Steven H.
 LoneSampler
-Andy W.
 [legends]
 Pete's Astrophotography
 Blake (ThisOne)
@@ -166,6 +166,7 @@ Carlos D.
 Carlos R.
 Carsenium
 CB Johnson
+CGL
 Chance Y.
 Charles B.
 Charles E.
