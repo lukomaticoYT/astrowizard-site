@@ -2,7 +2,7 @@
 # To change or remove your name: message Luke - done the same day.
 # '#' lines are comments. Sections: [recent] [legends] [fellowship].
 [recent]
-Dan H.
+Don H.
 J R Van Mierlo
 Geoffrey L.
 Oni Technology
@@ -207,7 +207,6 @@ Dakota Starry Nights
 Dale C.
 Dale R.
 Dan D.
-Dan H.
 Daniel M.
 Darren W.
 Dave M.
@@ -239,6 +238,7 @@ Devon Jones
 Didier P.
 Didier V. H.
 Dion G.
+Don H.
 Donald L.
 Doug B.
 Doug P.
