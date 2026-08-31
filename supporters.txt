@@ -2,6 +2,7 @@
 # To change or remove your name: message Luke - done the same day.
 # '#' lines are comments. Sections: [recent] [legends] [fellowship].
 [recent]
+Ken K.
 Thanasis M.
 Janne K.
 Brian Bailey
@@ -11,7 +12,6 @@ Christopher H.
 AstroAndy
 Tim J.
 Sk3lnonch
-JLRC
 [legends]
 Pete's Astrophotography
 Blake (ThisOne)
@@ -383,6 +383,7 @@ Karsten J.
 Keith T.
 Kelly B.
 Ken F.
+Ken K.
 Kevin C.
 Kevin N.
 Kevin S.
