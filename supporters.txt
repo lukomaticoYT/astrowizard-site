@@ -2,6 +2,7 @@
 # To change or remove your name: message Luke - done the same day.
 # '#' lines are comments. Sections: [recent] [legends] [fellowship].
 [recent]
+Carl L.
 Jonbanjovie
 Bill Childs
 R. Bowes
@@ -11,7 +12,6 @@ Ken K.
 Thanasis M.
 Janne K.
 Brian Bailey
-CGL
 [legends]
 Pete's Astrophotography
 Blake (ThisOne)
@@ -163,6 +163,7 @@ C. O'Neill
 Calvin P.
 Carl
 Carl B.
+Carl L.
 Carlos A.
 Carlos D.
 Carlos R.
