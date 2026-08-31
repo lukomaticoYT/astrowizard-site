@@ -2,6 +2,7 @@
 # To change or remove your name: message Luke - done the same day.
 # '#' lines are comments. Sections: [recent] [legends] [fellowship].
 [recent]
+Tim J.
 Sk3lnonch
 JLRC
 John Herman
@@ -11,7 +12,6 @@ Andy W.
 Kelly B.
 Peter R.
 Jürgen B.
-Manfred S.
 [legends]
 Pete's Astrophotography
 Blake (ThisOne)
@@ -609,6 +609,7 @@ The Astrollarium
 Theo K.
 Thomas B.
 Thomas C.
+Tim J.
 Tim V. R.
 Timo K.
 Timothy H.
