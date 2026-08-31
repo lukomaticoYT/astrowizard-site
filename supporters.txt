@@ -2,6 +2,7 @@
 # To change or remove your name: message Luke - done the same day.
 # '#' lines are comments. Sections: [recent] [legends] [fellowship].
 [recent]
+Michael Freundlieb
 SynQuaNon
 Andrew F.
 Peter Y.
@@ -11,7 +12,6 @@ Franz G.
 F W Milsom
 Rob Greaves
 Richard Dace
-Thorsten K.
 [legends]
 Pete's Astrophotography
 Blake (ThisOne)
@@ -479,6 +479,7 @@ Michael C.
 Michael D.
 Michael De.
 Michael F.
+Michael Freundlieb
 Michael K.
 Michael L.
 Michael P.
