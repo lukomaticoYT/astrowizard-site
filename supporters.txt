@@ -2,6 +2,7 @@
 # To change or remove your name: message Luke - done the same day.
 # '#' lines are comments. Sections: [recent] [legends] [fellowship].
 [recent]
+Christopher H.
 AstroAndy
 Tim J.
 Sk3lnonch
@@ -11,7 +12,6 @@ Steven H.
 LoneSampler
 Andy W.
 Kelly B.
-Peter R.
 [legends]
 Pete's Astrophotography
 Blake (ThisOne)
@@ -181,6 +181,7 @@ Chris M.
 Chris O.
 Christian Dr. Zülch
 Christian T.
+Christopher H.
 CityAstronomer
 Claude F.
 Claus S.
