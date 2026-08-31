@@ -2,6 +2,7 @@
 # To change or remove your name: message Luke - done the same day.
 # '#' lines are comments. Sections: [recent] [legends] [fellowship].
 [recent]
+Nathan H.
 Christopher H.
 AstroAndy
 Tim J.
@@ -11,7 +12,6 @@ John Herman
 Steven H.
 LoneSampler
 Andy W.
-Kelly B.
 [legends]
 Pete's Astrophotography
 Blake (ThisOne)
@@ -468,6 +468,7 @@ Morgan H.
 Murlin G.
 N. Poirier
 Nathan C.
+Nathan H.
 Nb Knight
 Neal
 Neil B.
