@@ -2,6 +2,7 @@
 # To change or remove your name: message Luke - done the same day.
 # '#' lines are comments. Sections: [recent] [legends] [fellowship].
 [recent]
+Thanasis M.
 Janne K.
 Brian Bailey
 CGL
@@ -11,7 +12,6 @@ AstroAndy
 Tim J.
 Sk3lnonch
 JLRC
-John Herman
 [legends]
 Pete's Astrophotography
 Blake (ThisOne)
@@ -611,6 +611,7 @@ Subhadip C.
 T. Blevins
 TCPIP Nut
 Terry V.
+Thanasis M.
 The Astrollarium
 Theo K.
 Thomas B.
