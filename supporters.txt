@@ -2,6 +2,7 @@
 # To change or remove your name: message Luke - done the same day.
 # '#' lines are comments. Sections: [recent] [legends] [fellowship].
 [recent]
+Franz G.
 F W Milsom
 Rob Greaves
 Richard Dace
@@ -11,7 +12,6 @@ Ingo B.
 Geoff J.
 Julie G.
 Don C.
-Louis-Simon Menard
 [legends]
 Pete's Astrophotography
 Blake (ThisOne)
@@ -267,6 +267,7 @@ Francisco G.
 Frank "Astronut" G.
 Frank F.
 Frank S.
+Franz G.
 Frederic E.
 G. Platt
 G. Stoppa
