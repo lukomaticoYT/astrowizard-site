@@ -2,6 +2,7 @@
 # To change or remove your name: message Luke - done the same day.
 # '#' lines are comments. Sections: [recent] [legends] [fellowship].
 [recent]
+J R Van Mierlo
 Geoffrey L.
 Oni Technology
 M. Kraft
@@ -11,7 +12,6 @@ Bill Childs
 R. Bowes
 Joseph V.
 Regina Z.
-Ken K.
 [legends]
 Pete's Astrophotography
 Blake (ThisOne)
@@ -311,6 +311,7 @@ Ian W.
 IanMac
 Ivan H.
 Ivan T.
+J R Van Mierlo
 J. Arter
 J. Fathers
 J. Kirk
