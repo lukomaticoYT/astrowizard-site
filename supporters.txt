@@ -2,6 +2,7 @@
 # To change or remove your name: message Luke - done the same day.
 # '#' lines are comments. Sections: [recent] [legends] [fellowship].
 [recent]
+Jason N.
 Don H.
 J R Van Mierlo
 Geoffrey L.
@@ -11,7 +12,6 @@ Carl L.
 Jonbanjovie
 Bill Childs
 R. Bowes
-Joseph V.
 [legends]
 Pete's Astrophotography
 Blake (ThisOne)
@@ -334,6 +334,7 @@ Jason C.
 Jason E.
 Jason J.
 Jason K.
+Jason N.
 Jason P.
 Javier G. O.
 Jean-Marie B.
