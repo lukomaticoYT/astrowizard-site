@@ -2,6 +2,7 @@
 # To change or remove your name: message Luke - done the same day.
 # '#' lines are comments. Sections: [recent] [legends] [fellowship].
 [recent]
+Thorsten K.
 Pierre B.
 Ingo B.
 Geoff J.
@@ -11,7 +12,6 @@ Louis-Simon Menard
 John Mozdziers
 DHP Radio
 Jason N.
-Don H.
 [legends]
 Pete's Astrophotography
 Blake (ThisOne)
@@ -637,6 +637,7 @@ The Astrollarium
 Theo K.
 Thomas B.
 Thomas C.
+Thorsten K.
 Tim J.
 Tim V. R.
 Timo K.
