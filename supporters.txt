@@ -2,6 +2,7 @@
 # To change or remove your name: message Luke - done the same day.
 # '#' lines are comments. Sections: [recent] [legends] [fellowship].
 [recent]
+SynQuaNon
 Andrew F.
 Peter Y.
 Jack D.
@@ -11,7 +12,6 @@ F W Milsom
 Rob Greaves
 Richard Dace
 Thorsten K.
-Pierre B.
 [legends]
 Pete's Astrophotography
 Blake (ThisOne)
@@ -104,6 +104,7 @@ Christian A.
 Brian Bailey
 Louis-Simon Menard
 Dr Hector Duran
+SynQuaNon
 [fellowship]
 A. H. Westphal
 A. MacLean
