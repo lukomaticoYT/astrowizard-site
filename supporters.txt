@@ -2,6 +2,7 @@
 # To change or remove your name: message Luke - done the same day.
 # '#' lines are comments. Sections: [recent] [legends] [fellowship].
 [recent]
+Gene Goroschko
 Michael Scherman
 John De Marco
 Eric G.
@@ -11,7 +12,6 @@ Martin H.
 Monte R.
 Michael Freundlieb
 SynQuaNon
-Andrew F.
 [legends]
 Pete's Astrophotography
 Blake (ThisOne)
@@ -110,6 +110,7 @@ Monte R.
 Martin H.
 RuKo
 StevieSteve
+Gene Goroschko
 [fellowship]
 A. H. Westphal
 A. MacLean
