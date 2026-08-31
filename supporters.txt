@@ -2,6 +2,7 @@
 # To change or remove your name: message Luke - done the same day.
 # '#' lines are comments. Sections: [recent] [legends] [fellowship].
 [recent]
+Janne K.
 Brian Bailey
 CGL
 Nathan H.
@@ -11,7 +12,6 @@ Tim J.
 Sk3lnonch
 JLRC
 John Herman
-Steven H.
 [legends]
 Pete's Astrophotography
 Blake (ThisOne)
@@ -324,6 +324,7 @@ James L.
 James T.
 James W.
 James Y.
+Janne K.
 Jason C.
 Jason E.
 Jason J.
