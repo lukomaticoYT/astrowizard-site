@@ -2,6 +2,7 @@
 # To change or remove your name: message Luke - done the same day.
 # '#' lines are comments. Sections: [recent] [legends] [fellowship].
 [recent]
+Richard Dace
 Thorsten K.
 Pierre B.
 Ingo B.
@@ -11,7 +12,6 @@ Don C.
 Louis-Simon Menard
 John Mozdziers
 DHP Radio
-Jason N.
 [legends]
 Pete's Astrophotography
 Blake (ThisOne)
@@ -556,6 +556,7 @@ Ricardo G. M.
 Richard B.
 Richard C.
 Richard D.
+Richard Dace
 Richard L.
 Richard R.
 Richard S.
