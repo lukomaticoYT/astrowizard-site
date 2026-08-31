@@ -2,6 +2,7 @@
 # To change or remove your name: message Luke - done the same day.
 # '#' lines are comments. Sections: [recent] [legends] [fellowship].
 [recent]
+Brian Bailey
 CGL
 Nathan H.
 Christopher H.
@@ -11,7 +12,6 @@ Sk3lnonch
 JLRC
 John Herman
 Steven H.
-LoneSampler
 [legends]
 Pete's Astrophotography
 Blake (ThisOne)
@@ -101,6 +101,7 @@ Eric Wilkes
 B. McCoy
 Johanna K.
 Christian A.
+Brian Bailey
 [fellowship]
 A. H. Westphal
 A. MacLean
