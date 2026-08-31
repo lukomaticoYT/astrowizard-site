@@ -2,6 +2,7 @@
 # To change or remove your name: message Luke - done the same day.
 # '#' lines are comments. Sections: [recent] [legends] [fellowship].
 [recent]
+Jonbanjovie
 Bill Childs
 R. Bowes
 Joseph V.
@@ -11,7 +12,6 @@ Thanasis M.
 Janne K.
 Brian Bailey
 CGL
-Nathan H.
 [legends]
 Pete's Astrophotography
 Blake (ThisOne)
@@ -361,6 +361,7 @@ John M.
 John R.
 John S.
 John W.
+Jonbanjovie
 Jonny Pulli
 Joseph C.
 Joseph L.
