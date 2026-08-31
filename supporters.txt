@@ -2,6 +2,7 @@
 # To change or remove your name: message Luke - done the same day.
 # '#' lines are comments. Sections: [recent] [legends] [fellowship].
 [recent]
+Regina Z.
 Ken K.
 Thanasis M.
 Janne K.
@@ -11,7 +12,6 @@ Nathan H.
 Christopher H.
 AstroAndy
 Tim J.
-Sk3lnonch
 [legends]
 Pete's Astrophotography
 Blake (ThisOne)
@@ -531,6 +531,7 @@ Ralph S.
 Randall S. D.
 Randall W.
 Reference Audio Plus
+Regina Z.
 Rhees and Monique
 Ricardo G. M.
 Richard B.
