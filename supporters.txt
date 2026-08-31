@@ -2,6 +2,7 @@
 # To change or remove your name: message Luke - done the same day.
 # '#' lines are comments. Sections: [recent] [legends] [fellowship].
 [recent]
+Michael Scherman
 John De Marco
 Eric G.
 StevieSteve
@@ -11,7 +12,6 @@ Monte R.
 Michael Freundlieb
 SynQuaNon
 Andrew F.
-Peter Y.
 [legends]
 Pete's Astrophotography
 Blake (ThisOne)
@@ -490,6 +490,7 @@ Michael F.
 Michael K.
 Michael L.
 Michael P.
+Michael Scherman
 Michael T.
 Michael V.
 Michel A.
