@@ -2,6 +2,7 @@
 # To change or remove your name: message Luke - done the same day.
 # '#' lines are comments. Sections: [recent] [legends] [fellowship].
 [recent]
+Monte R.
 Michael Freundlieb
 SynQuaNon
 Andrew F.
@@ -11,7 +12,6 @@ Baz S.
 Franz G.
 F W Milsom
 Rob Greaves
-Richard Dace
 [legends]
 Pete's Astrophotography
 Blake (ThisOne)
@@ -491,6 +491,7 @@ Mike B.
 Mike N.
 Miroslaw A. M.
 Mondland.de
+Monte R.
 Morgan H.
 Murlin G.
 N. Poirier
