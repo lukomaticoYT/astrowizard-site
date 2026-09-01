@@ -2,6 +2,7 @@
 # To change or remove your name: message Luke - done the same day.
 # '#' lines are comments. Sections: [recent] [legends] [fellowship].
 [recent]
+Sam M.
 Daniel S.
 Mr Facey
 Gareth B.
@@ -11,7 +12,6 @@ John De Marco
 Eric G.
 StevieSteve
 Ludovico F.
-Martin H.
 [legends]
 Pete's Astrophotography
 Blake (ThisOne)
@@ -607,6 +607,7 @@ S. Ryrie
 S. Tinsley
 Sabine S.
 SaltyPogue
+Sam M.
 Samuel D.
 Sandrine G.
 Sau W.
