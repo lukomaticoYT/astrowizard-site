@@ -2,6 +2,7 @@
 # To change or remove your name: message Luke - done the same day.
 # '#' lines are comments. Sections: [recent] [legends] [fellowship].
 [recent]
+Mr Facey
 Gareth B.
 Gene Goroschko
 Michael Scherman
@@ -11,7 +12,6 @@ StevieSteve
 Ludovico F.
 Martin H.
 Monte R.
-Michael Freundlieb
 [legends]
 Pete's Astrophotography
 Blake (ThisOne)
@@ -502,6 +502,7 @@ Mike N.
 Miroslaw A. M.
 Mondland.de
 Morgan H.
+Mr Facey
 Murlin G.
 N. Poirier
 Nathan C.
