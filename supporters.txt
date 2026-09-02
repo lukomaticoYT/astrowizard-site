@@ -2,6 +2,7 @@
 # To change or remove your name: message Luke - done the same day.
 # '#' lines are comments. Sections: [recent] [legends] [fellowship].
 [recent]
+Cygnus Reactor
 Gwinn Hall
 Tony D.
 Brian Gullett
@@ -11,7 +12,6 @@ Jon C.
 William F.
 Trevor S.
 Jim G.
-Guillaume B.
 [legends]
 Pete's Astrophotography
 Blake (ThisOne)
@@ -212,6 +212,7 @@ Coristus
 Cornz38
 Craig H.
 Cuiv, the Lazy Geek
+Cygnus Reactor
 Cyril C.
 D. Beebe
 D. Huff
