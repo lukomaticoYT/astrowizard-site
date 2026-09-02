@@ -2,6 +2,7 @@
 # To change or remove your name: message Luke - done the same day.
 # '#' lines are comments. Sections: [recent] [legends] [fellowship].
 [recent]
+Gwinn Hall
 Tony D.
 Brian Gullett
 Stephen Roesch
@@ -11,7 +12,6 @@ William F.
 Trevor S.
 Jim G.
 Guillaume B.
-Phillip K.
 [legends]
 Pete's Astrophotography
 Blake (ThisOne)
@@ -317,6 +317,7 @@ Guillaume B.
 Guy R.
 Guy T.
 GuybrushT
+Gwinn Hall
 Hamid S.
 Hanns B.
 Hans H.
