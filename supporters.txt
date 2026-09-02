@@ -2,16 +2,16 @@
 # To change or remove your name: message Luke - done the same day.
 # '#' lines are comments. Sections: [recent] [legends] [fellowship].
 [recent]
+Tony D.
+Brian Gullett
+Stephen Roesch
+Gavin K.
+Jon C.
 William F.
 Trevor S.
 Jim G.
 Guillaume B.
 Phillip K.
-Neal K.
-Steve D.
-Chris James
-David Hadley
-R. Stephenson
 [legends]
 Pete's Astrophotography
 Blake (ThisOne)
@@ -168,6 +168,7 @@ Bradford E.
 Brett H.
 Brian A.
 Brian G.
+Brian Gullett
 Brian L.
 Brian R.
 Brian W.
@@ -293,6 +294,7 @@ Gary K.
 Gary P.
 Gary Z.
 Gary@MUVEDesign
+Gavin K.
 Gavin L.
 Geffo
 Geir H.
@@ -395,6 +397,7 @@ John Mozdziers
 John R.
 John S.
 John W.
+Jon C.
 Jonbanjovie
 Jonny Pulli
 Joseph C.
@@ -650,6 +653,7 @@ Stephen Ly.
 Stephen M.
 Stephen P.
 Stephen R.
+Stephen Roesch
 Steve D.
 Steve T
 Steve W.
@@ -682,6 +686,7 @@ Tobias W.
 Tomato
 Tommy P.
 Tony C.
+Tony D.
 Tony H.
 TonyMan
 Trevor S.
