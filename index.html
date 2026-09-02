@@ -333,7 +333,7 @@
         <span class="small">AstroWizard-Linux-x86_64.tar.gz &middot; 130 MB</span>
       </a>
       <p class="buildline">current build <b>31 August 2026</b> &middot; you&#8217;ll always find the newest version on this page &middot; main link busy? <a href="#downloads" style="color:inherit;">mirror links below</a></p>
-      <p class="buildline" style="max-width:74ch;"><b>Just updated:</b> for a day or two Windows may flag the fresh file as unrecognised - sometimes even as a &#8220;virus&#8221;. A false positive while the new build earns its reputation: it is scanned clean, checksums live on the mirror page, and code signing is on its way. Click <b>More info</b>, then <b>Run anyway</b>.</p>
+      <p class="buildline" style="max-width:74ch;"><b>Now code-signed:</b> since 2 September the Windows download carries a Microsoft-validated publisher signature - the same 31 August build, signed. A brand-new signature still has to earn SmartScreen&#8217;s trust, so for a while you may still see &#8220;Windows protected your PC&#8221;: click <b>More info</b>, then <b>Run anyway</b>. The file is scanned clean and its checksum lives on the mirror page.</p>
     </div>
     <div class="trust-band">
       <p class="tb-head">Really free. Really private.</p>
@@ -370,7 +370,7 @@
   <section class="wrap" id="downloads" aria-labelledby="dl">
     <p class="kicker">Downloads</p>
     <h2 id="dl">Install in about a minute</h2>
-    <p class="sub">AstroWizard is in open beta and isn&#8217;t code-signed yet, so your computer will act suspicious the first time. That&#8217;s normal for independent software - here&#8217;s exactly what to click. It only happens once.</p>
+    <p class="sub">AstroWizard is in open beta. The Windows and Mac downloads are code-signed now, so first launch is calmer than it used to be - but a young signature can still draw a cautious note from Windows the first time. Here&#8217;s exactly what to click. It only happens once.</p>
     <div class="cards">
       <div class="card" data-os="windows">
         <h3>Windows <span class="tag">WINDOWS 10 / 11</span></h3>
@@ -389,7 +389,7 @@
           <p>StarNet2 (optional, free star removal): install from starnetastro.com - AstroWizard finds it automatically in the standard spot.</p>
           <p>Then open GraXpert once <em>on its own</em> and run each tool - it downloads its AI models on first use.</p>
         </div>
-        <p class="why">Why the warning? Microsoft charges independent developers for a signing certificate; during the beta we skip it. The build on this page is always the official one.</p>
+        <p class="why">Why a warning at all? The Windows build has been signed since 2 September with a Microsoft-validated certificate. SmartScreen still weighs how many people have run a signature before it trusts it fully, so a fresh one can draw a note for a while. The build on this page is always the official one.</p>
       </div>
       <div class="card" data-os="mac">
         <h3>macOS <span class="tag">APPLE SILICON &amp; INTEL</span></h3>
@@ -485,7 +485,7 @@
     </details>
     <details>
       <summary>My antivirus / Mac says it&#8217;s from an unidentified developer.</summary>
-      <div class="a">That&#8217;s the missing code-signing certificate, not a threat - see the install steps above. Only download AstroWizard from this page or the links in Lukomatico&#8217;s own videos.</div>
+      <div class="a">Both downloads are signed now - Windows since 2 September, Mac since 24 August - so that note is a young signature still earning trust, not a threat. See the install steps above, and only download AstroWizard from this page or the links in Lukomatico&#8217;s own videos.</div>
     </details>
     <details>
       <summary>&#8220;Too many users have viewed or downloaded this file&#8221;?</summary>
@@ -508,6 +508,11 @@
     <p class="sub" style="margin-bottom:26px;">Small releases, shipped often. Re-download any time - newer is always better here.</p>
     <div class="log">
       <div class="log-entry">
+        <p class="log-date">2026 &middot; SEPTEMBER 2</p>
+        <h4>Signed for Windows</h4>
+        <p><b>Both Windows downloads now carry a code signature</b> - AstroWizard.exe and StackingWizard.exe are signed with a Microsoft-validated publisher certificate through Azure Artifact Signing, timestamped, so Windows can see who built them. They are the very same 31 August builds with the signature added and nothing else changed; their checksums on the release pages changed with them, and the Google Drive copy of AstroWizard was swapped in place. SmartScreen still weighs a brand-new signature for a while, so <b>More info</b>, then <b>Run anyway</b> may linger briefly before it fades. Mac has been signed and notarised since 24 August; Linux needs no such ceremony.</p>
+      </div>
+      <div class="log-entry">
         <p class="log-date">2026 &middot; AUGUST 31</p>
         <h4>The Receiving Dock</h4>
         <p><b>The mono era, both wizards</b> - StackingWizard Beta 2.4 stacks a mono filter night per filter on one shared alignment and sends the whole set over in a single press; AstroWizard reads the set by filter and opens <b>Combine Mono Channels pre-filled</b> - SHO, HOO and LRGB recognised, the final channel call still yours. <b>The crop learns Lightroom&#8217;s manners</b>: draw your own box on the image, corners resize, inside moves, and dragging just outside rotates the picture live behind the frame with auto-fill - plus a fine rotation dial and a second row of aspect ratios. <b>Curves and the narrowband tune stop wading</b> on big images: only the dialog preview renders while you move, the sharp full-resolution pass lands when you rest, and their commits now run across every CPU core - about twice as fast, identical results. The <b>Custom BlurXTerminator</b> popout grows the full dial set (stars, halos, nonstellar, manual PSF), and the Fellowship wall rides at 636 wizards.</p>
@@ -516,11 +521,6 @@
         <p class="log-date">2026 &middot; AUGUST 26</p>
         <h4>The Seeing Build</h4>
         <p><b>Every tool preview is a real viewport now</b> - Curves and the step-8 tune window fit the whole image by default, scroll to zoom through the actual pixels (sharp at any depth - never a blown-up thumbnail), drag to pan, double-click to refit, and they render live on the main canvas while you shape. Bob asked to see the whole picture and David asked for sharpness at zoom - both, done, as promised. Step 7 grows <b>&#10024; Happy already? Keep this look</b>: the preview you are looking at becomes your real stretch in one click, same engine, same statistics. AstroWizard now <b>reads its sibling&#8217;s stacks</b> - a StackingWizard Beta 2.2 stack names its well-covered core in its headers, and the display stretch listens so untrimmed edges never steer the view. A <b>UI Scale</b> dial in Settings (90 to 140 percent, remembered at every launch), Undo and Redo grown into proper targets, and the Fellowship wall rides at 528 wizards, each seated once in their highest hall.</p>
-      </div>
-      <div class="log-entry">
-        <p class="log-date">2026 &middot; AUGUST 21</p>
-        <h4>Badges and Bundles</h4>
-        <p><b>AstroWizard introduces itself to RC-Astro</b> - every XTerminator call now carries the app's name and build at Russ Croman's own request, so RC-Astro support can see exactly which integration a machine runs (newer CLIs only). Clearer words when RC-Astro is <b>missing</b> (the message now points to the stand-alone tool at rc-astro.com) or <b>unlicensed</b> (the top line says to activate, and where the 🔑 lives - no more generic failures). The affiliate buttons found their colours with the <b>best-value Bundle in gold</b>, and the Fellowship wall rides at 404 lines - forty-one wizards since Tuesday.</p>
       </div>
     </div>
     <p style="margin-top:26px;"><a href="changelog.html">Full changelog - every release, in plain English &rarr;</a></p>
@@ -590,13 +590,12 @@
       "padding:26px 28px;color:#e9eaf4;font-family:inherit;box-shadow:0 18px 50px rgba(0,0,0,.5);");
     card.innerHTML =
       '<h3 style="margin:0 0 10px;color:#f2c14e;font-size:19px;">A quick note before you download</h3>' +
-      '<p style="margin:0 0 10px;line-height:1.55;font-size:14.5px;">Windows may flag this file as a virus or trojan. ' +
-      'It is a known false positive - it affects new releases of free unsigned software, and ' + appName +
-      ' gets a fresh round of it with every update. The app is safe, and thousands are running this exact build. ' +
-      'The current false positive has been reported to Microsoft and should clear within days.</p>' +
+      '<p style="margin:0 0 10px;line-height:1.55;font-size:14.5px;">' + appName + ' is code-signed with a Microsoft-validated certificate. ' +
+      'Windows may still show a &#8220;protected your PC&#8221; note while the new signature earns its reputation, and a fresh build can ' +
+      'occasionally trip an antivirus false positive - every build is scanned clean, and its checksum is published on the release page.</p>' +
       '<p style="margin:0 0 10px;line-height:1.55;font-size:14.5px;">If Windows complains, choose <b>More info</b> then <b>Run anyway</b>. ' +
       'Only ever download from this page - that way you always get the genuine file.</p>' +
-      '<p style="margin:0 0 16px;line-height:1.55;font-size:13px;color:#a2a9c8;">Proper code signing is in the works, which ends these warnings for good.</p>';
+      '<p style="margin:0 0 16px;line-height:1.55;font-size:13px;color:#a2a9c8;">Signed since 2 September 2026. These notes fade as the signature builds its reputation.</p>';
     var go = document.createElement("a");
     go.href = href;
     go.textContent = "Continue download";

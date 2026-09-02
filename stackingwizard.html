@@ -134,7 +134,7 @@
   </ul>
 
   <h2>Download the beta</h2>
-  <p style="color:var(--ink-soft);font-size:14px;max-width:70ch;margin:2px 0 14px;"><b>A fresh build means fresh warnings:</b> this beta updated on 26 August, and for a day or two Windows treats the new file as a stranger - &#8220;Windows protected your PC&#8221;, sometimes even a flat &#8220;virus detected&#8221;. It is a false positive: every build is scanned clean and its checksum is published on the release page. Click <b>More info</b>, then <b>Run anyway</b>. Every download teaches Windows to trust the file, so the warning fades within days - and proper code signing, which ends this for good, is in progress with Microsoft.</p>
+  <p style="color:var(--ink-soft);font-size:14px;max-width:70ch;margin:2px 0 14px;"><b>Now code-signed:</b> since 2 September the Windows beta carries a Microsoft-validated publisher signature - the same 31 August build, signed. A brand-new signature still has to earn SmartScreen&#8217;s trust, so for a while you may still see &#8220;Windows protected your PC&#8221;: click <b>More info</b>, then <b>Run anyway</b>. Every build is scanned clean and its checksum is published on the release page.</p>
   <div class="card">
     <h3>Windows <span class="tag">WINDOWS 10 / 11 &middot; BETA</span></h3>
     <p><a class="btn btn-win" href="https://github.com/lukomaticoYT/astrowizard-releases/releases/download/stackingwizard-beta-2026-08-31/StackingWizard.exe" rel="noopener"><span class="big">Download StackingWizard for Windows</span><span class="small">beta build 2026-08-31</span></a></p>
@@ -144,7 +144,7 @@
       <li>If a blue box says &#8220;Windows protected your PC&#8221;: click <b>More info</b>, then <b>Run anyway</b>.</li>
       <li>Choose the night&#8217;s folder and follow the pips. The master autosaves beside your lights.</li>
     </ol>
-    <p class="why">Why the warning? The same reason as AstroWizard&#8217;s: code signing is being set up and the beta ships ahead of it. The build on this page is always the official one.</p>
+    <p class="why">Why a warning at all? The same story as AstroWizard&#8217;s: the beta has been signed since 2 September with a Microsoft-validated certificate, and SmartScreen takes a little while to trust a new signature. The build on this page is always the official one.</p>
   </div>
   <div class="card">
     <h3>macOS <span class="tag">APPLE SILICON &middot; BETA</span></h3>
@@ -291,13 +291,12 @@
       "padding:26px 28px;color:#e9eaf4;font-family:inherit;box-shadow:0 18px 50px rgba(0,0,0,.5);");
     card.innerHTML =
       '<h3 style="margin:0 0 10px;color:#f2c14e;font-size:19px;">A quick note before you download</h3>' +
-      '<p style="margin:0 0 10px;line-height:1.55;font-size:14.5px;">Windows may flag this file as a virus or trojan. ' +
-      'It is a known false positive - it affects new releases of free unsigned software, and ' + appName +
-      ' gets a fresh round of it with every update. The app is safe, and thousands are running this exact build. ' +
-      'The current false positive has been reported to Microsoft and should clear within days.</p>' +
+      '<p style="margin:0 0 10px;line-height:1.55;font-size:14.5px;">' + appName + ' is code-signed with a Microsoft-validated certificate. ' +
+      'Windows may still show a &#8220;protected your PC&#8221; note while the new signature earns its reputation, and a fresh build can ' +
+      'occasionally trip an antivirus false positive - every build is scanned clean, and its checksum is published on the release page.</p>' +
       '<p style="margin:0 0 10px;line-height:1.55;font-size:14.5px;">If Windows complains, choose <b>More info</b> then <b>Run anyway</b>. ' +
       'Only ever download from this page - that way you always get the genuine file.</p>' +
-      '<p style="margin:0 0 16px;line-height:1.55;font-size:13px;color:#a2a9c8;">Proper code signing is in the works, which ends these warnings for good.</p>';
+      '<p style="margin:0 0 16px;line-height:1.55;font-size:13px;color:#a2a9c8;">Signed since 2 September 2026. These notes fade as the signature builds its reputation.</p>';
     var go = document.createElement("a");
     go.href = href;
     go.textContent = "Continue download";

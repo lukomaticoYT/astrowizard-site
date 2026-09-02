@@ -66,6 +66,14 @@
 
   <div class="log">
     <div class="entry">
+      <p class="date">2 SEPTEMBER 2026</p>
+      <h2>Windows, signed</h2>
+      <ul>
+        <li><b>Both Windows downloads carry a code signature now</b> - AstroWizard.exe and StackingWizard.exe are signed with a Microsoft-validated publisher certificate through Azure Artifact Signing, with a timestamp, so Windows can see who built them and the signature stays valid for good. They are the very same 31 August builds with the signature added and nothing else changed, so their checksums on the release pages changed with them; the Google Drive copy of AstroWizard was swapped in place. Mac and Linux are untouched.</li>
+        <li><b>What you may still see, for a while</b> - SmartScreen weighs a brand-new signature by how many people have run it, so &#8220;Windows protected your PC&#8221; may linger briefly: More info, then Run anyway. It fades as the signature earns its reputation, and because the reputation belongs to the publisher rather than to each file, it should not reset with every build the way the unsigned days did.</li>
+      </ul>
+    </div>
+    <div class="entry">
       <p class="date">31 AUGUST 2026</p>
       <h2>StackingWizard Beta 2.4: the mono era</h2>
       <ul>
