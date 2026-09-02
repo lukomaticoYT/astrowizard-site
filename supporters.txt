@@ -2,6 +2,7 @@
 # To change or remove your name: message Luke - done the same day.
 # '#' lines are comments. Sections: [recent] [legends] [fellowship].
 [recent]
+Detlef Se. (AstroCharly)
 Cygnus Reactor
 Gwinn Hall
 Tony D.
@@ -11,7 +12,6 @@ Gavin K.
 Jon C.
 William F.
 Trevor S.
-Jim G.
 [legends]
 Pete's Astrophotography
 Blake (ThisOne)
@@ -115,6 +115,7 @@ Ingo B.
 Davide F.
 Joshua Tan
 David Hadley
+Detlef Se. (AstroCharly)
 [fellowship]
 A. H. Westphal
 A. MacLean
