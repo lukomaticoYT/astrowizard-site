@@ -2,16 +2,16 @@
 # To change or remove your name: message Luke - done the same day.
 # '#' lines are comments. Sections: [recent] [legends] [fellowship].
 [recent]
-Sam M.
-Daniel S.
-Mr Facey
-Gareth B.
-Gene Goroschko
-Michael Scherman
-John De Marco
-Eric G.
-StevieSteve
-Ludovico F.
+William F.
+Trevor S.
+Jim G.
+Guillaume B.
+Phillip K.
+Neal K.
+Steve D.
+Chris James
+David Hadley
+R. Stephenson
 [legends]
 Pete's Astrophotography
 Blake (ThisOne)
@@ -111,6 +111,10 @@ Martin H.
 RuKo
 StevieSteve
 Gene Goroschko
+Ingo B.
+Davide F.
+Joshua Tan
+David Hadley
 [fellowship]
 A. H. Westphal
 A. MacLean
@@ -192,6 +196,7 @@ Chorge1972
 Chris D.
 Chris G.
 Chris J.
+Chris James
 Chris M.
 Chris O.
 Christian Dr. Zülch
@@ -306,6 +311,7 @@ Graeme B.
 Graham P.
 Grainge J.
 Gregor M.
+Guillaume B.
 Guy R.
 Guy T.
 GuybrushT
@@ -328,7 +334,6 @@ Ian C.
 Ian L.
 Ian W.
 IanMac
-Ingo B.
 Ivan H.
 Ivan T.
 J R Van Mierlo
@@ -360,12 +365,14 @@ Javier G. O.
 Jean-Marie B.
 Jeff K.
 Jeff P.
+Jeffrey G.
 Jenson K.
 Jeremy K.
 Jerome M.
 Jerzy N.
 Jessica M.
 Jesus B.
+Jim G.
 Jim O.
 JLRC
 Joachim R.
@@ -510,6 +517,7 @@ Nathan C.
 Nathan H.
 Nb Knight
 Neal
+Neal K.
 Neil B.
 Neil C.
 Neil W.
@@ -552,6 +560,7 @@ Peter Y.
 Petros M.
 Philip A.
 Philip T.
+Phillip K.
 Pierre B.
 Pim V.
 Piotr I.
@@ -565,6 +574,7 @@ R. Boyd
 R. Bruce
 R. M. Graham
 R. Reeves
+R. Stephenson
 Radek S.
 Ralph S.
 Randall S. D.
@@ -573,6 +583,8 @@ Reference Audio Plus
 Regina Z.
 Rhees and Monique
 Ricardo G. M.
+Riccardo B.
+Richard A.
 Richard B.
 Richard C.
 Richard D.
@@ -638,6 +650,7 @@ Stephen Ly.
 Stephen M.
 Stephen P.
 Stephen R.
+Steve D.
 Steve T
 Steve W.
 Steve Z.
@@ -671,6 +684,7 @@ Tommy P.
 Tony C.
 Tony H.
 TonyMan
+Trevor S.
 Troy M.
 Troy S.
 Uladzimir A.
@@ -686,6 +700,8 @@ Walter R.
 Walter V.
 Wendy B.
 Will J.
+William D.
+William F.
 William L.
 Wolfgang B.
 Xavier H.
