@@ -296,7 +296,9 @@
       'occasionally trip an antivirus false positive - every build is scanned clean, and its checksum is published on the release page.</p>' +
       '<p style="margin:0 0 10px;line-height:1.55;font-size:14.5px;">If Windows complains, choose <b>More info</b> then <b>Run anyway</b>. ' +
       'Only ever download from this page - that way you always get the genuine file.</p>' +
-      '<p style="margin:0 0 16px;line-height:1.55;font-size:13px;color:#a2a9c8;">Signed since 2 September 2026. These notes fade as the signature builds its reputation.</p>';
+      '<p style="margin:0 0 16px;line-height:1.55;font-size:13px;color:#a2a9c8;">Signed since 2 September 2026. These notes fade as the signature builds its reputation. ' +
+      'If Windows quarantined a download, open Windows Security, then Protection history, find the AstroWizard entry and choose Restore or Allow. ' +
+      'Never switch your antivirus off - the checksum on the release page is how you know the file is genuine.</p>';
     var go = document.createElement("a");
     go.href = href;
     go.textContent = "Continue download";

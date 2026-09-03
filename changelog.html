@@ -66,6 +66,20 @@
 
   <div class="log">
     <div class="entry">
+      <p class="date">3 SEPTEMBER 2026</p>
+      <h2>AstroWizard: The Steady Hand</h2>
+      <ul>
+        <li><b>The curves hang, found and fixed.</b> On some Macs a tone change followed by Curves left the preview saying "rendering" for good and the app beach-balling. Three things were feeding each other under the hood: the window re-rendering itself in a loop every time its own preview label changed size, the live preview running the full image on the interface thread on wide screens, and the sharp full-resolution pass handing its result back from the wrong thread. All three are gone - the windows only re-render on a real resize, the live tier is capped, and results come back through a queue on the interface thread. Verified on the bench and on a Mac in the field; if yours still stalls, tell me.</li>
+        <li><b>The free crop grows up:</b> a Lock row (1:1, 3:2, 4:3, 16:9, 9:16) keeps the box's shape while you resize, move and rotate it, a Tilt box sets the angle exactly and follows a hand rotation, the fine rotation dial gets a degrees box and a reset, and the shade outside the box is a proper dimmed image on every platform. Page 2 loses the old Shave buttons - the free crop does that job now - and page 9 gains a "Last-minute crop?" for the spot you notice right before saving.</li>
+        <li><b>The star layers follow the frame.</b> Remove stars, then crop, shave, flip, rotate or bin - the separated stars take the same cut, so Replace Stars keeps working; Reset: Cropping hands them back too. Save Stars Only returns beside Save Starless on the export step, and both are always there, greyed until stars have been separated.</li>
+        <li><b>Two new dials in Settings.</b> A compute-device choice (Auto, GPU or CPU) that every AI engine honours, and a model version per tool - BlurX, NoiseX and StarX take a version number, GraXpert's background and denoise models too. The Custom NoiseXTerminator popout grows the CLI's full dial set: intensity against colour, fine grain against coarse blotch, the scale between them, and the passes.</li>
+        <li><b>The range law.</b> Float TIFFs of any scale, and tool results that come back on another scale, are normalised to the working range and the view is re-solved, so a result can no longer render white or black. A 0-1 image with a few hot pixels above 1 is clipped, not divided into darkness.</li>
+        <li><b>Field fixes:</b> GraXpert's watchdog no longer mistakes a graphics-provider warning for a crash, and never puts down an engine that is still computing (Clive's twenty-minute CPU denoise on Linux); StarNet2 starts from its own folder and is handed its weights outright, so the Mac build finds them (Stefan), and older StarNet2 builds skip the doomed progress flag; Combine Mono Channels' Browse no longer opens behind the window; leaving "See both, pick one" without a pick no longer blanks later previews (Mike); the Custom BlurXTerminator popout sizes itself to its content (Mitja); going back now names the step it goes back to, and the step numbers show their names on hover (Mitja); a low-disk guard warns at 2 GB and refuses an engine the drive cannot hold the result of (Chris).</li>
+        <li><b>Small things:</b> tips off gives the tools that room back; a "Say the word" button opens a mail to the wizard from the export step and Settings; the Community Guide has a pointer in Settings; on macOS a file dragged onto the app icon opens; exported TIFFs carry an sRGB profile; macOS trackpad scrolling of the panels is smoothed.</li>
+      </ul>
+      <p style="max-width:72ch;">Thank you Neal G., Nathan S., Clive B., Stefan H., Chuck W., Mitja S., Mike A., Alex, Chris - and the wall now carries 725 wizards. wizard@lukomatico.com</p>
+    </div>
+    <div class="entry">
       <p class="date">2 SEPTEMBER 2026</p>
       <h2>Windows, signed</h2>
       <ul>

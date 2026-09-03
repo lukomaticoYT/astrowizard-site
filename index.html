@@ -332,8 +332,8 @@
         <span class="big">Download for Linux</span>
         <span class="small">AstroWizard-Linux-x86_64.tar.gz &middot; 130 MB</span>
       </a>
-      <p class="buildline">current build <b>31 August 2026</b> &middot; you&#8217;ll always find the newest version on this page &middot; main link busy? <a href="#downloads" style="color:inherit;">mirror links below</a></p>
-      <p class="buildline" style="max-width:74ch;"><b>Now code-signed on every desktop:</b> the Mac apps have been signed and notarised by Apple since 24 August, and since 2 September the Windows download carries a Microsoft-validated publisher signature - the same 31 August builds, signed. A brand-new Windows signature still has to earn SmartScreen&#8217;s trust, so for a while you may still see &#8220;Windows protected your PC&#8221;: click <b>More info</b>, then <b>Run anyway</b>. Every file is scanned clean and its checksum lives on the mirror page.</p>
+      <p class="buildline">current build <b>3 September 2026</b> &middot; you&#8217;ll always find the newest version on this page &middot; main link busy? <a href="#downloads" style="color:inherit;">mirror links below</a></p>
+      <p class="buildline" style="max-width:74ch;"><b>Now code-signed on every desktop:</b> the Mac apps have been signed and notarised by Apple since 24 August, and since 2 September the Windows download carries a Microsoft-validated publisher signature - the same builds, signed. A brand-new Windows signature still has to earn SmartScreen&#8217;s trust, so for a while you may still see &#8220;Windows protected your PC&#8221;: click <b>More info</b>, then <b>Run anyway</b>. Every file is scanned clean and its checksum lives on the mirror page.</p>
     </div>
     <div class="trust-band">
       <p class="tb-head">Really free. Really private.</p>
@@ -508,6 +508,11 @@
     <p class="sub" style="margin-bottom:26px;">Small releases, shipped often. Re-download any time - newer is always better here.</p>
     <div class="log">
       <div class="log-entry">
+        <p class="log-date">2026 &middot; SEPTEMBER 3</p>
+        <h4>The Steady Hand</h4>
+        <p><b>The curves hang on some Macs is found and fixed</b> - the window was re-rendering itself in a loop, the live preview ran the full image on the interface thread, and the sharp pass came back from the wrong thread; all three gone, verified on the bench and on a Mac. <b>The free crop grows up</b>: a ratio Lock row, an exact Tilt box that follows a hand rotation, a degrees box and reset on the rotation dial, a proper dimmed shade on every platform, and a &#8220;Last-minute crop?&#8221; on the save step. <b>The star layers follow the frame</b> through every crop, flip and bin, and <b>Save Stars Only</b> is back beside Save Starless. <b>New in Settings</b>: a compute-device choice (Auto, GPU or CPU) for every AI engine and a model version per tool, plus the full NoiseXTerminator dial set. The range law keeps float TIFFs and tool results in the working range, a low-disk guard watches the drive, and a round of field fixes lands for GraXpert on Linux, StarNet2 on the Mac and the popouts. The wall rides at 725 wizards.</p>
+      </div>
+      <div class="log-entry">
         <p class="log-date">2026 &middot; SEPTEMBER 2</p>
         <h4>Signed for Windows</h4>
         <p><b>Both Windows downloads now carry a code signature</b> - AstroWizard.exe and StackingWizard.exe are signed with a Microsoft-validated publisher certificate through Azure Artifact Signing, timestamped, so Windows can see who built them. They are the very same 31 August builds with the signature added and nothing else changed; their checksums on the release pages changed with them, and the Google Drive copy of AstroWizard was swapped in place. SmartScreen still weighs a brand-new signature for a while, so <b>More info</b>, then <b>Run anyway</b> may linger briefly before it fades. Mac has been signed and notarised since 24 August; Linux needs no such ceremony.</p>
@@ -516,11 +521,6 @@
         <p class="log-date">2026 &middot; AUGUST 31</p>
         <h4>The Receiving Dock</h4>
         <p><b>The mono era, both wizards</b> - StackingWizard Beta 2.4 stacks a mono filter night per filter on one shared alignment and sends the whole set over in a single press; AstroWizard reads the set by filter and opens <b>Combine Mono Channels pre-filled</b> - SHO, HOO and LRGB recognised, the final channel call still yours. <b>The crop learns Lightroom&#8217;s manners</b>: draw your own box on the image, corners resize, inside moves, and dragging just outside rotates the picture live behind the frame with auto-fill - plus a fine rotation dial and a second row of aspect ratios. <b>Curves and the narrowband tune stop wading</b> on big images: only the dialog preview renders while you move, the sharp full-resolution pass lands when you rest, and their commits now run across every CPU core - about twice as fast, identical results. The <b>Custom BlurXTerminator</b> popout grows the full dial set (stars, halos, nonstellar, manual PSF), and the Fellowship wall rides at 636 wizards.</p>
-      </div>
-      <div class="log-entry">
-        <p class="log-date">2026 &middot; AUGUST 26</p>
-        <h4>The Seeing Build</h4>
-        <p><b>Every tool preview is a real viewport now</b> - Curves and the step-8 tune window fit the whole image by default, scroll to zoom through the actual pixels (sharp at any depth - never a blown-up thumbnail), drag to pan, double-click to refit, and they render live on the main canvas while you shape. Bob asked to see the whole picture and David asked for sharpness at zoom - both, done, as promised. Step 7 grows <b>&#10024; Happy already? Keep this look</b>: the preview you are looking at becomes your real stretch in one click, same engine, same statistics. AstroWizard now <b>reads its sibling&#8217;s stacks</b> - a StackingWizard Beta 2.2 stack names its well-covered core in its headers, and the display stretch listens so untrimmed edges never steer the view. A <b>UI Scale</b> dial in Settings (90 to 140 percent, remembered at every launch), Undo and Redo grown into proper targets, and the Fellowship wall rides at 528 wizards, each seated once in their highest hall.</p>
       </div>
     </div>
     <p style="margin-top:26px;"><a href="changelog.html">Full changelog - every release, in plain English &rarr;</a></p>
@@ -595,7 +595,9 @@
       'occasionally trip an antivirus false positive - every build is scanned clean, and its checksum is published on the release page.</p>' +
       '<p style="margin:0 0 10px;line-height:1.55;font-size:14.5px;">If Windows complains, choose <b>More info</b> then <b>Run anyway</b>. ' +
       'Only ever download from this page - that way you always get the genuine file.</p>' +
-      '<p style="margin:0 0 16px;line-height:1.55;font-size:13px;color:#a2a9c8;">Signed since 2 September 2026. These notes fade as the signature builds its reputation.</p>';
+      '<p style="margin:0 0 16px;line-height:1.55;font-size:13px;color:#a2a9c8;">Signed since 2 September 2026. These notes fade as the signature builds its reputation. ' +
+      'If Windows quarantined a download, open Windows Security, then Protection history, find the AstroWizard entry and choose Restore or Allow. ' +
+      'Never switch your antivirus off - the checksum on the release page is how you know the file is genuine.</p>';
     var go = document.createElement("a");
     go.href = href;
     go.textContent = "Continue download";
