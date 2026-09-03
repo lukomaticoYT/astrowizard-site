@@ -2,6 +2,7 @@
 # To change or remove your name: message Luke - done the same day.
 # '#' lines are comments. Sections: [recent] [legends] [fellowship].
 [recent]
+Edwin Micallef
 Rod Galley
 Adam C.
 Robert P.
@@ -11,7 +12,6 @@ Craig A.
 Eliyahu777
 Wayne Woolston
 Neal S.
-Laurie G.
 [legends]
 Pete's Astrophotography
 Blake (ThisOne)
@@ -280,6 +280,7 @@ Ed K.
 Edd L.
 Eddie L.
 Edwin M.
+Edwin Micallef
 Eliyahu777
 Eric C.
 Eric F.
