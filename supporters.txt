@@ -2,16 +2,16 @@
 # To change or remove your name: message Luke - done the same day.
 # '#' lines are comments. Sections: [recent] [legends] [fellowship].
 [recent]
-Herbert Sch.
-Detlef Se. (AstroCharly)
-Cygnus Reactor
-Gwinn Hall
-Tony D.
-Brian Gullett
-Stephen Roesch
-Gavin K.
-Jon C.
-William F.
+Adam C.
+Robert P.
+Geoff E.
+Bruce B.
+Craig A.
+Eliyahu777
+Wayne Woolston
+Neal S.
+Laurie G.
+Kevin O.
 [legends]
 Pete's Astrophotography
 Blake (ThisOne)
@@ -117,11 +117,15 @@ Joshua Tan
 David Hadley
 Detlef Se. (AstroCharly)
 Herbert Sch.
+Karl M.
+Neal S.
+Wayne Woolston
 [fellowship]
 A. H. Westphal
 A. MacLean
 AAPOD2
 Aaron Q.
+Adam C.
 Adam D.
 Adam H.
 Adrian G.
@@ -174,6 +178,7 @@ Brian Gullett
 Brian L.
 Brian R.
 Brian W.
+Bruce B.
 Bruce S.
 Bruno L.
 C. Hudson
@@ -196,6 +201,7 @@ Charles P.
 Charles W.
 ChippyPickets
 Chorge1972
+Chris
 Chris D.
 Chris G.
 Chris J.
@@ -204,6 +210,7 @@ Chris M.
 Chris O.
 Christian Dr. Zülch
 Christian T.
+Christopher C.
 Christopher H.
 CityAstronomer
 Claude F.
@@ -212,6 +219,7 @@ Compadre Chuma
 Cordula G.
 Coristus
 Cornz38
+Craig A.
 Craig H.
 Cuiv, the Lazy Geek
 Cygnus Reactor
@@ -272,6 +280,7 @@ Ed K.
 Edd L.
 Eddie L.
 Edwin M.
+Eliyahu777
 Eric C.
 Eric F.
 Eric G.
@@ -301,6 +310,7 @@ Gavin K.
 Gavin L.
 Geffo
 Geir H.
+Geoff E.
 Geoff J.
 Geoffrey L.
 Geoffrey V.
@@ -431,6 +441,7 @@ Ken F.
 Ken K.
 Kevin C.
 Kevin N.
+Kevin O.
 Kevin S.
 Klaus W.
 Konflozius
@@ -440,6 +451,7 @@ Krzysztof K.
 Larry A.
 Laurel P.
 Laurence C.
+Laurie G.
 Lawrence K.
 Lee H.
 Lena G. L.
@@ -497,6 +509,7 @@ Matt A.
 Matthew G.
 Matthew K.
 Matthew W.
+Mauricio H.
 Maurizio T.
 Max C.
 Michael B.
@@ -528,6 +541,7 @@ Neal K.
 Neil B.
 Neil C.
 Neil W.
+Nicholas C.
 Nicholas S.
 Nick H.
 Nico G.
@@ -542,6 +556,7 @@ P. Holl
 PaganoPhoto
 Pascal B. H.
 Pascal E.
+Patrick E.
 Patrick N.
 Patrizio C.
 Paul B.
@@ -565,6 +580,7 @@ Peter R.
 Peter S.
 Peter Y.
 Petros M.
+Phil H.
 Philip A.
 Philip T.
 Phillip K.
@@ -596,6 +612,7 @@ Richard B.
 Richard C.
 Richard D.
 Richard Dace
+Richard G.
 Richard L.
 Richard R.
 Richard S.
@@ -611,6 +628,7 @@ Robert B.
 Robert E.
 Robert L.
 Robert M.
+Robert P.
 Robert R.
 Robert W. O.
 Roger K. Jr
@@ -629,6 +647,7 @@ SaltyPogue
 Sam M.
 Samuel D.
 Sandrine G.
+Satoru M.
 Sau W.
 Scott S.
 Scott U.
@@ -640,6 +659,7 @@ SJ. Grady
 Sk3lnonch
 Sonja L.
 Sound Man Martin
+Stan S.
 StarHawke
 StarSight Astrophotography
 Stefan P.
@@ -674,6 +694,7 @@ Stéphane F.
 Subhadip C.
 T. Blevins
 TCPIP Nut
+Ted G.
 Terry V.
 Thanasis M.
 The Astrollarium
