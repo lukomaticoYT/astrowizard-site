@@ -2,16 +2,16 @@
 # To change or remove your name: message Luke - done the same day.
 # '#' lines are comments. Sections: [recent] [legends] [fellowship].
 [recent]
-Jeremiah Thom
-Edwin Micallef
-Rod Galley
-Adam C.
-Robert P.
-Geoff E.
-Bruce B.
-Craig A.
-Eliyahu777
-Wayne Woolston
+Guy S.
+John Grunder
+Douglas B.
+Henry H.
+Tudor A.
+Pauline W.
+Brian F.
+J. R. Neale
+Michel M.
+Stuart Glen
 [legends]
 Pete's Astrophotography
 Blake (ThisOne)
@@ -120,6 +120,10 @@ Herbert Sch.
 Karl M.
 Neal S.
 Wayne Woolston
+Alan D. Henfling
+Rick Collins
+Trey
+Guy S.
 [fellowship]
 A. H. Westphal
 A. MacLean
@@ -141,6 +145,7 @@ Alex P.
 Alex T.
 Alexander M.
 Alexandre D.
+Allan D.
 Amit V.
 Amy M.
 Andreas B.
@@ -173,6 +178,7 @@ Brad H.
 Bradford E.
 Brett H.
 Brian A.
+Brian F.
 Brian G.
 Brian Gullett
 Brian L.
@@ -273,6 +279,7 @@ Don H.
 Donald L.
 Doug B.
 Doug P.
+Douglas B.
 Douglas H.
 Dylan K.
 Earl P.
@@ -344,10 +351,12 @@ Heinz G.
 Hendrik B.
 Henri D.
 Henriette C.
+Henry H.
 Herve C.
 High Legh Community Observatory
 Hurriyet P.
 Ian C.
+Ian Ippolito
 Ian L.
 Ian W.
 IanMac
@@ -359,6 +368,7 @@ J. Fathers
 J. Kirk
 J. Lord
 J. Morrell
+J. R. Neale
 J. Whitworth
 Jack D.
 Jack G.
@@ -371,6 +381,7 @@ James L.
 James T.
 James W.
 James Y.
+Jamie B.
 Janne K.
 Jason C.
 Jason E.
@@ -404,6 +415,7 @@ John C.
 John De Marco
 John F.
 John G.
+John Grunder
 John H.
 John Herman
 John K.
@@ -527,6 +539,7 @@ Michael T.
 Michael V.
 Michel A.
 Michel H.
+Michel M.
 Mike B.
 Mike N.
 Miroslaw A. M.
@@ -550,6 +563,7 @@ Nico G.
 NikonJax
 Nino D.
 Noah B.
+NoDarlSkies
 Norman L.
 Oni Technology
 Osvaldo L.
@@ -569,6 +583,7 @@ Paul O.
 Paul R.
 Paul S.
 Paul T.
+Pauline W.
 Paulo B. G.
 Paweł Ł.
 Perry n Becky
@@ -616,6 +631,7 @@ Richard D.
 Richard Dace
 Richard G.
 Richard L.
+Richard O'Reilly
 Richard R.
 Richard S.
 Richard's Astrophotography
@@ -691,6 +707,7 @@ Steven H.
 Steven Z.
 Stuart F.
 Stuart G.
+Stuart Glen
 Stuart M.
 Studio_AP
 Stéphane F.
@@ -720,6 +737,7 @@ TonyMan
 Trevor S.
 Troy M.
 Troy S.
+Tudor A.
 Uladzimir A.
 Vaughan S.
 Vicki C.
