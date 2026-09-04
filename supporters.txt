@@ -2,6 +2,7 @@
 # To change or remove your name: message Luke - done the same day.
 # '#' lines are comments. Sections: [recent] [legends] [fellowship].
 [recent]
+Jeremiah Thom
 Edwin Micallef
 Rod Galley
 Adam C.
@@ -11,7 +12,6 @@ Bruce B.
 Craig A.
 Eliyahu777
 Wayne Woolston
-Neal S.
 [legends]
 Pete's Astrophotography
 Blake (ThisOne)
@@ -384,6 +384,7 @@ Jeff K.
 Jeff P.
 Jeffrey G.
 Jenson K.
+Jeremiah Thom
 Jeremy K.
 Jerome M.
 Jerzy N.
