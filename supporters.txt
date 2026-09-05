@@ -2,6 +2,7 @@
 # To change or remove your name: message Luke - done the same day.
 # '#' lines are comments. Sections: [recent] [legends] [fellowship].
 [recent]
+Steve R.
 Guy S.
 John Grunder
 Douglas B.
@@ -11,7 +12,6 @@ Pauline W.
 Brian F.
 J. R. Neale
 Michel M.
-Stuart Glen
 [legends]
 Pete's Astrophotography
 Blake (ThisOne)
@@ -698,6 +698,7 @@ Stephen P.
 Stephen R.
 Stephen Roesch
 Steve D.
+Steve R.
 Steve T
 Steve W.
 Steve Z.
