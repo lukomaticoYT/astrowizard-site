@@ -2,6 +2,7 @@
 # To change or remove your name: message Luke - done the same day.
 # '#' lines are comments. Sections: [recent] [legends] [fellowship].
 [recent]
+John Kelly
 Doug Davies
 Steve R.
 Guy S.
@@ -11,7 +12,6 @@ Henry H.
 Tudor A.
 Pauline W.
 Brian F.
-J. R. Neale
 [legends]
 Pete's Astrophotography
 Blake (ThisOne)
@@ -420,6 +420,7 @@ John Grunder
 John H.
 John Herman
 John K.
+John Kelly
 John L.
 John M.
 John Mozdziers
