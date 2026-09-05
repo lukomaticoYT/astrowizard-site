@@ -2,16 +2,16 @@
 # To change or remove your name: message Luke - done the same day.
 # '#' lines are comments. Sections: [recent] [legends] [fellowship].
 [recent]
-John Kelly
-Doug Davies
-Steve R.
-Guy S.
-John Grunder
-Douglas B.
-Henry H.
-Tudor A.
-Pauline W.
-Brian F.
+Armand
+David Aucoin
+MarkAbs
+Nerius
+Philipp
+RipForYou
+Charles Webb
+Crandell O.
+Daniel K.
+Jeff T.
 [legends]
 Pete's Astrophotography
 Blake (ThisOne)
@@ -124,6 +124,11 @@ Alan D. Henfling
 Rick Collins
 Trey
 Guy S.
+Forrest Mitchell
+DJ Warna
+Robert Dalton
+Charlie Zinsmeyer
+Armand
 [fellowship]
 A. H. Westphal
 A. MacLean
@@ -158,6 +163,7 @@ Andrew W.
 Andy R.
 Andy W.
 AndyS
+Angie G.
 Antoine W.
 Arne B.
 Arun A.
@@ -205,6 +211,7 @@ Charles E.
 Charles L.
 Charles P.
 Charles W.
+Charles Webb
 ChippyPickets
 Chorge1972
 Chris
@@ -227,6 +234,7 @@ Coristus
 Cornz38
 Craig A.
 Craig H.
+Crandell O.
 Cuiv, the Lazy Geek
 Cygnus Reactor
 Cyril C.
@@ -241,12 +249,14 @@ Dakota Starry Nights
 Dale C.
 Dale R.
 Dan D.
+Daniel K.
 Daniel M.
 Daniel S.
 Darren W.
 Dave M.
 Dave N.
 Dave S.
+David Aucoin
 David B.
 David C.
 David D.
@@ -336,6 +346,7 @@ Graham P.
 Grainge J.
 Gregor M.
 Guillaume B.
+Guinigundo CPA's
 Guy R.
 Guy T.
 GuybrushT
@@ -394,6 +405,7 @@ Javier G. O.
 Jean-Marie B.
 Jeff K.
 Jeff P.
+Jeff T.
 Jeffrey G.
 Jenson K.
 Jeremiah Thom
@@ -456,6 +468,7 @@ Kelly B.
 Ken F.
 Ken K.
 Kevin C.
+Kevin K.
 Kevin N.
 Kevin O.
 Kevin S.
@@ -505,6 +518,7 @@ Marco R.
 Marcos J. Pinto - Lux Antiqua
 Marj E.
 Mark B.
+Mark Brown
 Mark G.
 Mark H.
 Mark L.
@@ -513,6 +527,7 @@ Mark P.
 Mark S.
 Mark T.
 Mark Y.
+MarkAbs
 MarkC
 Marko K.
 MarkyZnO
@@ -558,6 +573,7 @@ Neal K.
 Neil B.
 Neil C.
 Neil W.
+Nerius
 Nicholas C.
 Nicholas S.
 Nick H.
@@ -579,6 +595,7 @@ Patrick N.
 Patrizio C.
 Paul B.
 Paul F.
+Paul H.
 Paul L.
 Paul M.
 Paul O.
@@ -596,12 +613,14 @@ Peter H.
 Peter J. K.
 Peter K.
 Peter R.
+Peter Relf
 Peter S.
 Peter Y.
 Petros M.
 Phil H.
 Philip A.
 Philip T.
+Philipp
 Phillip K.
 Pierre B.
 Pim V.
@@ -623,6 +642,7 @@ Randall S. D.
 Randall W.
 Reference Audio Plus
 Regina Z.
+Rex W.
 Rhees and Monique
 Ricardo G. M.
 Riccardo B.
@@ -642,11 +662,13 @@ Rick C.
 Rick Carver
 Rick G.
 RickJ
+RipForYou
 Rob D.
 Rob Greaves
 Robert B.
 Robert E.
 Robert L.
+Robert Lortie
 Robert M.
 Robert P.
 Robert R.
@@ -749,6 +771,7 @@ Victor M. B. L.
 Vincent L.
 Vivien R.
 W K
+Walter G.
 Walter H.
 Walter R.
 Walter V.
