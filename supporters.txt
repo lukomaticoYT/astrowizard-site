@@ -2,6 +2,7 @@
 # To change or remove your name: message Luke - done the same day.
 # '#' lines are comments. Sections: [recent] [legends] [fellowship].
 [recent]
+Doug Davies
 Steve R.
 Guy S.
 John Grunder
@@ -11,7 +12,6 @@ Tudor A.
 Pauline W.
 Brian F.
 J. R. Neale
-Michel M.
 [legends]
 Pete's Astrophotography
 Blake (ThisOne)
@@ -278,6 +278,7 @@ Don C.
 Don H.
 Donald L.
 Doug B.
+Doug Davies
 Doug P.
 Douglas B.
 Douglas H.
