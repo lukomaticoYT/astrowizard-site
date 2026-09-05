@@ -129,6 +129,7 @@ DJ Warna
 Robert Dalton
 Charlie Zinsmeyer
 Armand
+TCP_IP_Nut
 [fellowship]
 A. H. Westphal
 A. MacLean
@@ -740,7 +741,6 @@ Studio_AP
 Stéphane F.
 Subhadip C.
 T. Blevins
-TCPIP Nut
 Ted G.
 Terry V.
 Thanasis M.
