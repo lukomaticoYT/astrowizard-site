@@ -2,16 +2,16 @@
 # To change or remove your name: message Luke - done the same day.
 # '#' lines are comments. Sections: [recent] [legends] [fellowship].
 [recent]
-Lynn D.
-Luke Hearn
-Armand
-David Aucoin
-MarkAbs
-Nerius
-Philipp
-RipForYou
-Charles Webb
-Crandell O.
+1949
+Christopher W.
+Nadine K. B.
+Robert McConnell
+John Heeley
+John Gutermuth
+Rui C.
+Robert Plant
+Glenn S.
+Nhat B.
 [legends]
 Pete's Astrophotography
 Blake (ThisOne)
@@ -130,7 +130,13 @@ Robert Dalton
 Charlie Zinsmeyer
 Armand
 TCP_IP_Nut
+Bruce_B
+Tony F.
+Fabian I.
+Wim K.
+John Gutermuth
 [fellowship]
+1949
 A. H. Westphal
 A. MacLean
 AAPOD2
@@ -141,6 +147,7 @@ Adam H.
 Adrian G.
 Adrian N.
 Adriano G.
+Agustin N.
 Aikya S.
 Ajeeth C.
 Alan D.
@@ -213,6 +220,8 @@ Charles L.
 Charles P.
 Charles W.
 Charles Webb
+Chau S.
+Cheryl W.
 ChippyPickets
 Chorge1972
 Chris
@@ -226,9 +235,11 @@ Christian Dr. Zülch
 Christian T.
 Christopher C.
 Christopher H.
+Christopher W.
 CityAstronomer
 Claude F.
 Claus S.
+Clive C.
 Compadre Chuma
 Cordula G.
 Coristus
@@ -254,6 +265,7 @@ Daniel K.
 Daniel M.
 Daniel S.
 Darren W.
+Darryl Z.
 Dave M.
 Dave N.
 Dave S.
@@ -284,6 +296,7 @@ Devon Jones
 DHP Radio
 Didier P.
 Didier V. H.
+Dietmar H.
 Dion G.
 Don C.
 Don H.
@@ -315,9 +328,11 @@ Francesco A.
 Francisco G.
 Frank "Astronut" G.
 Frank F.
+Frank H.
 Frank S.
 Franz G.
 Frederic E.
+Frederick S.
 G. Platt
 G. Stoppa
 Gabriel P.
@@ -341,11 +356,14 @@ Gerald G.
 Gil E.
 Glen H.
 Glenn C.
+Glenn S.
 Gordon Z.
 Graeme B.
+Graham G.
 Graham P.
 Grainge J.
 Gregor M.
+Gregory J.
 Guillaume B.
 Guinigundo CPA's
 Guy R.
@@ -369,6 +387,7 @@ Herve C.
 High Legh Community Observatory
 Hurriyet P.
 Ian C.
+Ian F.
 Ian Ippolito
 Ian L.
 Ian W.
@@ -428,9 +447,11 @@ John A.
 John C.
 John De Marco
 John F.
+John Flaherty
 John G.
 John Grunder
 John H.
+John Heeley
 John Herman
 John K.
 John Kelly
@@ -441,6 +462,7 @@ John R.
 John S.
 John W.
 Jon C.
+Jonathan H.
 Jonbanjovie
 Jonny Pulli
 Joseph C.
@@ -484,6 +506,7 @@ Laurence C.
 Laurie G.
 Lawrence K.
 Lee H.
+Lee P.
 Lena G. L.
 Leonard J.
 Les W.
@@ -554,6 +577,7 @@ Michael F.
 Michael K.
 Michael L.
 Michael P.
+Michael S.
 Michael Scherman
 Michael T.
 Michael V.
@@ -567,7 +591,9 @@ Mondland.de
 Morgan H.
 Mr Facey
 Murlin G.
+Muzza
 N. Poirier
+Nadine K. B.
 Nathan C.
 Nathan H.
 Nb Knight
@@ -577,6 +603,7 @@ Neil B.
 Neil C.
 Neil W.
 Nerius
+Nhat B.
 Nicholas C.
 Nicholas S.
 Nick H.
@@ -590,6 +617,7 @@ Oni Technology
 Osvaldo L.
 P. Dixon
 P. Holl
+Padre
 PaganoPhoto
 Pascal B. H.
 Pascal E.
@@ -673,7 +701,9 @@ Robert E.
 Robert L.
 Robert Lortie
 Robert M.
+Robert McConnell
 Robert P.
+Robert Plant
 Robert R.
 Robert W. O.
 Rod Galley
@@ -683,6 +713,7 @@ Rondle M.
 Ronnie G.
 Ross O.
 Roy F.
+Rui C.
 RURIOSTE
 S. Gilpin
 S. Green
@@ -715,6 +746,7 @@ Steinhaus T.
 Stephan E.
 Stephan L.
 Stephen B.
+Stephen C.
 Stephen D.
 Stephen H.
 Stephen L.
@@ -771,10 +803,12 @@ Vicki C.
 Victor G.
 Victor M. B. L.
 Vincent L.
+Vincent Lecocq
 Vivien R.
 W K
 Walter G.
 Walter H.
+Walter K.
 Walter R.
 Walter V.
 Wendy B.
