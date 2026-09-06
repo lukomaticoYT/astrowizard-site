@@ -2,6 +2,8 @@
 # To change or remove your name: message Luke - done the same day.
 # '#' lines are comments. Sections: [recent] [legends] [fellowship].
 [recent]
+Jan-Marco Petri
+Tony B.
 1949
 Christopher W.
 Nadine K. B.
@@ -10,8 +12,7 @@ John Heeley
 John Gutermuth
 Rui C.
 Robert Plant
-Glenn S.
-Nhat B.
+
 [legends]
 Pete's Astrophotography
 Blake (ThisOne)
@@ -414,6 +415,7 @@ James T.
 James W.
 James Y.
 Jamie B.
+Jan-Marco Petri
 Janne K.
 Jason C.
 Jason E.
@@ -789,6 +791,7 @@ Tobi K.
 Tobias W.
 Tomato
 Tommy P.
+Tony B.
 Tony C.
 Tony D.
 Tony H.
