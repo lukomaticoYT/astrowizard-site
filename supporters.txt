@@ -2,17 +2,16 @@
 # To change or remove your name: message Luke - done the same day.
 # '#' lines are comments. Sections: [recent] [legends] [fellowship].
 [recent]
-Jan-Marco Petri
-Tony B.
-1949
-Christopher W.
-Nadine K. B.
-Robert McConnell
-John Heeley
-John Gutermuth
-Rui C.
-Robert Plant
-
+James Baccala
+Lars Amund Larsen
+Michael Smyth
+Daniel Freder
+Hawks Hollow
+John Addison
+Lee Taylor
+Dan H.
+Richard Colman
+Tom Gray
 [legends]
 Pete's Astrophotography
 Blake (ThisOne)
@@ -136,6 +135,13 @@ Tony F.
 Fabian I.
 Wim K.
 John Gutermuth
+S. Gilpin
+Ismael Rodriguez
+John W. Wiley
+John Sperry
+Chris D.
+Lee Taylor
+Hawks Hollow
 [fellowship]
 1949
 A. H. Westphal
@@ -181,6 +187,7 @@ AstroAndy
 Astroexeter
 AstroSaandy
 B. Clark Williams
+Barry Underwood
 Batłomiej B.
 Baz S.
 Bertrand D.
@@ -212,6 +219,7 @@ Carlos A.
 Carlos D.
 Carlos R.
 Carsenium
+Carsten Baltes
 CB Johnson
 CGL
 Chance Y.
@@ -226,7 +234,6 @@ Cheryl W.
 ChippyPickets
 Chorge1972
 Chris
-Chris D.
 Chris G.
 Chris J.
 Chris James
@@ -258,15 +265,19 @@ D. Le Poidevin
 D. O'Neill
 D. Senay
 D. Shafer
+Dahonis
 Dakota Starry Nights
 Dale C.
 Dale R.
 Dan D.
+Dan H.
+Daniel Freder
 Daniel K.
 Daniel M.
 Daniel S.
 Darren W.
 Darryl Z.
+Dave Haley
 Dave M.
 Dave N.
 Dave S.
@@ -301,6 +312,7 @@ Dietmar H.
 Dion G.
 Don C.
 Don H.
+Don Jacob
 Donald L.
 Doug B.
 Doug Davies
@@ -408,6 +420,7 @@ Jack G.
 Jacob G.
 James A.
 James B.
+James Baccala
 James C.
 James K.
 James L.
@@ -446,6 +459,7 @@ Joe D.
 Joe M.
 Joe V.
 John A.
+John Addison
 John C.
 John De Marco
 John F.
@@ -492,6 +506,7 @@ Keith T.
 Kelly B.
 Ken F.
 Ken K.
+Ken Kirvan
 Kevin C.
 Kevin K.
 Kevin N.
@@ -503,6 +518,7 @@ Kris H.
 Krisztian N.
 Krzysztof K.
 Larry A.
+Lars Amund Larsen
 Laurel P.
 Laurence C.
 Laurie G.
@@ -511,6 +527,7 @@ Lee H.
 Lee P.
 Lena G. L.
 Leonard J.
+Les DeLay
 Les W.
 LoneSampler
 Lord C.
@@ -579,8 +596,10 @@ Michael F.
 Michael K.
 Michael L.
 Michael P.
+Michael Rechenmacher
 Michael S.
 Michael Scherman
+Michael Smyth
 Michael T.
 Michael V.
 Michel A.
@@ -595,6 +614,7 @@ Mr Facey
 Murlin G.
 Muzza
 N. Poirier
+Nachzuchtkorallen24.de
 Nadine K. B.
 Nathan C.
 Nathan H.
@@ -603,6 +623,7 @@ Neal
 Neal K.
 Neil B.
 Neil C.
+Neil H.
 Neil W.
 Nerius
 Nhat B.
@@ -682,6 +703,7 @@ Riccardo B.
 Richard A.
 Richard B.
 Richard C.
+Richard Colman
 Richard D.
 Richard Dace
 Richard G.
@@ -704,6 +726,7 @@ Robert L.
 Robert Lortie
 Robert M.
 Robert McConnell
+Robert Neal
 Robert P.
 Robert Plant
 Robert R.
@@ -717,7 +740,6 @@ Ross O.
 Roy F.
 Rui C.
 RURIOSTE
-S. Gilpin
 S. Green
 S. Ryrie
 S. Tinsley
@@ -766,8 +788,10 @@ Steve Z.
 Steven A.
 Steven D.
 Steven H.
+Steven Thorpe
 Steven Z.
 Stuart F.
+Stuart Ford
 Stuart G.
 Stuart Glen
 Stuart M.
@@ -789,6 +813,8 @@ Timo K.
 Timothy H.
 Tobi K.
 Tobias W.
+Tom Gray
+Tom K.
 Tomato
 Tommy P.
 Tony B.
@@ -796,6 +822,7 @@ Tony C.
 Tony D.
 Tony H.
 TonyMan
+Tor Ole Kjellevand
 Trevor S.
 Troy M.
 Troy S.
