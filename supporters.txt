@@ -2,16 +2,16 @@
 # To change or remove your name: message Luke - done the same day.
 # '#' lines are comments. Sections: [recent] [legends] [fellowship].
 [recent]
-James Baccala
-Lars Amund Larsen
-Michael Smyth
-Daniel Freder
-Hawks Hollow
-John Addison
-Lee Taylor
-Dan H.
-Richard Colman
-Tom Gray
+Gavin Ashkevron
+Roy Hornyak
+Simon Linley
+Paul Elliot
+Tony Holdsworth
+Carter Mehl
+Nigel Finch
+Tennessee Carmel-Veilleux
+Syed Ahmed Haider
+Jim Gage
 [legends]
 Pete's Astrophotography
 Blake (ThisOne)
@@ -143,6 +143,10 @@ Chris D.
 Lee Taylor
 Hawks Hollow
 Cuiv, the Lazy Geek
+Doug Pullen
+Eric Lister
+Mark B.
+Simon Linley
 [fellowship]
 1949
 A. H. Westphal
@@ -221,6 +225,7 @@ Carlos D.
 Carlos R.
 Carsenium
 Carsten Baltes
+Carter Mehl
 CB Johnson
 CGL
 Chance Y.
@@ -354,6 +359,7 @@ Gary K.
 Gary P.
 Gary Z.
 Gary@MUVEDesign
+Gavin Ashkevron
 Gavin K.
 Gavin L.
 Geffo
@@ -432,6 +438,7 @@ Jan-Marco Petri
 Janne K.
 Jason C.
 Jason E.
+Jason Galletta
 Jason J.
 Jason K.
 Jason N.
@@ -450,6 +457,7 @@ Jerzy N.
 Jessica M.
 Jesus B.
 Jim G.
+Jim Gage
 Jim O.
 JLRC
 Joachim R.
@@ -517,6 +525,7 @@ Konflozius
 Kris H.
 Krisztian N.
 Krzysztof K.
+Ky Lane
 Larry A.
 Lars Amund Larsen
 Laurel P.
@@ -529,6 +538,7 @@ Lena G. L.
 Leonard J.
 Les DeLay
 Les W.
+Lezro
 LoneSampler
 Lord C.
 Loree R.
@@ -562,7 +572,6 @@ Marcin P.
 Marco R.
 Marcos J. Pinto - Lux Antiqua
 Marj E.
-Mark B.
 Mark Brown
 Mark G.
 Mark H.
@@ -583,6 +592,7 @@ Martin K.
 Massive Explosion
 Matt A.
 Matthew G.
+Matthew Hyman
 Matthew K.
 Matthew W.
 Mauricio H.
@@ -631,6 +641,7 @@ Nicholas C.
 Nicholas S.
 Nick H.
 Nico G.
+Nigel Finch
 NikonJax
 Nino D.
 Noah B.
@@ -648,6 +659,7 @@ Patrick E.
 Patrick N.
 Patrizio C.
 Paul B.
+Paul Elliot
 Paul F.
 Paul H.
 Paul L.
@@ -738,6 +750,7 @@ Rondle M.
 Ronnie G.
 Ross O.
 Roy F.
+Roy Hornyak
 Rui C.
 RURIOSTE
 S. Green
@@ -798,8 +811,10 @@ Stuart M.
 Studio_AP
 Stéphane F.
 Subhadip C.
+Syed Ahmed Haider
 T. Blevins
 Ted G.
+Tennessee Carmel-Veilleux
 Terry V.
 Thanasis M.
 The Astrollarium
@@ -821,6 +836,7 @@ Tony B.
 Tony C.
 Tony D.
 Tony H.
+Tony Holdsworth
 TonyMan
 Tor Ole Kjellevand
 Trevor S.
