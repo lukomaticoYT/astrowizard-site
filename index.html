@@ -332,6 +332,7 @@
         <span class="big">Download for Linux</span>
         <span class="small">AstroWizard-Linux-x86_64.tar.gz &middot; 130 MB</span>
       </a>
+      <p class="buildline" id="fresh-note" hidden style="max-width:74ch;">Fresh build: Windows may show &#8220;protected your PC&#8221; for a day or two while it earns its reputation. Choose <b>More info</b>, then <b>Run anyway</b>.</p>
       <p class="buildline">current build <b>7 September 2026</b> &middot; you&#8217;ll always find the newest version on this page &middot; main link busy? <a href="#downloads" style="color:inherit;">mirror links below</a></p>
       <p class="buildline" style="max-width:74ch;"><b>Now code-signed on every desktop:</b> the Mac apps have been signed and notarised by Apple since 24 August, and since 2 September the Windows download carries a Microsoft-validated publisher signature - the same builds, signed. A brand-new Windows signature still has to earn SmartScreen&#8217;s trust, so for a while you may still see &#8220;Windows protected your PC&#8221;: click <b>More info</b>, then <b>Run anyway</b>. Every file is scanned clean and its checksum lives on the mirror page.</p>
     </div>
@@ -571,5 +572,19 @@
 })();
 </script>
 
+<script>
+/* The fresh-build line (Luke, 9 September 2026): shown by itself for three days after a ship,
+   from the build date the site already publishes; nothing stored, nothing sent. */
+(function () {
+  var note = document.getElementById("fresh-note");
+  if (!note || !window.fetch) return;
+  fetch("/version.json?cb=" + Date.now(), { cache: "no-store" }).then(function (r) { return r.json(); }).then(function (v) {
+    var d = new Date(String(v.build_date) + "T00:00:00Z");
+    if (isNaN(d)) return;
+    var days = (Date.now() - d.getTime()) / 86400000;
+    if (days >= 0 && days <= 3.5) note.hidden = false;
+  }).catch(function () {});
+})();
+</script>
 </body>
 </html>

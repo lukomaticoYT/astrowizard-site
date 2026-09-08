@@ -138,6 +138,7 @@
   <div class="card">
     <h3>Windows <span class="tag">WINDOWS 10 / 11 &middot; BETA</span></h3>
     <p><a class="btn btn-win" href="https://github.com/lukomaticoYT/astrowizard-releases/releases/download/stackingwizard-beta-2026-09-09/StackingWizard.exe" rel="noopener"><span class="big">Download StackingWizard for Windows</span><span class="small">beta build 2026-09-09</span></a></p>
+    <p class="mirror" id="fresh-note" hidden>Fresh build: Windows may show &#8220;protected your PC&#8221; for a day or two while it earns its reputation. Choose <b>More info</b>, then <b>Run anyway</b>.</p>
     <p class="mirror">Every beta build, with its checksum, lives on <a href="https://github.com/lukomaticoYT/astrowizard-releases/releases/tag/stackingwizard-beta-2026-09-09" rel="noopener">the release page</a>.</p>
     <ol>
       <li><b>Download</b> StackingWizard.exe - nothing to install, it just runs.</li>
@@ -342,5 +343,19 @@
   </div>
 </div>
 
+<script>
+/* The fresh-build line (Luke, 9 September 2026): shown by itself for three days after a ship,
+   from the build date the site already publishes; nothing stored, nothing sent. */
+(function () {
+  var note = document.getElementById("fresh-note");
+  if (!note || !window.fetch) return;
+  fetch("/stackingwizard/version.json?cb=" + Date.now(), { cache: "no-store" }).then(function (r) { return r.json(); }).then(function (v) {
+    var d = new Date(String(v.build_date) + "T00:00:00Z");
+    if (isNaN(d)) return;
+    var days = (Date.now() - d.getTime()) / 86400000;
+    if (days >= 0 && days <= 3.5) note.hidden = false;
+  }).catch(function () {});
+})();
+</script>
 </body>
 </html>
