@@ -2,6 +2,7 @@
 # To change or remove your name: message Luke - done the same day.
 # '#' lines are comments. Sections: [recent] [legends] [fellowship].
 [recent]
+Hinesh
 Gavin Drey
 Roy Hornyak
 Simon Linley
@@ -11,7 +12,6 @@ Carter Mehl
 Nigel Finch
 Tennessee Carmel-Veilleux
 Syed Ahmed Haider
-Jim Gage
 [legends]
 Pete's Astrophotography
 Blake (ThisOne)
@@ -148,6 +148,7 @@ Eric Lister
 Mark B.
 Simon Linley
 Gavin Drey
+Hinesh
 [fellowship]
 1949
 A. H. Westphal
