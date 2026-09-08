@@ -2,7 +2,7 @@
 # To change or remove your name: message Luke - done the same day.
 # '#' lines are comments. Sections: [recent] [legends] [fellowship].
 [recent]
-Gavin Ashkevron
+Gavin Drey
 Roy Hornyak
 Simon Linley
 Paul Elliot
@@ -147,6 +147,7 @@ Doug Pullen
 Eric Lister
 Mark B.
 Simon Linley
+Gavin Drey
 [fellowship]
 1949
 A. H. Westphal
@@ -359,7 +360,6 @@ Gary K.
 Gary P.
 Gary Z.
 Gary@MUVEDesign
-Gavin Ashkevron
 Gavin K.
 Gavin L.
 Geffo
