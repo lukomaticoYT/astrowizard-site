@@ -2,6 +2,7 @@
 # To change or remove your name: message Luke - done the same day.
 # '#' lines are comments. Sections: [recent] [legends] [fellowship].
 [recent]
+Szortis Szortis
 Steven Myers
 Jürgen Wartmann
 Luigi Ciuti
@@ -11,7 +12,6 @@ Martin R.
 Thomas Türk
 Paul Batstone
 Charles Coughlan
-Lily Y.
 [legends]
 Pete's Astrophotography
 Blake (ThisOne)
@@ -828,6 +828,7 @@ Studio_AP
 Stéphane F.
 Subhadip C.
 Syed Ahmed Haider
+Szortis Szortis
 T. Blevins
 Ted G.
 Tennessee Carmel-Veilleux
