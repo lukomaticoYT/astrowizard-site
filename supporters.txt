@@ -2,16 +2,16 @@
 # To change or remove your name: message Luke - done the same day.
 # '#' lines are comments. Sections: [recent] [legends] [fellowship].
 [recent]
-Hinesh
-Gavin Drey
-Roy Hornyak
-Simon Linley
-Paul Elliot
-Tony Holdsworth
-Carter Mehl
-Nigel Finch
-Tennessee Carmel-Veilleux
-Syed Ahmed Haider
+Steven Myers
+Jürgen Wartmann
+Luigi Ciuti
+Richard H.
+Saulius G.
+Martin R.
+Thomas Türk
+Paul Batstone
+Charles Coughlan
+Lily Y.
 [legends]
 Pete's Astrophotography
 Blake (ThisOne)
@@ -232,6 +232,7 @@ CB Johnson
 CGL
 Chance Y.
 Charles B.
+Charles Coughlan
 Charles E.
 Charles L.
 Charles P.
@@ -303,6 +304,7 @@ David S.
 David T.
 Dawn P.
 Dean S.
+Dean T.
 DeanH
 Denis Y.
 Dennis D.
@@ -327,6 +329,7 @@ Doug P.
 Douglas B.
 Douglas H.
 Dylan K.
+E. Eliashar
 Earl P.
 Ed K.
 Edd L.
@@ -505,6 +508,7 @@ Jurgen D.
 Jörg S.
 Jürgen B.
 Jürgen S.
+Jürgen Wartmann
 Kabir J.
 Kalev P.
 Kallador
@@ -517,6 +521,7 @@ Ken F.
 Ken K.
 Ken Kirvan
 Kevin C.
+Kevin Cornell
 Kevin K.
 Kevin N.
 Kevin O.
@@ -526,6 +531,7 @@ Konflozius
 Kris H.
 Krisztian N.
 Krzysztof K.
+Kurt H.
 Ky Lane
 Larry A.
 Lars Amund Larsen
@@ -540,6 +546,7 @@ Leonard J.
 Les DeLay
 Les W.
 Lezro
+Lily Y.
 LoneSampler
 Lord C.
 Loree R.
@@ -548,6 +555,7 @@ Louis R.
 Loukas M.
 Luca S.
 Ludovico F.
+Luigi Ciuti
 Luis M.
 Luke Hearn
 Lyle A.
@@ -590,6 +598,7 @@ Martin B.
 Martin Br.
 Martin E.
 Martin K.
+Martin R.
 Massive Explosion
 Matt A.
 Matthew G.
@@ -648,6 +657,7 @@ Nino D.
 Noah B.
 NoDarlSkies
 Norman L.
+nosTa
 Oni Technology
 Osvaldo L.
 P. Dixon
@@ -660,6 +670,7 @@ Patrick E.
 Patrick N.
 Patrizio C.
 Paul B.
+Paul Batstone
 Paul Elliot
 Paul F.
 Paul H.
@@ -707,6 +718,7 @@ Radek S.
 Ralph S.
 Randall S. D.
 Randall W.
+Rasmus P.
 Reference Audio Plus
 Regina Z.
 Rex W.
@@ -720,6 +732,7 @@ Richard Colman
 Richard D.
 Richard Dace
 Richard G.
+Richard H.
 Richard L.
 Richard O'Reilly
 Richard R.
@@ -764,6 +777,7 @@ Samuel D.
 Sandrine G.
 Satoru M.
 Sau W.
+Saulius G.
 Scott S.
 Scott U.
 Sean M.
@@ -802,6 +816,7 @@ Steve Z.
 Steven A.
 Steven D.
 Steven H.
+Steven Myers
 Steven Thorpe
 Steven Z.
 Stuart F.
@@ -822,6 +837,7 @@ The Astrollarium
 Theo K.
 Thomas B.
 Thomas C.
+Thomas Türk
 Thorsten K.
 Tim J.
 Tim V. R.
