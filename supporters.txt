@@ -2,6 +2,7 @@
 # To change or remove your name: message Luke - done the same day.
 # '#' lines are comments. Sections: [recent] [legends] [fellowship].
 [recent]
+Francis R. Pellegrino (AGRsensors)
 Keith Johnson
 Étienne P.
 Manoj J.
@@ -11,7 +12,6 @@ Old Girl Photography
 Steven Wilden
 Johann D.
 Steve's Woodworking
-Rick Murray
 [legends]
 Pete's Astrophotography
 Blake (ThisOne)
@@ -366,6 +366,7 @@ F W Milsom
 F. Linde
 Florian S.
 Francesco A.
+Francis R. Pellegrino (AGRsensors)
 Francisco G.
 Frank "Astronut" G.
 Frank F.
@@ -446,6 +447,7 @@ J. R. Neale
 J. Whitworth
 Jack D.
 Jack G.
+Jack Heeley
 Jacob G.
 James A.
 James B.
@@ -502,7 +504,6 @@ John Flaherty
 John G.
 John Grunder
 John H.
-Jack Heeley
 John Herman
 John K.
 John Kelly
