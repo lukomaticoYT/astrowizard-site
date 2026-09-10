@@ -2,16 +2,16 @@
 # To change or remove your name: message Luke - done the same day.
 # '#' lines are comments. Sections: [recent] [legends] [fellowship].
 [recent]
-Szortis Szortis
-Steven Myers
-Jürgen Wartmann
-Luigi Ciuti
-Richard H.
-Saulius G.
-Martin R.
-Thomas Türk
-Paul Batstone
-Charles Coughlan
+Keith Johnson
+Étienne P.
+Manoj J.
+Lorne C.
+Bob Pepitone
+Old Girl Photography
+Steven Wilden
+Johann D.
+Steve's Woodworking
+Rick Murray
 [legends]
 Pete's Astrophotography
 Blake (ThisOne)
@@ -149,6 +149,20 @@ Mark B.
 Simon Linley
 Gavin Drey
 Hinesh
+Arc Fortnight
+Chris Pyle
+John Brock
+Mark Starner
+Mike Gent
+Yan
+Sound Man Martin
+Ted Hill
+Dennis D.
+D. I. M
+Jörg G.
+Rob H. - SevenSkiesAstro
+Jay Strahler
+Bob Pepitone
 [fellowship]
 1949
 A. H. Westphal
@@ -253,10 +267,12 @@ Christian T.
 Christopher C.
 Christopher H.
 Christopher W.
+Chuck T.
 CityAstronomer
 Claude F.
 Claus S.
 Clive C.
+Colin Hunter
 Compadre Chuma
 Cordula G.
 Coristus
@@ -289,6 +305,7 @@ Dave Haley
 Dave M.
 Dave N.
 Dave S.
+David A. - TexasAstro
 David Aucoin
 David B.
 David C.
@@ -307,7 +324,6 @@ Dean S.
 Dean T.
 DeanH
 Denis Y.
-Dennis D.
 Dennis V.
 Derek B.
 Derek E.
@@ -319,6 +335,7 @@ Didier P.
 Didier V. H.
 Dietmar H.
 Dion G.
+Domenico Izzo
 Don C.
 Don H.
 Don Jacob
@@ -343,6 +360,7 @@ Eric G.
 Eric L.
 Erik V. H. Fotografie
 Ernst K.
+Erwin247
 Eugenio G.
 F W Milsom
 F. Linde
@@ -380,6 +398,7 @@ Gil E.
 Glen H.
 Glenn C.
 Glenn S.
+Gman520
 Gordon Z.
 Graeme B.
 Graham G.
@@ -445,6 +464,7 @@ Jason E.
 Jason Galletta
 Jason J.
 Jason K.
+Jason Martin
 Jason N.
 Jason P.
 Javier G. O.
@@ -453,6 +473,7 @@ Jeff K.
 Jeff P.
 Jeff T.
 Jeffrey G.
+Jeffrey Gossman
 Jenson K.
 Jeremiah Thom
 Jeremy K.
@@ -470,6 +491,8 @@ Jody H.
 Joe D.
 Joe M.
 Joe V.
+Johann D.
+Johannes J. D.
 John A.
 John Addison
 John C.
@@ -515,6 +538,8 @@ Kallador
 Karen W.
 Karl C.
 Karsten J.
+Keith Johnson
+Keith S.
 Keith T.
 Kelly B.
 Ken F.
@@ -536,6 +561,7 @@ Ky Lane
 Larry A.
 Lars Amund Larsen
 Laurel P.
+LaurelP
 Laurence C.
 Laurie G.
 Lawrence K.
@@ -550,6 +576,7 @@ Lily Y.
 LoneSampler
 Lord C.
 Loree R.
+Lorne C.
 Lorraine M.
 Louis R.
 Loukas M.
@@ -572,10 +599,12 @@ M.Frazier
 Mac Bowden
 Malcolm T.
 Manfred S.
+Manoj J.
 Manuel A. F. C.
 Manuel M.
 Manuel P. F.
 Marc S.
+Marcel P.
 Marcelo A.
 Marcin P.
 Marco R.
@@ -597,6 +626,7 @@ MarkyZnO
 Martin B.
 Martin Br.
 Martin E.
+Martin F.
 Martin K.
 Martin R.
 Massive Explosion
@@ -625,6 +655,7 @@ Michael V.
 Michel A.
 Michel H.
 Michel M.
+Michie
 Mike B.
 Mike N.
 Miroslaw A. M.
@@ -658,6 +689,7 @@ Noah B.
 NoDarlSkies
 Norman L.
 nosTa
+Old Girl Photography
 Oni Technology
 Osvaldo L.
 P. Dixon
@@ -677,6 +709,7 @@ Paul H.
 Paul L.
 Paul M.
 Paul O.
+Paul Patterson
 Paul R.
 Paul S.
 Paul T.
@@ -742,6 +775,7 @@ Rick BG.
 Rick C.
 Rick Carver
 Rick G.
+Rick Murray
 RickJ
 RipForYou
 Rob D.
@@ -767,6 +801,7 @@ Roy F.
 Roy Hornyak
 Rui C.
 RURIOSTE
+Ryan O.
 S. Green
 S. Ryrie
 S. Tinsley
@@ -783,11 +818,11 @@ Scott U.
 Sean M.
 Sebastian W.
 Selvakumar M.
+Silvana D. C.
 Simon S.
 SJ. Grady
 Sk3lnonch
 Sonja L.
-Sound Man Martin
 Stan S.
 StarHawke
 StarSight Astrophotography
@@ -813,12 +848,15 @@ Steve R.
 Steve T
 Steve W.
 Steve Z.
+Steve's Woodworking
 Steven A.
 Steven D.
 Steven H.
 Steven Myers
 Steven Thorpe
+Steven Wilden
 Steven Z.
+StrummerJoe
 Stuart F.
 Stuart Ford
 Stuart G.
@@ -857,6 +895,7 @@ Tony H.
 Tony Holdsworth
 TonyMan
 Tor Ole Kjellevand
+Tracy M.
 Trevor S.
 Troy M.
 Troy S.
@@ -866,6 +905,7 @@ Vaughan S.
 Vicki C.
 Victor G.
 Victor M. B. L.
+Vincent B.
 Vincent L.
 Vincent Lecocq
 Vivien R.
@@ -885,3 +925,4 @@ Xavier H.
 Yannik W.
 Zoltan D.
 Álvaro H. V.
+Étienne P.
