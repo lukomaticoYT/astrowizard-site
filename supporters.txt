@@ -2,16 +2,16 @@
 # To change or remove your name: message Luke - done the same day.
 # '#' lines are comments. Sections: [recent] [legends] [fellowship].
 [recent]
-Daniel G.
-Shawn Gurley
-John Osborne
-Robert Stephens
-John Sedlacek
-Gregory B.
-Martin Rabanser
-Rick T.
-Robert Moore
-Chester W.
+Benoit C. M.
+Harald K.
+Peter van B.
+Chuck
+Thorsten Klingspor
+Roger B.
+Stefan D.
+Donel
+Kenny
+Karel Maron
 [legends]
 Pete's Astrophotography
 Blake (ThisOne)
@@ -167,6 +167,8 @@ David Strong
 Sharpe
 Martin Rabanser
 Robert Stephens
+Karel Maron
+Benoit C. M.
 [fellowship]
 1949
 A. H. Westphal
@@ -274,6 +276,7 @@ Christian T.
 Christopher C.
 Christopher H.
 Christopher W.
+Chuck
 Chuck T.
 CityAstronomer
 Claude F.
@@ -350,6 +353,7 @@ Don C.
 Don H.
 Don Jacob
 Donald L.
+Donel
 Doug B.
 Doug Davies
 Doug P.
@@ -432,6 +436,7 @@ Hans H.
 Hans L.
 Hansi. W.
 HansPS
+Harald K.
 Hartmut C.
 Hearnz
 Heinz G.
@@ -563,6 +568,7 @@ Kelly B.
 Ken F.
 Ken K.
 Ken Kirvan
+Kenny
 Kevin C.
 Kevin Cornell
 Kevin K.
@@ -747,6 +753,7 @@ Peter K.
 Peter R.
 Peter Relf
 Peter S.
+Peter van B.
 Peter Y.
 Petros M.
 Phil H.
@@ -815,6 +822,7 @@ Robert Plant
 Robert R.
 Robert W. O.
 Rod Galley
+Roger B.
 Roger K. Jr
 Ronald C.
 Rondle M.
@@ -850,6 +858,7 @@ Sonja L.
 Stan S.
 StarHawke
 StarSight Astrophotography
+Stefan D.
 Stefan P.
 Stefano D.
 Steffen S.
@@ -903,6 +912,7 @@ Thomas B.
 Thomas C.
 Thomas Türk
 Thorsten K.
+Thorsten Klingspor
 Tim J.
 Tim V. R.
 Timo K.
