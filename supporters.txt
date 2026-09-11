@@ -2,6 +2,7 @@
 # To change or remove your name: message Luke - done the same day.
 # '#' lines are comments. Sections: [recent] [legends] [fellowship].
 [recent]
+Shawn Gurley
 John Osborne
 Robert Stephens
 John Sedlacek
@@ -840,6 +841,7 @@ Scott U.
 Sean M.
 Sebastian W.
 Selvakumar M.
+Shawn Gurley
 Silvana D. C.
 Simon S.
 SJ. Grady
