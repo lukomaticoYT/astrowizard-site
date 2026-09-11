@@ -2,16 +2,16 @@
 # To change or remove your name: message Luke - done the same day.
 # '#' lines are comments. Sections: [recent] [legends] [fellowship].
 [recent]
-Francis R. Pellegrino (AGRsensors)
-Keith Johnson
-Étienne P.
-Manoj J.
-Lorne C.
-Bob Pepitone
-Old Girl Photography
-Steven Wilden
-Johann D.
-Steve's Woodworking
+John Osborne
+Robert Stephens
+John Sedlacek
+Gregory B.
+Martin Rabanser
+Rick T.
+Robert Moore
+Chester W.
+Lloyd M.
+Cynthia N.
 [legends]
 Pete's Astrophotography
 Blake (ThisOne)
@@ -163,6 +163,10 @@ Jörg G.
 Rob H. - SevenSkiesAstro
 Jay Strahler
 Bob Pepitone
+David Strong
+Sharpe
+Martin Rabanser
+Robert Stephens
 [fellowship]
 1949
 A. H. Westphal
@@ -192,6 +196,7 @@ Amy M.
 Andreas B.
 Andrew A.
 Andrew C.
+Andrew Clark
 Andrew F.
 Andrew L.
 Andrew N.
@@ -239,6 +244,7 @@ Carl L.
 Carlos A.
 Carlos D.
 Carlos R.
+Caroline K.
 Carsenium
 Carsten Baltes
 Carter Mehl
@@ -254,6 +260,7 @@ Charles W.
 Charles Webb
 Chau S.
 Cheryl W.
+Chester W.
 ChippyPickets
 Chorge1972
 Chris
@@ -274,6 +281,7 @@ Claus S.
 Clive C.
 Colin Hunter
 Compadre Chuma
+Conrad C.
 Cordula G.
 Coristus
 Cornz38
@@ -281,6 +289,7 @@ Craig A.
 Craig H.
 Crandell O.
 Cygnus Reactor
+Cynthia N.
 Cyril C.
 D. Beebe
 D. Huff
@@ -345,6 +354,7 @@ Doug Davies
 Doug P.
 Douglas B.
 Douglas H.
+Duncan H.
 Dylan K.
 E. Eliashar
 Earl P.
@@ -406,7 +416,9 @@ Graham G.
 Graham P.
 Grainge J.
 Gregor M.
+Gregory B.
 Gregory J.
+Guido S.
 Guillaume B.
 Guinigundo CPA's
 Guy R.
@@ -445,6 +457,7 @@ J. Lord
 J. Morrell
 J. R. Neale
 J. Whitworth
+Jacco W.
 Jack D.
 Jack G.
 Jack Heeley
@@ -470,6 +483,7 @@ Jason Martin
 Jason N.
 Jason P.
 Javier G. O.
+Jean-François R.
 Jean-Marie B.
 Jeff K.
 Jeff P.
@@ -510,8 +524,10 @@ John Kelly
 John L.
 John M.
 John Mozdziers
+John Osborne
 John R.
 John S.
+John Sedlacek
 John W.
 Jon C.
 Jonathan H.
@@ -574,6 +590,7 @@ Les DeLay
 Les W.
 Lezro
 Lily Y.
+Lloyd M.
 LoneSampler
 Lord C.
 Loree R.
@@ -613,6 +630,7 @@ Marcos J. Pinto - Lux Antiqua
 Marj E.
 Mark Brown
 Mark G.
+Mark Gascoigne
 Mark H.
 Mark L.
 Mark M.
@@ -720,6 +738,7 @@ Paweł Ł.
 Perry n Becky
 Pete C.
 Peter A.
+Peter Arnold
 Peter D.
 Peter H.
 Peter J. K.
@@ -777,6 +796,7 @@ Rick C.
 Rick Carver
 Rick G.
 Rick Murray
+Rick T.
 RickJ
 RipForYou
 Rob D.
@@ -787,6 +807,7 @@ Robert L.
 Robert Lortie
 Robert M.
 Robert McConnell
+Robert Moore
 Robert Neal
 Robert P.
 Robert Plant
@@ -854,6 +875,7 @@ Steven A.
 Steven D.
 Steven H.
 Steven Myers
+Steven Scott
 Steven Thorpe
 Steven Wilden
 Steven Z.
@@ -904,6 +926,7 @@ Tudor A.
 Uladzimir A.
 Vaughan S.
 Vicki C.
+Victor
 Victor G.
 Victor M. B. L.
 Vincent B.
@@ -918,6 +941,7 @@ Walter R.
 Walter V.
 Wendy B.
 Will J.
+William Bentow
 William D.
 William F.
 William L.
