@@ -2,6 +2,7 @@
 # To change or remove your name: message Luke - done the same day.
 # '#' lines are comments. Sections: [recent] [legends] [fellowship].
 [recent]
+Daniel G.
 Shawn Gurley
 John Osborne
 Robert Stephens
@@ -11,8 +12,6 @@ Martin Rabanser
 Rick T.
 Robert Moore
 Chester W.
-Lloyd M.
-Cynthia N.
 [legends]
 Pete's Astrophotography
 Blake (ThisOne)
@@ -306,6 +305,7 @@ Dale R.
 Dan D.
 Dan H.
 Daniel Freder
+Daniel G.
 Daniel K.
 Daniel M.
 Daniel S.
