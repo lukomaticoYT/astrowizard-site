@@ -2,6 +2,7 @@
 # To change or remove your name: message Luke - done the same day.
 # '#' lines are comments. Sections: [recent] [legends] [fellowship].
 [recent]
+Robert Jones
 Jon
 AstraOrionis
 AL
@@ -11,7 +12,6 @@ Rick Wood
 Sam Bliss Photography
 Robert C.
 Sunny Hwang
-Michel J.
 [legends]
 Pete's Astrophotography
 Blake (ThisOne)
@@ -841,6 +841,7 @@ Rob Greaves
 Robert B.
 Robert C.
 Robert E.
+Robert Jones
 Robert L.
 Robert Lortie
 Robert M.
