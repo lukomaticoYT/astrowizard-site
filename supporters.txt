@@ -2,6 +2,7 @@
 # To change or remove your name: message Luke - done the same day.
 # '#' lines are comments. Sections: [recent] [legends] [fellowship].
 [recent]
+AstraOrionis
 AL
 William Cooke
 Edward Cruz
@@ -11,7 +12,6 @@ Robert C.
 Sunny Hwang
 Michel J.
 David Hamory
-Steve Black
 [legends]
 Pete's Astrophotography
 Blake (ThisOne)
@@ -223,6 +223,7 @@ Antoine W.
 Arne B.
 Arun A.
 Astr0mink/NomadicAstronomy
+AstraOrionis
 AstroAndy
 Astroexeter
 AstroSaandy
