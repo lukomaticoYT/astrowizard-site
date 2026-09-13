@@ -2,6 +2,8 @@
 # To change or remove your name: message Luke - done the same day.
 # '#' lines are comments. Sections: [recent] [legends] [fellowship].
 [recent]
+AL
+William Cooke
 Edward Cruz
 Rick Wood
 Sam Bliss Photography
@@ -10,8 +12,6 @@ Sunny Hwang
 Michel J.
 David Hamory
 Steve Black
-Garrett D'Amore
-CreepsUTrust
 [legends]
 Pete's Astrophotography
 Blake (ThisOne)
@@ -195,6 +195,7 @@ Adriano G.
 Agustin N.
 Aikya S.
 Ajeeth C.
+AL
 Alan D.
 Alan L.
 Albert A.
@@ -983,6 +984,7 @@ Walter V.
 Wendy B.
 Will J.
 William Bentow
+William Cooke
 William D.
 William F.
 William L.
