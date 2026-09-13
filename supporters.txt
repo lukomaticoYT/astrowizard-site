@@ -2,16 +2,16 @@
 # To change or remove your name: message Luke - done the same day.
 # '#' lines are comments. Sections: [recent] [legends] [fellowship].
 [recent]
-Benoit C. M.
-Harald K.
-Peter van B.
-Chuck Garcia
-Thorsten Klingspor
-Roger B.
-Stefan D.
-Donel
-Kenny
-Karel Maron
+Rick Wood
+Sam Bliss Photography
+Robert C.
+Sunny Hwang
+Michel J.
+David Hamory
+Steve Black
+Garrett D'Amore
+CreepsUTrust
+OWF Ventures
 [legends]
 Pete's Astrophotography
 Blake (ThisOne)
@@ -169,6 +169,17 @@ Martin Rabanser
 Robert Stephens
 Karel Maron
 Benoit C. M.
+Adam Artho
+Bryan Savage
+Mark M.
+James B.
+maza
+Daniel B.
+Mirko G.
+Stefan Parmark
+Garrett D'Amore
+Steve Black
+Sunny Hwang
 [fellowship]
 1949
 A. H. Westphal
@@ -272,6 +283,7 @@ Chris James
 Chris M.
 Chris O.
 Christian Dr. Zülch
+Christian Hein
 Christian T.
 Christopher C.
 Christopher H.
@@ -291,6 +303,7 @@ Cornz38
 Craig A.
 Craig H.
 Crandell O.
+CreepsUTrust
 Cygnus Reactor
 Cynthia N.
 Cyril C.
@@ -321,11 +334,13 @@ Dave S.
 David A. - TexasAstro
 David Aucoin
 David B.
+David Burrell
 David C.
 David D.
 David E.
 David F. L.
 David H.
+David Hamory
 David J. P.
 David K.
 David M. O.
@@ -446,6 +461,7 @@ Henriette C.
 Henry H.
 Herve C.
 High Legh Community Observatory
+Hughes T.
 Hurriyet P.
 Ian C.
 Ian F.
@@ -469,7 +485,6 @@ Jack G.
 Jack Heeley
 Jacob G.
 James A.
-James B.
 James Baccala
 James C.
 James K.
@@ -491,6 +506,7 @@ Jason P.
 Javier G. O.
 Jean-François R.
 Jean-Marie B.
+Jeff Fishman
 Jeff K.
 Jeff P.
 Jeff T.
@@ -522,6 +538,7 @@ John De Marco
 John F.
 John Flaherty
 John G.
+John Grana
 John Grunder
 John H.
 John Herman
@@ -575,6 +592,7 @@ Kevin K.
 Kevin N.
 Kevin O.
 Kevin S.
+Kieron W.
 Klaus W.
 Konflozius
 Kris H.
@@ -597,6 +615,7 @@ Les DeLay
 Les W.
 Lezro
 Lily Y.
+Lionel J.
 Lloyd M.
 LoneSampler
 Lord C.
@@ -640,8 +659,8 @@ Mark G.
 Mark Gascoigne
 Mark H.
 Mark L.
-Mark M.
 Mark P.
+Mark Penberthy
 Mark S.
 Mark T.
 Mark Y.
@@ -680,6 +699,7 @@ Michael T.
 Michael V.
 Michel A.
 Michel H.
+Michel J.
 Michel M.
 Michie
 Mike B.
@@ -718,6 +738,7 @@ nosTa
 Old Girl Photography
 Oni Technology
 Osvaldo L.
+OWF Ventures
 P. Dixon
 P. Holl
 Padre
@@ -764,7 +785,9 @@ Phillip K.
 Pierre B.
 Pim V.
 Piotr I.
+PL
 PoppaMitch
+Puddu I.
 R. Barrett
 R. Barter
 R. Bianchi
@@ -780,6 +803,7 @@ Ralph S.
 Randall S. D.
 Randall W.
 Rasmus P.
+Ray P.
 Reference Audio Plus
 Regina Z.
 Rex W.
@@ -805,11 +829,13 @@ Rick Carver
 Rick G.
 Rick Murray
 Rick T.
+Rick Wood
 RickJ
 RipForYou
 Rob D.
 Rob Greaves
 Robert B.
+Robert C.
 Robert E.
 Robert L.
 Robert Lortie
@@ -838,6 +864,7 @@ S. Ryrie
 S. Tinsley
 Sabine S.
 SaltyPogue
+Sam Bliss Photography
 Sam M.
 Samuel D.
 Sandrine G.
@@ -851,6 +878,7 @@ Sebastian W.
 Selvakumar M.
 Shawn Gurley
 Silvana D. C.
+Simon C.
 Simon S.
 SJ. Grady
 Sk3lnonch
