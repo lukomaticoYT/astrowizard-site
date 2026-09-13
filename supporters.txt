@@ -2,6 +2,7 @@
 # To change or remove your name: message Luke - done the same day.
 # '#' lines are comments. Sections: [recent] [legends] [fellowship].
 [recent]
+Jon
 AstraOrionis
 AL
 William Cooke
@@ -11,7 +12,6 @@ Sam Bliss Photography
 Robert C.
 Sunny Hwang
 Michel J.
-David Hamory
 [legends]
 Pete's Astrophotography
 Blake (ThisOne)
@@ -555,6 +555,7 @@ John R.
 John S.
 John Sedlacek
 John W.
+Jon
 Jon C.
 Jonathan H.
 Jonbanjovie
