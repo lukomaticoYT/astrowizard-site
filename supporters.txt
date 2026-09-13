@@ -2,6 +2,7 @@
 # To change or remove your name: message Luke - done the same day.
 # '#' lines are comments. Sections: [recent] [legends] [fellowship].
 [recent]
+Edward Cruz
 Rick Wood
 Sam Bliss Photography
 Robert C.
@@ -11,7 +12,6 @@ David Hamory
 Steve Black
 Garrett D'Amore
 CreepsUTrust
-OWF Ventures
 [legends]
 Pete's Astrophotography
 Blake (ThisOne)
@@ -381,6 +381,7 @@ Earl P.
 Ed K.
 Edd L.
 Eddie L.
+Edward Cruz
 Edwin M.
 Edwin Micallef
 Eliyahu777
