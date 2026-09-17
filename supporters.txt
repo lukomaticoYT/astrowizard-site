@@ -2,16 +2,16 @@
 # To change or remove your name: message Luke - done the same day.
 # '#' lines are comments. Sections: [recent] [legends] [fellowship].
 [recent]
-Robert Salmon
-Carl P.
-Tim B.
-Adrian S.
-Joe Dixon
-Steven T.
-Mark Ball
-Lee Mize
-Kit H.
-Robert Jones
+Matej L.
+Glenn LeBlanc
+Jerome Grosmann
+Rene K.
+Dirk J.
+Brett Hallett
+Andrew R.
+Jan K.
+Robert Schaffner
+James Brennan
 [legends]
 Pete's Astrophotography
 Blake (ThisOne)
@@ -185,6 +185,15 @@ Lee Mize
 PoppaMitch
 Steven T.
 Terry V.
+Dale H.
+PhilC
+John Thomson
+Pierre Van Gucht
+Steven Hubbard
+Stéphane F.
+Robert Schaffner
+Jan K.
+Jerome Grosmann
 [fellowship]
 1949
 A. H. Westphal
@@ -204,6 +213,7 @@ Ajeeth C.
 AL
 Alan D.
 Alan L.
+Alan T.
 Albert A.
 Albert T.
 Alex P.
@@ -220,6 +230,7 @@ Andrew Clark
 Andrew F.
 Andrew L.
 Andrew N.
+Andrew R.
 Andrew W.
 Andy R.
 Andy W.
@@ -237,15 +248,19 @@ B. Clark Williams
 Barry Underwood
 Batłomiej B.
 Baz S.
+Bernardo S. O.
 Bertrand D.
 Bevon S.
 Bill Childs
 Bill M.
+Bo Sundin
 Bob G.
+Bob I.
 Bob P.
 Brad H.
 Bradford E.
 Brett H.
+Brett Hallett
 Brian A.
 Brian F.
 Brian G.
@@ -274,6 +289,7 @@ CB Johnson
 CGL
 Chance Y.
 Charles B.
+Charles Beckham
 Charles Coughlan
 Charles E.
 Charles L.
@@ -291,6 +307,7 @@ Chris J.
 Chris James
 Chris M.
 Chris O.
+Christian B.
 Christian Dr. Zülch
 Christian Hein
 Christian T.
@@ -311,6 +328,7 @@ Coristus
 Cornz38
 Craig A.
 Craig H.
+CraigyBoy1960
 Crandell O.
 CreepsUTrust
 Cygnus Reactor
@@ -372,6 +390,7 @@ Didier P.
 Didier V. H.
 Dietmar H.
 Dion G.
+Dirk J.
 Domenico Izzo
 Don C.
 Don H.
@@ -405,6 +424,7 @@ F W Milsom
 F. Linde
 Florian S.
 Francesco A.
+Francis R.
 Francis R. Pellegrino (AGRsensors)
 Francisco G.
 Frank "Astronut" G.
@@ -417,9 +437,11 @@ Frederick S.
 G. Platt
 G. Stoppa
 Gabriel P.
+Galactic Paparazzi
 Gareth B.
 Gary K.
 Gary P.
+Gary S.
 Gary Z.
 Gary@MUVEDesign
 Gavin K.
@@ -432,11 +454,13 @@ Geoffrey L.
 Geoffrey V.
 Geoffrey W.
 Georg N. N.
+George S.
 Gerald B.
 Gerald G.
 Gil E.
 Glen H.
 Glenn C.
+Glenn LeBlanc
 Glenn S.
 Gman520
 Gordon Z.
@@ -447,6 +471,7 @@ Grainge J.
 Gregor M.
 Gregory B.
 Gregory J.
+Guido C.
 Guido S.
 Guillaume B.
 Guinigundo CPA's
@@ -495,6 +520,7 @@ Jack Heeley
 Jacob G.
 James A.
 James Baccala
+James Brennan
 James C.
 James K.
 James L.
@@ -517,6 +543,7 @@ Jean-François R.
 Jean-Marie B.
 Jeff Fishman
 Jeff K.
+Jeff McGinniss
 Jeff P.
 Jeff T.
 Jeffrey G.
@@ -558,6 +585,7 @@ John L.
 John M.
 John Mozdziers
 John Osborne
+John P.
 John R.
 John S.
 John Sedlacek
@@ -584,6 +612,7 @@ Jürgen B.
 Jürgen S.
 Jürgen Wartmann
 Kabir J.
+KaKaEs
 Kalev P.
 Kallador
 Karen W.
@@ -593,16 +622,20 @@ Keith Johnson
 Keith S.
 Keith T.
 Kelly B.
+Kelly C.
 Ken F.
 Ken K.
 Ken Kirvan
 Kenny
+Kevin
 Kevin C.
 Kevin Cornell
 Kevin K.
 Kevin N.
 Kevin O.
+Kevin R.
 Kevin S.
+Kevin Smith
 Kieron W.
 Klaus W.
 Konflozius
@@ -687,6 +720,7 @@ Martin F.
 Martin K.
 Martin R.
 Massive Explosion
+Matej L.
 Matt A.
 Matthew G.
 Matthew Hyman
@@ -715,8 +749,10 @@ Michel J.
 Michel M.
 Michie
 Mike B.
+Mike Lovett
 Mike N.
 Miroslaw A. M.
+Mitchell M.
 Mondland.de
 Morgan H.
 Mr Facey
@@ -758,6 +794,7 @@ Padre
 PaganoPhoto
 Pascal B. H.
 Pascal E.
+Pascal Segouffin
 Patrick E.
 Patrick N.
 Patrizio C.
@@ -781,6 +818,7 @@ Pete C.
 Peter A.
 Peter Arnold
 Peter D.
+Peter F.
 Peter H.
 Peter J. K.
 Peter K.
@@ -816,8 +854,10 @@ Randall S. D.
 Randall W.
 Rasmus P.
 Ray P.
+Raymond L.
 Reference Audio Plus
 Regina Z.
+Rene K.
 Rex W.
 Rhees and Monique
 Ricardo G. M.
@@ -825,6 +865,7 @@ Riccardo B.
 Richard A.
 Richard B.
 Richard C.
+Richard Carner
 Richard Colman
 Richard D.
 Richard Dace
@@ -864,7 +905,9 @@ Robert W. O.
 Rod Galley
 Roger B.
 Roger K. Jr
+Ron Vargas
 Ronald C.
+Ronald G.
 Rondle M.
 Ronnie G.
 Ross O.
@@ -877,6 +920,7 @@ S. Green
 S. Ryrie
 S. Tinsley
 Sabine S.
+Salty & Spice
 SaltyPogue
 Sam Bliss Photography
 Sam M.
@@ -897,6 +941,7 @@ Simon S.
 SJ. Grady
 Sk3lnonch
 Sonja L.
+SR Channel DVM
 Stan S.
 StarHawke
 StarSight Astrophotography
@@ -939,7 +984,6 @@ Stuart G.
 Stuart Glen
 Stuart M.
 Studio_AP
-Stéphane F.
 Subhadip C.
 Syed Ahmed Haider
 Szortis Szortis
@@ -999,6 +1043,7 @@ William Bentow
 William Cooke
 William D.
 William F.
+William K.
 William L.
 Wolfgang B.
 Xavier H.
