@@ -2,7 +2,6 @@
 # To change or remove your name: message Luke - done the same day.
 # '#' lines are comments. Sections: [recent] [legends] [fellowship].
 [recent]
-Chuck Thornton
 Robert Salmon
 Carl P.
 Tim B.
@@ -12,6 +11,7 @@ Steven T.
 Mark Ball
 Lee Mize
 Kit H.
+Robert Jones
 [legends]
 Pete's Astrophotography
 Blake (ThisOne)
@@ -299,7 +299,6 @@ Christopher H.
 Christopher W.
 Chuck Garcia
 Chuck T.
-Chuck Thornton
 CityAstronomer
 Claude F.
 Claus S.
