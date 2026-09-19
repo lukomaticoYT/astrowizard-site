@@ -2,6 +2,7 @@
 # To change or remove your name: message Luke - done the same day.
 # '#' lines are comments. Sections: [recent] [legends] [fellowship].
 [recent]
+Steve P. K.
 David DeCroix
 Murray Fox Photography
 Ben Murphy
@@ -11,7 +12,6 @@ Philippe F.
 Lou S.
 William Hartwell
 Alliance Cube
-Rafael J.
 [legends]
 Pete's Astrophotography
 Blake (ThisOne)
@@ -1000,6 +1000,7 @@ Stephen P.
 Stephen R.
 Stephen Roesch
 Steve D.
+Steve P. K.
 Steve R.
 Steve T
 Steve W.
