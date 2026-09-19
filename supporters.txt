@@ -2,6 +2,7 @@
 # To change or remove your name: message Luke - done the same day.
 # '#' lines are comments. Sections: [recent] [legends] [fellowship].
 [recent]
+Murray Fox Photography
 Ben Murphy
 Jóhannes C.
 Clayton Ostler
@@ -11,7 +12,6 @@ William Hartwell
 Alliance Cube
 Rafael J.
 Mohammed K.
-Adrian B.
 [legends]
 Pete's Astrophotography
 Blake (ThisOne)
@@ -783,6 +783,7 @@ Mondland.de
 Morgan H.
 Mr Facey
 Murlin G.
+Murray Fox Photography
 Muzza
 N. Poirier
 Nachzuchtkorallen24.de
