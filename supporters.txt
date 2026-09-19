@@ -586,7 +586,6 @@ Joe Dixon
 Joe M.
 Joe V.
 Johann D.
-Johannes A.
 Johannes J. D.
 John A.
 John Addison
@@ -1059,6 +1058,7 @@ Troy M.
 Troy S.
 Tudor A.
 Uladzimir A.
+vanAtteveld
 Vaughan S.
 Vicki C.
 Victor
