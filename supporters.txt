@@ -2,6 +2,7 @@
 # To change or remove your name: message Luke - done the same day.
 # '#' lines are comments. Sections: [recent] [legends] [fellowship].
 [recent]
+Ben Murphy
 Jóhannes C.
 Clayton Ostler
 Philippe F.
@@ -11,7 +12,6 @@ Alliance Cube
 Rafael J.
 Mohammed K.
 Adrian B.
-Radomír Č.
 [legends]
 Pete's Astrophotography
 Blake (ThisOne)
@@ -257,6 +257,7 @@ B. Clark Williams
 Barry Underwood
 Batłomiej B.
 Baz S.
+Ben Murphy
 Bernardo S. O.
 Bertrand D.
 Bevon S.
