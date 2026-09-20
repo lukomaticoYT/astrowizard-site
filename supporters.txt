@@ -2,16 +2,16 @@
 # To change or remove your name: message Luke - done the same day.
 # '#' lines are comments. Sections: [recent] [legends] [fellowship].
 [recent]
-Steve P. K.
-David DeCroix
-Murray Fox Photography
-Ben Murphy
-Jóhannes C.
-Clayton Ostler
-Philippe F.
-Lou S.
-William Hartwell
-Alliance Cube
+Richard Allardyce
+Thomas W.
+Dynamic Presence
+Rhett W.
+Foc
+Michael MacFarland
+Vittorio V.
+John Bimson
+Sean O'Donnell
+Kevin Monroe
 [legends]
 Pete's Astrophotography
 Blake (ThisOne)
@@ -202,6 +202,13 @@ Travis Mooney
 Ed Martin
 Alliance Cube
 Lou S.
+Achernar Skyshed
+Kristóf B.
+Victor Robles Photography
+Sean O'Donnell
+Richard Allardyce
+Charles E.
+Robert Jones
 [fellowship]
 1949
 A. H. Westphal
@@ -301,7 +308,6 @@ Chance Y.
 Charles B.
 Charles Beckham
 Charles Coughlan
-Charles E.
 Charles L.
 Charles P.
 Charles W.
@@ -418,6 +424,7 @@ Douglas B.
 Douglas H.
 Duncan H.
 Dylan K.
+Dynamic Presence
 E. Eliashar
 Earl P.
 Ed K.
@@ -432,6 +439,7 @@ Eric C.
 Eric F.
 Eric G.
 Eric L.
+Eric Lew
 Erik V. H. Fotografie
 Ernst K.
 Erwin247
@@ -439,6 +447,7 @@ Eugenio G.
 F W Milsom
 F. Linde
 Florian S.
+Foc
 Francesco A.
 Francis R.
 Francis R. Pellegrino (AGRsensors)
@@ -542,6 +551,7 @@ James Baccala
 James Brennan
 James C.
 James K.
+James Knudson
 James L.
 James T.
 James W.
@@ -589,6 +599,7 @@ Johann D.
 Johannes J. D.
 John A.
 John Addison
+John Bimson
 John C.
 John De Marco
 John F.
@@ -652,6 +663,7 @@ Kevin
 Kevin C.
 Kevin Cornell
 Kevin K.
+Kevin Monroe
 Kevin N.
 Kevin O.
 Kevin R.
@@ -676,6 +688,7 @@ Laurie G.
 Lawrence K.
 Lee H.
 Lee P.
+Leigh L.
 Lena G. L.
 Leonard J.
 Les DeLay
@@ -761,6 +774,7 @@ Michael De.
 Michael F.
 Michael K.
 Michael L.
+Michael MacFarland
 Michael P.
 Michael Rechenmacher
 Michael S.
@@ -895,6 +909,7 @@ Regina Z.
 Rene K.
 Rex W.
 Rhees and Monique
+Rhett W.
 Ricardo G. M.
 Riccardo B.
 Richard A.
@@ -925,7 +940,6 @@ Rob Greaves
 Robert B.
 Robert C.
 Robert E.
-Robert Jones
 Robert L.
 Robert Lortie
 Robert M.
@@ -959,6 +973,7 @@ Salty & Spice
 SaltyPogue
 Sam Bliss Photography
 Sam M.
+Sam V.
 Samuel D.
 Sandrine G.
 Satoru M.
@@ -1032,6 +1047,8 @@ Theo K.
 Thomas B.
 Thomas C.
 Thomas Türk
+Thomas W.
+Thomas Warren
 Thorsten K.
 Thorsten Klingspor
 Tim B.
@@ -1068,6 +1085,7 @@ Victoria Bennett
 Vincent B.
 Vincent L.
 Vincent Lecocq
+Vittorio V.
 Vivien R.
 W K
 Walter G.
