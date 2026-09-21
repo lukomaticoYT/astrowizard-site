@@ -2,16 +2,16 @@
 # To change or remove your name: message Luke - done the same day.
 # '#' lines are comments. Sections: [recent] [legends] [fellowship].
 [recent]
-Richard Allardyce
-Thomas W.
-Dynamic Presence
-Rhett W.
-Foc
-Michael MacFarland
-Vittorio V.
-John Bimson
-Sean O'Donnell
-Kevin Monroe
+Adam Bagnall
+Kwan Choo
+Edmund G.
+Mario M.
+Thomas Skrovanek
+Robert Ridgley
+Vina G.
+Gary Meredith
+Aurelian G.
+Darren Edwards
 [legends]
 Pete's Astrophotography
 Blake (ThisOne)
@@ -209,6 +209,10 @@ Sean O'Donnell
 Richard Allardyce
 Charles E.
 Robert Jones
+GK
+Robert Ridgley
+Kwan Choo
+Adam Bagnall
 [fellowship]
 1949
 A. H. Westphal
@@ -237,6 +241,7 @@ Alex T.
 Alexander M.
 Alexandre D.
 Allan D.
+Amit S.
 Amit V.
 Amy M.
 Andreas B.
@@ -260,6 +265,7 @@ AstraOrionis
 AstroAndy
 Astroexeter
 AstroSaandy
+Aurelian G.
 B. Clark Williams
 Barry Underwood
 Batłomiej B.
@@ -370,6 +376,7 @@ Daniel G.
 Daniel K.
 Daniel M.
 Daniel S.
+Darren Edwards
 Darren W.
 Darryl Z.
 Dave Haley
@@ -416,6 +423,7 @@ Don C.
 Don H.
 Don Jacob
 Donald L.
+Donald Lovett
 Doug B.
 Doug Davies
 Doug P.
@@ -430,6 +438,7 @@ Earl P.
 Ed K.
 Edd L.
 Eddie L.
+Edmund G.
 Edward Cruz
 Edwin M.
 Edwin Micallef
@@ -465,6 +474,7 @@ Gabriel P.
 Galactic Paparazzi
 Gareth B.
 Gary K.
+Gary Meredith
 Gary P.
 Gary R.
 Gary S.
@@ -609,6 +619,7 @@ John Grana
 John Grunder
 John H.
 John Herman
+John K Bradley
 John K.
 John Kelly
 John L.
@@ -734,6 +745,7 @@ Marcin B.
 Marcin P.
 Marco R.
 Marcos J. Pinto - Lux Antiqua
+Mario M.
 Marj E.
 Mark Ball
 Mark Brown
@@ -875,6 +887,7 @@ Petr K.
 Petros M.
 Phil H.
 Philip A.
+Philip G.
 Philip T.
 Philipp
 Philippe F.
@@ -997,6 +1010,7 @@ StarHawke
 StarSight Astrophotography
 Stefan D.
 Stefan P.
+Stefan R.
 Stefano D.
 Steffen S.
 Steinhaus T.
@@ -1046,6 +1060,7 @@ The Astrollarium
 Theo K.
 Thomas B.
 Thomas C.
+Thomas Skrovanek
 Thomas Türk
 Thomas W.
 Thomas Warren
@@ -1082,6 +1097,7 @@ Victor
 Victor G.
 Victor M. B. L.
 Victoria Bennett
+Vina G.
 Vincent B.
 Vincent L.
 Vincent Lecocq
