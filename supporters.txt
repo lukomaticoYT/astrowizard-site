@@ -2,6 +2,7 @@
 # To change or remove your name: message Luke - done the same day.
 # '#' lines are comments. Sections: [recent] [legends] [fellowship].
 [recent]
+CelestroMel
 Kenneth Sall
 Mark Pietrosanto
 Aaron
@@ -11,7 +12,6 @@ Michael Deen
 Webew
 Adam Bagnall
 Kwan Choo
-Edmund G.
 [legends]
 Pete's Astrophotography
 Blake (ThisOne)
@@ -310,6 +310,7 @@ Carsenium
 Carsten Baltes
 Carter Mehl
 CB Johnson
+CelestroMel
 CGL
 Chance Y.
 Charles B.
