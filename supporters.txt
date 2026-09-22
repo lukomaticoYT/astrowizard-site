@@ -2,16 +2,16 @@
 # To change or remove your name: message Luke - done the same day.
 # '#' lines are comments. Sections: [recent] [legends] [fellowship].
 [recent]
-Stan Z.
-Lou Vassallo
-CelestroMel
-Kenneth Sall
-Mark Pietrosanto
-Aaron
-Frank C.
-Liana L.
-Michael Deen
-Webew
+Rob Cairns
+Enoch Omololu
+Kev
+Ulrich Z.
+Robert Z.
+NickH
+J. W.
+Andreas S.
+Christopher E.
+Robert Coney
 [legends]
 Pete's Astrophotography
 Blake (ThisOne)
@@ -213,6 +213,13 @@ GK
 Robert Ridgley
 Kwan Choo
 Adam Bagnall
+Jeffrey Botkin
+Robert Coney
+Andreas S.
+J. W.
+NickH
+Enoch Omololu
+Rob Cairns
 [fellowship]
 1949
 A. H. Westphal
@@ -336,6 +343,7 @@ Christian Dr. Zülch
 Christian Hein
 Christian T.
 Christopher C.
+Christopher E.
 Christopher H.
 Christopher W.
 Chuck Garcia
@@ -674,6 +682,7 @@ Ken Kirvan
 Kenneth M.
 Kenneth Sall
 Kenny
+Kev
 Kevin
 Kevin C.
 Kevin Cornell
@@ -972,6 +981,7 @@ Robert Plant
 Robert R.
 Robert Salmon
 Robert W. O.
+Robert Z.
 Rod Galley
 Roger B.
 Roger K. Jr
@@ -1099,6 +1109,7 @@ Troy M.
 Troy S.
 Tudor A.
 Uladzimir A.
+Ulrich Z.
 vanAtteveld
 Vaughan S.
 Vicki C.
