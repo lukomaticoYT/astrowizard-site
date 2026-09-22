@@ -2,6 +2,7 @@
 # To change or remove your name: message Luke - done the same day.
 # '#' lines are comments. Sections: [recent] [legends] [fellowship].
 [recent]
+Your Favorite Astro Nerd
 VagueCraig
 Rob Cairns
 Enoch Omololu
@@ -11,7 +12,6 @@ Robert Z.
 NickH
 J. W.
 Andreas S.
-Christopher E.
 [legends]
 Pete's Astrophotography
 Blake (ThisOne)
@@ -220,6 +220,7 @@ J. W.
 NickH
 Enoch Omololu
 Rob Cairns
+Your Favorite Astro Nerd
 [fellowship]
 1949
 A. H. Westphal
