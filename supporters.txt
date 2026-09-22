@@ -2,6 +2,7 @@
 # To change or remove your name: message Luke - done the same day.
 # '#' lines are comments. Sections: [recent] [legends] [fellowship].
 [recent]
+Stan Z.
 Lou Vassallo
 CelestroMel
 Kenneth Sall
@@ -11,7 +12,6 @@ Frank C.
 Liana L.
 Michael Deen
 Webew
-Adam Bagnall
 [legends]
 Pete's Astrophotography
 Blake (ThisOne)
@@ -1014,6 +1014,7 @@ Sk3lnonch
 Sonja L.
 SR Channel DVM
 Stan S.
+Stan Z.
 StarHawke
 StarSight Astrophotography
 Stefan D.
