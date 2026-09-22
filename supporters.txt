@@ -2,6 +2,7 @@
 # To change or remove your name: message Luke - done the same day.
 # '#' lines are comments. Sections: [recent] [legends] [fellowship].
 [recent]
+VagueCraig
 Rob Cairns
 Enoch Omololu
 Kev
@@ -11,7 +12,6 @@ NickH
 J. W.
 Andreas S.
 Christopher E.
-Robert Coney
 [legends]
 Pete's Astrophotography
 Blake (ThisOne)
@@ -1110,6 +1110,7 @@ Troy S.
 Tudor A.
 Uladzimir A.
 Ulrich Z.
+VagueCraig
 vanAtteveld
 Vaughan S.
 Vicki C.
