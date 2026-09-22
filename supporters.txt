@@ -2,6 +2,7 @@
 # To change or remove your name: message Luke - done the same day.
 # '#' lines are comments. Sections: [recent] [legends] [fellowship].
 [recent]
+Lou Vassallo
 CelestroMel
 Kenneth Sall
 Mark Pietrosanto
@@ -11,7 +12,6 @@ Liana L.
 Michael Deen
 Webew
 Adam Bagnall
-Kwan Choo
 [legends]
 Pete's Astrophotography
 Blake (ThisOne)
@@ -718,6 +718,7 @@ Lord C.
 Loree R.
 Lorne C.
 Lorraine M.
+Lou Vassallo
 Louis R.
 Loukas M.
 Luca S.
