@@ -2,6 +2,7 @@
 # To change or remove your name: message Luke - done the same day.
 # '#' lines are comments. Sections: [recent] [legends] [fellowship].
 [recent]
+Len Jones
 DogeHodler41
 robRobblah
 Lawrence Pizzi
@@ -11,7 +12,6 @@ Rob Cairns
 Enoch Omololu
 Kev
 Ulrich Z.
-Robert Z.
 [legends]
 Pete's Astrophotography
 Blake (ThisOne)
@@ -716,6 +716,7 @@ Lawrence Pizzi
 Lee H.
 Lee P.
 Leigh L.
+Len Jones
 Lena G. L.
 Leonard J.
 Les DeLay
