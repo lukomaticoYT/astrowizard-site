@@ -2,6 +2,7 @@
 # To change or remove your name: message Luke - done the same day.
 # '#' lines are comments. Sections: [recent] [legends] [fellowship].
 [recent]
+Benedict Hirth
 Mike Broussard
 Byron Davies
 Dorota R.
@@ -11,7 +12,6 @@ Bernhard Stoll
 Scott O.
 Stephen Fox
 I Van Vegchel
-Kevin Hanvy
 [legends]
 Pete's Astrophotography
 Blake (ThisOne)
@@ -285,6 +285,7 @@ Barry Underwood
 Batłomiej B.
 Baz S.
 Ben Murphy
+Benedict Hirth
 Bernardo S. O.
 Bernhard Stoll
 Bertrand D.
