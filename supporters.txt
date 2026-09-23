@@ -2,6 +2,7 @@
 # To change or remove your name: message Luke - done the same day.
 # '#' lines are comments. Sections: [recent] [legends] [fellowship].
 [recent]
+robRobblah
 Lawrence Pizzi
 Your Favorite Astro Nerd
 VagueCraig
@@ -11,7 +12,6 @@ Kev
 Ulrich Z.
 Robert Z.
 NickH
-J. W.
 [legends]
 Pete's Astrophotography
 Blake (ThisOne)
@@ -984,6 +984,7 @@ Robert R.
 Robert Salmon
 Robert W. O.
 Robert Z.
+robRobblah
 Rod Galley
 Roger B.
 Roger K. Jr
