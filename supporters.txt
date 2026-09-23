@@ -2,16 +2,16 @@
 # To change or remove your name: message Luke - done the same day.
 # '#' lines are comments. Sections: [recent] [legends] [fellowship].
 [recent]
-Graham White
-Carlos Espada
-Phillip Monier
-Len Jones
-DogeHodler41
-robRobblah
-Lawrence Pizzi
-Your Favorite Astro Nerd
-VagueCraig
-Rob Cairns
+Mike Broussard
+Byron Davies
+Dorota R.
+Lutz Dr. Paelke
+David Brewer
+Bernhard Stoll
+Scott O.
+Stephen Fox
+I Van Vegchel
+Kevin Hanvy
 [legends]
 Pete's Astrophotography
 Blake (ThisOne)
@@ -223,6 +223,9 @@ Rob Cairns
 Your Favorite Astro Nerd
 Graham White
 M. Swierzewski
+Tips
+John P.
+Dorota R.
 [fellowship]
 1949
 A. H. Westphal
@@ -283,6 +286,7 @@ Batłomiej B.
 Baz S.
 Ben Murphy
 Bernardo S. O.
+Bernhard Stoll
 Bertrand D.
 Bevon S.
 Bill Childs
@@ -305,6 +309,7 @@ Brian W.
 Bruce B.
 Bruce S.
 Bruno L.
+Byron Davies
 C. Hudson
 C. O'Neill
 Calvin P.
@@ -400,6 +405,7 @@ Dave S.
 David A. - TexasAstro
 David Aucoin
 David B.
+David Brewer
 David Burrell
 David C.
 David D.
@@ -549,6 +555,7 @@ Herve C.
 High Legh Community Observatory
 Hughes T.
 Hurriyet P.
+I Van Vegchel
 Iain N.
 Ian C.
 Ian F.
@@ -642,7 +649,6 @@ John L.
 John M.
 John Mozdziers
 John Osborne
-John P.
 John R.
 John S.
 John Sedlacek
@@ -691,6 +697,7 @@ Kev
 Kevin
 Kevin C.
 Kevin Cornell
+Kevin Hanvy
 Kevin K.
 Kevin Monroe
 Kevin N.
@@ -727,6 +734,7 @@ Les W.
 Lezro
 Liana L.
 Lily Y.
+Linton Guise
 Lionel J.
 Lloyd M.
 LoneSampler
@@ -742,6 +750,7 @@ Ludovico F.
 Luigi Ciuti
 Luis M.
 Luke Hearn
+Lutz Dr. Paelke
 Lyle A.
 Lyndon K.
 Lynn D.
@@ -801,6 +810,7 @@ Matthew W.
 Mauricio H.
 Maurizio T.
 Max C.
+Melgigg
 Michael B.
 Michael C.
 Michael D.
@@ -823,6 +833,7 @@ Michel J.
 Michel M.
 Michie
 Mike B.
+Mike Broussard
 Mike Lovett
 Mike N.
 Miroslaw A. M.
@@ -1018,6 +1029,7 @@ Sandrine G.
 Satoru M.
 Sau W.
 Saulius G.
+Scott O.
 Scott S.
 Scott U.
 Sean M.
@@ -1046,6 +1058,7 @@ Stephan L.
 Stephen B.
 Stephen C.
 Stephen D.
+Stephen Fox
 Stephen H.
 Stephen L.
 Stephen La.
@@ -1117,6 +1130,7 @@ Troy M.
 Troy S.
 Tudor A.
 Uladzimir A.
+Ulrich E.
 Ulrich Z.
 VagueCraig
 vanAtteveld
