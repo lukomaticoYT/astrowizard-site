@@ -2,6 +2,7 @@
 # To change or remove your name: message Luke - done the same day.
 # '#' lines are comments. Sections: [recent] [legends] [fellowship].
 [recent]
+DogeHodler41
 robRobblah
 Lawrence Pizzi
 Your Favorite Astro Nerd
@@ -11,7 +12,6 @@ Enoch Omololu
 Kev
 Ulrich Z.
 Robert Z.
-NickH
 [legends]
 Pete's Astrophotography
 Blake (ThisOne)
@@ -429,6 +429,7 @@ Didier V. H.
 Dietmar H.
 Dion G.
 Dirk J.
+DogeHodler41
 Domenico Izzo
 Don C.
 Don H.
