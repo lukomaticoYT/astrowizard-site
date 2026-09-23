@@ -2,6 +2,7 @@
 # To change or remove your name: message Luke - done the same day.
 # '#' lines are comments. Sections: [recent] [legends] [fellowship].
 [recent]
+Lawrence Pizzi
 Your Favorite Astro Nerd
 VagueCraig
 Rob Cairns
@@ -11,7 +12,6 @@ Ulrich Z.
 Robert Z.
 NickH
 J. W.
-Andreas S.
 [legends]
 Pete's Astrophotography
 Blake (ThisOne)
@@ -711,6 +711,7 @@ Laurence C.
 Laurie C.
 Laurie G.
 Lawrence K.
+Lawrence Pizzi
 Lee H.
 Lee P.
 Leigh L.
