@@ -2,6 +2,7 @@
 # To change or remove your name: message Luke - done the same day.
 # '#' lines are comments. Sections: [recent] [legends] [fellowship].
 [recent]
+Phillip Monier
 Len Jones
 DogeHodler41
 robRobblah
@@ -11,7 +12,6 @@ VagueCraig
 Rob Cairns
 Enoch Omololu
 Kev
-Ulrich Z.
 [legends]
 Pete's Astrophotography
 Blake (ThisOne)
@@ -913,6 +913,7 @@ Philip T.
 Philipp
 Philippe F.
 Phillip K.
+Phillip Monier
 Pierre B.
 Pim V.
 Piotr I.
