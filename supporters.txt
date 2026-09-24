@@ -2,16 +2,16 @@
 # To change or remove your name: message Luke - done the same day.
 # '#' lines are comments. Sections: [recent] [legends] [fellowship].
 [recent]
+Malcolm Brandon
+Kevin Dorsey-Tyler
+Frank Wiesner
+Julio Vannini
+Ted D.
+Chartra Astrology Services
+Frank W.
+David Stein
 Benedict Hirth
 Mike Broussard
-Byron Davies
-Dorota R.
-Lutz Dr. Paelke
-David Brewer
-Bernhard Stoll
-Scott O.
-Stephen Fox
-I Van Vegchel
 [legends]
 Pete's Astrophotography
 Blake (ThisOne)
@@ -337,6 +337,7 @@ Charles L.
 Charles P.
 Charles W.
 Charles Webb
+Chartra Astrology Services
 Chau S.
 Cheryl W.
 Chester W.
@@ -421,6 +422,7 @@ David K.
 David M. O.
 David N.
 David S.
+David Stein
 David T.
 Dawn P.
 Dean S.
@@ -488,6 +490,8 @@ Frank C.
 Frank F.
 Frank H.
 Frank S.
+Frank W.
+Frank Wiesner
 Franz G.
 Frederic E.
 Frederick S.
@@ -670,6 +674,7 @@ Juan C. S. A.
 Juan D. P. A.
 Juan T.
 Julie G.
+Julio Vannini
 Jurgen D.
 Jóhannes C.
 Jörg S.
@@ -698,6 +703,7 @@ Kev
 Kevin
 Kevin C.
 Kevin Cornell
+Kevin Dorsey-Tyler
 Kevin Hanvy
 Kevin K.
 Kevin Monroe
@@ -763,6 +769,7 @@ M. Schuster
 M. Sullivan
 M.Frazier
 Mac Bowden
+Malcolm Brandon
 Malcolm T.
 Manfred S.
 Manoj J.
@@ -1094,6 +1101,7 @@ Subhadip C.
 Syed Ahmed Haider
 Szortis Szortis
 T. Blevins
+Ted D.
 Ted G.
 Tennessee Carmel-Veilleux
 Thanasis M.
