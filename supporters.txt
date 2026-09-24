@@ -2,6 +2,7 @@
 # To change or remove your name: message Luke - done the same day.
 # '#' lines are comments. Sections: [recent] [legends] [fellowship].
 [recent]
+TalkToGreg
 Malcolm Brandon
 Kevin Dorsey-Tyler
 Frank Wiesner
@@ -11,7 +12,6 @@ Neville Drake
 Frank W.
 David Stein
 Benedict Hirth
-Mike Broussard
 [legends]
 Pete's Astrophotography
 Blake (ThisOne)
@@ -1101,6 +1101,7 @@ Subhadip C.
 Syed Ahmed Haider
 Szortis Szortis
 T. Blevins
+TalkToGreg
 Ted D.
 Ted G.
 Tennessee Carmel-Veilleux
