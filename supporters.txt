@@ -2,6 +2,7 @@
 # To change or remove your name: message Luke - done the same day.
 # '#' lines are comments. Sections: [recent] [legends] [fellowship].
 [recent]
+noskos
 Russ McNulty
 Dave A. Ckopoct
 Charles K.
@@ -11,7 +12,6 @@ Peter Sayers
 AnneBWPhotography
 Thomas K.
 Jordi Solaz
-F W Cliff
 [legends]
 Pete's Astrophotography
 Blake (ThisOne)
@@ -888,6 +888,7 @@ Nino D.
 Noah B.
 NoDarlSkies
 Norman L.
+noskos
 nosTa
 Old Girl Photography
 Oni Technology
