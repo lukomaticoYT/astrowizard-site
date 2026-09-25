@@ -2,16 +2,16 @@
 # To change or remove your name: message Luke - done the same day.
 # '#' lines are comments. Sections: [recent] [legends] [fellowship].
 [recent]
-TalkToGreg
-Malcolm Brandon
-Kevin Dorsey-Tyler
-Frank Wiesner
-Julio Vannini
-Ted D.
-Neville Drake
-Frank W.
-David Stein
-Benedict Hirth
+Russ McNulty
+Dave A. Ckopoct
+Charles K.
+Ronald W. Alter
+William Marquardt
+Peter Sayers
+AnneBWPhotography
+Thomas K.
+Jordi Solaz
+F W Cliff
 [legends]
 Pete's Astrophotography
 Blake (ThisOne)
@@ -226,6 +226,11 @@ M. Swierzewski
 Tips
 John P.
 Dorota R.
+Alex O.
+Brian Dowling
+F W Cliff
+Jeff Fishman
+Dave A. Ckopoct
 [fellowship]
 1949
 A. H. Westphal
@@ -271,6 +276,7 @@ Andy R.
 Andy W.
 AndyS
 Angie G.
+AnneBWPhotography
 Antoine W.
 Arne B.
 Arun A.
@@ -333,6 +339,7 @@ Chance Y.
 Charles B.
 Charles Beckham
 Charles Coughlan
+Charles K.
 Charles L.
 Charles P.
 Charles W.
@@ -607,7 +614,6 @@ Jason P.
 Javier G. O.
 Jean-François R.
 Jean-Marie B.
-Jeff Fishman
 Jeff K.
 Jeff McGinniss
 Jeff P.
@@ -640,6 +646,7 @@ John Bimson
 John C.
 John De Marco
 John F.
+John Farrell
 John Flaherty
 John G.
 John Grana
@@ -662,6 +669,7 @@ Jon C.
 Jonathan H.
 Jonbanjovie
 Jonny Pulli
+Jordi Solaz
 Joseph C.
 Joseph L.
 Joseph S.
@@ -783,9 +791,11 @@ Marcin P.
 Marco R.
 Marcos J. Pinto - Lux Antiqua
 Mario M.
+Mario V.
 Marj E.
 Mark Ball
 Mark Brown
+Mark Coleclough
 Mark G.
 Mark Gascoigne
 Mark H.
@@ -860,6 +870,7 @@ Nathan H.
 Nb Knight
 Neal
 Neal K.
+Neil A.
 Neil B.
 Neil C.
 Neil H.
@@ -923,6 +934,7 @@ Peter M. M.
 Peter R.
 Peter Relf
 Peter S.
+Peter Sayers
 Peter van B.
 Peter Y.
 Petr K.
@@ -1015,6 +1027,8 @@ Roger K. Jr
 Ron Vargas
 Ronald C.
 Ronald G.
+Ronald J Van Dyk
+Ronald W. Alter
 Rondle M.
 Ronnie G.
 Ross O.
@@ -1022,6 +1036,7 @@ Roy F.
 Roy Hornyak
 Rui C.
 RURIOSTE
+Russ McNulty
 Ryan O.
 S. Green
 S. Ryrie
@@ -1110,6 +1125,7 @@ The Astrollarium
 Theo K.
 Thomas B.
 Thomas C.
+Thomas K.
 Thomas Skrovanek
 Thomas Türk
 Thomas W.
@@ -1173,6 +1189,7 @@ William F.
 William Hartwell
 William K.
 William L.
+William Marquardt
 Wolfgang B.
 Xavier H.
 Yannik W.
