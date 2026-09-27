@@ -2,6 +2,7 @@
 # To change or remove your name: message Luke - done the same day.
 # '#' lines are comments. Sections: [recent] [legends] [fellowship].
 [recent]
+Patrick Matheson
 Rowald N.
 Ken Tischler
 Thorsten M.
@@ -11,7 +12,6 @@ Dan Mosher
 Maren L.
 William S.
 Kari T.
-Yann A.
 [legends]
 Pete's Astrophotography
 Blake (ThisOne)
@@ -932,6 +932,7 @@ Pascal B. H.
 Pascal E.
 Pascal Segouffin
 Patrick E.
+Patrick Matheson
 Patrick N.
 Patrizio C.
 Paul B.
