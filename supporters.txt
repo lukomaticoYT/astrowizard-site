@@ -2,16 +2,16 @@
 # To change or remove your name: message Luke - done the same day.
 # '#' lines are comments. Sections: [recent] [legends] [fellowship].
 [recent]
-Joe L.
-Bernd L.
-Richard Morris
-James R. Wilkinson
-Robert Bain
-Jeffrey W.
-Ulrich Barth
-Stuart Sykes
-Michael A.
-Esa Åkerman
+Ken Tischler
+Thorsten M.
+Esko H.
+Stephan Sosik
+Dan Mosher
+Maren L.
+William S.
+Kari T.
+Yann A.
+Mark D.
 [legends]
 Pete's Astrophotography
 Blake (ThisOne)
@@ -238,6 +238,8 @@ Esa Åkerman
 Ulrich Barth
 Bruno L.
 Joe L.
+Gordon Z.
+Glen Hughes
 [fellowship]
 1949
 A. H. Westphal
@@ -278,6 +280,7 @@ Andrew L.
 Andrew N.
 Andrew R.
 Andrew W.
+André K.
 Andy R.
 Andy W.
 AndyS
@@ -285,6 +288,7 @@ Angie G.
 AnneBWPhotography
 Antoine W.
 Arne B.
+Arno F.
 Arun A.
 Astr0mink/NomadicAstronomy
 AstraOrionis
@@ -298,6 +302,7 @@ Batłomiej B.
 Baz S.
 Ben Murphy
 Benedict Hirth
+Benjamin V.
 Bernardo S. O.
 Bernd L.
 Bernhard Stoll
@@ -323,6 +328,7 @@ Brian W.
 Bruce B.
 Bruce S.
 Byron Davies
+Bård K. G.
 C. Hudson
 C. O'Neill
 Calvin P.
@@ -404,6 +410,7 @@ Dale C.
 Dale R.
 Dan D.
 Dan H.
+Dan Mosher
 Daniel Freder
 Daniel G.
 Daniel K.
@@ -434,6 +441,7 @@ David K.
 David M. O.
 David N.
 David S.
+David Saradini
 David Stein
 David T.
 Dawn P.
@@ -488,6 +496,7 @@ Eric Lew
 Erik V. H. Fotografie
 Ernst K.
 Erwin247
+Esko H.
 Eugenio G.
 F W Milsom
 F. Linde
@@ -501,6 +510,7 @@ Frank "Astronut" G.
 Frank C.
 Frank F.
 Frank H.
+Frank K.
 Frank S.
 Frank W.
 Frank Wiesner
@@ -512,6 +522,7 @@ G. Stoppa
 Gabriel P.
 Galactic Paparazzi
 Gareth B.
+Gary Gordon
 Gary K.
 Gary Meredith
 Gary P.
@@ -519,6 +530,7 @@ Gary R.
 Gary S.
 Gary Z.
 Gary@MUVEDesign
+Gavan S.
 Gavin K.
 Gavin L.
 Geffo
@@ -538,7 +550,6 @@ Glenn C.
 Glenn LeBlanc
 Glenn S.
 Gman520
-Gordon Z.
 Graeme B.
 Graham G.
 Graham P.
@@ -646,6 +657,7 @@ Joe D.
 Joe Dixon
 Joe M.
 Joe V.
+JoeTourist
 Johann D.
 Johannes J. D.
 John A.
@@ -702,6 +714,7 @@ KaKaEs
 Kalev P.
 Kallador
 Karen W.
+Kari T.
 Karl C.
 Karsten J.
 Keith Johnson
@@ -712,6 +725,7 @@ Kelly C.
 Ken F.
 Ken K.
 Ken Kirvan
+Ken Tischler
 Kenneth M.
 Kenneth Sall
 Kenny
@@ -800,12 +814,14 @@ Marcin B.
 Marcin P.
 Marco R.
 Marcos J. Pinto - Lux Antiqua
+Maren L.
 Mario M.
 Mario V.
 Marj E.
 Mark Ball
 Mark Brown
 Mark Coleclough
+Mark D.
 Mark G.
 Mark Gascoigne
 Mark H.
@@ -828,6 +844,7 @@ Martin K.
 Martin R.
 Massive Explosion
 Matej L.
+Mathew S.
 Mathew Z.
 Matt A.
 Matthew G.
@@ -1062,6 +1079,7 @@ Sam Bliss Photography
 Sam M.
 Sam V.
 Samuel D.
+Sandor S.
 Sandrine G.
 Satoru M.
 Sau W.
@@ -1092,6 +1110,7 @@ Steffen S.
 Steinhaus T.
 Stephan E.
 Stephan L.
+Stephan Sosik
 Stephen B.
 Stephen C.
 Stephen D.
@@ -1147,6 +1166,7 @@ Thomas W.
 Thomas Warren
 Thorsten K.
 Thorsten Klingspor
+Thorsten M.
 Tim B.
 Tim J.
 Tim V. R.
@@ -1205,8 +1225,10 @@ William Hartwell
 William K.
 William L.
 William Marquardt
+William S.
 Wolfgang B.
 Xavier H.
+Yann A.
 Yannik W.
 Zoltan D.
 Álvaro H. V.
