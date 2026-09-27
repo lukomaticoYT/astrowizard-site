@@ -2,6 +2,7 @@
 # To change or remove your name: message Luke - done the same day.
 # '#' lines are comments. Sections: [recent] [legends] [fellowship].
 [recent]
+Martin Hudec
 Patrick Matheson
 Rowald N.
 Ken Tischler
@@ -11,7 +12,6 @@ Stephan Sosik
 Dan Mosher
 Maren L.
 William S.
-Kari T.
 [legends]
 Pete's Astrophotography
 Blake (ThisOne)
@@ -840,6 +840,7 @@ Martin B.
 Martin Br.
 Martin E.
 Martin F.
+Martin Hudec
 Martin K.
 Martin R.
 Massive Explosion
