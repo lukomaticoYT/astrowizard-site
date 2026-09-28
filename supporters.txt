@@ -2,16 +2,16 @@
 # To change or remove your name: message Luke - done the same day.
 # '#' lines are comments. Sections: [recent] [legends] [fellowship].
 [recent]
-Martin Hudec
-Patrick Matheson
-Rowald N.
-Ken Tischler
-Thorsten M.
-Esko H.
-Stephan Sosik
-Dan Mosher
-Maren L.
-William S.
+Simon's Astro
+Gilbert G.
+Robert W.
+Mia J.
+Lukas V.
+Toni Cors
+Ernst H.
+David R.
+Wim L.
+Harald Krause
 [legends]
 Pete's Astrophotography
 Blake (ThisOne)
@@ -240,6 +240,9 @@ Bruno L.
 Joe L.
 Gordon Z.
 Glen Hughes
+Leif Petersen
+Lukas V.
+Simon's Astro
 [fellowship]
 1949
 A. H. Westphal
@@ -297,6 +300,7 @@ Astroexeter
 AstroSaandy
 Aurelian G.
 B. Clark Williams
+Barry R.
 Barry Underwood
 Batłomiej B.
 Baz S.
@@ -440,6 +444,7 @@ David J. P.
 David K.
 David M. O.
 David N.
+David R.
 David S.
 David Saradini
 David Stein
@@ -494,6 +499,7 @@ Eric G.
 Eric L.
 Eric Lew
 Erik V. H. Fotografie
+Ernst H.
 Ernst K.
 Erwin247
 Esko H.
@@ -545,6 +551,7 @@ George S.
 Gerald B.
 Gerald G.
 Gil E.
+Gilbert G.
 Glen H.
 Glenn C.
 Glenn LeBlanc
@@ -572,6 +579,7 @@ Hans L.
 Hansi. W.
 HansPS
 Harald K.
+Harald Krause
 Hartmut C.
 Hearnz
 Heinz G.
@@ -657,6 +665,7 @@ Joe D.
 Joe Dixon
 Joe M.
 Joe V.
+Joel C.
 JoeTourist
 Johann D.
 Johannes J. D.
@@ -852,10 +861,12 @@ Matthew G.
 Matthew Hyman
 Matthew K.
 Matthew W.
+Maureen B.
 Mauricio H.
 Maurizio T.
 Max C.
 Melgigg
+Mia J.
 Michael A.
 Michael B.
 Michael C.
@@ -1051,6 +1062,7 @@ Robert P.
 Robert Plant
 Robert R.
 Robert Salmon
+Robert W.
 Robert W. O.
 Robert Z.
 robRobblah
@@ -1068,6 +1080,7 @@ Ross O.
 Rowald N.
 Roy F.
 Roy Hornyak
+Rubén G. V.
 Rui C.
 RURIOSTE
 Russ McNulty
@@ -1181,6 +1194,7 @@ Tom Gray
 Tom K.
 Tomato
 Tommy P.
+Toni Cors
 Tony B.
 Tony C.
 Tony D.
@@ -1229,6 +1243,7 @@ William K.
 William L.
 William Marquardt
 William S.
+Wim L.
 Wolfgang B.
 Xavier H.
 Yann A.
