@@ -2,16 +2,16 @@
 # To change or remove your name: message Luke - done the same day.
 # '#' lines are comments. Sections: [recent] [legends] [fellowship].
 [recent]
+Paul C.
+Ian Minch
+Dennis DeLisle
+Mark M. Astro
+Brian T.
 David Woods
 Simon's Astro
 Gilbert G.
 Robert W.
 Mia J.
-Lukas V.
-Toni Cors
-Ernst H.
-David R.
-Wim L.
 [legends]
 Pete's Astrophotography
 Blake (ThisOne)
@@ -243,6 +243,7 @@ Glen Hughes
 Leif Petersen
 Lukas V.
 Simon's Astro
+Mark M. Astro
 [fellowship]
 1949
 A. H. Westphal
@@ -328,6 +329,7 @@ Brian G.
 Brian Gullett
 Brian L.
 Brian R.
+Brian T.
 Brian W.
 Bruce B.
 Bruce S.
@@ -455,6 +457,7 @@ Dean S.
 Dean T.
 DeanH
 Denis Y.
+Dennis DeLisle
 Dennis V.
 Derek B.
 Derek E.
@@ -598,6 +601,7 @@ Ian C.
 Ian F.
 Ian Ippolito
 Ian L.
+Ian Minch
 Ian W.
 IanMac
 Ingo T.
@@ -951,6 +955,7 @@ Patrizio C.
 Paul B.
 Paul Batstone
 Paul Byrne
+Paul C.
 Paul Elliot
 Paul F.
 Paul H.
