@@ -2,16 +2,16 @@
 # To change or remove your name: message Luke - done the same day.
 # '#' lines are comments. Sections: [recent] [legends] [fellowship].
 [recent]
-Nigel Blunt
-Tony Wharton
-Neil Wynne
-Graham Rousell
-Chris Green
-Ulf M.
-Jean-Claude D.
-Alex Necker
-Amer Alragiba
-Jure Vranicar
+Gordon S.
+Art Morton
+Aeromann6243
+Joseph K.
+David Blevins
+Frank D.
+Charles F.
+Kasey F.
+Elbert McCormick
+Chris B.
 [legends]
 Pete's Astrophotography
 Blake (ThisOne)
@@ -248,6 +248,9 @@ Wolfgang W.
 Amer Alragiba
 Alex Necker
 J. R. Neale
+Kasey F.
+Joseph K.
+Art Morton
 [fellowship]
 1949
 A. H. Westphal
@@ -263,6 +266,7 @@ Adrian G.
 Adrian N.
 Adrian S.
 Adriano G.
+Aeromann6243
 Agustin N.
 Aikya S.
 Ajeeth C.
@@ -363,6 +367,7 @@ Chance Y.
 Charles B.
 Charles Beckham
 Charles Coughlan
+Charles F.
 Charles K.
 Charles L.
 Charles P.
@@ -374,6 +379,7 @@ Chester W.
 ChippyPickets
 Chorge1972
 Chris
+Chris B.
 Chris G.
 Chris Green
 Chris J.
@@ -439,6 +445,7 @@ Dave S.
 David A. - TexasAstro
 David Aucoin
 David B.
+David Blevins
 David Brewer
 David Burrell
 David C.
@@ -504,6 +511,7 @@ Edward Cruz
 Edwin M.
 Edwin Micallef
 Elbee
+Elbert McCormick
 Eliyahu777
 Eric C.
 Eric F.
@@ -526,6 +534,7 @@ Francis R. Pellegrino (AGRsensors)
 Francisco G.
 Frank "Astronut" G.
 Frank C.
+Frank D.
 Frank F.
 Frank H.
 Frank K.
@@ -569,6 +578,7 @@ Glenn C.
 Glenn LeBlanc
 Glenn S.
 Gman520
+Gordon S.
 Graeme B.
 Graham G.
 Graham P.
@@ -836,6 +846,7 @@ Manoj J.
 Manuel A. F. C.
 Manuel M.
 Manuel P. F.
+Mapleseed Gallery
 Marc S.
 Marcel P.
 Marcelo A.
