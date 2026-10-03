@@ -2,16 +2,16 @@
 # To change or remove your name: message Luke - done the same day.
 # '#' lines are comments. Sections: [recent] [legends] [fellowship].
 [recent]
+William Z.
+Mike Weiss
+Andrew Wallace
+Dave Martin
+Warren S.
+Rodger M.
+Chris Hollander
 Gordon S.
 Art Morton
 Aeromann6243
-Joseph K.
-David Blevins
-Frank D.
-Charles F.
-Kasey F.
-Elbert McCormick
-Chris B.
 [legends]
 Pete's Astrophotography
 Blake (ThisOne)
@@ -251,6 +251,9 @@ J. R. Neale
 Kasey F.
 Joseph K.
 Art Morton
+Chris Hollander
+Darryl Z.
+Andrew Wallace
 [fellowship]
 1949
 A. H. Westphal
@@ -437,9 +440,9 @@ Daniel M.
 Daniel S.
 Darren Edwards
 Darren W.
-Darryl Z.
 Dave Haley
 Dave M.
+Dave Martin
 Dave N.
 Dave S.
 David A. - TexasAstro
@@ -924,6 +927,7 @@ Mike B.
 Mike Broussard
 Mike Lovett
 Mike N.
+Mike Weiss
 Miroslaw A. M.
 Mitchell M.
 Mohammed K.
@@ -1105,6 +1109,7 @@ Robert W. O.
 Robert Z.
 robRobblah
 Rod Galley
+Rodger M.
 Roger B.
 Roger K. Jr
 Ron Vargas
@@ -1273,6 +1278,7 @@ Walter R.
 Walter V.
 Ward Booth
 Warren F.
+Warren S.
 Webew
 Wendy B.
 Will J.
@@ -1285,6 +1291,7 @@ William K.
 William L.
 William Marquardt
 William S.
+William Z.
 Wim L.
 Wolfgang B.
 Xavier H.
