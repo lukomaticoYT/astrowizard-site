@@ -2,6 +2,7 @@
 # To change or remove your name: message Luke - done the same day.
 # '#' lines are comments. Sections: [recent] [legends] [fellowship].
 [recent]
+Gregg Shadel
 Hitesh Mehta
 David Körber
 William Z.
@@ -11,7 +12,6 @@ Dave Martin
 Warren S.
 Rodger M.
 Chris Hollander
-Gordon S.
 [legends]
 Pete's Astrophotography
 Blake (ThisOne)
@@ -588,6 +588,7 @@ Graham G.
 Graham P.
 Graham Rousell
 Grainge J.
+Gregg Shadel
 Gregor M.
 Gregory B.
 Gregory J.
