@@ -2,6 +2,7 @@
 # To change or remove your name: message Luke - done the same day.
 # '#' lines are comments. Sections: [recent] [legends] [fellowship].
 [recent]
+Hitesh Mehta
 David Körber
 William Z.
 Mike Weiss
@@ -11,7 +12,6 @@ Warren S.
 Rodger M.
 Chris Hollander
 Gordon S.
-Art Morton
 [legends]
 Pete's Astrophotography
 Blake (ThisOne)
@@ -616,6 +616,7 @@ Henriette C.
 Henry H.
 Herve C.
 High Legh Community Observatory
+Hitesh Mehta
 Hughes T.
 Hurriyet P.
 I Van Vegchel
