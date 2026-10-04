@@ -2,16 +2,16 @@
 # To change or remove your name: message Luke - done the same day.
 # '#' lines are comments. Sections: [recent] [legends] [fellowship].
 [recent]
-Gregg Shadel
-Hitesh Mehta
-David Körber
-William Z.
-Mike Weiss
-Andrew Wallace
-Dave Martin
-Warren S.
-Rodger M.
-Chris Hollander
+Roger Coldiron
+Eric W.
+Hasan A.
+Mark Steeple
+RickFlemattiNaturePhotography
+Brant H.
+Torsten H.
+Captain Steve
+James Webster
+Lance C.
 [legends]
 Pete's Astrophotography
 Blake (ThisOne)
@@ -254,6 +254,10 @@ Art Morton
 Chris Hollander
 Darryl Z.
 Andrew Wallace
+Jose R.
+Captain Steve
+Mark Steeple
+Hasan A.
 [fellowship]
 1949
 A. H. Westphal
@@ -333,6 +337,7 @@ Bob I.
 Bob P.
 Brad H.
 Bradford E.
+Brant H.
 Brett H.
 Brett Hallett
 Brian A.
@@ -522,6 +527,7 @@ Eric F.
 Eric G.
 Eric L.
 Eric Lew
+Eric W.
 Erik V. H. Fotografie
 Ernst H.
 Ernst K.
@@ -654,6 +660,7 @@ James L.
 James R. Wilkinson
 James T.
 James W.
+James Webster
 James Y.
 Jamie B.
 Jan-Marco Petri
@@ -681,6 +688,7 @@ Jeffrey Gossman
 Jeffrey W.
 Jenson K.
 Jeremiah Thom
+Jeremy C.
 Jeremy K.
 Jerome M.
 Jerzy N.
@@ -795,6 +803,7 @@ Krisztian N.
 Krzysztof K.
 Kurt H.
 Ky Lane
+Lance C.
 Lance T.
 Lanny C.
 Larry A.
@@ -845,6 +854,7 @@ M. Schuster
 M. Sullivan
 M.Frazier
 Mac Bowden
+Mad Martian
 Malcolm Brandon
 Malcolm T.
 Manfred S.
@@ -1086,6 +1096,7 @@ Rick G.
 Rick Murray
 Rick T.
 Rick Wood
+RickFlemattiNaturePhotography
 RickJ
 RipForYou
 Rob D.
@@ -1114,6 +1125,7 @@ robRobblah
 Rod Galley
 Rodger M.
 Roger B.
+Roger Coldiron
 Roger K. Jr
 Ron Vargas
 Ronald C.
@@ -1153,6 +1165,7 @@ Scott U.
 Sean M.
 Sebastian W.
 Selvakumar M.
+Shaun Hall
 Shawn Gurley
 Silvana D. C.
 Simon C.
@@ -1240,6 +1253,7 @@ Tobias W.
 Tom Gray
 Tom K.
 Tomato
+TomH
 Tommy P.
 Toni Cors
 Tony B.
@@ -1250,6 +1264,7 @@ Tony Holdsworth
 Tony Wharton
 TonyMan
 Tor Ole Kjellevand
+Torsten H.
 Tracy M.
 Trevor S.
 Troy M.
