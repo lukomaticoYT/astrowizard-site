@@ -2,6 +2,7 @@
 # To change or remove your name: message Luke - done the same day.
 # '#' lines are comments. Sections: [recent] [legends] [fellowship].
 [recent]
+Chas Jackson
 Roger Coldiron
 Eric W.
 Hasan A.
@@ -11,7 +12,6 @@ Brant H.
 Torsten H.
 Captain Steve
 James Webster
-Lance C.
 [legends]
 Pete's Astrophotography
 Blake (ThisOne)
@@ -381,6 +381,7 @@ Charles L.
 Charles P.
 Charles W.
 Charles Webb
+Chas Jackson
 Chau S.
 Cheryl W.
 Chester W.
