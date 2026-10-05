@@ -2,6 +2,7 @@
 # To change or remove your name: message Luke - done the same day.
 # '#' lines are comments. Sections: [recent] [legends] [fellowship].
 [recent]
+Sascha Kückelmann
 Phil May
 Peter M.
 Mel Martin
@@ -11,7 +12,6 @@ Phillip F.
 Paul Zoch
 Jimmy R.
 Mark Hubbard
-David Gorney
 [legends]
 Pete's Astrophotography
 Blake (ThisOne)
@@ -1177,6 +1177,7 @@ Sam V.
 Samuel D.
 Sandor S.
 Sandrine G.
+Sascha Kückelmann
 Satoru M.
 Sau W.
 Saulius G.
