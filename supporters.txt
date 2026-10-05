@@ -2,16 +2,16 @@
 # To change or remove your name: message Luke - done the same day.
 # '#' lines are comments. Sections: [recent] [legends] [fellowship].
 [recent]
-Chas Jackson
-Roger Coldiron
-Eric W.
-Hasan A.
-Mark Steeple
-RickFlemattiNaturePhotography
-Brant H.
-Torsten H.
-Captain Steve
-James Webster
+Phil May
+Peter M.
+Mel Martin
+Joe Novosel
+Fred O.
+Phillip F.
+Paul Zoch
+Jimmy R.
+Mark Hubbard
+David Gorney
 [legends]
 Pete's Astrophotography
 Blake (ThisOne)
@@ -258,6 +258,13 @@ Jose R.
 Captain Steve
 Mark Steeple
 Hasan A.
+Joaquin C. B.
+Sam Evans
+Albert R.
+Clifford Halliwell
+David Gorney
+Paul Zoch
+Joe Novosel
 [fellowship]
 1949
 A. H. Westphal
@@ -477,6 +484,7 @@ David Stein
 David T.
 David Woods
 Dawn P.
+Dba P.
 Dean S.
 Dean T.
 DeanH
@@ -553,6 +561,7 @@ Frank S.
 Frank W.
 Frank Wiesner
 Franz G.
+Fred O.
 Frederic E.
 Frederick S.
 G. Platt
@@ -699,6 +708,7 @@ Jesus Bermudez Gutierrez
 Jim G.
 Jim Gage
 Jim O.
+Jimmy R.
 JLRC
 Joachim R.
 Joaquin B.
@@ -752,6 +762,7 @@ JR
 Juan C. S. A.
 Juan D. P. A.
 Juan T.
+Julian J.
 Julie G.
 Julio Vannini
 Jure Vranicar
@@ -879,9 +890,11 @@ Mark Ball
 Mark Brown
 Mark Coleclough
 Mark D.
+Mark De Spain
 Mark G.
 Mark Gascoigne
 Mark H.
+Mark Hubbard
 Mark L.
 Mark P.
 Mark Penberthy
@@ -913,6 +926,7 @@ Maureen B.
 Mauricio H.
 Maurizio T.
 Max C.
+Mel Martin
 Melgigg
 Mia J.
 Michael A.
@@ -963,6 +977,7 @@ Neil A.
 Neil B.
 Neil C.
 Neil H.
+Neil M.
 Neil W.
 Neil Wynne
 Nerius
@@ -974,6 +989,7 @@ Nick H.
 Nico G.
 Nigel Blunt
 Nigel Finch
+Nigel S.
 NikonJax
 Nino D.
 Noah B.
@@ -1026,6 +1042,7 @@ Peter J. K.
 Peter K.
 Peter L.
 Peter Lind
+Peter M.
 Peter M. M.
 Peter R.
 Peter Relf
@@ -1036,11 +1053,14 @@ Peter Y.
 Petr K.
 Petros M.
 Phil H.
+Phil May
 Philip A.
 Philip G.
+Philip Gelsheimer
 Philip T.
 Philipp
 Philippe F.
+Phillip F.
 Phillip K.
 Phillip Monier
 Pierre B.
@@ -1048,6 +1068,7 @@ Pim V.
 Piotr I.
 PL
 Pol D.
+Pompilio F.
 Puddu I.
 R. Barrett
 R. Barter
