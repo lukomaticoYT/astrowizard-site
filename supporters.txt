@@ -2,16 +2,16 @@
 # To change or remove your name: message Luke - done the same day.
 # '#' lines are comments. Sections: [recent] [legends] [fellowship].
 [recent]
-Sascha Kückelmann
-Phil May
-Peter M.
-Mel Martin
-Joe Novosel
-Fred O.
-Phillip F.
-Paul Zoch
-Jimmy R.
-Mark Hubbard
+Graham C.
+Tony M.
+Gilles N.
+Reinhard R.
+Wolfgang J. S. B.
+JoergBo
+AstroTitan
+Lee B.
+Jeremy B.
+Mr M Hood
 [legends]
 Pete's Astrophotography
 Blake (ThisOne)
@@ -266,6 +266,10 @@ David Gorney
 Paul Zoch
 Joe Novosel
 Lynn D.
+GuybrushT
+AstroTitan
+Wolfgang J. S. B.
+Reinhard R.
 [fellowship]
 1949
 A. H. Westphal
@@ -449,6 +453,7 @@ Dan H.
 Dan Mosher
 Daniel Freder
 Daniel G.
+Daniel H.
 Daniel K.
 Daniel M.
 Daniel S.
@@ -546,6 +551,7 @@ Esko H.
 Eugenio G.
 F W Milsom
 F. Linde
+Fernando P.
 Florian S.
 Foc
 Francesco A.
@@ -594,6 +600,7 @@ Gerald B.
 Gerald G.
 Gil E.
 Gilbert G.
+Gilles N.
 Glen H.
 Glenn C.
 Glenn LeBlanc
@@ -601,6 +608,7 @@ Glenn S.
 Gman520
 Gordon S.
 Graeme B.
+Graham C.
 Graham G.
 Graham P.
 Graham Rousell
@@ -615,7 +623,6 @@ Guillaume B.
 Guinigundo CPA's
 Guy R.
 Guy T.
-GuybrushT
 Gwinn Hall
 Hamid S.
 Hanns B.
@@ -685,6 +692,7 @@ Jason Martin
 Jason N.
 Jason P.
 Javier G. O.
+Jean G.
 Jean TON VAN
 Jean-Claude D.
 Jean-François R.
@@ -699,6 +707,7 @@ Jeffrey Gossman
 Jeffrey W.
 Jenson K.
 Jeremiah Thom
+Jeremy B.
 Jeremy C.
 Jeremy K.
 Jerome M.
@@ -719,6 +728,7 @@ Joe Dixon
 Joe M.
 Joe V.
 Joel C.
+JoergBo
 JoeTourist
 Johann D.
 Johannes J. D.
@@ -810,6 +820,7 @@ Kevin S.
 Kevin Smith
 Kieron W.
 Klaus W.
+klshome
 Konflozius
 Kris H.
 Krisztian N.
@@ -828,6 +839,7 @@ Laurie C.
 Laurie G.
 Lawrence K.
 Lawrence Pizzi
+Lee B.
 Lee H.
 Lee P.
 Leigh L.
@@ -962,6 +974,7 @@ Mohammed K.
 Mondland.de
 Morgan H.
 Mr Facey
+Mr M Hood
 Murlin G.
 Murray Fox Photography
 Muzza
@@ -1284,6 +1297,7 @@ Tony C.
 Tony D.
 Tony H.
 Tony Holdsworth
+Tony M.
 Tony Wharton
 TonyMan
 Tor Ole Kjellevand
