@@ -2,16 +2,16 @@
 # To change or remove your name: message Luke - done the same day.
 # '#' lines are comments. Sections: [recent] [legends] [fellowship].
 [recent]
-David Evans
-Graham C.
-Tony M.
-Gilles N.
-Reinhard R.
-Wolfgang J. S. B.
-JoergBo
-AstroTitan
-Lee B.
-Jeremy B.
+Thomas Schliwa
+Marinus H.
+Christopher S.
+Mark Gainey
+Sue B.
+Robin B.
+Steve Kompier
+Christopher P. T.
+Robin Earl
+Bryce B.
 [legends]
 Pete's Astrophotography
 Blake (ThisOne)
@@ -270,6 +270,8 @@ GuybrushT
 AstroTitan
 Wolfgang J. S. B.
 Reinhard R.
+Calzone64
+Bernhard A.
 [fellowship]
 1949
 A. H. Westphal
@@ -281,6 +283,7 @@ Adam C.
 Adam D.
 Adam H.
 Adrian B.
+Adrian Brunt
 Adrian G.
 Adrian N.
 Adrian S.
@@ -347,6 +350,7 @@ Bo Sundin
 Bob G.
 Bob I.
 Bob P.
+Boris S.
 Brad H.
 Bradford E.
 Brant H.
@@ -362,6 +366,7 @@ Brian T.
 Brian W.
 Bruce B.
 Bruce S.
+Bryce B.
 Byron Davies
 Bård K. G.
 C. Hudson
@@ -414,6 +419,8 @@ Christian T.
 Christopher C.
 Christopher E.
 Christopher H.
+Christopher P. T.
+Christopher S.
 Christopher W.
 Chuck Garcia
 Chuck T.
@@ -457,6 +464,7 @@ Daniel H.
 Daniel K.
 Daniel M.
 Daniel S.
+Darrell A.
 Darren Edwards
 Darren W.
 Dave Haley
@@ -543,6 +551,7 @@ Eric F.
 Eric G.
 Eric L.
 Eric Lew
+Eric T. T.
 Eric W.
 Erik V. H. Fotografie
 Ernst H.
@@ -653,6 +662,7 @@ Ian Ippolito
 Ian L.
 Ian Minch
 Ian W.
+Ian Z.
 IanMac
 Ingo T.
 Ivan H.
@@ -671,6 +681,7 @@ Jack Heeley
 Jacob G.
 James A.
 James Baccala
+James Baskett
 James Brennan
 James C.
 James K.
@@ -735,6 +746,7 @@ Johann D.
 Johannes J. D.
 John A.
 John Addison
+John B.
 John Bimson
 John C.
 John De Marco
@@ -896,6 +908,7 @@ Marcin P.
 Marco R.
 Marcos J. Pinto - Lux Antiqua
 Maren L.
+Marinus H.
 Mario M.
 Mario V.
 Marj E.
@@ -905,6 +918,7 @@ Mark Coleclough
 Mark D.
 Mark De Spain
 Mark G.
+Mark Gainey
 Mark Gascoigne
 Mark H.
 Mark Hubbard
@@ -913,6 +927,7 @@ Mark P.
 Mark Penberthy
 Mark Pietrosanto
 Mark S.
+Mark Sabino
 Mark T.
 Mark Y.
 MarkAbs
@@ -1157,6 +1172,8 @@ Robert Salmon
 Robert W.
 Robert W. O.
 Robert Z.
+Robin B.
+Robin Earl
 robRobblah
 Rod Galley
 Rodger M.
@@ -1202,6 +1219,7 @@ Scott U.
 Sean M.
 Sebastian W.
 Selvakumar M.
+SereneScream
 Shaun Hall
 Shawn Gurley
 Silvana D. C.
@@ -1237,6 +1255,7 @@ Stephen P.
 Stephen R.
 Stephen Roesch
 Steve D.
+Steve Kompier
 Steve P. K.
 Steve R.
 Steve T
@@ -1260,6 +1279,7 @@ Stuart M.
 Stuart Sykes
 Studio_AP
 Subhadip C.
+Sue B.
 Syed Ahmed Haider
 Szortis Szortis
 T. Blevins
@@ -1273,6 +1293,7 @@ Theo K.
 Thomas B.
 Thomas C.
 Thomas K.
+Thomas Schliwa
 Thomas Skrovanek
 Thomas Türk
 Thomas W.
@@ -1308,6 +1329,7 @@ Trevor S.
 Troy M.
 Troy S.
 Tudor A.
+Ujjwal D.
 Uladzimir A.
 Ulf M.
 Ulrich E.
