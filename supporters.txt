@@ -2,6 +2,7 @@
 # To change or remove your name: message Luke - done the same day.
 # '#' lines are comments. Sections: [recent] [legends] [fellowship].
 [recent]
+David Evans
 Graham C.
 Tony M.
 Gilles N.
@@ -11,7 +12,6 @@ JoergBo
 AstroTitan
 Lee B.
 Jeremy B.
-Mr M Hood
 [legends]
 Pete's Astrophotography
 Blake (ThisOne)
@@ -474,6 +474,7 @@ David C.
 David D.
 David DeCroix
 David E.
+David Evans
 David F. L.
 David Gladden
 David H.
