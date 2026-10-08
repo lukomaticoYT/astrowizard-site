@@ -2,16 +2,16 @@
 # To change or remove your name: message Luke - done the same day.
 # '#' lines are comments. Sections: [recent] [legends] [fellowship].
 [recent]
-James Kerrigan
-John T. - 'Zomg'
-Thomas Schliwa
-Marinus H.
-Christopher S.
-Mark Gainey
-Sue B.
-Robin B.
-Steve Kompier
-Christopher P. T.
+King Ricardo
+Richard M.
+James Yoder
+Martin Engels
+Clive I.
+Harold N.
+Brian H.
+Luis P. G.
+sdself
+Roy O.
 [legends]
 Pete's Astrophotography
 Blake (ThisOne)
@@ -274,6 +274,9 @@ Calzone64
 Bernhard A.
 Toni Cors
 John T. - 'Zomg'
+Peter Kempen
+Bob I.
+James Yoder
 [fellowship]
 1949
 A. H. Westphal
@@ -350,7 +353,6 @@ Bill Childs
 Bill M.
 Bo Sundin
 Bob G.
-Bob I.
 Bob P.
 Boris S.
 Brad H.
@@ -362,6 +364,7 @@ Brian A.
 Brian F.
 Brian G.
 Brian Gullett
+Brian H.
 Brian L.
 Brian R.
 Brian T.
@@ -431,6 +434,7 @@ Claude F.
 Claus S.
 Clayton Ostler
 Clive C.
+Clive I.
 Colin B.
 Colin Hunter
 Compadre Chuma
@@ -460,6 +464,7 @@ Dale R.
 Dan D.
 Dan H.
 Dan Mosher
+Daniel
 Daniel Freder
 Daniel G.
 Daniel H.
@@ -644,6 +649,7 @@ Hansi. W.
 HansPS
 Harald K.
 Harald Krause
+Harold N.
 Hartmut C.
 Hearnz
 Heinz G.
@@ -835,6 +841,7 @@ Kevin R.
 Kevin S.
 Kevin Smith
 Kieron W.
+King Ricardo
 Klaus W.
 klshome
 Konflozius
@@ -882,6 +889,7 @@ Luca S.
 Ludovico F.
 Luigi Ciuti
 Luis M.
+Luis P. G.
 Luke Hearn
 Lutz Dr. Paelke
 Lyle A.
@@ -917,6 +925,7 @@ Mario V.
 Marj E.
 Mark Ball
 Mark Brown
+Mark C.
 Mark Coleclough
 Mark D.
 Mark De Spain
@@ -940,6 +949,7 @@ MarkyZnO
 Martin B.
 Martin Br.
 Martin E.
+Martin Engels
 Martin F.
 Martin Hudec
 Martin K.
@@ -1138,6 +1148,7 @@ Richard Dace
 Richard G.
 Richard H.
 Richard L.
+Richard M.
 Richard Morris
 Richard O'Reilly
 Richard R.
@@ -1194,6 +1205,7 @@ Ross O.
 Rowald N.
 Roy F.
 Roy Hornyak
+Roy O.
 Rubén G. V.
 Rui C.
 RURIOSTE
@@ -1219,6 +1231,7 @@ Scott G.
 Scott O.
 Scott S.
 Scott U.
+sdself
 Sean M.
 Sebastian W.
 Selvakumar M.
