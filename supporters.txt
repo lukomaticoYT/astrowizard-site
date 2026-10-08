@@ -2,6 +2,7 @@
 # To change or remove your name: message Luke - done the same day.
 # '#' lines are comments. Sections: [recent] [legends] [fellowship].
 [recent]
+John T. - 'Zomg'
 Thomas Schliwa
 Marinus H.
 Christopher S.
@@ -11,7 +12,6 @@ Robin B.
 Steve Kompier
 Christopher P. T.
 Robin Earl
-Bryce B.
 [legends]
 Pete's Astrophotography
 Blake (ThisOne)
@@ -273,6 +273,7 @@ Reinhard R.
 Calzone64
 Bernhard A.
 Toni Cors
+John T. - 'Zomg'
 [fellowship]
 1949
 A. H. Westphal
