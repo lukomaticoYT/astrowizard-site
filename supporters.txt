@@ -2,6 +2,7 @@
 # To change or remove your name: message Luke - done the same day.
 # '#' lines are comments. Sections: [recent] [legends] [fellowship].
 [recent]
+James Kerrigan
 John T. - 'Zomg'
 Thomas Schliwa
 Marinus H.
@@ -11,7 +12,6 @@ Sue B.
 Robin B.
 Steve Kompier
 Christopher P. T.
-Robin Earl
 [legends]
 Pete's Astrophotography
 Blake (ThisOne)
@@ -687,6 +687,7 @@ James Baskett
 James Brennan
 James C.
 James K.
+James Kerrigan
 James Knudson
 James L.
 James R. Wilkinson
