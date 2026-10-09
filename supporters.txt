@@ -2,16 +2,16 @@
 # To change or remove your name: message Luke - done the same day.
 # '#' lines are comments. Sections: [recent] [legends] [fellowship].
 [recent]
-James G. O'Brien, Ph.D.
-King Ricardo
-Richard M.
-James Yoder
-Martin Engels
-Clive I.
-Harold N.
-Brian H.
-Luis P. G.
-sdself
+Martianplanet
+Gerald K.
+Edgar C.
+Roger T.
+Michael Briscoe
+Mike Ball
+James O.
+Mark Bell
+Mark J.
+Daniel R.
 [legends]
 Pete's Astrophotography
 Blake (ThisOne)
@@ -277,6 +277,10 @@ John T. - 'Zomg'
 Peter Kempen
 Bob I.
 James Yoder
+Daniel R.
+Tor Ole Kjellevand
+Michael Briscoe
+Gerald K.
 [fellowship]
 1949
 A. H. Westphal
@@ -340,6 +344,7 @@ Barry R.
 Barry Underwood
 Batłomiej B.
 Baz S.
+Beejay
 Ben Murphy
 Benedict Hirth
 Benjamin V.
@@ -546,6 +551,7 @@ Earl P.
 Ed K.
 Edd L.
 Eddie L.
+Edgar C.
 Edmund G.
 Edward Cruz
 Edwin M.
@@ -697,6 +703,7 @@ James K.
 James Kerrigan
 James Knudson
 James L.
+James O.
 James R. Wilkinson
 James T.
 James W.
@@ -859,6 +866,7 @@ Lars Amund Larsen
 Laurel P.
 LaurelP
 Laurence C.
+Laurence G.
 Laurie C.
 Laurie G.
 Lawrence K.
@@ -925,6 +933,7 @@ Mario M.
 Mario V.
 Marj E.
 Mark Ball
+Mark Bell
 Mark Brown
 Mark C.
 Mark Coleclough
@@ -935,6 +944,7 @@ Mark Gainey
 Mark Gascoigne
 Mark H.
 Mark Hubbard
+Mark J.
 Mark L.
 Mark P.
 Mark Penberthy
@@ -947,6 +957,7 @@ MarkAbs
 MarkC
 Marko K.
 MarkyZnO
+Martianplanet
 Martin B.
 Martin Br.
 Martin E.
@@ -994,6 +1005,7 @@ Michel J.
 Michel M.
 Michie
 Mike B.
+Mike Ball
 Mike Broussard
 Mike Lovett
 Mike N.
@@ -1195,6 +1207,7 @@ Rodger M.
 Roger B.
 Roger Coldiron
 Roger K. Jr
+Roger T.
 Ron Vargas
 Ronald C.
 Ronald G.
@@ -1338,7 +1351,6 @@ Tony Holdsworth
 Tony M.
 Tony Wharton
 TonyMan
-Tor Ole Kjellevand
 Torsten H.
 Tracy M.
 Trevor S.
