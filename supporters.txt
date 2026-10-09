@@ -2,6 +2,7 @@
 # To change or remove your name: message Luke - done the same day.
 # '#' lines are comments. Sections: [recent] [legends] [fellowship].
 [recent]
+James G. O'Brien, Ph.D.
 King Ricardo
 Richard M.
 James Yoder
@@ -11,7 +12,6 @@ Harold N.
 Brian H.
 Luis P. G.
 sdself
-Roy O.
 [legends]
 Pete's Astrophotography
 Blake (ThisOne)
@@ -692,6 +692,7 @@ James Baccala
 James Baskett
 James Brennan
 James C.
+James G. O'Brien, Ph.D.
 James K.
 James Kerrigan
 James Knudson
