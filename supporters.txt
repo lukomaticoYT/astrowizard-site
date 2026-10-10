@@ -2,16 +2,16 @@
 # To change or remove your name: message Luke - done the same day.
 # '#' lines are comments. Sections: [recent] [legends] [fellowship].
 [recent]
-Martianplanet
-Gerald K.
-Edgar C.
-Roger T.
-Michael Briscoe
-Mike Ball
-James O.
-Mark Bell
-Mark J.
-Daniel R.
+Andrew Watson
+Eric Holstein
+Bil Kelly
+Fred Le Saint
+Iulian Oprisescu
+Alan Cook
+Michael Heersche
+Charles Edenburn
+Antonio Elias
+Alan Fitzsimmons
 [legends]
 Pete's Astrophotography
 Blake (ThisOne)
@@ -281,6 +281,18 @@ Daniel R.
 Tor Ole Kjellevand
 Michael Briscoe
 Gerald K.
+Tom
+Frederic E.
+Jonny Pulli
+Dion G.
+Christian P. D.
+Osvaldo L.
+Guy Davies
+Bob Woycheese
+Antonio Elias
+Robert Salmon
+Roy F.
+Carl L.
 [fellowship]
 1949
 A. H. Westphal
@@ -302,7 +314,9 @@ Agustin N.
 Aikya S.
 Ajeeth C.
 AL
+Alan Cook
 Alan D.
+Alan Fitzsimmons
 Alan L.
 Alan T.
 Albert A.
@@ -323,6 +337,8 @@ Andrew L.
 Andrew N.
 Andrew R.
 Andrew W.
+Andrew Watson
+Andrzej G.
 André Knöfel
 Andy R.
 Andy W.
@@ -354,6 +370,7 @@ Bernd M.
 Bernhard Stoll
 Bertrand D.
 Bevon S.
+Bil Kelly
 Bill Childs
 Bill M.
 Bo Sundin
@@ -384,7 +401,6 @@ C. O'Neill
 Calvin P.
 Carl
 Carl B.
-Carl L.
 Carl P.
 Carlos A.
 Carlos D.
@@ -393,6 +409,7 @@ Carlos R.
 Carol N.
 Caroline K.
 Carsenium
+Carsten
 Carsten Baltes
 Carter Mehl
 CB Johnson
@@ -402,6 +419,7 @@ Chance Y.
 Charles B.
 Charles Beckham
 Charles Coughlan
+Charles Edenburn
 Charles F.
 Charles K.
 Charles L.
@@ -429,6 +447,7 @@ Christian T.
 Christopher C.
 Christopher E.
 Christopher H.
+Christopher Lorton
 Christopher P. T.
 Christopher S.
 Christopher W.
@@ -527,7 +546,6 @@ DHP Radio
 Didier P.
 Didier V. H.
 Dietmar H.
-Dion G.
 Dirk J.
 DogeHodler41
 Domenico Izzo
@@ -562,6 +580,7 @@ Eliyahu777
 Eric C.
 Eric F.
 Eric G.
+Eric Holstein
 Eric L.
 Eric Lew
 Eric T. T.
@@ -586,13 +605,16 @@ Frank C.
 Frank D.
 Frank F.
 Frank H.
+Frank Johns
 Frank K.
 Frank S.
+Frank Szeplakay
 Frank W.
 Frank Wiesner
+Frans Mertens
 Franz G.
+Fred Le Saint
 Fred O.
-Frederic E.
 Frederick S.
 G. Platt
 G. Stoppa
@@ -679,6 +701,7 @@ Ian W.
 Ian Z.
 IanMac
 Ingo T.
+Iulian Oprisescu
 Ivan H.
 Ivan T.
 J R Van Mierlo
@@ -746,6 +769,7 @@ Jesus B.
 Jesus Bermudez Gutierrez
 Jim G.
 Jim Gage
+Jim Hunt
 Jim O.
 Jimmy R.
 JLRC
@@ -791,8 +815,8 @@ Jon
 Jon C.
 Jonathan H.
 Jonbanjovie
-Jonny Pulli
 Jordi Solaz
+Jose Pedrero
 Joseph C.
 Joseph L.
 Joseph S.
@@ -813,6 +837,7 @@ Jörg S.
 Jürgen B.
 Jürgen S.
 Jürgen Wartmann
+K V J Woodley
 Kabir J.
 KaKaEs
 Kalev P.
@@ -862,6 +887,7 @@ Lance C.
 Lance T.
 Lanny C.
 Larry A.
+Larry Davidson
 Lars Amund Larsen
 Laurel P.
 LaurelP
@@ -989,6 +1015,7 @@ Michael D.
 Michael De.
 Michael Deen
 Michael F.
+Michael Heersche
 Michael K.
 Michael L.
 Michael MacFarland
@@ -1022,6 +1049,7 @@ Murray Fox Photography
 Muzza
 N. Poirier
 Nachzuchtkorallen24.de
+Nadeem Orrie
 Nadine K. B.
 Nathan C.
 Nathan H.
@@ -1054,7 +1082,6 @@ noskos
 nosTa
 Old Girl Photography
 Oni Technology
-Osvaldo L.
 OWF Ventures
 Ozzoid
 P. Dixon
@@ -1186,6 +1213,7 @@ Robert C.
 Robert E.
 Robert F.
 Robert Greatorex
+Robert Hinkle
 Robert L.
 Robert Lortie
 Robert M.
@@ -1194,8 +1222,8 @@ Robert Moore
 Robert Neal
 Robert P.
 Robert Plant
+Robert Provencher
 Robert R.
-Robert Salmon
 Robert W.
 Robert W. O.
 Robert Z.
@@ -1217,7 +1245,6 @@ Rondle M.
 Ronnie G.
 Ross O.
 Rowald N.
-Roy F.
 Roy Hornyak
 Roy O.
 Rubén G. V.
@@ -1285,6 +1312,7 @@ Stephen P.
 Stephen R.
 Stephen Roesch
 Steve D.
+Steve Davies
 Steve Kompier
 Steve P. K.
 Steve R.
@@ -1347,6 +1375,7 @@ Tony B.
 Tony C.
 Tony D.
 Tony H.
+Tony Hendrix
 Tony Holdsworth
 Tony M.
 Tony Wharton
