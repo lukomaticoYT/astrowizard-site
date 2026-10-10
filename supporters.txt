@@ -2,6 +2,7 @@
 # To change or remove your name: message Luke - done the same day.
 # '#' lines are comments. Sections: [recent] [legends] [fellowship].
 [recent]
+Afonocte
 Andrew Watson
 Eric Holstein
 Bil Kelly
@@ -11,7 +12,6 @@ Alan Cook
 Michael Heersche
 Charles Edenburn
 Antonio Elias
-Alan Fitzsimmons
 [legends]
 Pete's Astrophotography
 Blake (ThisOne)
@@ -310,6 +310,7 @@ Adrian N.
 Adrian S.
 Adriano G.
 Aeromann6243
+Afonocte
 Agustin N.
 Aikya S.
 Ajeeth C.
