@@ -2,16 +2,16 @@
 # To change or remove your name: message Luke - done the same day.
 # '#' lines are comments. Sections: [recent] [legends] [fellowship].
 [recent]
-Afonocte
-Andrew Watson
-Eric Holstein
-Bil Kelly
-Fred Le Saint
-Iulian Oprisescu
-Alan Cook
-Michael Heersche
-Charles Edenburn
-Antonio Elias
+Claudio Lodi
+Amd
+Frank Hermes
+Sebastien Couvidat
+Eric Hamburg
+Marc Cram
+Adam Leach
+Ulrich Huber
+Pascal Boesinger
+Norman Schiddel
 [legends]
 Pete's Astrophotography
 Blake (ThisOne)
@@ -293,6 +293,10 @@ Antonio Elias
 Robert Salmon
 Roy F.
 Carl L.
+Paolo Semenzato
+Ken Haughan
+Alain Domenge
+Luigi Ciuti
 [fellowship]
 1949
 A. H. Westphal
@@ -303,6 +307,7 @@ Aaron Q.
 Adam C.
 Adam D.
 Adam H.
+Adam Leach
 Adrian B.
 Adrian Brunt
 Adrian G.
@@ -326,6 +331,7 @@ Alex P.
 Alex T.
 Alexander M.
 Allan D.
+Amd
 Amit S.
 Amit V.
 Amy M.
@@ -413,6 +419,7 @@ Carsenium
 Carsten
 Carsten Baltes
 Carter Mehl
+Casey West
 CB Johnson
 CelestroMel
 CGL
@@ -436,6 +443,7 @@ Chorge1972
 Chris
 Chris B.
 Chris G.
+Chris Gadwah
 Chris Green
 Chris J.
 Chris James
@@ -456,6 +464,7 @@ Chuck Garcia
 Chuck T.
 CityAstronomer
 Claude F.
+Claudio Lodi
 Claus S.
 Clayton Ostler
 Clive C.
@@ -523,6 +532,7 @@ David J. P.
 David K.
 David Körber
 David M. O.
+David Marks
 David N.
 David R.
 David S.
@@ -581,6 +591,7 @@ Eliyahu777
 Eric C.
 Eric F.
 Eric G.
+Eric Hamburg
 Eric Holstein
 Eric L.
 Eric Lew
@@ -606,6 +617,7 @@ Frank C.
 Frank D.
 Frank F.
 Frank H.
+Frank Hermes
 Frank Johns
 Frank K.
 Frank S.
@@ -817,6 +829,7 @@ Jon C.
 Jonathan H.
 Jonbanjovie
 Jordi Solaz
+Jose Guasch Sanchez
 Jose Pedrero
 Joseph C.
 Joseph L.
@@ -923,7 +936,6 @@ Louis R.
 Loukas M.
 Luca S.
 Ludovico F.
-Luigi Ciuti
 Luis M.
 Luis P. G.
 Luke Hearn
@@ -947,6 +959,7 @@ Manuel A. F. C.
 Manuel M.
 Manuel P. F.
 Mapleseed Gallery
+Marc Cram
 Marc S.
 Marcel P.
 Marcelo A.
@@ -976,6 +989,7 @@ Mark L.
 Mark P.
 Mark Penberthy
 Mark Pietrosanto
+Mark Prentice
 Mark S.
 Mark Sabino
 Mark T.
@@ -1079,6 +1093,7 @@ Nino D.
 Noah B.
 NoDarlSkies
 Norman L.
+Norman Schiddel
 noskos
 nosTa
 Old Girl Photography
@@ -1091,6 +1106,7 @@ Padre
 PaganoPhoto
 PAMAXTEAM
 Pascal B. H.
+Pascal Boesinger
 Pascal E.
 Pascal Segouffin
 Patrick E.
@@ -1103,6 +1119,7 @@ Paul Byrne
 Paul C.
 Paul Elliot
 Paul F.
+Paul Farricker
 Paul H.
 Paul L.
 Paul M.
@@ -1169,6 +1186,7 @@ Ralph S.
 Randall S. D.
 Randall W.
 Rasmus P.
+Ray Astro
 Ray P.
 Raymond L.
 Reference Audio Plus
@@ -1276,6 +1294,7 @@ Scott U.
 sdself
 Sean M.
 Sebastian W.
+Sebastien Couvidat
 Selvakumar M.
 SereneScream
 Shaun Hall
@@ -1391,6 +1410,7 @@ Ujjwal D.
 Uladzimir A.
 Ulf M.
 Ulrich E.
+Ulrich Huber
 Ulrich Z.
 VagueCraig
 vanAtteveld
