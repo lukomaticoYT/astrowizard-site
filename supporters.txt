@@ -2,16 +2,16 @@
 # To change or remove your name: message Luke - done the same day.
 # '#' lines are comments. Sections: [recent] [legends] [fellowship].
 [recent]
-Claudio Lodi
-Amd
-Frank Hermes
-Sebastien Couvidat
-Eric Hamburg
-Marc Cram
-Adam Leach
-Ulrich Huber
-Pascal Boesinger
-Norman Schiddel
+Alaric Thompson
+Heather - WarriorWoman
+ThunderAL_Foto
+Jack Baltzer
+Pete - "The Ein"
+Martin LeBlanc
+Carlyle Nelson
+Ed Internet
+John Leach
+Antonio Torrado
 [legends]
 Pete's Astrophotography
 Blake (ThisOne)
@@ -297,6 +297,10 @@ Paolo Semenzato
 Ken Haughan
 Alain Domenge
 Luigi Ciuti
+Chris Traher
+Guido Porta
+Geoff J.
+Heather - WarriorWoman
 [fellowship]
 1949
 A. H. Westphal
@@ -325,6 +329,7 @@ Alan D.
 Alan Fitzsimmons
 Alan L.
 Alan T.
+Alaric Thompson
 Albert A.
 Albert T.
 Alex P.
@@ -353,11 +358,13 @@ AndyS
 Angie G.
 AnneBWPhotography
 Antoine W.
+Antonio Torrado
 Arne B.
 Arno F.
 Arun A.
 Astr0mink/NomadicAstronomy
 AstraOrionis
+Astro-Corvus
 AstroAndy
 Astroexeter
 AstroSaandy
@@ -406,6 +413,7 @@ Bård K. G.
 C. Hudson
 C. O'Neill
 Calvin P.
+CanD In The Sky
 Carl
 Carl B.
 Carl P.
@@ -413,6 +421,7 @@ Carlos A.
 Carlos D.
 Carlos Espada
 Carlos R.
+Carlyle Nelson
 Carol N.
 Caroline K.
 Carsenium
@@ -577,6 +586,7 @@ Dylan K.
 Dynamic Presence
 E. Eliashar
 Earl P.
+Ed Internet
 Ed K.
 Edd L.
 Eddie L.
@@ -648,7 +658,6 @@ Gavin L.
 Geffo
 Geir H.
 Geoff E.
-Geoff J.
 Geoffrey L.
 Geoffrey V.
 Geoffrey W.
@@ -670,6 +679,7 @@ Graham G.
 Graham P.
 Graham Rousell
 Grainge J.
+Greg Rogan
 Gregg Shadel
 Gregor M.
 Gregory B.
@@ -724,6 +734,7 @@ J. Lord
 J. Morrell
 J. Whitworth
 Jacco W.
+Jack Baltzer
 Jack D.
 Jack G.
 Jack Heeley
@@ -817,6 +828,7 @@ John K.
 John Kelly
 John Kindle
 John L.
+John Leach
 John M.
 John Mozdziers
 John Osborne
@@ -836,6 +848,7 @@ Joseph L.
 Joseph S.
 Joseph T.
 Joseph V.
+Joshua Spotts
 Josiah J.
 JR
 Juan C. S. A.
@@ -1000,12 +1013,14 @@ Marko K.
 MarkyZnO
 Martianplanet
 Martin B.
+Martin Bitzer
 Martin Br.
 Martin E.
 Martin Engels
 Martin F.
 Martin Hudec
 Martin K.
+Martin LeBlanc
 Martin R.
 Massive Explosion
 Matej L.
@@ -1083,8 +1098,10 @@ Neville Drake
 Nhat B.
 Nicholas C.
 Nicholas S.
+Nick B
 Nick H.
 Nico G.
+Nicola Locatelli
 Nigel Blunt
 Nigel Finch
 Nigel S.
@@ -1132,6 +1149,7 @@ Pauline W.
 Paulo B. G.
 Paweł Ł.
 Perry n Becky
+Pete - "The Ein"
 Pete C.
 Peter A.
 Peter Arnold
@@ -1342,6 +1360,7 @@ Steve Z.
 Steve's Woodworking
 Steven A.
 Steven D.
+Steven Grunfeld
 Steven H.
 Steven Myers
 Steven Scott
@@ -1379,6 +1398,7 @@ Thomas Warren
 Thorsten K.
 Thorsten Klingspor
 Thorsten M.
+ThunderAL_Foto
 Tim B.
 Tim J.
 Tim V. R.
