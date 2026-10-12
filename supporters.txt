@@ -2,16 +2,16 @@
 # To change or remove your name: message Luke - done the same day.
 # '#' lines are comments. Sections: [recent] [legends] [fellowship].
 [recent]
-Alaric Thompson
-Heather - WarriorWoman
-ThunderAL_Foto
-Jack Baltzer
-Pete - "The Ein"
-Martin LeBlanc
-Carlyle Nelson
-Ed Internet
-John Leach
-Antonio Torrado
+John McSorley
+ClintonP
+Jose Alves
+Lawrence Capp
+Neil Martin
+Thomas Mizer
+Jonathan Dingwall
+The Ook
+Tony Woods
+Bryan Shumaker
 [legends]
 Pete's Astrophotography
 Blake (ThisOne)
@@ -301,6 +301,9 @@ Chris Traher
 Guido Porta
 Geoff J.
 Heather - WarriorWoman
+Thomas Angle
+Lawrence Capp
+ClintonP
 [fellowship]
 1949
 A. H. Westphal
@@ -407,6 +410,7 @@ Brian T.
 Brian W.
 Bruce B.
 Bruce S.
+Bryan Shumaker
 Bryce B.
 Byron Davies
 Bård K. G.
@@ -572,6 +576,7 @@ Domenico Izzo
 Don C.
 Don H.
 Don Jacob
+Don Waller
 Donald L.
 Donald Lovett
 Doug B.
@@ -730,6 +735,7 @@ J R Van Mierlo
 J. Arter
 J. Fathers
 J. Kirk
+J. Lew
 J. Lord
 J. Morrell
 J. Whitworth
@@ -830,6 +836,7 @@ John Kindle
 John L.
 John Leach
 John M.
+John McSorley
 John Mozdziers
 John Osborne
 John R.
@@ -838,9 +845,11 @@ John Sedlacek
 John W.
 Jon
 Jon C.
+Jonathan Dingwall
 Jonathan H.
 Jonbanjovie
 Jordi Solaz
+Jose Alves
 Jose Guasch Sanchez
 Jose Pedrero
 Joseph C.
@@ -1091,6 +1100,7 @@ Neil B.
 Neil C.
 Neil H.
 Neil M.
+Neil Martin
 Neil W.
 Neil Wynne
 Nerius
@@ -1339,6 +1349,7 @@ Stephan L.
 Stephan Sosik
 Stephen B.
 Stephen C.
+Stephen Channel
 Stephen D.
 Stephen Fox
 Stephen H.
@@ -1386,10 +1397,13 @@ Ted G.
 Tennessee Carmel-Veilleux
 Thanasis M.
 The Astrollarium
+The Ook
 Theo K.
+Theresa M. Fisher
 Thomas B.
 Thomas C.
 Thomas K.
+Thomas Mizer
 Thomas Schliwa
 Thomas Skrovanek
 Thomas Türk
@@ -1418,7 +1432,9 @@ Tony H.
 Tony Hendrix
 Tony Holdsworth
 Tony M.
+Tony Murphy
 Tony Wharton
+Tony Woods
 TonyMan
 Torsten H.
 Tracy M.
