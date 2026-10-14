@@ -2,6 +2,7 @@
 # To change or remove your name: message Luke - done the same day.
 # '#' lines are comments. Sections: [recent] [legends] [fellowship].
 [recent]
+Raoul Fiebig & Renée-Sophie Köhler
 Joe Moschella
 Klaus Petersen
 Richard Bright
@@ -11,7 +12,6 @@ Thoralf Müller
 Roland Auster
 Jon Gwinn
 Lance Michel
-Roger Nösberger
 [legends]
 Pete's Astrophotography
 Blake (ThisOne)
@@ -1226,6 +1226,7 @@ Rafael J.
 Ralph S.
 Randall S. D.
 Randall W.
+Raoul Fiebig & Renée-Sophie Köhler
 Rasmus P.
 Ray Astro
 Ray P.
