@@ -2,16 +2,16 @@
 # To change or remove your name: message Luke - done the same day.
 # '#' lines are comments. Sections: [recent] [legends] [fellowship].
 [recent]
-John McSorley
-ClintonP
-Jose Alves
-Lawrence Capp
-Neil Martin
-Thomas Mizer
-Jonathan Dingwall
-The Ook
-Tony Woods
-Bryan Shumaker
+Joe Moschella
+Klaus Petersen
+Richard Bright
+Stuart and Lois Fox
+@JoshBackyardAstro
+Thoralf Müller
+Roland Auster
+Jon Gwinn
+Lance Michel
+Roger Nösberger
 [legends]
 Pete's Astrophotography
 Blake (ThisOne)
@@ -304,8 +304,14 @@ Heather - WarriorWoman
 Thomas Angle
 Lawrence Capp
 ClintonP
+Mike Ales
+Amazing Sky Photography
+Ankush Patel
+Lance Michel
+Thoralf Müller
 [fellowship]
 1949
+@JoshBackyardAstro
 A. H. Westphal
 A. MacLean
 AAPOD2
@@ -335,6 +341,7 @@ Alan T.
 Alaric Thompson
 Albert A.
 Albert T.
+Alex Liu
 Alex P.
 Alex T.
 Alexander M.
@@ -385,6 +392,7 @@ Bernardo S. O.
 Bernd L.
 Bernd M.
 Bernhard Stoll
+Bernhard Wieczorek
 Bertrand D.
 Bevon S.
 Bil Kelly
@@ -552,6 +560,7 @@ David S.
 David Saradini
 David Stein
 David T.
+David Tyra
 David Woods
 Dawn P.
 Dba P.
@@ -778,6 +787,7 @@ Jean TON VAN
 Jean-Claude D.
 Jean-François R.
 Jean-Marie B.
+Jean-Michel Hirschi
 Jeff 'Deadhead Astroman' Weaver
 Jeff K.
 Jeff McGinniss
@@ -809,6 +819,7 @@ Jody H.
 Joe D.
 Joe Dixon
 Joe M.
+Joe Moschella
 Joe V.
 Joel C.
 JoergBo
@@ -845,6 +856,7 @@ John Sedlacek
 John W.
 Jon
 Jon C.
+Jon Gwinn
 Jonathan Dingwall
 Jonathan H.
 Jonbanjovie
@@ -911,6 +923,7 @@ Kevin S.
 Kevin Smith
 Kieron W.
 King Ricardo
+Klaus Petersen
 Klaus W.
 klshome
 Konflozius
@@ -1227,6 +1240,7 @@ Ricardo G. M.
 Riccardo B.
 Richard A.
 Richard B.
+Richard Bright
 Richard C.
 Richard Carner
 Richard Colman
@@ -1282,7 +1296,9 @@ Rodger M.
 Roger B.
 Roger Coldiron
 Roger K. Jr
+Roger Nösberger
 Roger T.
+Roland Auster
 Ron Vargas
 Ronald C.
 Ronald G.
@@ -1379,10 +1395,12 @@ Steven Thorpe
 Steven Wilden
 Steven Z.
 StrummerJoe
+Stuart and Lois Fox
 Stuart F.
 Stuart Ford
 Stuart G.
 Stuart Glen
+Stuart Hatto
 Stuart M.
 Stuart Sykes
 Studio_AP
@@ -1485,6 +1503,7 @@ William Marquardt
 William S.
 William Z.
 Wim L.
+Winfried Wohlmuth
 Wolfgang B.
 Xavier H.
 Yann A.
