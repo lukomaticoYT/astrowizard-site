@@ -2,6 +2,7 @@
 # To change or remove your name: message Luke - done the same day.
 # '#' lines are comments. Sections: [recent] [legends] [fellowship].
 [recent]
+Wee Ho Sun
 Mahmood Khan
 Paul Sakamoto
 Carey Hamel
@@ -11,7 +12,6 @@ Steven Hoyle
 Tim Senior
 William Meyers
 MrPeachUK
-Tim Fox
 [legends]
 Pete's Astrophotography
 Blake (ThisOne)
@@ -1515,6 +1515,7 @@ Ward Booth
 Warren F.
 Warren S.
 Webew
+Wee Ho Sun
 Wendy B.
 Will J.
 William Bentow
