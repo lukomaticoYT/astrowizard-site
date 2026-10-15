@@ -2,6 +2,7 @@
 # To change or remove your name: message Luke - done the same day.
 # '#' lines are comments. Sections: [recent] [legends] [fellowship].
 [recent]
+Paul Eccles
 Josh Byrne
 Christine Jacobs
 Wee Ho Sun
@@ -11,7 +12,6 @@ Carey Hamel
 Kathleen Cavell
 Angel Riba Boguñá
 Steven Hoyle
-Tim Senior
 [legends]
 Pete's Astrophotography
 Blake (ThisOne)
@@ -1177,6 +1177,7 @@ Paul B.
 Paul Batstone
 Paul Byrne
 Paul C.
+Paul Eccles
 Paul Elliot
 Paul F.
 Paul Farricker
