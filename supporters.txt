@@ -2,6 +2,7 @@
 # To change or remove your name: message Luke - done the same day.
 # '#' lines are comments. Sections: [recent] [legends] [fellowship].
 [recent]
+Christine Jacobs
 Wee Ho Sun
 Mahmood Khan
 Paul Sakamoto
@@ -11,7 +12,6 @@ Angel Riba Boguñá
 Steven Hoyle
 Tim Senior
 William Meyers
-MrPeachUK
 [legends]
 Pete's Astrophotography
 Blake (ThisOne)
@@ -482,6 +482,7 @@ Christian B.
 Christian Dr. Zülch
 Christian Hein
 Christian T.
+Christine Jacobs
 Christopher C.
 Christopher E.
 Christopher H.
