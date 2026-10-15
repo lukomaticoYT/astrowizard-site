@@ -2,16 +2,16 @@
 # To change or remove your name: message Luke - done the same day.
 # '#' lines are comments. Sections: [recent] [legends] [fellowship].
 [recent]
-Raoul Fiebig & Renée-Sophie Köhler
-Joe Moschella
-Klaus Petersen
-Richard Bright
-Stuart and Lois Fox
-@JoshBackyardAstro
-Thoralf Müller
-Roland Auster
-Jon Gwinn
-Lance Michel
+Mahmood Khan
+Paul Sakamoto
+Carey Hamel
+Kathleen Cavell
+Angel Riba Boguñá
+Steven Hoyle
+Tim Senior
+William Meyers
+MrPeachUK
+Tim Fox
 [legends]
 Pete's Astrophotography
 Blake (ThisOne)
@@ -309,6 +309,12 @@ Amazing Sky Photography
 Ankush Patel
 Lance Michel
 Thoralf Müller
+Martyn Tidball
+Merft
+Stan Kiska
+William Meyers
+Tim Senior
+Brant H.
 [fellowship]
 1949
 @JoshBackyardAstro
@@ -365,6 +371,7 @@ André Knöfel
 Andy R.
 Andy W.
 AndyS
+Angel Riba Boguñá
 Angie G.
 AnneBWPhotography
 Antoine W.
@@ -404,7 +411,6 @@ Bob P.
 Boris S.
 Brad H.
 Bradford E.
-Brant H.
 Brett H.
 Brett Hallett
 Brian A.
@@ -417,6 +423,7 @@ Brian R.
 Brian T.
 Brian W.
 Bruce B.
+Bruce Blakeslee
 Bruce S.
 Bryan Shumaker
 Bryce B.
@@ -426,6 +433,7 @@ C. Hudson
 C. O'Neill
 Calvin P.
 CanD In The Sky
+Carey Hamel
 Carl
 Carl B.
 Carl P.
@@ -624,6 +632,7 @@ Eric W.
 Erik V. H. Fotografie
 Ernst H.
 Ernst K.
+Erwin Polreich
 Erwin247
 Esko H.
 Eugenio G.
@@ -686,6 +695,7 @@ Glenn C.
 Glenn LeBlanc
 Glenn S.
 Gman520
+Gonzo T
 Gordon S.
 Graeme B.
 Graham C.
@@ -717,6 +727,7 @@ Harold N.
 Hartmut C.
 Hearnz
 Heinz G.
+Helmut Alwin Parnitzke
 Hendrik B.
 Henri D.
 Henriette C.
@@ -796,6 +807,7 @@ Jeff T.
 Jeffrey G.
 Jeffrey Gossman
 Jeffrey W.
+Jenifer Flor Muñoz
 Jenson K.
 Jeremiah Thom
 Jeremy B.
@@ -882,6 +894,7 @@ Jure Vranicar
 Jurgen D.
 Jóhannes C.
 Jörg S.
+Jörg Ulbricht
 Jürgen B.
 Jürgen S.
 Jürgen Wartmann
@@ -894,6 +907,7 @@ Karen W.
 Kari T.
 Karl C.
 Karsten J.
+Kathleen Cavell
 Keith Johnson
 Keith R.
 Keith S.
@@ -903,6 +917,7 @@ Kelly C.
 Ken F.
 Ken K.
 Ken Kirvan
+Ken Parnell
 Ken Tischler
 Kenneth M.
 Kenneth Sall
@@ -986,6 +1001,7 @@ M. Sullivan
 M.Frazier
 Mac Bowden
 Mad Martian
+Mahmood Khan
 Malcolm Brandon
 Malcolm T.
 Manfred S.
@@ -1062,6 +1078,7 @@ Melgigg
 Mia J.
 Michael A.
 Michael B.
+Michael Baumstark
 Michael C.
 Michael D.
 Michael De.
@@ -1096,6 +1113,7 @@ Mondland.de
 Morgan H.
 Mr Facey
 Mr M Hood
+MrPeachUK
 Murlin G.
 Murray Fox Photography
 Muzza
@@ -1167,6 +1185,7 @@ Paul O.
 Paul Patterson
 Paul R.
 Paul S.
+Paul Sakamoto
 Paul T.
 Pauline W.
 Paulo B. G.
@@ -1275,6 +1294,7 @@ Robert C.
 Robert E.
 Robert F.
 Robert Greatorex
+Robert Helmis
 Robert Hinkle
 Robert L.
 Robert Lortie
@@ -1390,6 +1410,7 @@ Steven A.
 Steven D.
 Steven Grunfeld
 Steven H.
+Steven Hoyle
 Steven Myers
 Steven Scott
 Steven Thorpe
@@ -1433,8 +1454,10 @@ Thorsten Klingspor
 Thorsten M.
 ThunderAL_Foto
 Tim B.
+Tim Fox
 Tim J.
 Tim V. R.
+Timm Kutschat
 Timo K.
 Timothy H.
 Tobi K.
@@ -1472,6 +1495,7 @@ vanAtteveld
 Vaughan S.
 Vicki C.
 Victor
+Victor Demczuk
 Victor G.
 Victor M. B. L.
 Victoria Bennett
@@ -1506,6 +1530,7 @@ William Z.
 Wim L.
 Winfried Wohlmuth
 Wolfgang B.
+Worm43
 Xavier H.
 Yann A.
 Yannik W.
