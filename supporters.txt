@@ -2,6 +2,7 @@
 # To change or remove your name: message Luke - done the same day.
 # '#' lines are comments. Sections: [recent] [legends] [fellowship].
 [recent]
+Josh Byrne
 Christine Jacobs
 Wee Ho Sun
 Mahmood Khan
@@ -11,7 +12,6 @@ Kathleen Cavell
 Angel Riba Boguñá
 Steven Hoyle
 Tim Senior
-William Meyers
 [legends]
 Pete's Astrophotography
 Blake (ThisOne)
@@ -882,6 +882,7 @@ Joseph L.
 Joseph S.
 Joseph T.
 Joseph V.
+Josh Byrne
 Joshua Spotts
 Josiah J.
 JR
