@@ -2,6 +2,7 @@
 # To change or remove your name: message Luke - done the same day.
 # '#' lines are comments. Sections: [recent] [legends] [fellowship].
 [recent]
+Eddy Gladdines
 Ryan Collins
 Bob Olmsted
 Mauro Roccoberton
@@ -11,7 +12,6 @@ Bryan Conley
 Random Sales
 Trevor Hartney
 Libertas
-Dennis Means
 [legends]
 Pete's Astrophotography
 Blake (ThisOne)
@@ -619,6 +619,7 @@ Ed Internet
 Ed K.
 Edd L.
 Eddie L.
+Eddy Gladdines
 Edgar C.
 Edmund G.
 Edward Cruz
