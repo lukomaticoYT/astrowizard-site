@@ -2,16 +2,16 @@
 # To change or remove your name: message Luke - done the same day.
 # '#' lines are comments. Sections: [recent] [legends] [fellowship].
 [recent]
-Paul Eccles
-Josh Byrne
-Christine Jacobs
-Wee Ho Sun
-Mahmood Khan
-Paul Sakamoto
-Carey Hamel
-Kathleen Cavell
-Angel Riba Boguñá
-Steven Hoyle
+Ryan Collins
+Bob Olmsted
+Mauro Roccoberton
+Cyril Hiély
+Mika Narinen
+Bryan Conley
+Random Sales
+Trevor Hartney
+Libertas
+Dennis Means
 [legends]
 Pete's Astrophotography
 Blake (ThisOne)
@@ -315,6 +315,9 @@ Stan Kiska
 William Meyers
 Tim Senior
 Brant H.
+Ajeeth C.
+Roger K. Jr
+Bob Olmsted
 [fellowship]
 1949
 @JoshBackyardAstro
@@ -337,7 +340,6 @@ Aeromann6243
 Afonocte
 Agustin N.
 Aikya S.
-Ajeeth C.
 AL
 Alan Cook
 Alan D.
@@ -425,6 +427,7 @@ Brian W.
 Bruce B.
 Bruce Blakeslee
 Bruce S.
+Bryan Conley
 Bryan Shumaker
 Bryce B.
 Byron Davies
@@ -434,6 +437,7 @@ C. O'Neill
 Calvin P.
 CanD In The Sky
 Carey Hamel
+Carigs
 Carl
 Carl B.
 Carl P.
@@ -514,6 +518,7 @@ CreepsUTrust
 Cygnus Reactor
 Cynthia N.
 Cyril C.
+Cyril Hiély
 D. Beebe
 D. Huff
 D. Kenney
@@ -578,6 +583,7 @@ Dean T.
 DeanH
 Denis Y.
 Dennis DeLisle
+Dennis Means
 Dennis V.
 Derek B.
 Derek E.
@@ -974,6 +980,7 @@ Les DeLay
 Les W.
 Lezro
 Liana L.
+Libertas
 Lily Y.
 Linton Guise
 Lionel J.
@@ -1074,6 +1081,7 @@ Matthew W.
 Maureen B.
 Mauricio H.
 Maurizio T.
+Mauro Roccoberton
 Max C.
 Mel Martin
 Melgigg
@@ -1102,6 +1110,7 @@ Michel H.
 Michel J.
 Michel M.
 Michie
+Mika Narinen
 Mike B.
 Mike Ball
 Mike Broussard
@@ -1248,6 +1257,7 @@ Rafael J.
 Ralph S.
 Randall S. D.
 Randall W.
+Random Sales
 Raoul Fiebig & Renée-Sophie Köhler
 Rasmus P.
 Ray Astro
@@ -1319,7 +1329,6 @@ Rod Galley
 Rodger M.
 Roger B.
 Roger Coldiron
-Roger K. Jr
 Roger Nösberger
 Roger T.
 Roland Auster
@@ -1338,6 +1347,7 @@ Rubén G. V.
 Rui C.
 RURIOSTE
 Russ McNulty
+Ryan Collins
 Ryan O.
 S. Green
 S. Ryrie
@@ -1483,6 +1493,7 @@ Tony Woods
 TonyMan
 Torsten H.
 Tracy M.
+Trevor Hartney
 Trevor S.
 Troy M.
 Troy S.
