@@ -2,16 +2,16 @@
 # To change or remove your name: message Luke - done the same day.
 # '#' lines are comments. Sections: [recent] [legends] [fellowship].
 [recent]
+Thomas Davis
+Mark Connolly
+Tom Me
+Adrian Boone
+Jarrod Claar
+John Stowell
+Leonard Rose
+Omar Mesarwi
+Robert Hunt
 Eddy Gladdines
-Ryan Collins
-Bob Olmsted
-Mauro Roccoberton
-Cyril Hiély
-Mika Narinen
-Bryan Conley
-Random Sales
-Trevor Hartney
-Libertas
 [legends]
 Pete's Astrophotography
 Blake (ThisOne)
@@ -318,6 +318,7 @@ Brant H.
 Ajeeth C.
 Roger K. Jr
 Bob Olmsted
+Omar Mesarwi
 [fellowship]
 1949
 @JoshBackyardAstro
@@ -331,6 +332,7 @@ Adam D.
 Adam H.
 Adam Leach
 Adrian B.
+Adrian Boone
 Adrian Brunt
 Adrian G.
 Adrian N.
@@ -792,6 +794,7 @@ James Y.
 Jamie B.
 Jan-Marco Petri
 Janne K.
+Jarrod Claar
 Jason C.
 Jason E.
 Jason Galletta
@@ -873,6 +876,7 @@ John Osborne
 John R.
 John S.
 John Sedlacek
+John Stowell
 John W.
 Jon
 Jon C.
@@ -977,6 +981,7 @@ Leigh L.
 Len Jones
 Lena G. L.
 Leonard J.
+Leonard Rose
 Les DeLay
 Les W.
 Lezro
@@ -1038,6 +1043,7 @@ Mark Bell
 Mark Brown
 Mark C.
 Mark Coleclough
+Mark Connolly
 Mark D.
 Mark De Spain
 Mark G.
@@ -1310,6 +1316,7 @@ Robert F.
 Robert Greatorex
 Robert Helmis
 Robert Hinkle
+Robert Hunt
 Robert L.
 Robert Lortie
 Robert M.
@@ -1456,6 +1463,7 @@ Theo K.
 Theresa M. Fisher
 Thomas B.
 Thomas C.
+Thomas Davis
 Thomas K.
 Thomas Mizer
 Thomas Schliwa
@@ -1478,6 +1486,7 @@ Tobi K.
 Tobias W.
 Tom Gray
 Tom K.
+Tom Me
 Tomato
 TomH
 Tommy P.
