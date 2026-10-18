@@ -2,16 +2,16 @@
 # To change or remove your name: message Luke - done the same day.
 # '#' lines are comments. Sections: [recent] [legends] [fellowship].
 [recent]
+Fred Lamir
+Paul Summerfield
+Michele Curcio
+Paul Wharton
+John Gurney
+Jim H.
+Xetor
+Phil Marshall
 Thomas Davis
 Mark Connolly
-Tom Me
-Adrian Boone
-Jarrod Claar
-John Stowell
-Leonard Rose
-Omar Mesarwi
-Robert Hunt
-Eddy Gladdines
 [legends]
 Pete's Astrophotography
 Blake (ThisOne)
@@ -319,6 +319,7 @@ Ajeeth C.
 Roger K. Jr
 Bob Olmsted
 Omar Mesarwi
+Jóhannes C.
 [fellowship]
 1949
 @JoshBackyardAstro
@@ -669,6 +670,7 @@ Frank W.
 Frank Wiesner
 Frans Mertens
 Franz G.
+Fred Lamir
 Fred Le Saint
 Fred O.
 Frederick S.
@@ -832,6 +834,7 @@ Jesus B.
 Jesus Bermudez Gutierrez
 Jim G.
 Jim Gage
+Jim H.
 Jim Hunt
 Jim O.
 Jimmy R.
@@ -861,6 +864,7 @@ John Flaherty
 John G.
 John Grana
 John Grunder
+John Gurney
 John H.
 John Herman
 John K Bradley
@@ -905,7 +909,6 @@ Julie G.
 Julio Vannini
 Jure Vranicar
 Jurgen D.
-Jóhannes C.
 Jörg S.
 Jörg Ulbricht
 Jürgen B.
@@ -1116,6 +1119,7 @@ Michel A.
 Michel H.
 Michel J.
 Michel M.
+Michele Curcio
 Michie
 Mika Narinen
 Mike B.
@@ -1205,7 +1209,9 @@ Paul Patterson
 Paul R.
 Paul S.
 Paul Sakamoto
+Paul Summerfield
 Paul T.
+Paul Wharton
 Pauline W.
 Paulo B. G.
 Paweł Ł.
@@ -1232,6 +1238,7 @@ Peter Y.
 Petr K.
 Petros M.
 Phil H.
+Phil Marshall
 Phil May
 Philip A.
 Philip G.
@@ -1557,6 +1564,7 @@ Winfried Wohlmuth
 Wolfgang B.
 Worm43
 Xavier H.
+Xetor
 Yann A.
 Yannik W.
 Zoltan D.
