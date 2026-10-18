@@ -66,9 +66,21 @@
 
   <div class="log">
     <div class="entry">
+      <p class="date">19 OCTOBER 2026</p>
+      <h2>StackingWizard Beta 4.8.2 - Steady Hands</h2>
+      <ul>
+        <li><b>The Windows build is back, baked the way every build before 17 October was.</b> Two bad days, in plain words. The 17 October Windows build was the first one baked on GitHub rather than on my own PC, and on machines with a lot of free memory it closed without a word at the final vote (Jeff, Jan, Takashi, Daniel, Paul M., Jeff T., Christian S. and more - thank you). The 18 October build meant to fix that did not start at all: the bake on the newer Python carried Tk 9 but none of its data, so every machine saw a 'Tcl data directory not found' box - and thirty of you wrote within hours, thank you again. Both are pulled. This build's Windows exe is baked on my own PC with the same pinned set that served every build before 17 October, and it stacks clean in the bench's measurement with the free memory set to a 64 GB machine's figure. Nothing in the engine changed.</li>
+        <li><b>Mac and Linux carry the new date only.</b> They are the 17 October builds rebuilt with this date, so the 'newer build' banner stops looping on Macs (Stuart S., voerboer - thank you). The same bake change comes to them on the next build, with a Mac round first.</li>
+      </ul>
+      <h2>AstroWizard: build 2026-10-19</h2>
+      <ul>
+        <li><b>The same cure for the Windows build.</b> Baked on my own PC with the same pinned set; the 18 October exe that did not start is pulled. Mac and Linux carry the new date only. Nothing else changed.</li>
+      </ul>
+    </div>
+    <div class="entry">
       <p class="date">17 OCTOBER 2026</p>
       <h2>StackingWizard Beta 4.8 - Polyglot</h2>
-      <p style="color:#f2c14e;"><b>18 October, 15:00:</b> the Windows build of this beta closes during stacking on machines with a lot of memory, and this morning's 18 October Windows build (Beta 4.8.1) did not start at all. Both are pulled; the download page offers the 7 October build for Windows until the fixed build lands later today. Mac and Linux builds are the 17 October ones and are fine. Thank you to everyone who wrote.</p>
+      <p style="color:#f2c14e;"><b>18 October:</b> the Windows build of this beta was pulled; see Beta 4.8.2 above.</p>
       <ul>
         <li><b>StackingWizard speaks your language.</b> German, French, Italian, Spanish, Japanese, Simplified and Traditional Chinese, Korean, Hindi, Arabic, Norwegian, Swedish and Danish, as well as English. Pick yours in Settings; a fresh install follows your computer's language, and a change takes effect at the next start. The named places keep their names in every language, so my videos still make sense whichever you run. On Windows, Hindi, Arabic, Japanese, Chinese and Korean are drawn in the system's own fonts for those scripts. Arabic is the newest of all and the app's layout stays left-to-right, so a line that mixes Arabic with numbers or English names can read oddly for now. The translations are brand new and not yet checked by native speakers: if a line reads oddly in yours, send me the better words at wizard@lukomatico.com and they go in the next build.</li>
         <li><b>The same night, stacked twice, is the same stack - again.</b> A mono or planar frame read from disk in bands during the vote could be laid a pixel off, so the same night could stack a little differently on different days, and its stars were a touch blurred. Fixed. Colour (Bayer) nights were never affected.</li>
