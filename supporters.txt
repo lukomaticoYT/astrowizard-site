@@ -2,16 +2,16 @@
 # To change or remove your name: message Luke - done the same day.
 # '#' lines are comments. Sections: [recent] [legends] [fellowship].
 [recent]
-GibsCorner
-AKCatholic
-Martyn
-Barry Gaunt
-Fred Lamir
-Paul Summerfield
-Michele Curcio
-Paul Wharton
-John Gurney
-Jim H.
+Alvin Christie
+Tyler Ivanco
+Donald Golden
+Antonio Silvestre
+Rudolf Reinhardt
+Steve Bentley
+Ken Turner
+Darrel Charles
+Verlon Smith
+Craig Tanikawa
 [legends]
 Pete's Astrophotography
 Blake (ThisOne)
@@ -320,6 +320,9 @@ Roger K. Jr
 Bob Olmsted
 Omar Mesarwi
 Jóhannes C.
+Verlon Smith
+Antonio Silvestre
+Alvin Christie
 [fellowship]
 1949
 @JoshBackyardAstro
@@ -517,6 +520,7 @@ Coristus
 Cornz38
 Craig A.
 Craig H.
+Craig Tanikawa
 CraigyBoy1960
 Crandell O.
 CreepsUTrust
@@ -545,6 +549,8 @@ Daniel H.
 Daniel K.
 Daniel M.
 Daniel S.
+Daniele Brotzu
+Darrel Charles
 Darrell A.
 Darren Edwards
 Darren W.
@@ -606,6 +612,7 @@ Don C.
 Don H.
 Don Jacob
 Don Waller
+Donald Golden
 Donald L.
 Donald Lovett
 Doug B.
@@ -840,6 +847,7 @@ Jim Gage
 Jim H.
 Jim Hunt
 Jim O.
+Jim PC
 Jimmy R.
 JLRC
 Joachim R.
@@ -938,6 +946,7 @@ Ken K.
 Ken Kirvan
 Ken Parnell
 Ken Tischler
+Ken Turner
 Kenneth M.
 Kenneth Sall
 Kenny
@@ -1215,6 +1224,7 @@ Paul S.
 Paul Sakamoto
 Paul Summerfield
 Paul T.
+Paul Van Der Raadt
 Paul Wharton
 Pauline W.
 Paulo B. G.
@@ -1363,6 +1373,7 @@ Rowald N.
 Roy Hornyak
 Roy O.
 Rubén G. V.
+Rudolf Reinhardt
 Rui C.
 RURIOSTE
 Russ McNulty
@@ -1429,6 +1440,7 @@ Stephen M.
 Stephen P.
 Stephen R.
 Stephen Roesch
+Steve Bentley
 Steve D.
 Steve Davies
 Steve Kompier
@@ -1519,6 +1531,7 @@ Trevor S.
 Troy M.
 Troy S.
 Tudor A.
+Tyler Ivanco
 Ujjwal D.
 Uladzimir A.
 Ulf M.
