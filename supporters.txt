@@ -2,6 +2,7 @@
 # To change or remove your name: message Luke - done the same day.
 # '#' lines are comments. Sections: [recent] [legends] [fellowship].
 [recent]
+GibsCorner
 AKCatholic
 Martyn
 Barry Gaunt
@@ -11,7 +12,6 @@ Michele Curcio
 Paul Wharton
 John Gurney
 Jim H.
-Xetor
 [legends]
 Pete's Astrophotography
 Blake (ThisOne)
@@ -701,6 +701,7 @@ Geoffrey W.
 Georg N. N.
 George S.
 Gerald G.
+GibsCorner
 Gil E.
 Gilbert G.
 Gilles N.
