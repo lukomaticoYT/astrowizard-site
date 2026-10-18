@@ -2,6 +2,7 @@
 # To change or remove your name: message Luke - done the same day.
 # '#' lines are comments. Sections: [recent] [legends] [fellowship].
 [recent]
+AKCatholic
 Martyn
 Barry Gaunt
 Fred Lamir
@@ -11,7 +12,6 @@ Paul Wharton
 John Gurney
 Jim H.
 Xetor
-Phil Marshall
 [legends]
 Pete's Astrophotography
 Blake (ThisOne)
@@ -343,6 +343,7 @@ Aeromann6243
 Afonocte
 Agustin N.
 Aikya S.
+AKCatholic
 AL
 Alan Cook
 Alan D.
