@@ -66,6 +66,24 @@
 
   <div class="log">
     <div class="entry">
+      <p class="date">20 OCTOBER 2026</p>
+      <h2>StackingWizard Beta 4.8.3 - Even Steadier Hands</h2>
+      <ul>
+        <li><b>A night whose target is named with a calibration word sorts right.</b> The Dark Shark nebula's Seestar files went to the darks pile because the sorter read the word 'dark' in the OBJECT card and in the filename and believed it - two of you caught it in a day (Dwight, and a report by mail - thank you). The OBJECT card now counts as a calibration frame only when it says nothing but calibration words, a file named 'Light_...' is a light whatever its target is called, and the target's name is cut out of the filename before the sorter reads it. The older sorting rules all still hold.</li>
+        <li><b>A crash log.</b> If the wizard ever closes without a word, as the 17 October build did on some machines, it now leaves crash.log in its settings folder with the state of every thread at the moment it died, and the next start tells you so in the receipts, with the log's last lines. Send that file to wizard@lukomatico.com and the fault can be found in an hour instead of a day.</li>
+        <li><b>The Linux build starts on older processors again</b> (Georg N. - thank you). It carries an older numpy, because the newer ones need a processor feature that some older machines and virtual ones do not have.</li>
+      </ul>
+      <h2>AstroWizard: build 2026-10-20</h2>
+      <ul>
+        <li><b>The manual dial stacks again.</b> The 19 October build replaced the whole stretch on every Apply, and a kept look came out dark when the dial was applied over it - three of you reported it within a day (thank you). Every Apply now builds on the picture as it stands, the way it did before, and a new button in the dial, 'Reset and start again', takes you back to the picture that entered the step with a first pass dialled in, for when you want to start the stretch afresh.</li>
+        <li><b>Compare and Undo after BlurXTerminator show the picture as it looked.</b> Since 17 October the screen stretch kept one set of statistics for the picture after the tool, and showed the picture from before the tool through them - broadband went white, dual narrowband came out brighter (Lee P. - thank you). Every picture now keeps its own.</li>
+        <li><b>Star-True Colours aims at the plate solution.</b> When a picture carries a solved WCS, the Gaia cone is centred through it, not on the RA and DEC cards - an ASIAIR writes those in the current epoch, a third of a degree from J2000, and the cone missed the field (Doug H. - thank you). And after a crop the cone, the centre and the catalogue follow the cropped picture, so Star-True Colours no longer tries to match a cropped frame against the whole frame's stars (Takashi - thank you).</li>
+        <li><b>A crash log,</b> the same as StackingWizard's, read by the Live Process Console at the next start.</li>
+        <li><b>When GraXpert fails, its own log's last lines are shown in the console,</b> so a failure on the graphics card or in a model download says what it was (Liam N. - thank you).</li>
+        <li><b>Small things.</b> The update banner opens the site on Linux (Chris - thank you). The build date is in the window's title (Sonja L. - thank you). The Linux build carries the older numpy too.</li>
+      </ul>
+    </div>
+    <div class="entry">
       <p class="date">19 OCTOBER 2026</p>
       <h2>StackingWizard Beta 4.8.2 - Steady Hands</h2>
       <ul>

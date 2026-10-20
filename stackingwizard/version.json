@@ -1,9 +1,9 @@
 {
-  "build_date": "2026-10-19",
+  "build_date": "2026-10-20",
   "channel": "beta",
-  "windows": "https://github.com/lukomaticoYT/astrowizard-releases/releases/download/stackingwizard-beta-2026-10-19/StackingWizard.exe",
+  "windows": "https://github.com/lukomaticoYT/astrowizard-releases/releases/download/stackingwizard-beta-2026-10-20/StackingWizard.exe",
   "page": "https://astrowizard.lukomatico.com/stackingwizard.html",
-  "mac": "https://github.com/lukomaticoYT/astrowizard-releases/releases/download/stackingwizard-beta-2026-10-19/StackingWizard-mac.zip",
-  "mac_intel": "https://github.com/lukomaticoYT/astrowizard-releases/releases/download/stackingwizard-beta-2026-10-19/StackingWizard-mac-Intel.zip",
-  "linux": "https://github.com/lukomaticoYT/astrowizard-releases/releases/download/stackingwizard-beta-2026-10-19/StackingWizard-Linux-x86_64.tar.gz"
+  "mac": "https://github.com/lukomaticoYT/astrowizard-releases/releases/download/stackingwizard-beta-2026-10-20/StackingWizard-mac.zip",
+  "mac_intel": "https://github.com/lukomaticoYT/astrowizard-releases/releases/download/stackingwizard-beta-2026-10-20/StackingWizard-mac-Intel.zip",
+  "linux": "https://github.com/lukomaticoYT/astrowizard-releases/releases/download/stackingwizard-beta-2026-10-20/StackingWizard-Linux-x86_64.tar.gz"
 }
