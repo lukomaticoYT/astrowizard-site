@@ -2,6 +2,7 @@
 # To change or remove your name: message Luke - done the same day.
 # '#' lines are comments. Sections: [recent] [legends] [fellowship].
 [recent]
+Lynne Thistlethwaite
 Dr. Aby S Charles
 Graham Winstanley
 Gabriele Coco
@@ -11,7 +12,6 @@ Andy Krüger
 Eugene Lauria
 Michel Brea
 James Yanko
-Paul Singer
 [legends]
 Pete's Astrophotography
 Blake (ThisOne)
@@ -1036,6 +1036,7 @@ Luke Hearn
 Lutz Dr. Paelke
 Lyle A.
 Lyndon K.
+Lynne Thistlethwaite
 M. Bonser
 M. Kotchie
 M. Kraft
