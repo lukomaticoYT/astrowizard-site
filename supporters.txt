@@ -2,6 +2,7 @@
 # To change or remove your name: message Luke - done the same day.
 # '#' lines are comments. Sections: [recent] [legends] [fellowship].
 [recent]
+Dr. Aby S Charles
 Graham Winstanley
 Gabriele Coco
 Markus Funke
@@ -11,7 +12,6 @@ Eugene Lauria
 Michel Brea
 James Yanko
 Paul Singer
-Dominique Gering
 [legends]
 Pete's Astrophotography
 Blake (ThisOne)
@@ -628,6 +628,7 @@ Doug P.
 Doug S.
 Douglas B.
 Douglas H.
+Dr. Aby S Charles
 Duncan H.
 Duncan W.
 Dylan K.
