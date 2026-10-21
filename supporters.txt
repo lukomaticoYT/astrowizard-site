@@ -2,16 +2,16 @@
 # To change or remove your name: message Luke - done the same day.
 # '#' lines are comments. Sections: [recent] [legends] [fellowship].
 [recent]
-Lynne Thistlethwaite
-Dr. Aby S Charles
-Graham Winstanley
-Gabriele Coco
-Markus Funke
-Brent McGraw
-Andy Krüger
-Eugene Lauria
-Michel Brea
-James Yanko
+Surag Dange
+Aaron Wells
+Johannes van Riet
+Lee Small
+Stephen Mathison
+Gary Fletcher
+Neil Begley
+Mark Youngson
+Robert Koch
+Jean-Claude Jesior
 [legends]
 Pete's Astrophotography
 Blake (ThisOne)
@@ -325,6 +325,12 @@ Antonio Silvestre
 Alvin Christie
 Mike Polcari
 Hanns B.
+John Cody
+Franz G.
+Dirk Peinelt
+Jean-Claude Jesior
+Stephen Mathison
+Lee Small
 [fellowship]
 1949
 @JoshBackyardAstro
@@ -333,6 +339,7 @@ A. MacLean
 AAPOD2
 Aaron
 Aaron Q.
+Aaron Wells
 Adam C.
 Adam D.
 Adam H.
@@ -396,6 +403,7 @@ AstraOrionis
 Astro-Corvus
 AstroAndy
 Astroexeter
+AstroRN
 AstroSaandy
 Aurelian G.
 B. Clark Williams
@@ -582,6 +590,7 @@ David Hamory
 David J. P.
 David K.
 David Körber
+David Lysnes
 David M. O.
 David Marks
 David N.
@@ -688,7 +697,6 @@ Frank Szeplakay
 Frank W.
 Frank Wiesner
 Frans Mertens
-Franz G.
 Fred Heinisch
 Fred Lamir
 Fred Le Saint
@@ -700,6 +708,7 @@ Gabriel P.
 Gabriele Coco
 Galactic Paparazzi
 Gareth B.
+Gary Fletcher
 Gary Gordon
 Gary K.
 Gary Meredith
@@ -772,6 +781,7 @@ High Legh Community Observatory
 Hitesh Mehta
 Hughes T.
 Hurriyet P.
+HuskyMarc
 I Van Vegchel
 Iain N.
 Ian C.
@@ -877,6 +887,7 @@ JoergBo
 JoeTourist
 Johann D.
 Johannes J. D.
+Johannes van Riet
 John A.
 John Addison
 John B.
@@ -978,6 +989,7 @@ Kevin O.
 Kevin R.
 Kevin S.
 Kevin Smith
+Kevin Umbach
 Kieron W.
 King Ricardo
 Klaus Petersen
@@ -995,6 +1007,7 @@ Lanny C.
 Larry A.
 Larry Davidson
 Lars Amund Larsen
+Lars Brange
 Laurel P.
 LaurelP
 Laurence C.
@@ -1068,6 +1081,7 @@ Marinus H.
 Mario M.
 Mario V.
 Marj E.
+Mark Arvieux
 Mark Ball
 Mark Bell
 Mark Brown
@@ -1091,6 +1105,7 @@ Mark S.
 Mark Sabino
 Mark T.
 Mark Y.
+Mark Youngson
 MarkAbs
 MarkC
 Marko K.
@@ -1180,6 +1195,7 @@ Neal
 Neal K.
 Neil A.
 Neil B.
+Neil Begley
 Neil C.
 Neil H.
 Neil M.
@@ -1218,6 +1234,7 @@ PAMAXTEAM
 Pascal B. H.
 Pascal Boesinger
 Pascal E.
+Pascal Morenas Prevost
 Pascal Segouffin
 Patrick E.
 Patrick Matheson
@@ -1357,6 +1374,7 @@ Robert Greatorex
 Robert Helmis
 Robert Hinkle
 Robert Hunt
+Robert Koch
 Robert L.
 Robert Lortie
 Robert M.
@@ -1378,6 +1396,7 @@ Rod Galley
 Rodger M.
 Roger B.
 Roger Coldiron
+Roger Kiernan
 Roger Nösberger
 Roger T.
 Roland Auster
@@ -1409,6 +1428,7 @@ Sam Bliss Photography
 Sam M.
 Sam V.
 Samuel D.
+Samuel Ferremi
 Sandor S.
 Sandrine G.
 Sascha Kückelmann
@@ -1434,6 +1454,7 @@ Simon S.
 SJ. Grady
 Sk3lnonch
 Sonja L.
+SpiritHealer - Carla Meeske
 SR Channel DVM
 Stan S.
 Stan Z.
@@ -1464,6 +1485,7 @@ Stephen Roesch
 Steve Bentley
 Steve D.
 Steve Davies
+Steve Hubbard
 Steve Kompier
 Steve P. K.
 Steve R.
@@ -1493,6 +1515,7 @@ Stuart Sykes
 Studio_AP
 Subhadip C.
 Sue B.
+Surag Dange
 Syed Ahmed Haider
 Szortis Szortis
 T. Blevins
