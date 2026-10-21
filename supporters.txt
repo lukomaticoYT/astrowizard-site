@@ -673,7 +673,6 @@ Ernst K.
 Erwin Polreich
 Erwin247
 Esko H.
-Eugene Lauria
 Eugenio G.
 F W Milsom
 F. Linde
@@ -733,6 +732,7 @@ GibsCorner
 Gil E.
 Gilbert G.
 Gilles N.
+glauria
 Glen H.
 Glenn C.
 Glenn LeBlanc
