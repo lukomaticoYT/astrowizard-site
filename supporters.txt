@@ -2,16 +2,16 @@
 # To change or remove your name: message Luke - done the same day.
 # '#' lines are comments. Sections: [recent] [legends] [fellowship].
 [recent]
-Surag Dange
-Aaron Wells
-Johannes van Riet
-Lee Small
-Stephen Mathison
-Gary Fletcher
-Neil Begley
-Mark Youngson
-Robert Koch
-Jean-Claude Jesior
+Andrew McLaren
+Peter Elonen
+Ralf Marschallinger
+Kevin Bogac
+Will Collier
+Chris - Astro La Vista
+Timothy Harrell
+Axel Schmidt
+Gaetano Villano
+Gastone Dissette
 [legends]
 Pete's Astrophotography
 Blake (ThisOne)
@@ -331,6 +331,10 @@ Dirk Peinelt
 Jean-Claude Jesior
 Stephen Mathison
 Lee Small
+Bradford Mead
+Eric T. T.
+Robert C.
+Kevin Bogac
 [fellowship]
 1949
 @JoshBackyardAstro
@@ -380,6 +384,7 @@ Andrew C.
 Andrew Clark
 Andrew F.
 Andrew L.
+Andrew McLaren
 Andrew N.
 Andrew R.
 Andrew W.
@@ -406,6 +411,7 @@ Astroexeter
 AstroRN
 AstroSaandy
 Aurelian G.
+Axel Schmidt
 B. Clark Williams
 Barry Gaunt
 Barry R.
@@ -495,6 +501,7 @@ Chester W.
 ChippyPickets
 Chorge1972
 Chris
+Chris - Astro La Vista
 Chris B.
 Chris G.
 Chris Gadwah
@@ -566,6 +573,7 @@ Daniel S.
 Daniele Brotzu
 Darrel Charles
 Darrell A.
+Darrell Betts
 Darren Edwards
 Darren W.
 Dave Haley
@@ -622,6 +630,7 @@ Didier P.
 Didier V. H.
 Dietmar H.
 Dirk J.
+DJGeoff
 DogeHodler41
 Domenico Izzo
 Dominique Gering
@@ -666,7 +675,6 @@ Eric Holstein
 Eric L.
 Eric Lew
 Eric Schuld
-Eric T. T.
 Eric W.
 Erik V. H. Fotografie
 Ernst H.
@@ -706,6 +714,7 @@ G. Platt
 G. Stoppa
 Gabriel P.
 Gabriele Coco
+Gaetano Villano
 Galactic Paparazzi
 Gareth B.
 Gary Fletcher
@@ -717,6 +726,7 @@ Gary R.
 Gary S.
 Gary Z.
 Gary@MUVEDesign
+Gastone Dissette
 Gavan S.
 Gavin K.
 Gavin L.
@@ -862,6 +872,7 @@ Jeremy B.
 Jeremy C.
 Jeremy K.
 Jerome M.
+Jerry
 Jerry Black
 Jerzy N.
 Jessica M.
@@ -1271,6 +1282,7 @@ Pete C.
 Peter A.
 Peter Arnold
 Peter D.
+Peter Elonen
 Peter F.
 Peter H.
 Peter J. K.
@@ -1318,6 +1330,7 @@ R. Reeves
 Radek S.
 Radomír Č.
 Rafael J.
+Ralf Marschallinger
 Ralph S.
 Randall S. D.
 Randall W.
@@ -1368,7 +1381,6 @@ Rob Greaves
 Rob Kyle
 Robert B.
 Robert Bain
-Robert C.
 Robert E.
 Robert F.
 Robert Greatorex
@@ -1551,6 +1563,7 @@ TimF
 Timm Kutschat
 Timo K.
 Timothy H.
+Timothy Harrell
 Tobi K.
 Tobias W.
 Tom Gray
@@ -1611,6 +1624,7 @@ Warren S.
 Webew
 Wee Ho Sun
 Wendy B.
+Will Collier
 Will J.
 William Bentow
 William Cooke
