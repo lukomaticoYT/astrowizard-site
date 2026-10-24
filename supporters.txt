@@ -2,16 +2,16 @@
 # To change or remove your name: message Luke - done the same day.
 # '#' lines are comments. Sections: [recent] [legends] [fellowship].
 [recent]
+Gerard Gormley
+Dag Harmsen
+Susan Aylwin
+Mike P Nelms
+Nicholas LaPlaca
 John Averitt
 Ray Trimmer
 Mike
 Antonio Cuellar
 Gregory Smith
-Andrew Palmer
-Johannes Schredl
-Ville Toivanen
-Hans-Peter Hein
-Antonio Pena
 [legends]
 Pete's Astrophotography
 Blake (ThisOne)
@@ -336,6 +336,8 @@ Eric T. T.
 Robert C.
 Kevin Bogac
 John Averitt
+Nicholas LaPlaca
+Dag Harmsen
 [fellowship]
 1949
 @JoshBackyardAstro
@@ -743,6 +745,7 @@ Geoffrey W.
 Georg N. N.
 George S.
 Gerald G.
+Gerard Gormley
 GibsCorner
 Gil E.
 Gilbert G.
@@ -1193,6 +1196,7 @@ Mike Ball
 Mike Broussard
 Mike Lovett
 Mike N.
+Mike P Nelms
 Mike Weiss
 Miroslaw A. M.
 Mitchell M.
@@ -1539,6 +1543,7 @@ Studio_AP
 Subhadip C.
 Sue B.
 Surag Dange
+Susan Aylwin
 Syed Ahmed Haider
 Szortis Szortis
 T. Blevins
