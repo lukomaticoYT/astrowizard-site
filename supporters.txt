@@ -2,16 +2,16 @@
 # To change or remove your name: message Luke - done the same day.
 # '#' lines are comments. Sections: [recent] [legends] [fellowship].
 [recent]
-Gerard Gormley
-Dag Harmsen
-Susan Aylwin
-Mike P Nelms
-Nicholas LaPlaca
-John Averitt
-Ray Trimmer
-Mike
-Antonio Cuellar
-Gregory Smith
+Tim Huseby
+Joseph Linn
+Jeremy Gask
+Tim Johnson
+Trevor Evans
+Sabine Gruber
+David Botman
+Richard Heile
+Gibert Nicolas
+Pavol Horinka
 [legends]
 Pete's Astrophotography
 Blake (ThisOne)
@@ -338,6 +338,9 @@ Kevin Bogac
 John Averitt
 Nicholas LaPlaca
 Dag Harmsen
+Steven Santos
+Sabine Gruber
+Tim Huseby
 [fellowship]
 1949
 @JoshBackyardAstro
@@ -591,6 +594,7 @@ David A. - TexasAstro
 David Aucoin
 David B.
 David Blevins
+David Botman
 David Brewer
 David Burrell
 David C.
@@ -746,6 +750,7 @@ Georg N. N.
 George S.
 Gerald G.
 Gerard Gormley
+Gibert Nicolas
 GibsCorner
 Gil E.
 Gilbert G.
@@ -880,6 +885,7 @@ Jenson K.
 Jeremiah Thom
 Jeremy B.
 Jeremy C.
+Jeremy Gask
 Jeremy K.
 Jerome M.
 Jerry
@@ -953,6 +959,7 @@ Jose Guasch Sanchez
 Jose Pedrero
 Joseph C.
 Joseph L.
+Joseph Linn
 Joseph S.
 Joseph T.
 Joseph V.
@@ -1288,6 +1295,7 @@ Paul Van Der Raadt
 Paul Wharton
 Pauline W.
 Paulo B. G.
+Pavol Horinka
 Paweł Ł.
 Perry n Becky
 Pete - "The Ein"
@@ -1373,6 +1381,7 @@ Richard Dace
 Richard G.
 Richard Good
 Richard H.
+Richard Heile
 Richard L.
 Richard M.
 Richard Morris
@@ -1560,6 +1569,7 @@ Thomas B.
 Thomas C.
 Thomas Davis
 Thomas K.
+Thomas Lin
 Thomas Mizer
 Thomas Schliwa
 Thomas Skrovanek
@@ -1573,6 +1583,7 @@ ThunderAL_Foto
 Tim B.
 Tim Fox
 Tim J.
+Tim Johnson
 Tim V. R.
 TimF
 Timm Kutschat
@@ -1600,6 +1611,7 @@ Tony Woods
 TonyMan
 Torsten H.
 Tracy M.
+Trevor Evans
 Trevor Hartney
 Trevor S.
 Troy M.
