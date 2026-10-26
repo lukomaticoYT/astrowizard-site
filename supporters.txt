@@ -2,16 +2,16 @@
 # To change or remove your name: message Luke - done the same day.
 # '#' lines are comments. Sections: [recent] [legends] [fellowship].
 [recent]
-Tim Huseby
-Joseph Linn
-Jeremy Gask
-Tim Johnson
-Trevor Evans
-Sabine Gruber
-David Botman
-Richard Heile
-Gibert Nicolas
-Pavol Horinka
+Donald Weisbrod
+Steven Hutchings
+Christopher Fitzgerald
+Pablo Uribasterra
+Thomas Starke
+Kurtis Huggins
+Dave Parker
+Gallardytor
+Rainer Kuban
+Uwe Schulze
 [legends]
 Pete's Astrophotography
 Blake (ThisOne)
@@ -341,6 +341,9 @@ Dag Harmsen
 Steven Santos
 Sabine Gruber
 Tim Huseby
+Ian McGillivray
+Phillip F.
+Andrew F.
 [fellowship]
 1949
 @JoshBackyardAstro
@@ -388,7 +391,6 @@ Andreas B.
 Andrew A.
 Andrew C.
 Andrew Clark
-Andrew F.
 Andrew L.
 Andrew McLaren
 Andrew N.
@@ -527,6 +529,7 @@ Christian T.
 Christine Jacobs
 Christopher C.
 Christopher E.
+Christopher Fitzgerald
 Christopher H.
 Christopher Lorton
 Christopher P. T.
@@ -589,6 +592,7 @@ Dave Haley
 Dave M.
 Dave Martin
 Dave N.
+Dave Parker
 Dave S.
 David A. - TexasAstro
 David Aucoin
@@ -651,6 +655,7 @@ Don Waller
 Donald Golden
 Donald L.
 Donald Lovett
+Donald Weisbrod
 Doug B.
 Doug Davies
 Doug P.
@@ -726,6 +731,7 @@ Gabriel P.
 Gabriele Coco
 Gaetano Villano
 Galactic Paparazzi
+Gallardytor
 Gareth B.
 Gary Fletcher
 Gary Gordon
@@ -1030,6 +1036,7 @@ Kris H.
 Krisztian N.
 Krzysztof K.
 Kurt H.
+Kurtis Huggins
 Ky Lane
 Lance C.
 Lance T.
@@ -1260,6 +1267,7 @@ OWF Ventures
 Ozzoid
 P. Dixon
 P. Holl
+Pablo Uribasterra
 Padre
 PaganoPhoto
 PAMAXTEAM
@@ -1329,7 +1337,6 @@ Philip Gelsheimer
 Philip T.
 Philipp
 Philippe F.
-Phillip F.
 Phillip K.
 Phillip Monier
 Pierre B.
@@ -1351,6 +1358,7 @@ R. Reeves
 Radek S.
 Radomír Č.
 Rafael J.
+Rainer Kuban
 Ralf Marschallinger
 Ralph S.
 Randall S. D.
@@ -1534,6 +1542,7 @@ Steven D.
 Steven Grunfeld
 Steven H.
 Steven Hoyle
+Steven Hutchings
 Steven Myers
 Steven Scott
 Steven Thorpe
@@ -1573,6 +1582,7 @@ Thomas Lin
 Thomas Mizer
 Thomas Schliwa
 Thomas Skrovanek
+Thomas Starke
 Thomas Türk
 Thomas W.
 Thomas Warren
@@ -1624,6 +1634,7 @@ Ulf M.
 Ulrich E.
 Ulrich Huber
 Ulrich Z.
+Uwe Schulze
 VagueCraig
 vanAtteveld
 Vaughan S.
