@@ -2,16 +2,16 @@
 # To change or remove your name: message Luke - done the same day.
 # '#' lines are comments. Sections: [recent] [legends] [fellowship].
 [recent]
-Donald Weisbrod
-Steven Hutchings
-Christopher Fitzgerald
-Pablo Uribasterra
-Thomas Starke
-Kurtis Huggins
-Dave Parker
-Gallardytor
-Rainer Kuban
-Uwe Schulze
+Joseph Jung
+Olivier Sanselone
+Walter Szyc
+Stephen Thistlethwaite
+Gilbert Combier
+R.G. Smeenk
+Yoshihiro Shizuya
+Margaret Loose
+James Smith
+Robert Kelsoe
 [legends]
 Pete's Astrophotography
 Blake (ThisOne)
@@ -344,6 +344,11 @@ Tim Huseby
 Ian McGillivray
 Phillip F.
 Andy Frost
+Edward Harp
+Gregg Shadel
+James Smith
+Hansi. W.
+Barry R.
 [fellowship]
 1949
 @JoshBackyardAstro
@@ -425,7 +430,6 @@ Aurelian G.
 Axel Schmidt
 B. Clark Williams
 Barry Gaunt
-Barry R.
 Barry Underwood
 Batłomiej B.
 Baz S.
@@ -759,6 +763,7 @@ Gerard Gormley
 Gibert Nicolas
 GibsCorner
 Gil E.
+Gilbert Combier
 Gilbert G.
 Gilles N.
 glauria
@@ -777,7 +782,6 @@ Graham Rousell
 Graham Winstanley
 Grainge J.
 Greg Rogan
-Gregg Shadel
 Gregor M.
 Gregory B.
 Gregory J.
@@ -794,7 +798,6 @@ Hamish Low
 Hans H.
 Hans L.
 Hans-Peter Hein
-Hansi. W.
 HansPS
 Harald K.
 Harald Krause
@@ -964,6 +967,7 @@ Jose Alves
 Jose Guasch Sanchez
 Jose Pedrero
 Joseph C.
+Joseph Jung
 Joseph L.
 Joseph Linn
 Joseph S.
@@ -1114,6 +1118,7 @@ Marcin P.
 Marco R.
 Marcos J. Pinto - Lux Antiqua
 Maren L.
+Margaret Loose
 Marinus H.
 Mario M.
 Mario V.
@@ -1262,6 +1267,7 @@ Norman Schiddel
 noskos
 nosTa
 Old Girl Photography
+Olivier Sanselone
 Oni Technology
 OWF Ventures
 Ozzoid
@@ -1355,6 +1361,7 @@ R. Boyd
 R. Bruce
 R. M. Graham
 R. Reeves
+R.G. Smeenk
 Radek S.
 Radomír Č.
 Rafael J.
@@ -1418,6 +1425,7 @@ Robert Greatorex
 Robert Helmis
 Robert Hinkle
 Robert Hunt
+Robert Kelsoe
 Robert Koch
 Robert L.
 Robert Lortie
@@ -1526,6 +1534,7 @@ Stephen M.
 Stephen P.
 Stephen R.
 Stephen Roesch
+Stephen Thistlethwaite
 Steve Bentley
 Steve D.
 Steve Davies
@@ -1656,6 +1665,7 @@ Walter G.
 Walter H.
 Walter K.
 Walter R.
+Walter Szyc
 Walter V.
 Ward Booth
 Warren F.
@@ -1682,6 +1692,7 @@ Worm43
 Xavier H.
 Yann A.
 Yannik W.
+Yoshihiro Shizuya
 Zoltan D.
 Álvaro H. V.
 Étienne P.
