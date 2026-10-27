@@ -2,6 +2,7 @@
 # To change or remove your name: message Luke - done the same day.
 # '#' lines are comments. Sections: [recent] [legends] [fellowship].
 [recent]
+Joe Edom
 Joseph Jung
 Olivier Sanselone
 Walter Szyc
@@ -11,7 +12,6 @@ R.G. Smeenk
 Yoshihiro Shizuya
 Margaret Loose
 James Smith
-Robert Kelsoe
 [legends]
 Pete's Astrophotography
 Blake (ThisOne)
@@ -916,6 +916,7 @@ Joaquin B.
 Jody H.
 Joe D.
 Joe Dixon
+Joe Edom
 Joe M.
 Joe Moschella
 Joe V.
