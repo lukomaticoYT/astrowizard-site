@@ -2,16 +2,16 @@
 # To change or remove your name: message Luke - done the same day.
 # '#' lines are comments. Sections: [recent] [legends] [fellowship].
 [recent]
+Paul Hookings
+John Kmit
+Chu-Kuang Chen
+Damon Bridges
 Joe Edom
 Joseph Jung
 Olivier Sanselone
 Walter Szyc
 Stephen Thistlethwaite
 Gilbert Combier
-R.G. Smeenk
-Yoshihiro Shizuya
-Margaret Loose
-James Smith
 [legends]
 Pete's Astrophotography
 Blake (ThisOne)
@@ -349,6 +349,8 @@ Gregg Shadel
 James Smith
 Hansi W.
 Barry R.
+Chris James
+Chu-Kuang Chen
 [fellowship]
 1949
 @JoshBackyardAstro
@@ -523,7 +525,6 @@ Chris Gadwah
 Chris Gillard
 Chris Green
 Chris J.
-Chris James
 Chris M.
 Chris O.
 Christian B.
@@ -576,6 +577,7 @@ Dahonis
 Dakota Starry Nights
 Dale C.
 Dale R.
+Damon Bridges
 Dan D.
 Dan H.
 Dan Mosher
@@ -946,6 +948,7 @@ John K Bradley
 John K.
 John Kelly
 John Kindle
+John Kmit
 John L.
 John Leach
 John M.
@@ -1296,6 +1299,7 @@ Paul Elliot
 Paul F.
 Paul Farricker
 Paul H.
+Paul Hookings
 Paul L.
 Paul M.
 Paul O.
