@@ -2,6 +2,7 @@
 # To change or remove your name: message Luke - done the same day.
 # '#' lines are comments. Sections: [recent] [legends] [fellowship].
 [recent]
+Dr. Tom Urquhart
 Rick Grieser
 Scott Strum
 Anne G.
@@ -11,7 +12,6 @@ Jerry Smith
 Bob Cote
 Adam Berger
 Donald Devey
-Uli Heczko
 [legends]
 Pete's Astrophotography
 Blake (ThisOne)
@@ -676,6 +676,7 @@ Doug S.
 Douglas B.
 Douglas H.
 Dr. Aby S Charles
+Dr. Tom Urquhart
 Duncan H.
 Duncan W.
 Dylan K.
