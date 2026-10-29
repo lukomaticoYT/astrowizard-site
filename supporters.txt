@@ -2,6 +2,7 @@
 # To change or remove your name: message Luke - done the same day.
 # '#' lines are comments. Sections: [recent] [legends] [fellowship].
 [recent]
+Scott Strum
 Anne G.
 Keith Moseley
 David Almond
@@ -11,7 +12,6 @@ Adam Berger
 Donald Devey
 Uli Heczko
 Stuart Bennett
-Glen Stroud
 [legends]
 Pete's Astrophotography
 Blake (ThisOne)
@@ -1508,6 +1508,7 @@ Saulius G.
 Scott G.
 Scott O.
 Scott S.
+Scott Strum
 Scott U.
 Scott Wuenstel
 sdself
