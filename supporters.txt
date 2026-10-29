@@ -2,16 +2,16 @@
 # To change or remove your name: message Luke - done the same day.
 # '#' lines are comments. Sections: [recent] [legends] [fellowship].
 [recent]
-Paul Hookings
-John Kmit
-Chu-Kuang Chen
-Damon Bridges
-Joe Edom
-Joseph Jung
-Olivier Sanselone
-Walter Szyc
-Stephen Thistlethwaite
-Gilbert Combier
+Bob Cote
+Adam Berger
+Donald Devey
+Uli Heczko
+Stuart Bennett
+Glen Stroud
+Clive Gordon
+Francisco Rodríguez Neila
+承禎 汪
+Tyler Leuenhagen
 [legends]
 Pete's Astrophotography
 Blake (ThisOne)
@@ -351,6 +351,9 @@ Hansi W.
 Barry R.
 Chris James
 Chu-Kuang Chen
+Gerry Soifer
+Donald Devey
+Bob Cote
 [fellowship]
 1949
 @JoshBackyardAstro
@@ -360,6 +363,7 @@ AAPOD2
 Aaron
 Aaron Q.
 Aaron Wells
+Adam Berger
 Adam C.
 Adam D.
 Adam H.
@@ -548,6 +552,7 @@ Claudio Lodi
 Claus S.
 Clayton Ostler
 Clive C.
+Clive Gordon
 Clive I.
 Colin B.
 Colin Hunter
@@ -713,6 +718,7 @@ Francesco A.
 Francis R.
 Francis R. Pellegrino (AGRsensors)
 Francisco G.
+Francisco Rodríguez Neila
 Frank "Astronut" G.
 Frank C.
 Frank D.
@@ -770,6 +776,7 @@ Gilbert G.
 Gilles N.
 glauria
 Glen H.
+Glen Stroud
 Glenn C.
 Glenn LeBlanc
 Glenn S.
@@ -1324,6 +1331,7 @@ Peter Arnold
 Peter D.
 Peter Elonen
 Peter F.
+Peter G Roan
 Peter H.
 Peter J. K.
 Peter K.
@@ -1350,6 +1358,7 @@ Philipp
 Philippe F.
 Phillip K.
 Phillip Monier
+Phillip Porch III
 Pierre B.
 Pim V.
 Piotr I.
@@ -1564,6 +1573,7 @@ Steven Wilden
 Steven Z.
 StrummerJoe
 Stuart and Lois Fox
+Stuart Bennett
 Stuart F.
 Stuart Ford
 Stuart G.
@@ -1642,9 +1652,11 @@ Troy M.
 Troy S.
 Tudor A.
 Tyler Ivanco
+Tyler Leuenhagen
 Ujjwal D.
 Uladzimir A.
 Ulf M.
+Uli Heczko
 Ulrich E.
 Ulrich Huber
 Ulrich Z.
@@ -1701,3 +1713,4 @@ Yoshihiro Shizuya
 Zoltan D.
 Álvaro H. V.
 Étienne P.
+承禎 汪
