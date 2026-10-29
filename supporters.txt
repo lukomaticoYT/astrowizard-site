@@ -2,16 +2,16 @@
 # To change or remove your name: message Luke - done the same day.
 # '#' lines are comments. Sections: [recent] [legends] [fellowship].
 [recent]
+Manfred Forster
+Filip Jakubiak
+Peter the Pilot
+Herbert Hamber
+Paolo Maccario
 J. Duffy
 Dan Hall
 Dr. Tom Urquhart
 Rick Grieser
 Scott Strum
-Anne G.
-Keith Moseley
-David Almond
-Jerry Smith
-Bob Cote
 [legends]
 Pete's Astrophotography
 Blake (ThisOne)
@@ -716,6 +716,7 @@ Eugenio G.
 F W Milsom
 F. Linde
 Fernando P.
+Filip Jakubiak
 Florian S.
 Foc
 Francesco A.
@@ -823,6 +824,7 @@ Hendrik B.
 Henri D.
 Henriette C.
 Henry H.
+Herbert Hamber
 Herve C.
 High Legh Community Observatory
 Hitesh Mehta
@@ -1121,6 +1123,7 @@ Mad Martian
 Mahmood Khan
 Malcolm Brandon
 Malcolm T.
+Manfred Forster
 Manfred S.
 Manoj J.
 Manuel A. F. C.
@@ -1295,6 +1298,7 @@ Pablo Uribasterra
 Padre
 PaganoPhoto
 PAMAXTEAM
+Paolo Maccario
 Pascal B. H.
 Pascal Boesinger
 Pascal E.
@@ -1350,6 +1354,7 @@ Peter R.
 Peter Relf
 Peter S.
 Peter Sayers
+Peter the Pilot
 Peter van B.
 Peter Y.
 Petr K.
