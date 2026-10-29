@@ -2,6 +2,7 @@
 # To change or remove your name: message Luke - done the same day.
 # '#' lines are comments. Sections: [recent] [legends] [fellowship].
 [recent]
+Anne G.
 Keith Moseley
 David Almond
 Jerry Smith
@@ -11,7 +12,6 @@ Donald Devey
 Uli Heczko
 Stuart Bennett
 Glen Stroud
-Clive Gordon
 [legends]
 Pete's Astrophotography
 Blake (ThisOne)
@@ -417,6 +417,7 @@ Andy W.
 AndyS
 Angel Riba Boguñá
 Angie G.
+Anne G.
 AnneBWPhotography
 Antoine W.
 Antonio Cuellar
