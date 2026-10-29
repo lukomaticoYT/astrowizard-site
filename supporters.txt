@@ -2,6 +2,7 @@
 # To change or remove your name: message Luke - done the same day.
 # '#' lines are comments. Sections: [recent] [legends] [fellowship].
 [recent]
+David Almond
 Jerry Smith
 Bob Cote
 Adam Berger
@@ -11,7 +12,6 @@ Stuart Bennett
 Glen Stroud
 Clive Gordon
 Francisco Rodríguez Neila
-承禎 汪
 [legends]
 Pete's Astrophotography
 Blake (ThisOne)
@@ -606,6 +606,7 @@ Dave N.
 Dave Parker
 Dave S.
 David A. - TexasAstro
+David Almond
 David Aucoin
 David B.
 David Blevins
