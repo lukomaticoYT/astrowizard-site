@@ -2,6 +2,7 @@
 # To change or remove your name: message Luke - done the same day.
 # '#' lines are comments. Sections: [recent] [legends] [fellowship].
 [recent]
+Jerry Smith
 Bob Cote
 Adam Berger
 Donald Devey
@@ -11,7 +12,6 @@ Glen Stroud
 Clive Gordon
 Francisco Rodríguez Neila
 承禎 汪
-Tyler Leuenhagen
 [legends]
 Pete's Astrophotography
 Blake (ThisOne)
@@ -908,6 +908,7 @@ Jeremy K.
 Jerome M.
 Jerry
 Jerry Black
+Jerry Smith
 Jerzy N.
 Jessica M.
 Jesus B.
