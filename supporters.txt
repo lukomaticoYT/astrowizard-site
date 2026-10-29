@@ -2,6 +2,7 @@
 # To change or remove your name: message Luke - done the same day.
 # '#' lines are comments. Sections: [recent] [legends] [fellowship].
 [recent]
+Dan Hall
 Dr. Tom Urquhart
 Rick Grieser
 Scott Strum
@@ -11,7 +12,6 @@ David Almond
 Jerry Smith
 Bob Cote
 Adam Berger
-Donald Devey
 [legends]
 Pete's Astrophotography
 Blake (ThisOne)
@@ -586,6 +586,7 @@ Dale R.
 Damon Bridges
 Dan D.
 Dan H.
+Dan Hall
 Dan Mosher
 Daniel Abbuehl
 Daniel Freder
