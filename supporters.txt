@@ -2,6 +2,7 @@
 # To change or remove your name: message Luke - done the same day.
 # '#' lines are comments. Sections: [recent] [legends] [fellowship].
 [recent]
+Keith Moseley
 David Almond
 Jerry Smith
 Bob Cote
@@ -11,7 +12,6 @@ Uli Heczko
 Stuart Bennett
 Glen Stroud
 Clive Gordon
-Francisco Rodríguez Neila
 [legends]
 Pete's Astrophotography
 Blake (ThisOne)
@@ -1014,6 +1014,7 @@ Karl C.
 Karsten J.
 Kathleen Cavell
 Keith Johnson
+Keith Moseley
 Keith R.
 Keith S.
 Keith T.
