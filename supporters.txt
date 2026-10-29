@@ -2,6 +2,7 @@
 # To change or remove your name: message Luke - done the same day.
 # '#' lines are comments. Sections: [recent] [legends] [fellowship].
 [recent]
+J. Duffy
 Dan Hall
 Dr. Tom Urquhart
 Rick Grieser
@@ -11,7 +12,6 @@ Keith Moseley
 David Almond
 Jerry Smith
 Bob Cote
-Adam Berger
 [legends]
 Pete's Astrophotography
 Blake (ThisOne)
@@ -845,6 +845,7 @@ Ivan H.
 Ivan T.
 J R Van Mierlo
 J. Arter
+J. Duffy
 J. Fathers
 J. Kirk
 J. Lew
