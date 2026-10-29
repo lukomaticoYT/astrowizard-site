@@ -2,6 +2,7 @@
 # To change or remove your name: message Luke - done the same day.
 # '#' lines are comments. Sections: [recent] [legends] [fellowship].
 [recent]
+Rick Grieser
 Scott Strum
 Anne G.
 Keith Moseley
@@ -11,7 +12,6 @@ Bob Cote
 Adam Berger
 Donald Devey
 Uli Heczko
-Stuart Bennett
 [legends]
 Pete's Astrophotography
 Blake (ThisOne)
@@ -1426,6 +1426,7 @@ Rick BG.
 Rick C.
 Rick Carver
 Rick G.
+Rick Grieser
 Rick Murray
 Rick T.
 Rick Wood
