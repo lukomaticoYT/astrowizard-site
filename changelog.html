@@ -66,6 +66,14 @@
 
   <div class="log">
     <div class="entry">
+      <p class="date">1 NOVEMBER 2026</p>
+      <h2>AstroWizard: build 2026-11-01</h2>
+      <ul>
+        <li><b>The screen follows a rewind.</b> After a stretch on the manual dial the dial reopens itself; if you walked on to step 8 with it still open and then came back with 'Go back &amp; rewind image', your picture was rewound but the screen kept showing the stretched one until a tool ran. The dial now closes when you leave its step, and the canvas shows the picture you actually came back to. Thanks Luke.</li>
+        <li><b>The Scrying Orb keeps every step.</b> One Undo on a later step used to throw away the Orb's frames from every earlier step, so a long edit could end with four frames to replay. Each frame now knows which step's history it belongs to, so Undo only sets aside the step you undid; Redo brings it back. And when you go back and rewind your picture, the attempts you abandoned are set aside too, so the Orb tells the path that led to the finished picture.</li>
+      </ul>
+    </div>
+    <div class="entry">
       <p class="date">31 OCTOBER 2026</p>
       <h2>StackingWizard Beta 4.8.5 - Broad Sweep</h2>
       <ul>
