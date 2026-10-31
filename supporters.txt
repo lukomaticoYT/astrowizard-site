@@ -2,16 +2,16 @@
 # To change or remove your name: message Luke - done the same day.
 # '#' lines are comments. Sections: [recent] [legends] [fellowship].
 [recent]
-Manfred Forster
-Filip Jakubiak
-Peter the Pilot
-Herbert Hamber
-Paolo Maccario
-J. Duffy
-Dan Hall
-Dr. Tom Urquhart
-Rick Grieser
-Scott Strum
+Nicholas North
+Mats Ekholm
+Pete Bek
+Ben Tisckos
+Gareth Stevens
+Robert Tong
+Alastair Hensman
+Jim Hester
+Wayne Portanova
+Robert Liebmann
 [legends]
 Pete's Astrophotography
 Blake (ThisOne)
@@ -354,6 +354,14 @@ Chu-Kuang Chen
 Gerry Soifer
 Donald Devey
 Bob Cote
+Bob
+Andy Wooten
+DK Hawk
+Jose Lahoz
+Kim Prosser
+Jim Hester
+Robert Tong
+Ben Tisckos
 [fellowship]
 1949
 @JoshBackyardAstro
@@ -387,6 +395,7 @@ Alan Fitzsimmons
 Alan L.
 Alan T.
 Alaric Thompson
+Alastair Hensman
 Albert A.
 Albert T.
 Alex Liu
@@ -514,6 +523,7 @@ Charles F.
 Charles K.
 Charles L.
 Charles P.
+Charles Vadovic
 Charles W.
 Charles Webb
 Chas Jackson
@@ -715,6 +725,7 @@ Esko H.
 Eugenio G.
 F W Milsom
 F. Linde
+Fabien Dehopré
 Fernando P.
 Filip Jakubiak
 Florian S.
@@ -727,6 +738,7 @@ Francisco Rodríguez Neila
 Frank "Astronut" G.
 Frank C.
 Frank D.
+Frank Enger
 Frank F.
 Frank H.
 Frank Hermes
@@ -750,6 +762,7 @@ Gaetano Villano
 Galactic Paparazzi
 Gallardytor
 Gareth B.
+Gareth Stevens
 Gary Fletcher
 Gary Gordon
 Gary K.
@@ -802,6 +815,7 @@ Gregory J.
 Gregory Smith
 Guido C.
 Guido S.
+Guilherme Kawall
 Guillaume B.
 Guinigundo CPA's
 Guy R.
@@ -1093,6 +1107,7 @@ Libertas
 Lily Y.
 Linton Guise
 Lionel J.
+Lionel Monge
 Lloyd M.
 LoneSampler
 Lord C.
@@ -1190,6 +1205,7 @@ Massive Explosion
 Matej L.
 Mathew S.
 Mathew Z.
+Mats Ekholm
 Matt A.
 Matthew G.
 Matthew Hyman
@@ -1271,6 +1287,7 @@ Nerius
 Neville Drake
 Nhat B.
 Nicholas C.
+Nicholas North
 Nicholas S.
 Nick B
 Nick H.
@@ -1336,6 +1353,7 @@ Pavol Horinka
 Paweł Ł.
 Perry n Becky
 Pete - "The Ein"
+Pete Bek
 Pete C.
 Peter A.
 Peter Arnold
@@ -1455,6 +1473,7 @@ Robert Hunt
 Robert Kelsoe
 Robert Koch
 Robert L.
+Robert Liebmann
 Robert Lortie
 Robert M.
 Robert McConnell
@@ -1646,6 +1665,7 @@ Tom Me
 Tomato
 TomH
 Tommy P.
+Tonstudio DIGIYA
 Tony B.
 Tony C.
 Tony D.
@@ -1701,6 +1721,7 @@ Walter V.
 Ward Booth
 Warren F.
 Warren S.
+Wayne Portanova
 Webew
 Wee Ho Sun
 Wendy B.
