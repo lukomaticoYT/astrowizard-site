@@ -2,6 +2,7 @@
 # To change or remove your name: message Luke - done the same day.
 # '#' lines are comments. Sections: [recent] [legends] [fellowship].
 [recent]
+Jimmy Leon
 Nicholas North
 Mats Ekholm
 Pete Bek
@@ -11,7 +12,6 @@ Robert Tong
 Alastair Hensman
 Jim Hester
 Wayne Portanova
-Robert Liebmann
 [legends]
 Pete's Astrophotography
 Blake (ThisOne)
@@ -940,6 +940,7 @@ Jim H.
 Jim Hunt
 Jim O.
 Jim PC
+Jimmy Leon
 Jimmy R.
 JLRC
 Joachim R.
