@@ -2,16 +2,16 @@
 # To change or remove your name: message Luke - done the same day.
 # '#' lines are comments. Sections: [recent] [legends] [fellowship].
 [recent]
-Jimmy Leon
-Nicholas North
-Mats Ekholm
-Pete Bek
-Ben Tisckos
-Gareth Stevens
-Robert Tong
-Alastair Hensman
-Jim Hester
-Wayne Portanova
+Phil Atkinson
+Warren Perrett
+Robert Dunbar
+Lewis Maynard
+Vassilios Kapaklis
+Stephen Brereton
+Paul Game
+Steven Halley
+Zac McClary
+Samuel Spooner
 [legends]
 Pete's Astrophotography
 Blake (ThisOne)
@@ -362,6 +362,9 @@ Kim Prosser
 Jim Hester
 Robert Tong
 Ben Tisckos
+Vincent L.
+Paul Game
+Robert Dunbar
 [fellowship]
 1949
 @JoshBackyardAstro
@@ -985,6 +988,7 @@ John M.
 John McSorley
 John Mozdziers
 John Osborne
+John Pavlic
 John R.
 John S.
 John Sedlacek
@@ -1102,6 +1106,7 @@ Leonard J.
 Leonard Rose
 Les DeLay
 Les W.
+Lewis Maynard
 Lezro
 Liana L.
 Libertas
@@ -1378,6 +1383,7 @@ Peter van B.
 Peter Y.
 Petr K.
 Petros M.
+Phil Atkinson
 Phil H.
 Phil Marshall
 Phil May
@@ -1528,6 +1534,7 @@ Sam M.
 Sam V.
 Samuel D.
 Samuel Ferremi
+Samuel Spooner
 Sandor S.
 Sandrine G.
 Sascha Kückelmann
@@ -1570,6 +1577,7 @@ Stephan E.
 Stephan L.
 Stephan Sosik
 Stephen B.
+Stephen Brereton
 Stephen C.
 Stephen Channel
 Stephen D.
@@ -1598,6 +1606,7 @@ Steven A.
 Steven D.
 Steven Grunfeld
 Steven H.
+Steven Halley
 Steven Hoyle
 Steven Hutchings
 Steven Myers
@@ -1698,6 +1707,7 @@ Ulrich Z.
 Uwe Schulze
 VagueCraig
 vanAtteveld
+Vassilios Kapaklis
 Vaughan S.
 Vicki C.
 Victor
@@ -1708,7 +1718,6 @@ Victoria Bennett
 Ville Toivanen
 Vina G.
 Vincent B.
-Vincent L.
 Vincent Lecocq
 Vittorio V.
 Vivien R.
@@ -1721,6 +1730,7 @@ Walter Szyc
 Walter V.
 Ward Booth
 Warren F.
+Warren Perrett
 Warren S.
 Wayne Portanova
 Webew
@@ -1746,6 +1756,7 @@ Xavier H.
 Yann A.
 Yannik W.
 Yoshihiro Shizuya
+Zac McClary
 Zoltan D.
 Álvaro H. V.
 Étienne P.
