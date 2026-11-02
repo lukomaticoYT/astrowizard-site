@@ -2,16 +2,16 @@
 # To change or remove your name: message Luke - done the same day.
 # '#' lines are comments. Sections: [recent] [legends] [fellowship].
 [recent]
-Phil Atkinson
-Warren Perrett
-Robert Dunbar
-Lewis Maynard
-Vassilios Kapaklis
-Stephen Brereton
-Paul Game
-Steven Halley
-Zac McClary
-Samuel Spooner
+David Borrelli
+John Rast
+Phil Busch
+Wayne Devenish
+Maurizio Franceschelli
+Robert Newport
+Fabio Marcantonio
+Michael Schmidt
+Immo-Media
+Paul Blackney
 [legends]
 Pete's Astrophotography
 Blake (ThisOne)
@@ -365,6 +365,10 @@ Ben Tisckos
 Vincent L.
 Paul Game
 Robert Dunbar
+Keith Moseley
+Wayne Devenish
+John Rast
+David Borrelli
 [fellowship]
 1949
 @JoshBackyardAstro
@@ -467,6 +471,7 @@ Bevon S.
 Bil Kelly
 Bill Childs
 Bill M.
+Blaine Williams
 Bo Sundin
 Bob G.
 Bob P.
@@ -503,6 +508,7 @@ Carl
 Carl B.
 Carl P.
 Carlos A.
+Carlos Alberto Heredero Gracia
 Carlos D.
 Carlos Espada
 Carlos R.
@@ -709,6 +715,7 @@ Edwin M.
 Edwin Micallef
 Elbee
 Elbert McCormick
+ElCap373
 Eliyahu777
 Eric C.
 Eric F.
@@ -729,6 +736,7 @@ Eugenio G.
 F W Milsom
 F. Linde
 Fabien Dehopré
+Fabio Marcantonio
 Fernando P.
 Filip Jakubiak
 Florian S.
@@ -858,6 +866,7 @@ Ian Minch
 Ian W.
 Ian Z.
 IanMac
+Immo-Media
 Ingo T.
 Iulian Oprisescu
 Ivan H.
@@ -889,6 +898,7 @@ James Knudson
 James L.
 James O.
 James R. Wilkinson
+James Rudick
 James T.
 James W.
 James Webster
@@ -1039,7 +1049,6 @@ Karl C.
 Karsten J.
 Kathleen Cavell
 Keith Johnson
-Keith Moseley
 Keith R.
 Keith S.
 Keith T.
@@ -1121,6 +1130,7 @@ Loree R.
 Lorne C.
 Lorraine M.
 Lou Vassallo
+Louis Marchesi
 Louis R.
 Loukas M.
 Luca S.
@@ -1219,6 +1229,7 @@ Matthew K.
 Matthew W.
 Maureen B.
 Mauricio H.
+Maurizio Franceschelli
 Maurizio T.
 Mauro Roccoberton
 Max C.
@@ -1241,6 +1252,7 @@ Michael P.
 Michael Rechenmacher
 Michael S.
 Michael Scherman
+Michael Schmidt
 Michael Smyth
 Michael T.
 Michael V.
@@ -1333,6 +1345,7 @@ Patrick N.
 Patrizio C.
 Paul B.
 Paul Batstone
+Paul Blackney
 Paul Byrne
 Paul C.
 Paul Eccles
@@ -1384,6 +1397,7 @@ Peter Y.
 Petr K.
 Petros M.
 Phil Atkinson
+Phil Busch
 Phil H.
 Phil Marshall
 Phil May
@@ -1486,6 +1500,7 @@ Robert M.
 Robert McConnell
 Robert Moore
 Robert Neal
+Robert Newport
 Robert P.
 Robert Plant
 Robert Provencher
