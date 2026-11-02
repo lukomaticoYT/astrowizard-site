@@ -2,16 +2,16 @@
 # To change or remove your name: message Luke - done the same day.
 # '#' lines are comments. Sections: [recent] [legends] [fellowship].
 [recent]
-Chris Sakanai
-David Borrelli
-John Rast
-Phil Busch
-Wayne Devenish
-Maurizio Franceschelli
-Robert Newport
-Fabio Marcantonio
-Michael Schmidt
-Immo-Media
+Aianne
+Paul Wood
+Ciaran Jordan
+STEPHEN WATSON
+emilford
+Andrew Bennett
+AstroDork
+Peter Heath
+stephen.and.the.huskies
+Seven Skies Astro
 [legends]
 Pete's Astrophotography
 Blake (ThisOne)
@@ -370,8 +370,90 @@ Wayne Devenish
 John Rast
 David Borrelli
 Chris Sakanai
+Arnstein Dale
+Anders Olsen
+Douglas Cooper
+Sean Fullard
+211milkman
+AstroLeo2024
+Len Jones
+getoffmydmlawn
+Carlos Espada
+spaztech
+Timothy O'Connor
+Bill Barr
+Matthew H
+Tom Corniche
+Patric Arvidsson
+Sherman Peddle
+Andy Weller
+Mike G.
+Mark Ball
+Oldskool Raver
+Ray Scroggs
+Brian Ramsey
+surg01
+AllesWirdGut
+Simon Temlett
+Rob Barter
+Glostar_Obsy
+Richard Lowe
+Gideon Sanders
+Dom
+Kevin Rudd
+UnLovedOne
+PZRK77
+Cosmuzz Astro
+sep7ember
+Mark Swierzewski
+GrahamH
+JTW.Outdoors
+Dennis Ariel
+Martin Kobliha (MartiorCZ)
+Sean Masten
+Christian Proulx
+Tony Kingston
+William House
+EASY ASTRO IMAGES
+Chuck Kozlowski
+ROD2ASTRO
+Mark 'Astro' ZBOYD
+NBW63
+Stephen L.
+Heavenly Backyard Astronomy
+Joshua Müller
+Paul Smaglik
+John Gwyther
+Bruce Cahill
+Simon Laverick
+Dr. Joe Luciani
+Justin Time
+AstroWorldTelescopes
+Linux Astro
+Michael Rushton
+scgy
+Geoff Watt
+karel odink
+Alan Hancox
+Ian Moore
+Tom Utendorf
+Andy Nowlen
+Peter “Traveler” Schmitz
+Your Favorite Astro-Nerd
+Seven Skies Astro
+stephen.and.the.huskies
+Peter Heath
+AstroDork
+Andrew Bennett
+emilford
+STEPHEN WATSON
+Ciaran Jordan
+Paul Wood
+Aianne
 [fellowship]
 1949
+1951journey
+4pipes
 @JoshBackyardAstro
 A. H. Westphal
 A. MacLean
@@ -393,6 +475,7 @@ Adrian S.
 Adriano G.
 Aeromann6243
 Afonocte
+AFrame Daydream
 Agustin N.
 Aikya S.
 AKCatholic
@@ -400,21 +483,29 @@ AL
 Alan Cook
 Alan D.
 Alan Fitzsimmons
+Alan H
+alan henfling
 Alan L.
+Alan Moore
+Alan Sheiness
 Alan T.
 Alaric Thompson
 Alastair Hensman
 Albert A.
 Albert T.
+Alessandro C.
 Alex Liu
 Alex P.
 Alex T.
 Alexander M.
 Allan D.
+alphaorionis71
 Amd
 Amit S.
 Amit V.
 Amy M.
+Andi S.
+Andrea Haku
 Andreas B.
 Andrew A.
 Andrew C.
@@ -428,11 +519,15 @@ Andrew W.
 Andrew Watson
 Andrzej G.
 André Knöfel
+Andy Bell
+Andy Hillyard
+Andy Hoarty
 Andy Krüger
 Andy R.
 Andy W.
 AndyS
 Angel Riba Boguñá
+Angie Frazier
 Angie G.
 Anne G.
 AnneBWPhotography
@@ -445,44 +540,59 @@ Arno F.
 Arun A.
 Astr0mink/NomadicAstronomy
 AstraOrionis
+Astro Bowie
+Astro made by Henk
 Astro-Corvus
 AstroAndy
+AstroCHARLY
 Astroexeter
+Astronomy With Claire
+Astrophotography Real Space
+AstroPix UK (Jim Owen )
 AstroRN
 AstroSaandy
 Aurelian G.
 Axel Schmidt
+B Z
 B. Clark Williams
+B.S.
+badgerag
 Barry Gaunt
 Barry Underwood
 Batłomiej B.
 Baz S.
 Beejay
+Ben Mclerran
 Ben Murphy
 Benedict Hirth
 Benjamin V.
+Bernard Hodgkiss
 Bernard Whatman
 Bernardo S. O.
 Bernd L.
 Bernd M.
 Bernhard Stoll
 Bernhard Wieczorek
+Berno Walch
 Bertrand D.
 Bevon S.
 Bil Kelly
 Bill Childs
 Bill M.
 Blaine Williams
+Blair Davis
 Bo Sundin
 Bob G.
 Bob P.
 Boris S.
+BortleZero
 Brad H.
 Bradford E.
 Brent McGraw
 Brett H.
 Brett Hallett
 Brian A.
+Brian Combs
 Brian F.
 Brian G.
 Brian Gullett
@@ -501,6 +611,7 @@ Byron Davies
 Bård K. G.
 C. Hudson
 C. O'Neill
+CalPaulie
 Calvin P.
 CanD In The Sky
 Carey Hamel
@@ -511,7 +622,6 @@ Carl P.
 Carlos A.
 Carlos Alberto Heredero Gracia
 Carlos D.
-Carlos Espada
 Carlos R.
 Carlyle Nelson
 Carol N.
@@ -524,6 +634,7 @@ Casey West
 CB Johnson
 CelestroMel
 CGL
+Chan Wheeler
 Chance Y.
 Charles B.
 Charles Beckham
@@ -539,7 +650,9 @@ Charles Webb
 Chas Jackson
 Chau S.
 Cheryl W.
+Cheryl Wilcox Photography
 Chester W.
+chez_kolja
 ChippyPickets
 Chorge1972
 Chris
@@ -552,6 +665,7 @@ Chris Green
 Chris J.
 Chris M.
 Chris O.
+Chris Wintle
 Christian B.
 Christian Dr. Zülch
 Christian Hein
@@ -566,17 +680,22 @@ Christopher P. T.
 Christopher S.
 Christopher W.
 Chuck Garcia
+Chuck Gorawski
 Chuck T.
 CityAstronomer
+Clarence Mumphrey
 Claude F.
 Claudio Lodi
 Claus S.
 Clayton Ostler
+Clint Mayes
 Clive C.
 Clive Gordon
 Clive I.
+cmjames294
 Colin B.
 Colin Hunter
+ColleenvR
 Compadre Chuma
 Conrad C.
 Cordula G.
@@ -588,6 +707,7 @@ Craig Tanikawa
 CraigyBoy1960
 Crandell O.
 CreepsUTrust
+CryptoPounder4
 Cygnus Reactor
 Cynthia N.
 Cyril C.
@@ -608,6 +728,7 @@ Dan D.
 Dan H.
 Dan Hall
 Dan Mosher
+Dane Liston
 Daniel Abbuehl
 Daniel Freder
 Daniel G.
@@ -615,12 +736,15 @@ Daniel H.
 Daniel K.
 Daniel M.
 Daniel S.
+Daniel Taormina (FamilyDrones)
 Daniele Brotzu
+Danny Frauenhofer (dan__fr)
 Darrel Charles
 Darrell A.
 Darrell Betts
 Darren Edwards
 Darren W.
+Dave
 Dave Haley
 Dave M.
 Dave Martin
@@ -641,21 +765,27 @@ David DeCroix
 David E.
 David Evans
 David F. L.
+David Faulk
+David Gange
 David Gladden
 David H.
 David Hamory
+David Harvey
+David Hawkins
 David J. P.
 David K.
 David Körber
 David Lysnes
 David M. O.
 David Marks
+David Miller
 David N.
 David R.
 David S.
 David Saradini
 David Stein
 David T.
+David Totten
 David Tyra
 David Woods
 Dawn P.
@@ -671,33 +801,46 @@ Derek B.
 Derek E.
 Derek F.
 Desmond Fogerty
+Details Matter
 Detlef P.
 Devon Jones
+Dew Control
 DHP Radio
 Didier P.
 Didier V. H.
 Dietmar H.
 Dirk J.
+DJ Warna (House Music Mixes)
 DJGeoff
+Does It Work?
+DogeHodler
 DogeHodler41
 Domenico Izzo
 Dominique Gering
 Don C.
 Don H.
 Don Jacob
+Don Key
 Don Waller
 Donald Golden
 Donald L.
+DONALD LELLISH
 Donald Lovett
 Donald Weisbrod
+Dongcopter86
 Doug B.
 Doug Davies
+Doug Ham
 Doug P.
 Doug S.
 Douglas B.
 Douglas H.
 Dr. Aby S Charles
+Dr. Christian Zülch
+Dr. Hector Duran Hdplastica Merida
 Dr. Tom Urquhart
+Drag2foto
+Duane Holloway
 Duncan H.
 Duncan W.
 Dylan K.
@@ -706,8 +849,10 @@ E. Eliashar
 Earl P.
 Ed Internet
 Ed K.
+Ed Litoborski
 Edd L.
 Eddie L.
+Eddie White
 Eddy Gladdines
 Edgar C.
 Edmund G.
@@ -718,6 +863,7 @@ Elbee
 Elbert McCormick
 ElCap373
 Eliyahu777
+Emilkin' Space
 Eric C.
 Eric F.
 Eric G.
@@ -730,16 +876,21 @@ Eric W.
 Erik V. H. Fotografie
 Ernst H.
 Ernst K.
+Erny Epley Photos
 Erwin Polreich
 Erwin247
 Esko H.
+Eugene McGovern
 Eugenio G.
 F W Milsom
 F. Linde
 Fabien Dehopré
+Fabio Freirias
 Fabio Marcantonio
 Fernando P.
 Filip Jakubiak
+Flightlogic
+Flim Noir
 Florian S.
 Foc
 Francesco A.
@@ -747,6 +898,8 @@ Francis R.
 Francis R. Pellegrino (AGRsensors)
 Francisco G.
 Francisco Rodríguez Neila
+Francois Hattingh
+Frank
 Frank "Astronut" G.
 Frank C.
 Frank D.
@@ -765,16 +918,19 @@ Fred Heinisch
 Fred Lamir
 Fred Le Saint
 Fred O.
+Fred's Honey
 Frederick S.
 G. Platt
 G. Stoppa
 Gabriel P.
 Gabriele Coco
 Gaetano Villano
+Gailen Marshall
 Galactic Paparazzi
 Gallardytor
 Gareth B.
 Gareth Stevens
+Gary
 Gary Fletcher
 Gary Gordon
 Gary K.
@@ -782,6 +938,7 @@ Gary Meredith
 Gary P.
 Gary R.
 Gary S.
+gary timms
 Gary Z.
 Gary@MUVEDesign
 Gastone Dissette
@@ -798,21 +955,27 @@ Georg N. N.
 George S.
 Gerald G.
 Gerard Gormley
+Gerard Leeuw
+gerard13mc
+GermanAstroGeek
 Gibert Nicolas
 GibsCorner
 Gil E.
 Gilbert Combier
 Gilbert G.
 Gilles N.
+GingerTube22
 glauria
 Glen H.
 Glen Stroud
 Glenn C.
 Glenn LeBlanc
+Glenn Mitchell
 Glenn S.
 Gman520
 Gonzo T
 Gordon S.
+GordonLovesScience
 Graeme B.
 Graham C.
 Graham G.
@@ -820,6 +983,7 @@ Graham P.
 Graham Rousell
 Graham Winstanley
 Grainge J.
+Greg Lisk
 Greg Rogan
 Gregor M.
 Gregory B.
@@ -843,8 +1007,13 @@ Harald K.
 Harald Krause
 Harold N.
 Hartmut C.
+Healthcare Rescue Pilot
 Hearnz
+Hechima
+Hedley Wright Photography
 Heinz G.
+Heinz Watzka
+Hello From Dallas
 Helmut Alwin Parnitzke
 Hendrik B.
 Henri D.
@@ -857,20 +1026,28 @@ Hitesh Mehta
 Hughes T.
 Hurriyet P.
 HuskyMarc
+HyderabadI Astro
 I Van Vegchel
+I. E.
 Iain N.
 Ian C.
 Ian F.
+Ian Holloway
 Ian Ippolito
 Ian L.
+Ian MacDonald
 Ian Minch
+Ian Noel Pace
 Ian W.
 Ian Z.
 IanMac
 Immo-Media
 Ingo T.
+Ironman Astro
+Italian kangaroo
 Iulian Oprisescu
 Ivan H.
+Ivan Hancock (ivan_around_aus)
 Ivan T.
 J R Van Mierlo
 J. Arter
@@ -890,6 +1067,7 @@ Jacob G.
 James A.
 James Baccala
 James Baskett
+James Bonser
 James Brennan
 James C.
 James G. O'Brien, Ph.D.
@@ -909,6 +1087,7 @@ Jamie B.
 Jan-Marco Petri
 Janne K.
 Jarrod Claar
+Jasmin Dancause
 Jason C.
 Jason E.
 Jason Galletta
@@ -917,6 +1096,7 @@ Jason K.
 Jason Martin
 Jason N.
 Jason P.
+Javi gorriak
 Javier G. O.
 Jean G.
 Jean TON VAN
@@ -948,23 +1128,29 @@ Jerzy N.
 Jessica M.
 Jesus B.
 Jesus Bermudez Gutierrez
+Jim Anderson
 Jim G.
 Jim Gage
 Jim H.
 Jim Hunt
 Jim O.
 Jim PC
+Jim Smith
+Jim Waltman
 Jimmy Leon
 Jimmy R.
 JLRC
+Joachim Dünwald
 Joachim R.
 Joaquin B.
 Jody H.
 Joe D.
 Joe Dixon
+Joe Doakes
 Joe Edom
 Joe M.
 Joe Moschella
+Joe T
 Joe V.
 Joel C.
 JoergBo
@@ -975,6 +1161,7 @@ Johannes Schredl
 Johannes van Riet
 John A.
 John Addison
+John and Sue
 John B.
 John Bimson
 John C.
@@ -1004,7 +1191,11 @@ John R.
 John S.
 John Sedlacek
 John Stowell
+John Tobison
+John Triebe
 John W.
+John Williams
+JohnNM2026
 Jon
 Jon C.
 Jon Gwinn
@@ -1015,20 +1206,25 @@ Jordi Solaz
 Jose Alves
 Jose Guasch Sanchez
 Jose Pedrero
+Joseph Brown
 Joseph C.
 Joseph Jung
 Joseph L.
 Joseph Linn
 Joseph S.
+joseph strona
 Joseph T.
 Joseph V.
 Josh Byrne
 Joshua Spotts
 Josiah J.
+Josiah Julin
 JR
 Juan C. S. A.
 Juan D. P. A.
 Juan T.
+jue
+Jules Humpheson
 Julian J.
 Julie G.
 Julio Vannini
@@ -1039,16 +1235,19 @@ Jörg Ulbricht
 Jürgen B.
 Jürgen S.
 Jürgen Wartmann
+K Moni
 K V J Woodley
 Kabir J.
 KaKaEs
 Kalev P.
 Kallador
+karen smith
 Karen W.
 Kari T.
 Karl C.
 Karsten J.
 Kathleen Cavell
+kbaker6253
 Keith Johnson
 Keith R.
 Keith S.
@@ -1059,17 +1258,21 @@ Ken F.
 Ken K.
 Ken Kirvan
 Ken Parnell
+Ken Stanback
 Ken Tischler
 Ken Turner
 Kenneth M.
 Kenneth Sall
+Kenneth Woods
 Kenny
+Kenny E. Sloyer
 Kev
 Kev H.
 Kevin
 Kevin C.
 Kevin Cornell
 Kevin Dorsey-Tyler
+Kevin Fuchs
 Kevin Hanvy
 Kevin K.
 Kevin Monroe
@@ -1081,6 +1284,7 @@ Kevin Smith
 Kevin Umbach
 Kieron W.
 King Ricardo
+Kirk Grier
 Klaus Petersen
 Klaus W.
 klshome
@@ -1090,12 +1294,16 @@ Krisztian N.
 Krzysztof K.
 Kurt H.
 Kurtis Huggins
+kwman6500
 Ky Lane
 Lance C.
 Lance T.
 Lanny C.
 Larry A.
+Larry Cable
 Larry Davidson
+Larry Gonebush
+LarryMac
 Lars Amund Larsen
 Lars Brange
 Laurel P.
@@ -1104,13 +1312,14 @@ Laurence C.
 Laurence G.
 Laurie C.
 Laurie G.
+Lawrence Gray
 Lawrence K.
 Lawrence Pizzi
+LazyAstro
 Lee B.
 Lee H.
 Lee P.
 Leigh L.
-Len Jones
 Lena G. L.
 Leonard J.
 Leonard Rose
@@ -1120,6 +1329,7 @@ Lewis Maynard
 Lezro
 Liana L.
 Libertas
+LibraTaurus
 Lily Y.
 Linton Guise
 Lionel J.
@@ -1154,6 +1364,7 @@ Mac Bowden
 Mad Martian
 Mahmood Khan
 Malcolm Brandon
+malcolm cable
 Malcolm T.
 Manfred Forster
 Manfred S.
@@ -1169,6 +1380,7 @@ Marcel P.
 Marcelo A.
 Marcin B.
 Marcin P.
+Marco Manenti
 Marco R.
 Marcos J. Pinto - Lux Antiqua
 Maren L.
@@ -1178,7 +1390,6 @@ Mario M.
 Mario V.
 Marj E.
 Mark Arvieux
-Mark Ball
 Mark Bell
 Mark Brown
 Mark C.
@@ -1190,10 +1401,13 @@ Mark G.
 Mark Gainey
 Mark Gascoigne
 Mark H.
+Mark Hertel
 Mark Hubbard
 Mark J.
 Mark L.
+Mark Nicholls
 Mark P.
+Mark Parsons
 Mark Penberthy
 Mark Pietrosanto
 Mark Prentice
@@ -1207,20 +1421,27 @@ MarkC
 Marko K.
 Markus Funke
 MarkyZnO
+Marti-Universo
 Martianplanet
 Martin B.
 Martin Bitzer
 Martin Br.
+Martin Briscoe
 Martin E.
 Martin Engels
 Martin F.
+Martin Fife
+Martin Flower
 Martin Hudec
 Martin K.
 Martin LeBlanc
 Martin R.
 Martyn
+Martyn T
+Mary Garcia
 Massive Explosion
 Matej L.
+Mateusz Altman
 Mathew S.
 Mathew Z.
 Mats Ekholm
@@ -1235,29 +1456,40 @@ Maurizio Franceschelli
 Maurizio T.
 Mauro Roccoberton
 Max C.
+McLogo76
 Mel Martin
 Melgigg
+Melvyn Davis
 Mia J.
 Michael A.
 Michael B.
 Michael Baumstark
 Michael C.
+Michael close
 Michael D.
 Michael De.
 Michael Deen
 Michael F.
+Michael Falk
+Michael Finsand
 Michael Heersche
 Michael K.
+Michael Kovacs
 Michael L.
 Michael MacFarland
+Michael McTague
+Michael Nugent
 Michael P.
 Michael Rechenmacher
+michael ryland
 Michael S.
 Michael Scherman
 Michael Schmidt
 Michael Smyth
 Michael T.
 Michael V.
+Michael W.
+Michał
 Michel A.
 Michel Brea
 Michel H.
@@ -1274,17 +1506,25 @@ Mike Lovett
 Mike N.
 Mike P Nelms
 Mike Weiss
+MIRKO BONI
 Miroslaw A. M.
+Mitch LeBlanc
 Mitchell M.
+MOHAMMED ALTHAQIB
 Mohammed K.
 Mondland.de
+Monte Sula
 Morgan H.
 Mr Facey
 Mr M Hood
+MrAlvaropio1
 MrPeachUK
+Munokhoi
+MupDog
 Murlin G.
 Murray Fox Photography
 Muzza
+MY CHANNEL TCO
 N. Poirier
 Nachzuchtkorallen24.de
 Nadeem Orrie
@@ -1294,6 +1534,7 @@ Nathan H.
 Nb Knight
 Neal
 Neal K.
+Neal Kleinman
 Neil A.
 Neil B.
 Neil Begley
@@ -1303,6 +1544,7 @@ Neil M.
 Neil Martin
 Neil W.
 Neil Wynne
+Neon Blowfish
 Nerius
 Neville Drake
 Nhat B.
@@ -1325,8 +1567,10 @@ Norman Schiddel
 noskos
 nosTa
 Old Girl Photography
+Old Guy
 Olivier Sanselone
 Oni Technology
+Orbit Solution Limited
 OWF Ventures
 Ozzoid
 P. Dixon
@@ -1345,19 +1589,24 @@ Patrick E.
 Patrick Matheson
 Patrick N.
 Patrizio C.
+Paul Atkins
 Paul B.
 Paul Batstone
 Paul Blackney
 Paul Byrne
 Paul C.
+Paul Cannell
 Paul Eccles
 Paul Elliot
 Paul F.
 Paul Farricker
+Paul Freitas
 Paul H.
 Paul Hookings
+Paul Humberstone
 Paul L.
 Paul M.
+Paul Maddocks
 Paul O.
 Paul Patterson
 Paul R.
@@ -1370,12 +1619,14 @@ Paul Van Der Raadt
 Paul Wharton
 Pauline W.
 Paulo B. G.
+Pavels Novikovs
 Pavol Horinka
 Paweł Ł.
 Perry n Becky
 Pete - "The Ein"
 Pete Bek
 Pete C.
+Pete Marshall
 Peter A.
 Peter Arnold
 Peter D.
@@ -1390,6 +1641,7 @@ Peter Lind
 Peter M.
 Peter M. M.
 Peter R.
+Peter Ramirez
 Peter Relf
 Peter S.
 Peter Sayers
@@ -1401,24 +1653,31 @@ Petros M.
 Phil Atkinson
 Phil Busch
 Phil H.
+Phil Hochstetler
 Phil Marshall
 Phil May
+Phil Pinel
 Philip A.
 Philip G.
 Philip Gelsheimer
+Philip Kahn
 Philip T.
 Philipp
 Philippe F.
 Phillip K.
 Phillip Monier
 Phillip Porch III
+Photon08
 Pierre B.
+pierre selles
+Pierrot Rey (Titan)
 Pim V.
 Piotr I.
 PL
 Pol D.
 Pompilio F.
 Puddu I.
+quantum
 R. Barrett
 R. Barter
 R. Bianchi
@@ -1432,8 +1691,11 @@ R.G. Smeenk
 Radek S.
 Radomír Č.
 Rafael J.
+Rafał Kwieciński
+Rainbow Cottage Artworks
 Rainer Kuban
 Ralf Marschallinger
+Ralph Kimball
 Ralph S.
 Randall S. D.
 Randall W.
@@ -1444,6 +1706,8 @@ Ray Astro
 Ray P.
 Ray Trimmer
 Raymond L.
+Rc Dab
+redarcus
 Reference Audio Plus
 Regina Z.
 Rene K.
@@ -1467,6 +1731,7 @@ Richard Heile
 Richard L.
 Richard M.
 Richard Morris
+Richard Murphy
 Richard O'Reilly
 Richard R.
 Richard S.
@@ -1481,10 +1746,15 @@ Rick T.
 Rick Wood
 RickFlemattiNaturePhotography
 RickJ
+Ride Along with Randy
 RipForYou
+RJFM4
 Rob D.
 Rob Greaves
 Rob Kyle
+Rob S
+Robbo Wilson
+Robert Anderson
 Robert B.
 Robert Bain
 Robert E.
@@ -1510,6 +1780,7 @@ Robert R.
 Robert Spellman
 Robert W.
 Robert W. O.
+Robert Wood
 Robert Z.
 Robin B.
 Robin Earl
@@ -1517,11 +1788,14 @@ robRobblah
 Rod Galley
 Rodger M.
 Roger B.
+Roger Calladine
 Roger Coldiron
 Roger Kiernan
 Roger Nösberger
 Roger T.
 Roland Auster
+Ron - N7BBQ
+Ron Murray
 Ron Vargas
 Ronald C.
 Ronald G.
@@ -1531,11 +1805,14 @@ Rondle M.
 Ronnie G.
 Ross O.
 Rowald N.
+Roy Goring
 Roy Hornyak
 Roy O.
+RPAstro
 Rubén G. V.
 Rudolf Reinhardt
 Rui C.
+Rumour Has it
 RURIOSTE
 Russ McNulty
 Ryan Collins
@@ -1545,6 +1822,7 @@ S. Ryrie
 S. Tinsley
 Sabine S.
 Salty & Spice
+Salty Pogue
 SaltyPogue
 Sam Bliss Photography
 Sam M.
@@ -1564,19 +1842,29 @@ Scott S.
 Scott Strum
 Scott U.
 Scott Wuenstel
+scott1958tube
 sdself
 Sean M.
+seanod42
 Sebastian W.
 Sebastien Couvidat
 Selvakumar M.
 SereneScream
+Sergio Abad Luque
+Sergio Mazzi
 Shaun Hall
 Shawn Gurley
+Shell Smith
 Silvana D. C.
+SIMON BURCHILL
 Simon C.
+Simon Edwardson
 Simon S.
 SJ. Grady
 Sk3lnonch
+Skyentist Steve
+SkyWatch62
+Sma's Sky
 Sonja L.
 SpiritHealer - Carla Meeske
 SR Channel DVM
@@ -1584,6 +1872,7 @@ Stan S.
 Stan Z.
 StarHawke
 StarSight Astrophotography
+Starting Out in Astrophotography
 Stefan D.
 Stefan P.
 Stefan R.
@@ -1594,13 +1883,14 @@ Stephan E.
 Stephan L.
 Stephan Sosik
 Stephen B.
+Stephen Black
+Stephen Bogue
 Stephen Brereton
 Stephen C.
 Stephen Channel
 Stephen D.
 Stephen Fox
 Stephen H.
-Stephen L.
 Stephen La.
 Stephen Ly.
 Stephen M.
@@ -1609,13 +1899,16 @@ Stephen R.
 Stephen Roesch
 Stephen Thistlethwaite
 Steve Bentley
+Steve Chambers
 Steve D.
 Steve Davies
+Steve H
 Steve Hubbard
 Steve Kompier
 Steve P. K.
 Steve R.
 Steve T
+steve tetlow
 Steve W.
 Steve Z.
 Steve's Woodworking
@@ -1627,10 +1920,13 @@ Steven Halley
 Steven Hoyle
 Steven Hutchings
 Steven Myers
+Steven Scarborough
 Steven Scott
 Steven Thorpe
 Steven Wilden
 Steven Z.
+stillman3
+Strangeskys
 StrummerJoe
 Stuart and Lois Fox
 Stuart Bennett
@@ -1643,6 +1939,7 @@ Stuart M.
 Stuart Sykes
 Studio_AP
 Subhadip C.
+SubZero Blasting / Dry Ice Solutions
 Sue B.
 Surag Dange
 Susan Aylwin
@@ -1650,9 +1947,12 @@ Syed Ahmed Haider
 Szortis Szortis
 T. Blevins
 TalkToGreg
+Tamás Nagy
 Ted D.
 Ted G.
 Tennessee Carmel-Veilleux
+TexasEngineerScotty
+Text and Telescope
 Thanasis M.
 The Astrollarium
 The Ook
@@ -1663,7 +1963,9 @@ Thomas C.
 Thomas Davis
 Thomas K.
 Thomas Lin
+Thomas Mastrocinque
 Thomas Mizer
+Thomas Schallenberg
 Thomas Schliwa
 Thomas Skrovanek
 Thomas Starke
@@ -1675,12 +1977,15 @@ Thorsten Klingspor
 Thorsten M.
 ThunderAL_Foto
 Tim B.
+tim etter
 Tim Fox
 Tim J.
 Tim Johnson
 Tim V. R.
+Time.Captured.
 TimF
 Timm Kutschat
+Timo Jarvilehto
 Timo K.
 Timothy H.
 Timothy Harrell
@@ -1689,8 +1994,10 @@ Tobias W.
 Tom Gray
 Tom K.
 Tom Me
+Tom Surgalski
 Tomato
 TomH
+Tommy Bow
 Tommy P.
 Tony B.
 Tony C.
@@ -1703,8 +2010,11 @@ Tony Murphy
 Tony Wharton
 Tony Woods
 TonyMan
+TooManyHobbies
 Torsten H.
 Tracy M.
+Travelling Snail
+Trevor Appleton
 Trevor Evans
 Trevor Hartney
 Trevor S.
@@ -1741,9 +2051,11 @@ W K
 Walter G.
 Walter H.
 Walter K.
+Walter M5
 Walter R.
 Walter Szyc
 Walter V.
+WalterHaase
 Ward Booth
 Warren F.
 Warren Perrett
@@ -1767,13 +2079,19 @@ William Z.
 Wim L.
 Winfried Wohlmuth
 Wolfgang B.
+wonderweb123
 Worm43
+wreckdiveruk
 Xavier H.
+Yaarrrmageddon
 Yann A.
 Yannik W.
+Yervant Parnagian
 Yoshihiro Shizuya
 Zac McClary
 Zoltan D.
+zonedzero
+Zooke
 Álvaro H. V.
 Étienne P.
 承禎 汪
