@@ -2,6 +2,7 @@
 # To change or remove your name: message Luke - done the same day.
 # '#' lines are comments. Sections: [recent] [legends] [fellowship].
 [recent]
+Chris Sakanai
 David Borrelli
 John Rast
 Phil Busch
@@ -11,7 +12,6 @@ Robert Newport
 Fabio Marcantonio
 Michael Schmidt
 Immo-Media
-Paul Blackney
 [legends]
 Pete's Astrophotography
 Blake (ThisOne)
@@ -551,6 +551,7 @@ Chris Green
 Chris J.
 Chris M.
 Chris O.
+Chris Sakanai
 Christian B.
 Christian Dr. Zülch
 Christian Hein
