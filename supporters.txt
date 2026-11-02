@@ -369,6 +369,7 @@ Keith Moseley
 Wayne Devenish
 John Rast
 David Borrelli
+Chris Sakanai
 [fellowship]
 1949
 @JoshBackyardAstro
@@ -551,7 +552,6 @@ Chris Green
 Chris J.
 Chris M.
 Chris O.
-Chris Sakanai
 Christian B.
 Christian Dr. Zülch
 Christian Hein
