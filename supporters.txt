@@ -2,16 +2,16 @@
 # To change or remove your name: message Luke - done the same day.
 # '#' lines are comments. Sections: [recent] [legends] [fellowship].
 [recent]
+Scott Elton
+Donald Abraczinskas
+Robert De Gannes
+Daniel Laval
+Matthew Bryant
+Martin Isau-Frank
+Jeff Hino
+Joseph Kristl
+Dr. G
 Aianne
-Paul Wood
-Ciaran Jordan
-STEPHEN WATSON
-emilford
-Andrew Bennett
-AstroDork
-Peter Heath
-stephen.and.the.huskies
-Seven Skies Astro
 [legends]
 Pete's Astrophotography
 Blake (ThisOne)
@@ -450,6 +450,9 @@ STEPHEN WATSON
 Ciaran Jordan
 Paul Wood
 Aianne
+Dr. G
+Donald Abraczinskas
+Scott Elton
 [fellowship]
 1949
 1951journey
@@ -734,6 +737,7 @@ Daniel Freder
 Daniel G.
 Daniel H.
 Daniel K.
+Daniel Laval
 Daniel M.
 Daniel S.
 Daniel Taormina (FamilyDrones)
@@ -1104,6 +1108,7 @@ Jean-François R.
 Jean-Marie B.
 Jean-Michel Hirschi
 Jeff 'Deadhead Astroman' Weaver
+Jeff Hino
 Jeff K.
 Jeff McGinniss
 Jeff P.
@@ -1208,6 +1213,7 @@ Jose Pedrero
 Joseph Brown
 Joseph C.
 Joseph Jung
+Joseph Kristl
 Joseph L.
 Joseph Linn
 Joseph S.
@@ -1432,6 +1438,7 @@ Martin F.
 Martin Fife
 Martin Flower
 Martin Hudec
+Martin Isau-Frank
 Martin K.
 Martin LeBlanc
 Martin R.
@@ -1445,6 +1452,7 @@ Mathew S.
 Mathew Z.
 Mats Ekholm
 Matt A.
+Matthew Bryant
 Matthew G.
 Matthew Hyman
 Matthew K.
@@ -1757,6 +1765,7 @@ Robbo Wilson
 Robert Anderson
 Robert B.
 Robert Bain
+Robert De Gannes
 Robert E.
 Robert F.
 Robert Greatorex
