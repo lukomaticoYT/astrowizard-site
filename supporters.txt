@@ -2,16 +2,16 @@
 # To change or remove your name: message Luke - done the same day.
 # '#' lines are comments. Sections: [recent] [legends] [fellowship].
 [recent]
+Chris Claxton
+Steve Russell
+Joseph Carrabine
+Darwyn Settles
+Robert Parrish
+Gregory
+Richard Branson
+Bill Cavnaugh
 Lloyd Brown
 Roberto Brugo
-Susan Schnitzer
-Thomas Johnson
-David Livesay
-Scott Elton
-Donald Abraczinskas
-Robert De Gannes
-Daniel Laval
-Matthew Bryant
 [legends]
 Pete's Astrophotography
 Blake (ThisOne)
@@ -457,6 +457,7 @@ David Miller
 David Livesay
 Lloyd Brown
 Laurel P.
+Bill Cavnaugh
 [fellowship]
 1949
 1951journey
@@ -665,6 +666,7 @@ Chorge1972
 Chris
 Chris - Astro La Vista
 Chris B.
+Chris Claxton
 Chris G.
 Chris Gadwah
 Chris Gillard
@@ -752,6 +754,7 @@ Darrell A.
 Darrell Betts
 Darren Edwards
 Darren W.
+Darwyn Settles
 Dave
 Dave Haley
 Dave M.
@@ -993,6 +996,7 @@ Grainge J.
 Greg Lisk
 Greg Rogan
 Gregor M.
+Gregory
 Gregory B.
 Gregory J.
 Gregory Smith
@@ -1215,6 +1219,7 @@ Jose Guasch Sanchez
 Jose Pedrero
 Joseph Brown
 Joseph C.
+Joseph Carrabine
 Joseph Jung
 Joseph Kristl
 Joseph L.
@@ -1727,6 +1732,7 @@ Ricardo G. M.
 Riccardo B.
 Richard A.
 Richard B.
+Richard Branson
 Richard Bright
 Richard C.
 Richard Carner
@@ -1785,6 +1791,7 @@ Robert Moore
 Robert Neal
 Robert Newport
 Robert P.
+Robert Parrish
 Robert Plant
 Robert Provencher
 Robert R.
@@ -1919,6 +1926,7 @@ Steve Hubbard
 Steve Kompier
 Steve P. K.
 Steve R.
+Steve Russell
 Steve T
 steve tetlow
 Steve W.
