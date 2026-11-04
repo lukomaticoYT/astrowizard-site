@@ -2,16 +2,16 @@
 # To change or remove your name: message Luke - done the same day.
 # '#' lines are comments. Sections: [recent] [legends] [fellowship].
 [recent]
+Lloyd Brown
+Roberto Brugo
+Susan Schnitzer
+Thomas Johnson
+David Livesay
 Scott Elton
 Donald Abraczinskas
 Robert De Gannes
 Daniel Laval
 Matthew Bryant
-Martin Isau-Frank
-Jeff Hino
-Joseph Kristl
-Dr. G
-Aianne
 [legends]
 Pete's Astrophotography
 Blake (ThisOne)
@@ -453,6 +453,10 @@ Aianne
 Dr. G
 Donald Abraczinskas
 Scott Elton
+David Miller
+David Livesay
+Lloyd Brown
+Laurel P.
 [fellowship]
 1949
 1951journey
@@ -782,7 +786,6 @@ David Körber
 David Lysnes
 David M. O.
 David Marks
-David Miller
 David N.
 David R.
 David S.
@@ -1311,7 +1314,6 @@ Larry Gonebush
 LarryMac
 Lars Amund Larsen
 Lars Brange
-Laurel P.
 LaurelP
 Laurence C.
 Laurence G.
@@ -1791,6 +1793,7 @@ Robert W.
 Robert W. O.
 Robert Wood
 Robert Z.
+Roberto Brugo
 Robin B.
 Robin Earl
 robRobblah
@@ -1952,6 +1955,7 @@ SubZero Blasting / Dry Ice Solutions
 Sue B.
 Surag Dange
 Susan Aylwin
+Susan Schnitzer
 Syed Ahmed Haider
 Szortis Szortis
 T. Blevins
@@ -1970,6 +1974,7 @@ Theresa M. Fisher
 Thomas B.
 Thomas C.
 Thomas Davis
+Thomas Johnson
 Thomas K.
 Thomas Lin
 Thomas Mastrocinque
