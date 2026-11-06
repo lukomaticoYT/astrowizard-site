@@ -2,16 +2,16 @@
 # To change or remove your name: message Luke - done the same day.
 # '#' lines are comments. Sections: [recent] [legends] [fellowship].
 [recent]
-Adrian West
-Salil Phadnis
-Anthony Phipps
-Studio Pirilö
-David Phillipson
-Bruno Marques
-Conrad Sanders
-Michael Gallier
-Arkadiusz Milewski
-James Ainsley Thibert
+Christophe DON Sébastien
+Ton Beckers
+Ian Connor
+Russell Cleroux
+Phil Fifield
+Matt
+Youri Groothuizen
+Per Bohlin
+Edgar Glasheen
+Richard Clark
 [legends]
 Pete's Astrophotography
 Blake (ThisOne)
@@ -465,6 +465,11 @@ James Ainsley Thibert
 Michael Gallier
 Amit S.
 Kevin Umbach
+Ray Letulle
+Ronald Quick
+Richard Clark
+Matt
+Jon Gwinn
 [fellowship]
 1949
 1951journey
@@ -691,6 +696,7 @@ Christian Dr. Zülch
 Christian Hein
 Christian T.
 Christine Jacobs
+Christophe DON Sébastien
 Christopher C.
 Christopher E.
 Christopher Fitzgerald
@@ -879,6 +885,7 @@ Eddie White
 Eddy Gladdines
 Eden Orion
 Edgar C.
+Edgar Glasheen
 Edmund G.
 Edward Cruz
 Edwin M.
@@ -1056,6 +1063,7 @@ I Van Vegchel
 I. E.
 Iain N.
 Ian C.
+Ian Connor
 Ian F.
 Ian Holloway
 Ian Ippolito
@@ -1224,7 +1232,6 @@ John Williams
 JohnNM2026
 Jon
 Jon C.
-Jon Gwinn
 Jonathan Dingwall
 Jonathan H.
 Jonbanjovie
@@ -1367,6 +1374,7 @@ Lord C.
 Loree R.
 Lorne C.
 Lorraine M.
+Lorraine Williams
 Lou Vassallo
 Louis Marchesi
 Louis R.
@@ -1652,6 +1660,7 @@ Paulo B. G.
 Pavels Novikovs
 Pavol Horinka
 Paweł Ł.
+Per Bohlin
 Perry n Becky
 Pete - "The Ein"
 Pete Bek
@@ -1682,6 +1691,7 @@ Petr K.
 Petros M.
 Phil Atkinson
 Phil Busch
+Phil Fifield
 Phil H.
 Phil Hochstetler
 Phil Marshall
@@ -1850,6 +1860,7 @@ Rui C.
 Rumour Has it
 RURIOSTE
 Russ McNulty
+Russell Cleroux
 Ryan Collins
 Ryan O.
 S. Green
@@ -2041,6 +2052,7 @@ Tomato
 TomH
 Tommy Bow
 Tommy P.
+Ton Beckers
 Tony B.
 Tony C.
 Tony D.
@@ -2131,6 +2143,7 @@ Yann A.
 Yannik W.
 Yervant Parnagian
 Yoshihiro Shizuya
+Youri Groothuizen
 Yvan Van Hoorickx
 Zac McClary
 Zoltan D.
