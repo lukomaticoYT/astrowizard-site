@@ -2,6 +2,7 @@
 # To change or remove your name: message Luke - done the same day.
 # '#' lines are comments. Sections: [recent] [legends] [fellowship].
 [recent]
+Anthony Duin
 Christophe DON Sébastien
 Ton Beckers
 Ian Connor
@@ -11,7 +12,6 @@ Matt
 Youri Groothuizen
 Per Bohlin
 Edgar Glasheen
-Richard Clark
 [legends]
 Pete's Astrophotography
 Blake (ThisOne)
@@ -551,6 +551,7 @@ Angie Frazier
 Angie G.
 Anne G.
 AnneBWPhotography
+Anthony Duin
 Anthony Phipps
 Antoine W.
 Antonio Cuellar
