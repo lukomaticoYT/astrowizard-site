@@ -2,16 +2,16 @@
 # To change or remove your name: message Luke - done the same day.
 # '#' lines are comments. Sections: [recent] [legends] [fellowship].
 [recent]
-Anthony Duin
-Christophe DON Sébastien
-Ton Beckers
-Ian Connor
-Russell Cleroux
-Phil Fifield
-Matt
-Youri Groothuizen
-Per Bohlin
-Edgar Glasheen
+Prashanto Mandal
+Stewart Doyle
+Linton Taylor-Clarkson
+Scott Dommin
+Antoine Appert
+Shaun Norrie
+Nick Melidonis
+David Purcell
+Rae Beaumont
+R Doran
 [legends]
 Pete's Astrophotography
 Blake (ThisOne)
@@ -470,6 +470,13 @@ Ronald Quick
 Richard Clark
 Matt
 Jon Gwinn
+Martin Briscoe
+Claudio Lodi
+Nick Melidonis
+Shaun Norrie
+Scott Dommin
+Mark Arvieux
+Boris S.
 [fellowship]
 1949
 1951journey
@@ -553,6 +560,7 @@ Anne G.
 AnneBWPhotography
 Anthony Duin
 Anthony Phipps
+Antoine Appert
 Antoine W.
 Antonio Cuellar
 Antonio Pena
@@ -607,7 +615,6 @@ Blair Davis
 Bo Sundin
 Bob G.
 Bob P.
-Boris S.
 BortleZero
 Brad H.
 Bradford E.
@@ -712,7 +719,6 @@ Chuck T.
 CityAstronomer
 Clarence Mumphrey
 Claude F.
-Claudio Lodi
 Claus S.
 Clayton Ostler
 Clint Mayes
@@ -810,6 +816,7 @@ David M. O.
 David Marks
 David N.
 David Phillipson
+David Purcell
 David R.
 David S.
 David Saradini
@@ -1366,6 +1373,7 @@ Libertas
 LibraTaurus
 Lily Y.
 Linton Guise
+Linton Taylor-Clarkson
 Lionel J.
 Lionel Monge
 Lloyd E Stevens
@@ -1425,7 +1433,6 @@ Marinus H.
 Mario M.
 Mario V.
 Marj E.
-Mark Arvieux
 Mark Bell
 Mark Brown
 Mark C.
@@ -1462,7 +1469,6 @@ Martianplanet
 Martin B.
 Martin Bitzer
 Martin Br.
-Martin Briscoe
 Martin E.
 Martin Engels
 Martin F.
@@ -1717,8 +1723,10 @@ Piotr I.
 PL
 Pol D.
 Pompilio F.
+Prashanto Mandal
 Puddu I.
 quantum
+R Doran
 R. Barrett
 R. Barter
 R. Bianchi
@@ -1731,6 +1739,7 @@ R. Reeves
 R.G. Smeenk
 Radek S.
 Radomír Č.
+Rae Beaumont
 Rafael J.
 Rafał Kwieciński
 Rainbow Cottage Artworks
@@ -1976,6 +1985,7 @@ Steven Scott
 Steven Thorpe
 Steven Wilden
 Steven Z.
+Stewart Doyle
 stillman3
 Strangeskys
 StrummerJoe
