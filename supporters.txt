@@ -2,16 +2,16 @@
 # To change or remove your name: message Luke - done the same day.
 # '#' lines are comments. Sections: [recent] [legends] [fellowship].
 [recent]
+SCTom
+M1Az26
+Ken Murray
+DasGutt
 Mitchell Thompson
 Ming Lew
 Raymond Bratton
 Reinhard Oppermann
 William Rupp
 Rainer Brodmann
-Prashanto Mandal
-Stewart Doyle
-Linton Taylor-Clarkson
-Scott Dommin
 [legends]
 Pete's Astrophotography
 Blake (ThisOne)
@@ -479,6 +479,8 @@ Mark Arvieux
 Boris S.
 Reinhard Oppermann
 SaltyPogue
+Ken Murray
+SCTom
 [fellowship]
 1949
 1951journey
@@ -782,6 +784,7 @@ Darrell Betts
 Darren Edwards
 Darren W.
 Darwyn Settles
+DasGutt
 Dave
 Dave Haley
 Dave M.
@@ -1406,6 +1409,7 @@ M. Sansom
 M. Schuster
 M. Sullivan
 M.Frazier
+M1Az26
 Mac Bowden
 Mad Martian
 Mahmood Khan
