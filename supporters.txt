@@ -2,16 +2,16 @@
 # To change or remove your name: message Luke - done the same day.
 # '#' lines are comments. Sections: [recent] [legends] [fellowship].
 [recent]
-SCTom
-M1Az26
-Ken Murray
-DasGutt
-Mitchell Thompson
-Ming Lew
-Raymond Bratton
-Reinhard Oppermann
-William Rupp
-Rainer Brodmann
+Michael Lambert
+Wayne Archard
+Paul Hitchcock
+Andrew Riley
+Kona Krystals
+Árpád Szabó
+William Stafford
+Frank Valenti
+Pamela Kessler
+Daniel Schoenicke
 [legends]
 Pete's Astrophotography
 Blake (ThisOne)
@@ -481,6 +481,9 @@ Reinhard Oppermann
 SaltyPogue
 Ken Murray
 SCTom
+Juan Alberdi
+Kona Krystals
+Paul Hitchcock
 [fellowship]
 1949
 1951journey
@@ -505,6 +508,7 @@ Adrian N.
 Adrian S.
 Adrian West
 Adriano G.
+Adwait
 Aeromann6243
 Afonocte
 AFrame Daydream
@@ -546,6 +550,7 @@ Andrew McLaren
 Andrew N.
 Andrew Palmer
 Andrew R.
+Andrew Riley
 Andrew W.
 Andrew Watson
 Andrzej G.
@@ -775,6 +780,7 @@ Daniel K.
 Daniel Laval
 Daniel M.
 Daniel S.
+Daniel Schoenicke
 Daniel Taormina (FamilyDrones)
 Daniele Brotzu
 Danny Frauenhofer (dan__fr)
@@ -955,6 +961,7 @@ Frank Johns
 Frank K.
 Frank S.
 Frank Szeplakay
+Frank Valenti
 Frank W.
 Frank Wiesner
 Frans Mertens
@@ -1526,6 +1533,7 @@ Michael Heersche
 Michael K.
 Michael Kovacs
 Michael L.
+Michael Lambert
 Michael MacFarland
 Michael McTague
 Michael Nugent
@@ -1632,6 +1640,7 @@ Pablo Uribasterra
 Padre
 PaganoPhoto
 PAMAXTEAM
+Pamela Kessler
 Paolo Maccario
 Pascal B. H.
 Pascal Boesinger
@@ -2135,6 +2144,7 @@ Warren F.
 Warren Hilton
 Warren Perrett
 Warren S.
+Wayne Archard
 Wayne Portanova
 Webew
 Wee Ho Sun
@@ -2151,6 +2161,7 @@ William L.
 William Marquardt
 William Rupp
 William S.
+William Stafford
 William Z.
 Wim L.
 Winfried Wohlmuth
@@ -2171,5 +2182,6 @@ Zoltan D.
 zonedzero
 Zooke
 Álvaro H. V.
+Árpád Szabó
 Étienne P.
 承禎 汪
