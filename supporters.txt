@@ -2,16 +2,16 @@
 # To change or remove your name: message Luke - done the same day.
 # '#' lines are comments. Sections: [recent] [legends] [fellowship].
 [recent]
+Carlo Pezzarossa
+Robert Adams
+Michael Robinson
+Timothy Middendorf
+José Carlos Pinilla García
+Philip Lauwerys
+James Bruss
+James Champion
 Michael Lambert
 Wayne Archard
-Paul Hitchcock
-Andrew Riley
-Kona Krystals
-Árpád Szabó
-William Stafford
-Frank Valenti
-Pamela Kessler
-Daniel Schoenicke
 [legends]
 Pete's Astrophotography
 Blake (ThisOne)
@@ -484,6 +484,8 @@ SCTom
 Juan Alberdi
 Kona Krystals
 Paul Hitchcock
+James Bruss
+Michael Robinson
 [fellowship]
 1949
 1951journey
@@ -660,6 +662,7 @@ Carigs
 Carl
 Carl B.
 Carl P.
+Carlo Pezzarossa
 Carlos A.
 Carlos Alberto Heredero Gracia
 Carlos D.
@@ -1122,6 +1125,7 @@ James Baskett
 James Bonser
 James Brennan
 James C.
+James Champion
 James G. O'Brien, Ph.D.
 James K.
 James Kerrigan
@@ -1274,6 +1278,7 @@ Josh Byrne
 Joshua Spotts
 Josiah J.
 Josiah Julin
+José Carlos Pinilla García
 JR
 Juan C. S. A.
 Juan D. P. A.
@@ -1725,6 +1730,7 @@ Philip A.
 Philip G.
 Philip Gelsheimer
 Philip Kahn
+Philip Lauwerys
 Philip T.
 Philipp
 Philippe F.
@@ -1825,6 +1831,7 @@ Rob Greaves
 Rob Kyle
 Rob S
 Robbo Wilson
+Robert Adams
 Robert Adkins
 Robert Anderson
 Robert B.
@@ -2071,6 +2078,7 @@ Timo Jarvilehto
 Timo K.
 Timothy H.
 Timothy Harrell
+Timothy Middendorf
 Tobi K.
 Tobias W.
 Tom Gray
