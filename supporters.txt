@@ -2,16 +2,16 @@
 # To change or remove your name: message Luke - done the same day.
 # '#' lines are comments. Sections: [recent] [legends] [fellowship].
 [recent]
+Trevor Quinn Photography
+Nick Babaniaris
+Jeffrey Priest
+Nicolai Embach
+Michael Keschinger
+Northwind
+Alfred Ferstl
 Carlo Pezzarossa
 Robert Adams
 Michael Robinson
-Timothy Middendorf
-José Carlos Pinilla García
-Philip Lauwerys
-James Bruss
-James Champion
-Michael Lambert
-Wayne Archard
 [legends]
 Pete's Astrophotography
 Blake (ThisOne)
@@ -486,6 +486,7 @@ Kona Krystals
 Paul Hitchcock
 James Bruss
 Michael Robinson
+Jeffrey Priest
 [fellowship]
 1949
 1951journey
@@ -536,6 +537,7 @@ Alex Liu
 Alex P.
 Alex T.
 Alexander M.
+Alfred Ferstl
 Allan D.
 alphaorionis71
 Amd
@@ -1536,6 +1538,7 @@ Michael Falk
 Michael Finsand
 Michael Heersche
 Michael K.
+Michael Keschinger
 Michael Kovacs
 Michael L.
 Michael Lambert
@@ -1618,9 +1621,11 @@ Nicholas C.
 Nicholas North
 Nicholas S.
 Nick B
+Nick Babaniaris
 Nick H.
 Nico G.
 Nicola Locatelli
+Nicolai Embach
 Nigel Blunt
 Nigel Finch
 Nigel S.
@@ -1630,6 +1635,7 @@ Noah B.
 NoDarlSkies
 Norman L.
 Norman Schiddel
+Northwind
 noskos
 nosTa
 Old Girl Photography
@@ -2108,6 +2114,7 @@ Travelling Snail
 Trevor Appleton
 Trevor Evans
 Trevor Hartney
+Trevor Quinn Photography
 Trevor S.
 Troy M.
 Troy S.
