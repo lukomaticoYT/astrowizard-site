@@ -1,5 +1,6 @@
 {
-  "build_date": "2026-11-07",
+  "build_date": "2026-11-14",
+  "version": "1.0.0",
   "windows": "https://github.com/lukomaticoYT/astrowizard-releases/releases/latest/download/AstroWizard.exe",
   "mac": "https://github.com/lukomaticoYT/astrowizard-releases/releases/latest/download/AstroWizard-mac.zip",
   "linux": "https://github.com/lukomaticoYT/astrowizard-releases/releases/latest/download/AstroWizard-Linux-x86_64.tar.gz",
@@ -10,5 +11,11 @@
     "mac": "https://drive.google.com/uc?export=download&id=1rPxwVYPgby84FEEd8XGymOU1nveN1acM",
     "mac_intel": "https://drive.google.com/uc?export=download&id=1gWZL3rh3q1Xs0mFhg_o-YKv_bfMFxYfv",
     "linux": "https://drive.google.com/uc?export=download&id=1l6qXGG6qvLwsWeTIhH3smUH_qA5SbrAU"
+  },
+  "sha256": {
+    "windows": "9270fb3322e069401112e2bf3187e564ab436987b895f9c0bcbc39000f9537a5",
+    "mac": "f29fe81cffb60e4a480e329a14938a75cc2f27bbc2d16807babb339b0074ac3c",
+    "mac_intel": "f53a904868665a29bac93e3a84b37d1e35223d0ca9453912c7465ef690069f0b",
+    "linux": "31e9ff749140df578f72fb89c4e49bf4c6b73df3f3c08055e4f4cd7644f6be7e"
   }
 }
