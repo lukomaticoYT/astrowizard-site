@@ -2,16 +2,16 @@
 # To change or remove your name: message Luke - done the same day.
 # '#' lines are comments. Sections: [recent] [legends] [fellowship].
 [recent]
+George Omura
+John Minicky
+Jeff Hickok
+Reinhard Rosner
+Ralph Metcalf
+Robert Hootkins
 Trevor Quinn Photography
 Nick Babaniaris
 Jeffrey Priest
 Nicolai Embach
-Michael Keschinger
-Northwind
-Alfred Ferstl
-Carlo Pezzarossa
-Robert Adams
-Michael Robinson
 [legends]
 Pete's Astrophotography
 Blake (ThisOne)
@@ -487,6 +487,7 @@ Paul Hitchcock
 James Bruss
 Michael Robinson
 Jeffrey Priest
+Albert A.
 [fellowship]
 1949
 1951journey
@@ -530,7 +531,6 @@ Alan Sheiness
 Alan T.
 Alaric Thompson
 Alastair Hensman
-Albert A.
 Albert T.
 Alessandro C.
 Alex Liu
@@ -1008,6 +1008,7 @@ Geoffrey L.
 Geoffrey V.
 Geoffrey W.
 Georg N. N.
+George Omura
 George S.
 Gerald G.
 Gerard Gormley
@@ -1163,6 +1164,7 @@ Jean-François R.
 Jean-Marie B.
 Jean-Michel Hirschi
 Jeff 'Deadhead Astroman' Weaver
+Jeff Hickok
 Jeff Hino
 Jeff K.
 Jeff McGinniss
@@ -1244,6 +1246,7 @@ John L.
 John Leach
 John M.
 John McSorley
+John Minicky
 John Mozdziers
 John Osborne
 John Pavlic
@@ -1776,6 +1779,7 @@ Rainer Brodmann
 Rainer Kuban
 Ralf Marschallinger
 Ralph Kimball
+Ralph Metcalf
 Ralph S.
 Randall S. D.
 Randall W.
@@ -1791,6 +1795,7 @@ Rc Dab
 redarcus
 Reference Audio Plus
 Regina Z.
+Reinhard Rosner
 Rene K.
 Rex W.
 Rhees and Monique
@@ -1847,6 +1852,7 @@ Robert E.
 Robert F.
 Robert Helmis
 Robert Hinkle
+Robert Hootkins
 Robert Hunt
 Robert Kelsoe
 Robert Koch
