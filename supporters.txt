@@ -2,6 +2,8 @@
 # To change or remove your name: message Luke - done the same day.
 # '#' lines are comments. Sections: [recent] [legends] [fellowship].
 [recent]
+Walter Weaver
+Bryan Wilmoth
 Derek H
 m0e
 Terri Perciavale
@@ -10,8 +12,6 @@ Clive Norton
 Thomas Statas
 Keith Courter
 Stephen Mawdsley
-Janne Pyy
-Immanuel Mathew
 [legends]
 Pete's Astrophotography
 Blake (ThisOne)
@@ -655,6 +655,7 @@ Bruce S.
 Bruno Marques
 Bryan Conley
 Bryan Shumaker
+Bryan Wilmoth
 Bryce B.
 Byron Davies
 Bård K. G.
@@ -2171,6 +2172,7 @@ Walter M5
 Walter R.
 Walter Szyc
 Walter V.
+Walter Weaver
 WalterHaase
 Ward Booth
 Warren F.
