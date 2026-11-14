@@ -2,16 +2,16 @@
 # To change or remove your name: message Luke - done the same day.
 # '#' lines are comments. Sections: [recent] [legends] [fellowship].
 [recent]
-George Omura
-John Minicky
-Jeff Hickok
-Reinhard Rosner
-Ralph Metcalf
-Robert Hootkins
-Trevor Quinn Photography
-Nick Babaniaris
-Jeffrey Priest
-Nicolai Embach
+Derek H
+m0e
+Terri Perciavale
+John Charles
+Clive Norton
+Thomas Statas
+Keith Courter
+Stephen Mawdsley
+Janne Pyy
+Immanuel Mathew
 [legends]
 Pete's Astrophotography
 Blake (ThisOne)
@@ -488,6 +488,10 @@ James Bruss
 Michael Robinson
 Jeffrey Priest
 Albert A.
+Michael Barlow
+Keith Courter
+Compadre Chuma
+Terri Perciavale
 [fellowship]
 1949
 1951journey
@@ -739,11 +743,11 @@ Clint Mayes
 Clive C.
 Clive Gordon
 Clive I.
+Clive Norton
 cmjames294
 Colin B.
 Colin Hunter
 ColleenvR
-Compadre Chuma
 Conrad C.
 Conrad Sanders
 Cordula G.
@@ -853,6 +857,7 @@ Dennis V.
 Derek B.
 Derek E.
 Derek F.
+Derek H
 Desmond Fogerty
 Details Matter
 Detlef P.
@@ -976,6 +981,7 @@ Fred Le Saint
 Fred O.
 Fred's Honey
 Frederick S.
+FW Kleinhans
 G. Platt
 G. Stoppa
 Gabriel P.
@@ -1100,6 +1106,7 @@ Ian Noel Pace
 Ian W.
 Ian Z.
 IanMac
+Immanuel Mathew
 Ingo T.
 Ironman Astro
 Italian kangaroo
@@ -1145,6 +1152,7 @@ James Yanko
 Jamie B.
 Jan-Marco Petri
 Janne K.
+Janne Pyy
 Jarrod Claar
 Jasmin Dancause
 Jason C.
@@ -1227,6 +1235,7 @@ John and Sue
 John B.
 John Bimson
 John C.
+John Charles
 John De Marco
 John F.
 John Farrell
@@ -1426,6 +1435,7 @@ M. Sansom
 M. Schuster
 M. Sullivan
 M.Frazier
+m0e
 M1Az26
 Mac Bowden
 Mad Martian
@@ -1990,6 +2000,7 @@ Stephen H.
 Stephen La.
 Stephen Ly.
 Stephen M.
+Stephen Mawdsley
 Stephen P.
 Stephen R.
 Stephen Roesch
@@ -2070,6 +2081,7 @@ Thomas Schallenberg
 Thomas Schliwa
 Thomas Skrovanek
 Thomas Starke
+Thomas Statas
 Thomas Türk
 Thomas W.
 Thomas Warren
