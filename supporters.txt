@@ -2,16 +2,16 @@
 # To change or remove your name: message Luke - done the same day.
 # '#' lines are comments. Sections: [recent] [legends] [fellowship].
 [recent]
-Walter Weaver
-Bryan Wilmoth
-Derek H
-m0e
-Terri Perciavale
-John Charles
-Clive Norton
-Thomas Statas
-Keith Courter
-Stephen Mawdsley
+Raffaele Bertone
+Bjoern I.
+Fabio Dolia
+Rich Neiser
+M J Fisher
+Theodore Bade
+Christopher Lamb
+Seukjoon Moon
+Mark Prelas
+Joan Laubmeier
 [legends]
 Pete's Astrophotography
 Blake (ThisOne)
@@ -492,6 +492,15 @@ Michael Barlow
 Keith Courter
 Compadre Chuma
 Terri Perciavale
+Lilian Hobbs
+Kevin Maltese
+Nathan Pollock
+Martin Lahrmann
+Rick T.
+Mark Prelas
+Christopher Lamb
+Rich Neiser
+George Omura
 [fellowship]
 1949
 1951journey
@@ -627,6 +636,7 @@ Bevon S.
 Bil Kelly
 Bill Childs
 Bill M.
+Bjoern I.
 Blaine Williams
 Blair Davis
 Bo Sundin
@@ -946,6 +956,7 @@ Eugenio G.
 F W Milsom
 F. Linde
 Fabien Dehopré
+Fabio Dolia
 Fabio Freirias
 Fabio Marcantonio
 Fernando P.
@@ -1015,7 +1026,6 @@ Geoffrey L.
 Geoffrey V.
 Geoffrey W.
 Georg N. N.
-George Omura
 George S.
 Gerald G.
 Gerard Gormley
@@ -1154,6 +1164,7 @@ Jamie B.
 Jan-Marco Petri
 Janne K.
 Janne Pyy
+Jared F. Harrison
 Jarrod Claar
 Jasmin Dancause
 Jason C.
@@ -1212,6 +1223,7 @@ Jimmy R.
 JLRC
 Joachim Dünwald
 Joachim R.
+Joan Laubmeier
 Joaquin B.
 Jody H.
 Joe D.
@@ -1429,6 +1441,7 @@ Lutz Dr. Paelke
 Lyle A.
 Lyndon K.
 Lynne Thistlethwaite
+M J Fisher
 M. Bonser
 M. Kotchie
 M. Kraft
@@ -1785,6 +1798,7 @@ Radomír Č.
 Rae Beaumont
 Rafael J.
 Rafał Kwieciński
+Raffaele Bertone
 Rainbow Cottage Artworks
 Rainer Brodmann
 Rainer Kuban
@@ -1807,6 +1821,7 @@ redarcus
 Reference Audio Plus
 Regina Z.
 Reinhard Rosner
+Reinier Snijders
 Rene K.
 Rex W.
 Rhees and Monique
@@ -1841,7 +1856,6 @@ Rick Carver
 Rick G.
 Rick Grieser
 Rick Murray
-Rick T.
 Rick Wood
 RickFlemattiNaturePhotography
 RickJ
@@ -1958,6 +1972,7 @@ Selvakumar M.
 SereneScream
 Sergio Abad Luque
 Sergio Mazzi
+Seukjoon Moon
 Shaun Hall
 Shawn Gurley
 Shell Smith
@@ -2057,6 +2072,7 @@ Susan Aylwin
 Susan Schnitzer
 Syed Ahmed Haider
 Szortis Szortis
+T R Hyde
 T. Blevins
 TalkToGreg
 Tamás Nagy
@@ -2069,6 +2085,7 @@ Thanasis M.
 The Astrollarium
 The Ook
 Theo K.
+Theodore Bade
 Theresa M. Fisher
 Thomas B.
 Thomas C.
@@ -2080,6 +2097,7 @@ Thomas Mastrocinque
 Thomas Mizer
 Thomas Schallenberg
 Thomas Schliwa
+Thomas Schmidt-Mumm
 Thomas Skrovanek
 Thomas Starke
 Thomas Statas
