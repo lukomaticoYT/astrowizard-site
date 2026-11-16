@@ -2,16 +2,16 @@
 # To change or remove your name: message Luke - done the same day.
 # '#' lines are comments. Sections: [recent] [legends] [fellowship].
 [recent]
-Raffaele Bertone
-Bjoern I.
-Fabio Dolia
-Rich Neiser
-M J Fisher
-Theodore Bade
-Christopher Lamb
-Seukjoon Moon
-Mark Prelas
-Joan Laubmeier
+astrophotomonkey
+Robert De Camp
+Warren Child
+Charlton Baker
+Chen Yi-Qin
+Patrick Wiechmann
+Silvio Henker
+Chris Chollak
+Martin Lueking
+Steven Recca
 [legends]
 Pete's Astrophotography
 Blake (ThisOne)
@@ -501,6 +501,10 @@ Mark Prelas
 Christopher Lamb
 Rich Neiser
 George Omura
+Steven Recca
+Martin Lueking
+Charlton Baker
+Robert De Camp
 [fellowship]
 1949
 1951journey
@@ -605,6 +609,7 @@ AstroCHARLY
 Astroexeter
 Astronomy With Claire
 Astrophotography Real Space
+astrophotomonkey
 AstroPix UK (Jim Owen )
 AstroRN
 AstroSaandy
@@ -710,6 +715,7 @@ Charles W.
 Charles Webb
 Chas Jackson
 Chau S.
+Chen Yi-Qin
 Cheryl W.
 Cheryl Wilcox Photography
 Chester W.
@@ -719,6 +725,7 @@ Chorge1972
 Chris
 Chris - Astro La Vista
 Chris B.
+Chris Chollak
 Chris Claxton
 Chris G.
 Chris Gadwah
@@ -750,6 +757,7 @@ Clarence Mumphrey
 Claude F.
 Claus S.
 Clayton Ostler
+Clifton Beasley
 Clint Mayes
 Clive C.
 Clive Gordon
@@ -1053,6 +1061,7 @@ GordonLovesScience
 Graeme B.
 Graham C.
 Graham G.
+Graham Hard
 Graham P.
 Graham Rousell
 Graham Winstanley
@@ -1688,6 +1697,7 @@ Pascal Segouffin
 Patrick E.
 Patrick Matheson
 Patrick N.
+Patrick Wiechmann
 Patrizio C.
 Paul Atkins
 Paul B.
@@ -1977,6 +1987,7 @@ Shaun Hall
 Shawn Gurley
 Shell Smith
 Silvana D. C.
+Silvio Henker
 SIMON BURCHILL
 Simon C.
 Simon Edwardson
@@ -2193,6 +2204,7 @@ Walter V.
 Walter Weaver
 WalterHaase
 Ward Booth
+Warren Child
 Warren F.
 Warren Hilton
 Warren Perrett
