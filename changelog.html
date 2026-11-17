@@ -66,6 +66,23 @@
 
   <div class="log">
     <div class="entry">
+      <p class="date">18 NOVEMBER 2026</p>
+      <h2>AstroWizard 1.0.1 - Fresh Start (build 2026-11-18)</h2>
+      <ul>
+        <li><b>Flip or rotate, and the picture still knows where it is.</b> A flip or a quarter turn used to throw away a picture's plate solution, and Star-True Colours then aimed by the mount's rough coordinates - on one stack about a degree off, which is enough to miss. The solution now follows the picture through Flip H, Flip V and both quarter turns, exactly. Thanks Thierry.</li>
+        <li><b>Reset Step clears the "already applied" notice.</b> After Reset Step the page went on saying the step was already applied. The notice now goes when the work goes. Thanks Scott.</li>
+        <li><b>Also.</b> The log's 'Normalized' line names the scale the picture was divided by (0-65535), not its brightest pixel.</li>
+      </ul>
+      <h2>StackingWizard 1.0.1 (beta) - Fresh Start (build 2026-11-18)</h2>
+      <ul>
+        <li><b>Dwarf owners: 'HO' and 'Duo-Band' are one filter again.</b> DwarfLab's newer firmware calls the dual-band filter 'HO' where it used to say 'Duo-Band', and StackingWizard took the two names for two filters: a target shot before and after the update came out as two stacks. On a Dwarf the two names are now one filter - one stack, your flats reach every frame, and stacks saved under either name combine. Thanks Mitja.</li>
+        <li><b>A faster start to every stack.</b> The wait between starting a stack and the first frame appearing is much shorter. The wizard was reading the stars of the same few frames one after another on a single core; now it reads each frame once and several frames at a time. The stack itself is the same to the last bit. On a night of sixteen 26 MP frames here that wait went from 51 seconds to 21.</li>
+        <li><b>'Start fresh' really starts fresh.</b> After the clean sweep, adding loose files for a new night brought the previous night's files back with them, or listed them as 'unknown' if you had since deleted them. Fixed. Thanks Clive.</li>
+        <li><b>"Take them anyway" is easier to find.</b> When frames you point at the darks, flats or bias tile call themselves lights in their headers, the wizard leaves them as lights and offers a button to take them anyway. That button was small and easy to miss. It is a proper button now. Thanks Tim.</li>
+        <li><b>The night's story on several nights.</b> A pile of several nights is told as several nights, with their dates, instead of one very long night.</li>
+      </ul>
+    </div>
+    <div class="entry">
       <p class="date">14 NOVEMBER 2026</p>
       <h2>AstroWizard 1.0 - The Spellbook (build 2026-11-14)</h2>
       <ul>
