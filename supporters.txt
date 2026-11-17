@@ -2,16 +2,16 @@
 # To change or remove your name: message Luke - done the same day.
 # '#' lines are comments. Sections: [recent] [legends] [fellowship].
 [recent]
-astrophotomonkey
-Robert De Camp
-Warren Child
-Charlton Baker
-Chen Yi-Qin
-Patrick Wiechmann
-Silvio Henker
-Chris Chollak
-Martin Lueking
-Steven Recca
+David Hughes
+Ed Brown
+Annabel Gille
+Giovanni Barbarino
+Gary Foord
+David Alan Walton
+WIlliam Schrull
+David Ross
+Robert Winstrom
+Wil C.
 [legends]
 Pete's Astrophotography
 Blake (ThisOne)
@@ -505,6 +505,12 @@ Steven Recca
 Martin Lueking
 Charlton Baker
 Robert De Camp
+Detlef P.
+WIlliam Schrull
+David Alan Walton
+Gary Foord
+Annabel Gille
+Ed Brown
 [fellowship]
 1949
 1951journey
@@ -847,6 +853,7 @@ David H.
 David Hamory
 David Harvey
 David Hawkins
+David Hughes
 David J. P.
 David K.
 David Körber
@@ -857,6 +864,7 @@ David N.
 David Phillipson
 David Purcell
 David R.
+David Ross
 David S.
 David Saradini
 David Stein
@@ -879,7 +887,6 @@ Derek F.
 Derek H
 Desmond Fogerty
 Details Matter
-Detlef P.
 Devon Jones
 Dew Control
 DHP Radio
@@ -943,6 +950,7 @@ Elbert McCormick
 ElCap373
 Eliyahu777
 Emilkin' Space
+Enrique Gonzales
 Eric C.
 Eric F.
 Eric G.
@@ -1047,6 +1055,7 @@ Gilbert Combier
 Gilbert G.
 Gilles N.
 GingerTube22
+Giovanni Barbarino
 glauria
 Glen H.
 Glen Stroud
@@ -1149,6 +1158,7 @@ Jack D.
 Jack G.
 Jack Heeley
 Jacob G.
+Jaime Miller
 James A.
 James Baccala
 James Baskett
@@ -1292,6 +1302,7 @@ John Williams
 JohnNM2026
 Jon
 Jon C.
+Jonathan
 Jonathan Dingwall
 Jonathan H.
 Jonbanjovie
@@ -1818,6 +1829,7 @@ Ralph S.
 Randall S. D.
 Randall W.
 Random Sales
+Randy Tysinger
 Raoul Fiebig & Renée-Sophie Köhler
 Rasmus P.
 Ray Astro
@@ -1872,6 +1884,7 @@ Ride Along with Randy
 RipForYou
 RJFM4
 Rob "ROLEX" Doran
+Rob - Astro Star Viewing
 Rob D.
 Rob Greaves
 Rob Kyle
@@ -1907,6 +1920,7 @@ Robert R.
 Robert Spellman
 Robert W.
 Robert W. O.
+Robert Winstrom
 Robert Wood
 Robert Z.
 Roberto Brugo
@@ -2214,6 +2228,7 @@ Wayne Portanova
 Webew
 Wee Ho Sun
 Wendy B.
+Wil C.
 Will Collier
 Will J.
 William Bentow
