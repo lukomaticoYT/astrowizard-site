@@ -2,16 +2,16 @@
 # To change or remove your name: message Luke - done the same day.
 # '#' lines are comments. Sections: [recent] [legends] [fellowship].
 [recent]
+Daniel Lenardon
+Norbert Stöcker
+William Keeler
+Herbert Kogler
+David F Leech
+David Johnson
+Paul D. Clarke
+Dave Alexander
+Brad Ashbrook
 David Hughes
-Ed Brown
-Annabel Gille
-Giovanni Barbarino
-Gary Foord
-David Alan Walton
-WIlliam Schrull
-David Ross
-Robert Winstrom
-Wil C.
 [legends]
 Pete's Astrophotography
 Blake (ThisOne)
@@ -511,6 +511,8 @@ David Alan Walton
 Gary Foord
 Annabel Gille
 Ed Brown
+Dave Alexander
+Paul D. Clarke
 [fellowship]
 1949
 1951journey
@@ -654,6 +656,7 @@ Bo Sundin
 Bob G.
 Bob P.
 BortleZero
+Brad Ashbrook
 Brad H.
 Bradford E.
 Brent McGraw
@@ -812,6 +815,7 @@ Daniel G.
 Daniel H.
 Daniel K.
 Daniel Laval
+Daniel Lenardon
 Daniel M.
 Daniel S.
 Daniel Schoenicke
@@ -845,6 +849,7 @@ David D.
 David DeCroix
 David E.
 David Evans
+David F Leech
 David F. L.
 David Faulk
 David Gange
@@ -855,6 +860,7 @@ David Harvey
 David Hawkins
 David Hughes
 David J. P.
+David Johnson
 David K.
 David Körber
 David Lysnes
@@ -1113,6 +1119,7 @@ Henri D.
 Henriette C.
 Henry H.
 Herbert Hamber
+Herbert Kogler
 Herve C.
 High Legh Community Observatory
 Hitesh Mehta
@@ -1680,6 +1687,7 @@ NikonJax
 Nino D.
 Noah B.
 NoDarlSkies
+Norbert Stöcker
 Norman L.
 Norman Schiddel
 Northwind
@@ -2237,6 +2245,7 @@ William D.
 William F.
 William Hartwell
 William K.
+William Keeler
 William L.
 William Marquardt
 William Rupp
