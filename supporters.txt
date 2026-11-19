@@ -2,16 +2,16 @@
 # To change or remove your name: message Luke - done the same day.
 # '#' lines are comments. Sections: [recent] [legends] [fellowship].
 [recent]
-Daniel Lenardon
-Norbert Stöcker
-William Keeler
-Herbert Kogler
-David F Leech
-David Johnson
-Paul D. Clarke
-Dave Alexander
-Brad Ashbrook
-David Hughes
+Bob Messenger
+Ganesh S.
+Tony Cullimore
+Gerd Waloszek
+John Noble
+Joe Setaro
+Andrew
+Tim Corso
+Raymond Rankins
+Digital Don
 [legends]
 Pete's Astrophotography
 Blake (ThisOne)
@@ -513,6 +513,9 @@ Annabel Gille
 Ed Brown
 Dave Alexander
 Paul D. Clarke
+Terrence Hertz
+Tim Corso
+TomH
 [fellowship]
 1949
 1951journey
@@ -571,6 +574,7 @@ Amy M.
 Andi S.
 Andrea Haku
 Andreas B.
+Andrew
 Andrew A.
 Andrew C.
 Andrew Clark
@@ -654,6 +658,7 @@ Blaine Williams
 Blair Davis
 Bo Sundin
 Bob G.
+Bob Messenger
 Bob P.
 BortleZero
 Brad Ashbrook
@@ -852,6 +857,7 @@ David Evans
 David F Leech
 David F. L.
 David Faulk
+David Ferraro
 David Gange
 David Gladden
 David H.
@@ -899,6 +905,7 @@ DHP Radio
 Didier P.
 Didier V. H.
 Dietmar H.
+Digital Don
 Dirk J.
 DJ Warna (House Music Mixes)
 DJGeoff
@@ -1024,6 +1031,7 @@ Gaetano Villano
 Gailen Marshall
 Galactic Paparazzi
 Gallardytor
+Ganesh S.
 Gareth B.
 Gareth Stevens
 Gary
@@ -1053,6 +1061,7 @@ Gerald G.
 Gerard Gormley
 Gerard Leeuw
 gerard13mc
+Gerd Waloszek
 GermanAstroGeek
 Gibert Nicolas
 GibsCorner
@@ -1259,6 +1268,7 @@ Joe Edom
 Joe Holt
 Joe M.
 Joe Moschella
+Joe Setaro
 Joe T
 Joe V.
 Joel C.
@@ -1296,6 +1306,7 @@ John M.
 John McSorley
 John Minicky
 John Mozdziers
+John Noble
 John Osborne
 John Pavlic
 John R.
@@ -1777,6 +1788,7 @@ Peter S.
 Peter Sayers
 Peter the Pilot
 Peter van B.
+Peter Williams
 Peter Y.
 Petr K.
 Petros M.
@@ -1845,6 +1857,7 @@ Ray P.
 Ray Trimmer
 Raymond Bratton
 Raymond L.
+Raymond Rankins
 Rc Dab
 redarcus
 Reference Audio Plus
@@ -2025,6 +2038,7 @@ SR Channel DVM
 Stan S.
 Stan Z.
 StarHawke
+Starlingua
 StarSight Astrophotography
 Starting Out in Astrophotography
 Stefan D.
@@ -2162,12 +2176,12 @@ Tom K.
 Tom Me
 Tom Surgalski
 Tomato
-TomH
 Tommy Bow
 Tommy P.
 Ton Beckers
 Tony B.
 Tony C.
+Tony Cullimore
 Tony D.
 Tony H.
 Tony Hendrix
