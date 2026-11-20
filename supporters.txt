@@ -2,16 +2,16 @@
 # To change or remove your name: message Luke - done the same day.
 # '#' lines are comments. Sections: [recent] [legends] [fellowship].
 [recent]
-Bob Messenger
-Ganesh S.
-Tony Cullimore
-Gerd Waloszek
-John Noble
-Joe Setaro
-Andrew
-Tim Corso
-Raymond Rankins
-Digital Don
+Bob Edwards
+Tony Crossland
+George Anderson
+Thomas Lambui
+Florian Hermann
+Cecil Dorsett
+James Randolph
+Joseph Lundgren
+Martin Grögor
+Ian Smith
 [legends]
 Pete's Astrophotography
 Blake (ThisOne)
@@ -516,6 +516,10 @@ Paul D. Clarke
 Terrence Hertz
 Tim Corso
 TomH
+Richard Graylin
+Florian Hermann
+Loree R.
+Tony Crossland
 [fellowship]
 1949
 1951journey
@@ -657,6 +661,7 @@ Bjoern I.
 Blaine Williams
 Blair Davis
 Bo Sundin
+Bob Edwards
 Bob G.
 Bob Messenger
 Bob P.
@@ -712,6 +717,7 @@ Carsten Baltes
 Carter Mehl
 Casey West
 CB Johnson
+Cecil Dorsett
 CelestroMel
 CGL
 Chan Wheeler
@@ -1056,6 +1062,7 @@ Geoffrey L.
 Geoffrey V.
 Geoffrey W.
 Georg N. N.
+George Anderson
 George S.
 Gerald G.
 Gerard Gormley
@@ -1141,6 +1148,7 @@ I. E.
 Iain N.
 Ian C.
 Ian Connor
+Ian Crosfill
 Ian F.
 Ian Holloway
 Ian Ippolito
@@ -1148,6 +1156,7 @@ Ian L.
 Ian MacDonald
 Ian Minch
 Ian Noel Pace
+Ian Smith
 Ian W.
 Ian Z.
 IanMac
@@ -1189,6 +1198,7 @@ James Knudson
 James L.
 James O.
 James R. Wilkinson
+James Randolph
 James Rudick
 James T.
 James W.
@@ -1335,6 +1345,7 @@ Joseph Jung
 Joseph Kristl
 Joseph L.
 Joseph Linn
+Joseph Lundgren
 Joseph S.
 joseph strona
 Joseph T.
@@ -1462,7 +1473,6 @@ Lloyd E Stevens
 Lloyd M.
 LoneSampler
 Lord C.
-Loree R.
 Lorne C.
 Lorraine M.
 Lorraine Williams
@@ -1559,6 +1569,7 @@ Martin Engels
 Martin F.
 Martin Fife
 Martin Flower
+Martin Grögor
 Martin Hudec
 Martin Isau-Frank
 Martin K.
@@ -2139,6 +2150,7 @@ Thomas C.
 Thomas Davis
 Thomas Johnson
 Thomas K.
+Thomas Lambui
 Thomas Lin
 Thomas Mastrocinque
 Thomas Mizer
@@ -2205,12 +2217,14 @@ Troy S.
 Tudor A.
 Tyler Ivanco
 Tyler Leuenhagen
+Ufdring
 Ujjwal D.
 Uladzimir A.
 Ulf M.
 Uli Heczko
 Ulrich E.
 Ulrich Huber
+Ulrich Schilder
 Ulrich Z.
 Uwe Schulze
 VagueCraig
