@@ -2,16 +2,16 @@
 # To change or remove your name: message Luke - done the same day.
 # '#' lines are comments. Sections: [recent] [legends] [fellowship].
 [recent]
+Green Parrot Company
+Brian Gentile
+David White
+Roger Johnson
+Arvid Klavenes
+Mark Webster
 Rob Edwards
 Tony Crossland
 George Anderson
 Thomas Lambui
-Florian Hermann
-Cecil Dorsett
-James Randolph
-Joseph Lundgren
-Martin Grögor
-Ian Smith
 [legends]
 Pete's Astrophotography
 Blake (ThisOne)
@@ -520,6 +520,11 @@ Richard Graylin
 Florian Hermann
 Loree R.
 Tony Crossland
+Tony Woods
+David Blevins
+Arvid Klavenes
+David White
+Brian Gentile
 [fellowship]
 1949
 1951journey
@@ -850,7 +855,6 @@ David A. - TexasAstro
 David Almond
 David Aucoin
 David B.
-David Blevins
 David Botman
 David Brewer
 David Burrell
@@ -1096,6 +1100,7 @@ Graham P.
 Graham Rousell
 Graham Winstanley
 Grainge J.
+Green Parrot Company
 Greg Lisk
 Greg Rogan
 Gregor M.
@@ -1551,6 +1556,7 @@ Mark Prentice
 Mark S.
 Mark Sabino
 Mark T.
+Mark Webster
 Mark Y.
 Mark Youngson
 MarkAbs
@@ -1964,6 +1970,7 @@ Rodger M.
 Roger B.
 Roger Calladine
 Roger Coldiron
+Roger Johnson
 Roger Kiernan
 Roger Nösberger
 Roger T.
@@ -2201,7 +2208,6 @@ Tony Holdsworth
 Tony M.
 Tony Murphy
 Tony Wharton
-Tony Woods
 TonyMan
 TooManyHobbies
 Torsten H.
