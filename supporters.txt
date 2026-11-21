@@ -2,7 +2,7 @@
 # To change or remove your name: message Luke - done the same day.
 # '#' lines are comments. Sections: [recent] [legends] [fellowship].
 [recent]
-Bob Edwards
+Rob Edwards
 Tony Crossland
 George Anderson
 Thomas Lambui
@@ -661,7 +661,6 @@ Bjoern I.
 Blaine Williams
 Blair Davis
 Bo Sundin
-Bob Edwards
 Bob G.
 Bob Messenger
 Bob P.
@@ -1918,6 +1917,7 @@ RJFM4
 Rob "ROLEX" Doran
 Rob - Astro Star Viewing
 Rob D.
+Rob Edwards
 Rob Greaves
 Rob Kyle
 Rob S
