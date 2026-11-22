@@ -2,16 +2,16 @@
 # To change or remove your name: message Luke - done the same day.
 # '#' lines are comments. Sections: [recent] [legends] [fellowship].
 [recent]
-Green Parrot Company
-Brian Gentile
-David White
-Roger Johnson
-Arvid Klavenes
-Mark Webster
-Rob Edwards
-Tony Crossland
-George Anderson
-Thomas Lambui
+Ryan Guinea
+Andrew Alexander
+Mitchell Shifrin
+Danny Schäffner
+Ethan Billigmeier
+PCW Chambers
+Peter Black
+Joern Labitzke
+Gordon Dallas
+Vincenzo Territo
 [legends]
 Pete's Astrophotography
 Blake (ThisOne)
@@ -525,6 +525,9 @@ David Blevins
 Arvid Klavenes
 David White
 Brian Gentile
+Kevin Fordham
+Joern Labitzke
+Ethan Billigmeier
 [fellowship]
 1949
 1951journey
@@ -585,6 +588,7 @@ Andrea Haku
 Andreas B.
 Andrew
 Andrew A.
+Andrew Alexander
 Andrew C.
 Andrew Clark
 Andrew L.
@@ -797,6 +801,7 @@ Cordula G.
 Coristus
 Cornz38
 Craig A.
+Craig Engelhart
 Craig H.
 Craig Tanikawa
 CraigyBoy1960
@@ -837,6 +842,7 @@ Daniel Schoenicke
 Daniel Taormina (FamilyDrones)
 Daniele Brotzu
 Danny Frauenhofer (dan__fr)
+Danny Schäffner
 Darrel Charles
 Darrell A.
 Darrell Betts
@@ -965,6 +971,7 @@ Edgar C.
 Edgar Glasheen
 Edmund G.
 Edward Cruz
+Edward Magowan
 Edwin M.
 Edwin Micallef
 Elbee
@@ -1090,6 +1097,7 @@ Glenn Mitchell
 Glenn S.
 Gman520
 Gonzo T
+Gordon Dallas
 Gordon S.
 GordonLovesScience
 Graeme B.
@@ -1658,6 +1666,7 @@ MIRKO BONI
 Miroslaw A. M.
 Mitch LeBlanc
 Mitchell M.
+Mitchell Shifrin
 Mitchell Thompson
 Mohammed Althaqib
 Mohammed K.
@@ -1778,6 +1787,7 @@ Paulo B. G.
 Pavels Novikovs
 Pavol Horinka
 Paweł Ł.
+PCW Chambers
 Per Bohlin
 Perry n Becky
 Pete - "The Ein"
@@ -1786,6 +1796,7 @@ Pete C.
 Pete Marshall
 Peter A.
 Peter Arnold
+Peter Black
 Peter D.
 Peter Elonen
 Peter F.
@@ -1998,6 +2009,7 @@ RURIOSTE
 Russ McNulty
 Russell Cleroux
 Ryan Collins
+Ryan Guinea
 Ryan O.
 S. Green
 S. Ryrie
@@ -2247,6 +2259,7 @@ Ville Toivanen
 Vina G.
 Vincent B.
 Vincent Lecocq
+Vincenzo Territo
 Vittorio V.
 Vivien R.
 W K
@@ -2270,6 +2283,7 @@ Wayne Portanova
 Webew
 Wee Ho Sun
 Wendy B.
+Wihorseman
 Wil C.
 Will Collier
 Will J.
