@@ -2,16 +2,16 @@
 # To change or remove your name: message Luke - done the same day.
 # '#' lines are comments. Sections: [recent] [legends] [fellowship].
 [recent]
+Eric Koehler
+Stephen Shaw
+Ernesto Hernandez
+Padders
+Fabrice Betti
+Kevin Rice
+Chiradeep Chhaya
 Ryan Guinea
 Andrew Alexander
 Mitchell Shifrin
-Danny Schäffner
-Ethan Billigmeier
-PCW Chambers
-Peter Black
-Joern Labitzke
-Gordon Dallas
-Vincenzo Territo
 [legends]
 Pete's Astrophotography
 Blake (ThisOne)
@@ -528,6 +528,9 @@ Brian Gentile
 Kevin Fordham
 Joern Labitzke
 Ethan Billigmeier
+Kevin Rice
+Stephen Shaw
+Eric Koehler
 [fellowship]
 1949
 1951journey
@@ -749,6 +752,7 @@ Cheryl Wilcox Photography
 Chester W.
 chez_kolja
 ChippyPickets
+Chiradeep Chhaya
 Chorge1972
 Chris
 Chris - Astro La Vista
@@ -990,6 +994,7 @@ Eric Lew
 Eric Schuld
 Eric W.
 Erik V. H. Fotografie
+Ernesto Hernandez
 Ernst H.
 Ernst K.
 Erny Epley Photos
@@ -1004,6 +1009,7 @@ Fabien Dehopré
 Fabio Dolia
 Fabio Freirias
 Fabio Marcantonio
+Fabrice Betti
 Fernando P.
 Filip Jakubiak
 Flightlogic
@@ -1739,6 +1745,7 @@ Ozzoid
 P. Dixon
 P. Holl
 Pablo Uribasterra
+Padders
 Padre
 PaganoPhoto
 PAMAXTEAM
