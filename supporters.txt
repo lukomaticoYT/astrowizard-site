@@ -2,16 +2,16 @@
 # To change or remove your name: message Luke - done the same day.
 # '#' lines are comments. Sections: [recent] [legends] [fellowship].
 [recent]
+Callum Greer
+Leslie & Mike Chaks
+Jan Oomen
+Jeffrey Anderson
+Mary Lane
 Anthony Vrtis
 Jose Perez
 Sabine Hildegard Mauer
 Per Petersson
 Thomas Hendel
-Mark Zealor
-Eric Koehler
-Stephen Shaw
-Ernesto Hernandez
-Padders
 [legends]
 Pete's Astrophotography
 Blake (ThisOne)
@@ -532,6 +532,9 @@ Kevin Rice
 Stephen Shaw
 Eric Koehler
 Thomas Hendel
+Clive Gordon
+Leslie & Mike Chaks
+Callum Greer
 [fellowship]
 1949
 1951journey
@@ -794,7 +797,6 @@ Clayton Ostler
 Clifton Beasley
 Clint Mayes
 Clive C.
-Clive Gordon
 Clive I.
 Clive Norton
 cmjames294
@@ -1226,6 +1228,7 @@ James Webster
 James Y.
 James Yanko
 Jamie B.
+Jan Oomen
 Jan-Marco Petri
 Janne K.
 Janne Pyy
@@ -1255,6 +1258,7 @@ Jeff K.
 Jeff McGinniss
 Jeff P.
 Jeff T.
+Jeffrey Anderson
 Jeffrey G.
 Jeffrey Gossman
 Jeffrey Grinnell
@@ -1601,6 +1605,7 @@ Martin R.
 Martyn
 Martyn T
 Mary Garcia
+Mary Lane
 Massive Explosion
 Matej L.
 Mateusz Altman
