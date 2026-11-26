@@ -2,16 +2,16 @@
 # To change or remove your name: message Luke - done the same day.
 # '#' lines are comments. Sections: [recent] [legends] [fellowship].
 [recent]
+Francois Duguay
+Ernst-Jürgen Stracke
+Bill Thiessen
+Alan Luger
+Patrick Verheij
+KnightSky
 Callum Greer
 Leslie & Mike Chaks
 Jan Oomen
 Jeffrey Anderson
-Mary Lane
-Anthony Vrtis
-Jose Perez
-Sabine Hildegard Mauer
-Per Petersson
-Thomas Hendel
 [legends]
 Pete's Astrophotography
 Blake (ThisOne)
@@ -535,6 +535,7 @@ Thomas Hendel
 Clive Gordon
 Leslie & Mike Chaks
 Callum Greer
+KnightSky
 [fellowship]
 1949
 1951journey
@@ -573,6 +574,7 @@ Alan Fitzsimmons
 Alan H
 alan henfling
 Alan L.
+Alan Luger
 Alan Moore
 Alan Sheiness
 Alan T.
@@ -674,6 +676,7 @@ Bevon S.
 Bil Kelly
 Bill Childs
 Bill M.
+Bill Thiessen
 Bjoern I.
 Blaine Williams
 Blair Davis
@@ -1001,6 +1004,7 @@ Erik V. H. Fotografie
 Ernesto Hernandez
 Ernst H.
 Ernst K.
+Ernst-Jürgen Stracke
 Erny Epley Photos
 Erwin Polreich
 Erwin247
@@ -1025,6 +1029,7 @@ Francis R.
 Francis R. Pellegrino (AGRsensors)
 Francisco G.
 Francisco Rodríguez Neila
+Francois Duguay
 Francois Hattingh
 Frank
 Frank "Astronut" G.
@@ -1768,6 +1773,7 @@ Pascal Segouffin
 Patrick E.
 Patrick Matheson
 Patrick N.
+Patrick Verheij
 Patrick Wiechmann
 Patrizio C.
 Paul Atkins
