@@ -1,16 +1,16 @@
 {
-  "build_date": "2026-11-18",
-  "version": "1.0.1",
+  "build_date": "2026-11-28",
+  "version": "1.1.0",
   "channel": "beta",
-  "windows": "https://github.com/lukomaticoYT/astrowizard-releases/releases/download/stackingwizard-beta-2026-11-18/StackingWizard.exe",
+  "windows": "https://github.com/lukomaticoYT/astrowizard-releases/releases/download/stackingwizard-beta-2026-11-28/StackingWizard.exe",
   "page": "https://astrowizard.lukomatico.com/stackingwizard.html",
-  "mac": "https://github.com/lukomaticoYT/astrowizard-releases/releases/download/stackingwizard-beta-2026-11-18/StackingWizard-mac.zip",
-  "mac_intel": "https://github.com/lukomaticoYT/astrowizard-releases/releases/download/stackingwizard-beta-2026-11-18/StackingWizard-mac-Intel.zip",
-  "linux": "https://github.com/lukomaticoYT/astrowizard-releases/releases/download/stackingwizard-beta-2026-11-18/StackingWizard-Linux-x86_64.tar.gz",
+  "mac": "https://github.com/lukomaticoYT/astrowizard-releases/releases/download/stackingwizard-beta-2026-11-28/StackingWizard-mac.zip",
+  "mac_intel": "https://github.com/lukomaticoYT/astrowizard-releases/releases/download/stackingwizard-beta-2026-11-28/StackingWizard-mac-Intel.zip",
+  "linux": "https://github.com/lukomaticoYT/astrowizard-releases/releases/download/stackingwizard-beta-2026-11-28/StackingWizard-Linux-x86_64.tar.gz",
   "sha256": {
-    "windows": "81e22cb6ad074e7ada6574c480853515f4bb65d013e757a0c7970c5d02eaaf87",
-    "mac": "9b0499809a7794a0d1ce466bd6e428906a7ac671d55c07977785a2211426dad9",
-    "mac_intel": "355225cd79a86de0a6e407483a0ea96ee97bedac2ec3672e2e4e7e65cdb20f33",
-    "linux": "491beb274f18f1b44c04fb40c07904571007e32e4b46e7271ee9aab61ca93f67"
+    "windows": "4dd3d7a371d5d4e625617cbfc441ec774cd4b5144b47cf50ea23ce13f1b1abdb",
+    "mac": "9c2ca23e3c6e83ac665e6512c951ea0563ccb56c004dabd4c72045fa9c52f300",
+    "mac_intel": "76793b8f21b0ea39a64992cbdbaa616889ed0b99135d15b7a96856eb5b5e67c6",
+    "linux": "fb6f3bfa18b6f8203e636b3b3e6715c813a83daed3173a4062d6082878263d15"
   }
 }
