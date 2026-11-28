@@ -2,16 +2,16 @@
 # To change or remove your name: message Luke - done the same day.
 # '#' lines are comments. Sections: [recent] [legends] [fellowship].
 [recent]
+Stephen Bussell
+Marianna Phelps
+Christopher Kirk
+Robert Kincaid
+Jason @ The Bonsai Garden
+Louise Kaestner
+Paul Brian Harrison
+F_rankie
+SUPRAx321
 Tony Smith
-Marcio Pereira
-Djillali Lacheheb
-Kenneth Vaughn
-AndyM
-Francois Duguay
-Ernst-Jürgen Stracke
-Bill Thiessen
-Alan Luger
-Patrick Verheij
 [legends]
 Pete's Astrophotography
 Blake (ThisOne)
@@ -538,6 +538,9 @@ Callum Greer
 KnightSky
 Djillali Lacheheb
 Marcio Pereira
+SUPRAx321
+Jason @ The Bonsai Garden
+Christopher Kirk
 [fellowship]
 1949
 1951journey
@@ -1016,6 +1019,7 @@ Eugene McGovern
 Eugenio G.
 F W Milsom
 F. Linde
+F_rankie
 Fabien Dehopré
 Fabio Dolia
 Fabio Freirias
@@ -1513,6 +1517,7 @@ Lorraine Williams
 Lou Vassallo
 Louis Marchesi
 Louis R.
+Louise Kaestner
 Loukas M.
 Luca S.
 Ludovico F.
@@ -1558,6 +1563,7 @@ Marco R.
 Marcos J. Pinto - Lux Antiqua
 Maren L.
 Margaret Loose
+Marianna Phelps
 Marinus H.
 Mario M.
 Mario V.
@@ -1784,6 +1790,7 @@ Paul Atkins
 Paul B.
 Paul Batstone
 Paul Blackney
+Paul Brian Harrison
 Paul Byrne
 Paul C.
 Paul Cannell
@@ -1979,6 +1986,7 @@ Robert Hinkle
 Robert Hootkins
 Robert Hunt
 Robert Kelsoe
+Robert Kincaid
 Robert Koch
 Robert L.
 Robert Liebmann
@@ -2112,6 +2120,7 @@ Stephen B.
 Stephen Black
 Stephen Bogue
 Stephen Brereton
+Stephen Bussell
 Stephen C.
 Stephen Channel
 Stephen Coveney
